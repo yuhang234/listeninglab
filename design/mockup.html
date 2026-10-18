@@ -1,0 +1,4021 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ListeningLab - CET-6 六级英语听力精听训练</title>
+  <style>
+    /* ==========================================================================
+       DESIGN TOKENS & CSS VARIABLES (WCAG AA Compliant)
+       ========================================================================== */
+    :root {
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+
+      /* Light Theme Colors */
+      --bg-app: #F8FAFC;
+      --bg-surface: #FFFFFF;
+      --bg-surface-elevated: #F1F5F9;
+      --bg-surface-hover: #E2E8F0;
+      --border-color: #E2E8F0;
+      --border-subtle: #CBD5E1;
+
+      --text-primary: #0F172A;
+      --text-secondary: #475569;
+      --text-muted: #64748B;
+      --text-inverse: #FFFFFF;
+
+      --primary: #4F46E5;
+      --primary-hover: #4338CA;
+      --primary-light: #EEF2FF;
+      --primary-border: #C7D2FE;
+
+      --success: #059669;
+      --success-bg: #ECFDF5;
+      --success-border: #A7F3D0;
+
+      --danger: #DC2626;
+      --danger-bg: #FEF2F2;
+      --danger-border: #FECACA;
+
+      --warning: #D97706;
+      --warning-bg: #FFFBEB;
+      --warning-border: #FDE68A;
+
+      --extra: #475569;
+      --extra-bg: #F1F5F9;
+
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -1px rgba(0, 0, 0, 0.04);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+      --radius-sm: 4px;
+      --radius-md: 8px;
+      --radius-lg: 12px;
+      --radius-xl: 16px;
+      --radius-full: 9999px;
+
+      --transition-fast: 150ms ease;
+      --transition-normal: 250ms ease;
+    }
+
+    [data-theme="dark"] {
+      --bg-app: #0B0F19;
+      --bg-surface: #131B2E;
+      --bg-surface-elevated: #1E293B;
+      --bg-surface-hover: #293548;
+      --border-color: #26334D;
+      --border-subtle: #334155;
+
+      --text-primary: #F8FAFC;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
+      --text-inverse: #0F172A;
+
+      --primary: #6366F1;
+      --primary-hover: #818CF8;
+      --primary-light: rgba(99, 102, 241, 0.18);
+      --primary-border: #4338CA;
+
+      --success: #10B981;
+      --success-bg: rgba(16, 185, 129, 0.15);
+      --success-border: #065F46;
+
+      --danger: #EF4444;
+      --danger-bg: rgba(239, 68, 68, 0.15);
+      --danger-border: #991B1B;
+
+      --warning: #F59E0B;
+      --warning-bg: rgba(245, 158, 11, 0.15);
+      --warning-border: #92400E;
+
+      --extra: #94A3B8;
+      --extra-bg: #1E293B;
+
+      --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+      --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+      --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.6);
+    }
+
+    /* ==========================================================================
+       RESET & BASE STYLES
+       ========================================================================== */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg-app);
+      color: var(--text-primary);
+      line-height: 1.5;
+      font-size: 14px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    button, input, select, textarea {
+      font-family: inherit;
+      font-size: inherit;
+      color: inherit;
+    }
+
+    button {
+      cursor: pointer;
+      border: none;
+      background: none;
+      transition: all var(--transition-fast);
+    }
+
+    /* ==========================================================================
+       LAYOUT & SHELL
+       ========================================================================== */
+    .app-header {
+      height: 64px;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .brand-section {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .brand-logo {
+      width: 36px;
+      height: 36px;
+      background: linear-gradient(135deg, var(--primary), #8B5CF6);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #FFFFFF;
+    }
+
+    .brand-title {
+      font-size: 18px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      color: var(--text-primary);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .brand-badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 2px 6px;
+      background: var(--primary-light);
+      color: var(--primary);
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--primary-border);
+    }
+
+    .nav-tabs {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background-color: var(--bg-surface-elevated);
+      padding: 4px;
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border-color);
+    }
+
+    .nav-tab-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 14px;
+      border-radius: var(--radius-md);
+      font-weight: 500;
+      font-size: 13px;
+      color: var(--text-secondary);
+      text-decoration: none;
+    }
+
+    .nav-tab-btn:hover {
+      color: var(--text-primary);
+      background-color: var(--bg-surface-hover);
+    }
+
+    .nav-tab-btn.active {
+      color: #FFFFFF;
+      background-color: var(--primary);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .nav-tab-badge {
+      font-size: 11px;
+      padding: 1px 6px;
+      border-radius: var(--radius-full);
+      background: rgba(255, 255, 255, 0.25);
+      color: #FFFFFF;
+      font-weight: 600;
+    }
+
+    .nav-tab-btn:not(.active) .nav-tab-badge {
+      background: var(--border-color);
+      color: var(--text-secondary);
+    }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .current-set-pill {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-full);
+      font-size: 12px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .current-set-pill .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background-color: var(--success);
+      box-shadow: 0 0 0 2px var(--success-bg);
+    }
+
+    .icon-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-secondary);
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface);
+    }
+
+    .icon-btn:hover {
+      color: var(--text-primary);
+      background: var(--bg-surface-elevated);
+      border-color: var(--border-subtle);
+    }
+
+    /* Main Container */
+    .app-main {
+      flex: 1;
+      width: 100%;
+      max-width: 1360px;
+      margin: 0 auto;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .view-container {
+      display: none;
+      flex: 1;
+      flex-direction: column;
+      animation: fadeIn 200ms ease;
+    }
+
+    .view-container.active {
+      display: flex;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ==========================================================================
+       COMMON UI COMPONENTS
+       ========================================================================== */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 8px 16px;
+      border-radius: var(--radius-md);
+      font-size: 13px;
+      font-weight: 500;
+      transition: all var(--transition-fast);
+      white-space: nowrap;
+    }
+
+    .btn-primary {
+      background-color: var(--primary);
+      color: #FFFFFF;
+    }
+    .btn-primary:hover {
+      background-color: var(--primary-hover);
+      box-shadow: var(--shadow-sm);
+    }
+
+    .btn-outline {
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+    }
+    .btn-outline:hover {
+      background-color: var(--bg-surface-elevated);
+      border-color: var(--border-subtle);
+    }
+
+    .btn-subtle {
+      background-color: var(--bg-surface-elevated);
+      color: var(--text-secondary);
+    }
+    .btn-subtle:hover {
+      background-color: var(--bg-surface-hover);
+      color: var(--text-primary);
+    }
+
+    .btn-danger {
+      background-color: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid var(--danger-border);
+    }
+    .btn-danger:hover {
+      background-color: var(--danger);
+      color: #FFFFFF;
+    }
+
+    .btn-sm {
+      padding: 5px 10px;
+      font-size: 12px;
+      border-radius: var(--radius-sm);
+    }
+
+    .btn-lg {
+      padding: 10px 20px;
+      font-size: 15px;
+      border-radius: var(--radius-md);
+    }
+
+    .card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 8px;
+      border-radius: var(--radius-sm);
+      font-size: 11px;
+      font-weight: 600;
+    }
+
+    .badge-primary { background: var(--primary-light); color: var(--primary); border: 1px solid var(--primary-border); }
+    .badge-success { background: var(--success-bg); color: var(--success); border: 1px solid var(--success-border); }
+    .badge-warning { background: var(--warning-bg); color: var(--warning); border: 1px solid var(--warning-border); }
+    .badge-danger { background: var(--danger-bg); color: var(--danger); border: 1px solid var(--danger-border); }
+    .badge-neutral { background: var(--bg-surface-elevated); color: var(--text-secondary); border: 1px solid var(--border-color); }
+
+    .kbd {
+      display: inline-block;
+      padding: 2px 5px;
+      font-size: 11px;
+      font-family: var(--font-mono);
+      background-color: var(--bg-surface-elevated);
+      color: var(--text-muted);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    }
+
+    /* ==========================================================================
+       VIEW 1: MATERIAL LIBRARY (材料库)
+       ========================================================================== */
+    .library-toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      position: relative;
+      width: 320px;
+    }
+
+    .search-box input {
+      width: 100%;
+      height: 38px;
+      padding: 0 12px 0 36px;
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      color: var(--text-primary);
+      outline: none;
+      transition: border-color var(--transition-fast);
+    }
+
+    .search-box input:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-light);
+    }
+
+    .search-box svg {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .filter-pill {
+      padding: 6px 14px;
+      border-radius: var(--radius-full);
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+    }
+
+    .filter-pill:hover {
+      background-color: var(--bg-surface-elevated);
+      color: var(--text-primary);
+    }
+
+    .filter-pill.active {
+      background-color: var(--primary);
+      color: #FFFFFF;
+      border-color: var(--primary);
+    }
+
+    .set-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: 20px;
+    }
+
+    .set-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      transition: transform var(--transition-fast), box-shadow var(--transition-fast), border-color var(--transition-fast);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .set-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+      border-color: var(--primary-border);
+    }
+
+    .set-card.is-active-card {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 2px var(--primary-light);
+    }
+
+    .set-card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .set-card-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.4;
+    }
+
+    .set-meta-tags {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 6px;
+    }
+
+    .progress-bar-bg {
+      width: 100%;
+      height: 6px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-full);
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--primary), #8B5CF6);
+      border-radius: var(--radius-full);
+      transition: width 300ms ease;
+    }
+
+    .set-stats-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .set-card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 12px;
+      border-top: 1px solid var(--border-color);
+    }
+
+    /* ==========================================================================
+       VIEW 2: INTENSIVE PRACTICE (精听练习主界面)
+       ========================================================================== */
+    .practice-layout {
+      display: grid;
+      grid-template-columns: 320px 1fr;
+      gap: 20px;
+      min-height: calc(100vh - 120px);
+    }
+
+    /* Sidebar Sentences List */
+    .sentence-sidebar {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      height: calc(100vh - 120px);
+      position: sticky;
+      top: 84px;
+    }
+
+    .sidebar-header {
+      padding: 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: var(--bg-surface-elevated);
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sentence-scroll-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .sentence-nav-item {
+      padding: 10px 12px;
+      border-radius: var(--radius-md);
+      border: 1px solid transparent;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      cursor: pointer;
+      background-color: var(--bg-surface);
+      transition: all var(--transition-fast);
+    }
+
+    .sentence-nav-item:hover {
+      background-color: var(--bg-surface-elevated);
+      border-color: var(--border-color);
+    }
+
+    .sentence-nav-item.active {
+      background-color: var(--primary-light);
+      border-color: var(--primary-border);
+    }
+
+    .sentence-nav-item.active .item-num {
+      color: var(--primary);
+      font-weight: 700;
+    }
+
+    .item-top-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+    }
+
+    .item-num {
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    .item-time {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .item-text-preview {
+      font-size: 12px;
+      color: var(--text-secondary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .sentence-nav-item.active .item-text-preview {
+      color: var(--text-primary);
+      font-weight: 500;
+    }
+
+    /* Main Intensive Player Canvas */
+    .practice-workspace {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .workspace-top-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 12px 20px;
+    }
+
+    .passage-info {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .passage-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    /* Big Sentence Focus Card */
+    .focus-sentence-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: 36px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      box-shadow: var(--shadow-md);
+      position: relative;
+    }
+
+    .sentence-header-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .sentence-index-pill {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-weight: 500;
+    }
+
+    .sentence-view-toggles {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    /* Sentence English Display */
+    .sentence-english-text {
+      font-size: 26px;
+      line-height: 1.5;
+      font-weight: 600;
+      color: var(--text-primary);
+      letter-spacing: -0.3px;
+      min-height: 80px;
+      transition: filter 200ms ease, opacity 200ms ease;
+    }
+
+    .sentence-english-text.mode-blur {
+      filter: blur(8px);
+      user-select: none;
+    }
+
+    .sentence-english-text.mode-hidden {
+      filter: blur(16px);
+      opacity: 0.15;
+      user-select: none;
+    }
+
+    .sentence-mask-notice {
+      display: none;
+      padding: 10px 16px;
+      background: var(--warning-bg);
+      border: 1px solid var(--warning-border);
+      border-radius: var(--radius-md);
+      color: var(--warning);
+      font-size: 13px;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .sentence-mask-notice.visible {
+      display: flex;
+    }
+
+    /* Translation & Vocabulary Folders */
+    .translation-box {
+      padding: 16px 20px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-lg);
+      border-left: 4px solid var(--primary);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .translation-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    .translation-content {
+      font-size: 15px;
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    .vocab-chips {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 4px;
+    }
+
+    .vocab-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 3px 10px;
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      font-size: 12px;
+    }
+
+    .vocab-chip b {
+      color: var(--primary);
+    }
+
+    /* Audio Waveform Simulator */
+    .waveform-visualizer {
+      height: 48px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      padding: 0 16px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .wave-bar {
+      flex: 1;
+      height: 12px;
+      background-color: var(--border-subtle);
+      border-radius: 2px;
+      transition: height 100ms ease, background-color 150ms ease;
+    }
+
+    .waveform-visualizer.playing .wave-bar {
+      background-color: var(--primary);
+      animation: wavePulse 800ms ease-in-out infinite alternate;
+    }
+
+    @keyframes wavePulse {
+      0% { height: 8px; }
+      50% { height: 38px; }
+      100% { height: 16px; }
+    }
+
+    /* Dynamic heights for wave bars */
+    .wave-bar:nth-child(2n) { animation-delay: 120ms; }
+    .wave-bar:nth-child(3n) { animation-delay: 240ms; }
+    .wave-bar:nth-child(4n) { animation-delay: 360ms; }
+    .wave-bar:nth-child(5n) { animation-delay: 480ms; }
+
+    /* Audio Controller Dock */
+    .audio-controller-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: 20px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      box-shadow: var(--shadow-md);
+    }
+
+    .timeline-container {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .time-readout {
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--text-muted);
+      min-width: 50px;
+    }
+
+    .timeline-track {
+      flex: 1;
+      height: 8px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-full);
+      position: relative;
+      cursor: pointer;
+    }
+
+    .timeline-progress {
+      position: absolute;
+      left: 0;
+      top: 0;
+      height: 100%;
+      background: var(--primary);
+      border-radius: var(--radius-full);
+      width: 0%;
+      transition: width 100ms linear;
+    }
+
+    .timeline-ab-marker {
+      position: absolute;
+      top: -3px;
+      width: 4px;
+      height: 14px;
+      background-color: var(--warning);
+      border-radius: 2px;
+      z-index: 2;
+    }
+
+    .controls-main-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+
+    .left-controls, .center-controls, .right-controls {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .play-btn-circle {
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: var(--primary);
+      color: #FFFFFF;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(79, 70, 229, 0.35);
+      transition: all var(--transition-fast);
+    }
+
+    .play-btn-circle:hover {
+      background: var(--primary-hover);
+      transform: scale(1.05);
+    }
+
+    .controller-btn {
+      width: 38px;
+      height: 38px;
+      border-radius: var(--radius-md);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--text-secondary);
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+    }
+
+    .controller-btn:hover {
+      color: var(--text-primary);
+      background-color: var(--bg-surface-hover);
+    }
+
+    .controller-btn.active {
+      color: var(--primary);
+      background-color: var(--primary-light);
+      border-color: var(--primary-border);
+    }
+
+    .select-dropdown {
+      height: 36px;
+      padding: 0 10px;
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 500;
+      outline: none;
+    }
+
+    /* ==========================================================================
+       VIEW 3: DICTATION & WORD DIFF (听写纠错)
+       ========================================================================== */
+    .dictation-container {
+      max-width: 960px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .dictation-banner {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .dictation-input-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: var(--shadow-md);
+    }
+
+    .dictation-textarea {
+      width: 100%;
+      min-height: 120px;
+      padding: 16px;
+      background-color: var(--bg-surface-elevated);
+      border: 1.5px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      font-size: 18px;
+      line-height: 1.6;
+      color: var(--text-primary);
+      outline: none;
+      resize: vertical;
+      font-family: var(--font-sans);
+      transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+    }
+
+    .dictation-textarea:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px var(--primary-light);
+      background-color: var(--bg-surface);
+    }
+
+    .dictation-tools-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .word-count-badge {
+      font-size: 13px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* DIFF RESULT PANEL */
+    .diff-result-panel {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: var(--shadow-lg);
+      animation: fadeIn 250ms ease;
+    }
+
+    .diff-header-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 16px;
+    }
+
+    .accuracy-score-box {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+
+    .accuracy-big-num {
+      font-size: 36px;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1;
+    }
+
+    .diff-tokens-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 20px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-lg);
+      min-height: 80px;
+      align-items: center;
+      font-size: 18px;
+      line-height: 1.8;
+    }
+
+    /* Token Diff Chips */
+    .diff-token {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: var(--radius-md);
+      font-size: 16px;
+      font-weight: 500;
+    }
+
+    .diff-token.correct {
+      background-color: var(--success-bg);
+      color: var(--success);
+      border: 1px solid var(--success-border);
+    }
+
+    .diff-token.wrong {
+      background-color: var(--danger-bg);
+      color: var(--danger);
+      border: 1px solid var(--danger-border);
+      text-decoration: line-through;
+    }
+
+    .diff-token.expected-correction {
+      background-color: var(--primary-light);
+      color: var(--primary);
+      border: 1px dashed var(--primary-border);
+      font-weight: 600;
+    }
+
+    .diff-token.missing {
+      background-color: var(--warning-bg);
+      color: var(--warning);
+      border: 1.5px dashed var(--warning-border);
+    }
+
+    .diff-token.extra {
+      background-color: var(--extra-bg);
+      color: var(--extra);
+      border: 1px solid var(--border-color);
+      text-decoration: line-through;
+    }
+
+    .diff-legend {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 12px;
+      color: var(--text-muted);
+      flex-wrap: wrap;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .legend-color-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    .reference-text-card {
+      padding: 16px 20px;
+      background-color: var(--bg-surface-elevated);
+      border-radius: var(--radius-md);
+      border-left: 4px solid var(--success);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    /* ==========================================================================
+       VIEW 4: DIFFICULT SENTENCES REVIEW (难句复习)
+       ========================================================================== */
+    .review-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .review-stats-banner {
+      background: linear-gradient(135deg, rgba(79, 70, 229, 0.1), rgba(139, 92, 246, 0.1));
+      border: 1px solid var(--primary-border);
+      border-radius: var(--radius-xl);
+      padding: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .review-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .review-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      transition: all var(--transition-fast);
+    }
+
+    .review-card:hover {
+      box-shadow: var(--shadow-sm);
+      border-color: var(--border-subtle);
+    }
+
+    .review-card.mastered {
+      opacity: 0.65;
+      background-color: var(--bg-surface-elevated);
+    }
+
+    .review-card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .review-sentence-en {
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.5;
+    }
+
+    .review-sentence-cn {
+      font-size: 14px;
+      color: var(--text-secondary);
+      line-height: 1.5;
+    }
+
+    .review-card-actions {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 12px;
+      border-top: 1px solid var(--border-color);
+    }
+
+    /* ==========================================================================
+       VIEW 5: LEARNING PROGRESS / STATS (学习进度)
+       ========================================================================== */
+    .stats-container {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+    }
+
+    .kpi-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      position: relative;
+    }
+
+    .kpi-label {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .kpi-value {
+      font-size: 28px;
+      font-weight: 700;
+      color: var(--text-primary);
+      letter-spacing: -0.5px;
+    }
+
+    .kpi-trend {
+      font-size: 12px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .trend-up { color: var(--success); }
+    .trend-neutral { color: var(--text-muted); }
+
+    .chart-grid {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 20px;
+    }
+
+    .chart-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .chart-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .svg-chart-wrapper {
+      width: 100%;
+      height: 240px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .section-weakness-list {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      justify-content: center;
+      height: 100%;
+    }
+
+    .weakness-item {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .weakness-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 13px;
+    }
+
+    .table-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 13px;
+    }
+
+    .data-table th {
+      background-color: var(--bg-surface-elevated);
+      padding: 12px 16px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .data-table td {
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border-color);
+      color: var(--text-primary);
+    }
+
+    .data-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .data-table tr:hover td {
+      background-color: var(--bg-surface-elevated);
+    }
+
+    /* ==========================================================================
+       VIEW 6: SETTINGS (系统设置)
+       ========================================================================== */
+    .settings-container {
+      max-width: 880px;
+      margin: 0 auto;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .settings-section-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .settings-section-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text-primary);
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .setting-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .setting-info {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .setting-label {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text-primary);
+    }
+
+    .setting-desc {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .toggle-switch {
+      position: relative;
+      display: inline-block;
+      width: 44px;
+      height: 24px;
+    }
+
+    .toggle-switch input {
+      opacity: 0;
+      width: 0;
+      height: 0;
+    }
+
+    .toggle-slider {
+      position: absolute;
+      cursor: pointer;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: var(--bg-surface-elevated);
+      border: 1px solid var(--border-color);
+      transition: var(--transition-fast);
+      border-radius: var(--radius-full);
+    }
+
+    .toggle-slider:before {
+      position: absolute;
+      content: "";
+      height: 18px;
+      width: 18px;
+      left: 2px;
+      bottom: 2px;
+      background-color: #FFFFFF;
+      transition: var(--transition-fast);
+      border-radius: 50%;
+      box-shadow: var(--shadow-sm);
+    }
+
+    input:checked + .toggle-slider {
+      background-color: var(--primary);
+      border-color: var(--primary);
+    }
+
+    input:checked + .toggle-slider:before {
+      transform: translateX(20px);
+    }
+
+    /* ==========================================================================
+       MODAL & TOAST
+       ========================================================================== */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background-color: rgba(15, 23, 42, 0.6);
+      backdrop-filter: blur(4px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 100;
+    }
+
+    .modal-overlay.open {
+      display: flex;
+    }
+
+    .modal-card {
+      background-color: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-xl);
+      width: 100%;
+      max-width: 540px;
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      box-shadow: var(--shadow-lg);
+      animation: modalSlide 200ms ease;
+    }
+
+    @keyframes modalSlide {
+      from { transform: scale(0.96); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+
+    .modal-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .modal-title {
+      font-size: 17px;
+      font-weight: 600;
+    }
+
+    .dropzone {
+      border: 2px dashed var(--border-subtle);
+      border-radius: var(--radius-lg);
+      padding: 32px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      background-color: var(--bg-surface-elevated);
+      cursor: pointer;
+      transition: border-color var(--transition-fast);
+    }
+
+    .dropzone:hover {
+      border-color: var(--primary);
+    }
+
+    /* Toast Notification */
+    .toast-container {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 120;
+      pointer-events: none;
+    }
+
+    .toast-item {
+      padding: 12px 18px;
+      background-color: var(--text-primary);
+      color: var(--bg-surface);
+      border-radius: var(--radius-md);
+      box-shadow: var(--shadow-lg);
+      font-size: 13px;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      animation: toastIn 200ms ease forwards;
+    }
+
+    @keyframes toastIn {
+      from { transform: translateY(12px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+
+    /* Responsive Tweaks */
+    @media (max-width: 1100px) {
+      .practice-layout {
+        grid-template-columns: 260px 1fr;
+      }
+      .kpi-grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      .chart-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ==========================================================================
+       APP HEADER
+       ========================================================================== -->
+  <header class="app-header">
+    <div class="brand-section">
+      <div class="brand-logo" title="ListeningLab">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 2v20M17 5v14M7 8v8M2 11v2M22 11v2"/>
+        </svg>
+      </div>
+      <div class="brand-title">
+        ListeningLab
+        <span class="brand-badge">CET-6 六级精听</span>
+      </div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <nav class="nav-tabs" id="navTabs">
+      <button class="nav-tab-btn active" data-view="library">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+          <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+        </svg>
+        材料库
+        <span class="nav-tab-badge" id="libraryCountBadge">10</span>
+      </button>
+
+      <button class="nav-tab-btn" data-view="practice">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/>
+          <path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>
+          <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+        </svg>
+        精听练习
+      </button>
+
+      <button class="nav-tab-btn" data-view="dictation">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 20h9"/>
+          <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+        </svg>
+        听写纠错
+      </button>
+
+      <button class="nav-tab-btn" data-view="review">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+        </svg>
+        难句复习
+        <span class="nav-tab-badge" id="reviewCountBadge">4</span>
+      </button>
+
+      <button class="nav-tab-btn" data-view="stats">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="20" x2="18" y2="10"/>
+          <line x1="12" y1="20" x2="12" y2="4"/>
+          <line x1="6" y1="20" x2="6" y2="14"/>
+        </svg>
+        学习进度
+      </button>
+
+      <button class="nav-tab-btn" data-view="settings">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="3"/>
+          <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+        </svg>
+        设置
+      </button>
+    </nav>
+
+    <!-- Header Actions (Theme, Help, Active Set) -->
+    <div class="header-actions">
+      <div class="current-set-pill" id="currentSetPill" title="当前加载的六级套题">
+        <span class="status-dot"></span>
+        <span id="currentSetPillText">2024年6月 (第1套)</span>
+      </div>
+
+      <button class="icon-btn" id="themeToggleBtn" title="切换深色/浅色模式">
+        <svg id="themeIconSun" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="5"/>
+          <line x1="12" y1="1" x2="12" y2="3"/>
+          <line x1="12" y1="21" x2="12" y2="23"/>
+          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+          <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+          <line x1="1" y1="12" x2="3" y2="12"/>
+          <line x1="21" y1="12" x2="23" y2="12"/>
+          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+          <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+        </svg>
+        <svg id="themeIconMoon" style="display:none;" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+      </button>
+
+      <button class="icon-btn" id="shortcutHelpBtn" title="查看键盘快捷键 (?)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/>
+          <line x1="12" y1="17" x2="12.01" y2="17"/>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ==========================================================================
+       MAIN WORKSPACE CONTAINER
+       ========================================================================== -->
+  <main class="app-main">
+
+    <!-- ========================================================================
+         VIEW 1: 材料库 (LIBRARY)
+         ======================================================================== -->
+    <section class="view-container active" id="view-library">
+      <div class="library-toolbar">
+        <div class="filter-group">
+          <button class="filter-pill active" data-filter="all">全部套题</button>
+          <button class="filter-pill" data-filter="in_progress">学习中</button>
+          <button class="filter-pill" data-filter="completed">已完成</button>
+          <button class="filter-pill" data-filter="unstarted">未开始</button>
+          <button class="filter-pill" data-filter="2024">2024真题</button>
+          <button class="filter-pill" data-filter="2023">2023真题</button>
+        </div>
+
+        <div style="display:flex; align-items:center; gap:12px;">
+          <div class="search-box">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input type="text" id="librarySearchInput" aria-label="搜索六级真题" placeholder="搜索六级真题套数、年份、主题词...">
+          </div>
+
+          <button class="btn btn-outline" id="openImportModalBtn">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+              <polyline points="17 8 12 3 7 8"/>
+              <line x1="12" y1="3" x2="12" y2="15"/>
+            </svg>
+            导入本地音频/字幕
+          </button>
+        </div>
+      </div>
+
+      <!-- Exam Sets Grid -->
+      <div class="set-grid" id="setGridContainer">
+        <!-- Rendered by JS -->
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 2: 精听练习主界面 (INTENSIVE PRACTICE)
+         ======================================================================== -->
+    <section class="view-container" id="view-practice">
+      <div class="practice-layout">
+        
+        <!-- Left Sidebar: Sentence Navigation Stream -->
+        <aside class="sentence-sidebar">
+          <div class="sidebar-header">
+            <div class="sidebar-title">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="8" y1="6" x2="21" y2="6"/>
+                <line x1="8" y1="12" x2="21" y2="12"/>
+                <line x1="8" y1="18" x2="21" y2="18"/>
+                <line x1="3" y1="6" x2="3.01" y2="6"/>
+                <line x1="3" y1="12" x2="3.01" y2="12"/>
+                <line x1="3" y1="18" x2="3.01" y2="18"/>
+              </svg>
+              句子导航
+              <span class="badge badge-neutral" id="sentenceProgressRatio">4 / 28</span>
+            </div>
+            <button class="btn btn-subtle btn-sm" id="sidebarFilterBtn" title="过滤未听句子">仅看未学</button>
+          </div>
+
+          <div class="sentence-scroll-list" id="sentenceListEl">
+            <!-- Rendered by JS -->
+          </div>
+        </aside>
+
+        <!-- Right Workspace: Intensive Audio Focus Workspace -->
+        <div class="practice-workspace">
+          
+          <!-- Top bar with current passage title and fast actions -->
+          <div class="workspace-top-bar">
+            <div class="passage-info">
+              <span class="badge badge-primary" id="practiceSectionBadge">Section A · 长对话 1</span>
+              <span class="passage-title" id="practiceSetTitle">2024年6月 六级听力真题 (第1套)</span>
+            </div>
+
+            <div style="display:flex; align-items:center; gap:8px;">
+              <button class="btn btn-subtle btn-sm" id="jumpToDictationBtn">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M12 20h9"/>
+                  <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+                </svg>
+                本句听写检验
+              </button>
+              <button class="btn btn-outline btn-sm" id="bookmarkToggleBtn">
+                <svg id="bookmarkIcon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                </svg>
+                <span id="bookmarkBtnText">收藏难句</span>
+              </button>
+            </div>
+          </div>
+
+          <!-- Big Focus Sentence Card -->
+          <div class="focus-sentence-card">
+            <div class="sentence-header-meta">
+              <div class="sentence-index-pill">
+                <span class="badge badge-neutral" id="currentSentenceBadge">第 04 句</span>
+                <span class="time-readout" id="currentSentenceTimeRange">00:45.2 - 00:52.8</span>
+                <span class="badge badge-success" id="currentSentenceStatusBadge">已听过</span>
+              </div>
+
+              <!-- View Toggles: Show / Blur / Hide -->
+              <div class="sentence-view-toggles">
+                <button class="btn btn-subtle btn-sm" id="toggleMaskBtn" title="切换原文显隐 (快捷键: Tab)">
+                  <svg id="maskEyeIcon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/>
+                    <circle cx="12" cy="12" r="3"/>
+                  </svg>
+                  <span id="maskBtnText">隐藏原文</span>
+                  <span class="kbd">Tab</span>
+                </button>
+              </div>
+            </div>
+
+            <!-- English Text -->
+            <div class="sentence-english-text" id="sentenceEnglishDisplay">
+              However, modern urban designers are increasingly advocating for nature-based solutions and green architecture.
+            </div>
+
+            <div class="sentence-mask-notice" id="sentenceMaskNotice">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/>
+                <line x1="12" y1="8" x2="12" y2="12"/>
+                <line x1="12" y1="16" x2="12.01" y2="16"/>
+              </svg>
+              <span>原文已遮罩，请专注盲听与语音分析。按 <span class="kbd">Tab</span> 可快速查看原文。</span>
+            </div>
+
+            <!-- Translation & Vocab Section -->
+            <div class="translation-box">
+              <div class="translation-header">
+                <span>中文对照与六级重点表达</span>
+                <button class="btn btn-subtle btn-sm" id="toggleTransContentBtn">收起译文</button>
+              </div>
+              <div class="translation-content" id="sentenceChineseDisplay">
+                然而，现代城市设计师越来越提倡基于自然的解决方案和绿色建筑。
+              </div>
+              <div class="vocab-chips" id="sentenceVocabChips">
+                <span class="vocab-chip"><b>advocate for</b> / 提倡支持</span>
+                <span class="vocab-chip"><b>nature-based</b> / 基于自然的</span>
+                <span class="vocab-chip"><b>architecture</b> / 建筑设计</span>
+              </div>
+            </div>
+
+            <!-- Waveform Animation -->
+            <div class="waveform-visualizer" id="waveVisualizer">
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+              <div class="wave-bar"></div><div class="wave-bar"></div><div class="wave-bar"></div>
+            </div>
+          </div>
+
+          <!-- Bottom Fixed Audio Controller Card -->
+          <div class="audio-controller-card">
+            <!-- Timeline Track -->
+            <div class="timeline-container">
+              <span class="time-readout" id="audioCurrentTime">00:46.5</span>
+              <div class="timeline-track" id="timelineTrack">
+                <div class="timeline-progress" id="timelineProgress"></div>
+                <div class="timeline-ab-marker" id="markerPointA" style="display:none; left:20%;"></div>
+                <div class="timeline-ab-marker" id="markerPointB" style="display:none; left:80%;"></div>
+              </div>
+              <span class="time-readout" id="audioDurationTime">00:52.8</span>
+            </div>
+
+            <!-- Play Controls Row -->
+            <div class="controls-main-row">
+              <!-- Left: Playback Rate & Loops -->
+              <div class="left-controls">
+                <select class="select-dropdown" id="speedSelect" title="播放倍速">
+                  <option value="0.5">0.5x</option>
+                  <option value="0.75">0.75x</option>
+                  <option value="1.0" selected>1.0x (正常)</option>
+                  <option value="1.25">1.25x</option>
+                  <option value="1.5">1.5x</option>
+                  <option value="1.75">1.75x</option>
+                  <option value="2.0">2.0x</option>
+                </select>
+
+                <select class="select-dropdown" id="loopSelect" title="单句循环次数">
+                  <option value="1">单句播 1 次</option>
+                  <option value="2" selected>单句循环 2 次</option>
+                  <option value="3">单句循环 3 次</option>
+                  <option value="5">单句循环 5 次</option>
+                  <option value="999">单句无限循环</option>
+                </select>
+
+                <span class="badge badge-neutral" id="loopCounterBadge">循环: 1/2</span>
+              </div>
+
+              <!-- Center: Core Navigation Buttons -->
+              <div class="center-controls">
+                <button class="controller-btn" id="prevSentenceBtn" title="上一句 (快捷键: ← 方向左)">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="19 20 9 12 19 4 19 20"/>
+                    <line x1="5" y1="19" x2="5" y2="5"/>
+                  </svg>
+                </button>
+
+                <button class="controller-btn" id="replaySentenceBtn" title="重听本句 (快捷键: R)">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M1 4v6h6"/>
+                    <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/>
+                  </svg>
+                </button>
+
+                <button class="play-btn-circle" id="mainPlayPauseBtn" title="播放 / 暂停 (快捷键: 空格 Space)">
+                  <svg id="playIcon" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <polygon points="6 3 20 12 6 21 6 3"/>
+                  </svg>
+                  <svg id="pauseIcon" style="display:none;" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                    <rect x="6" y="4" width="4" height="16"/>
+                    <rect x="14" y="4" width="4" height="16"/>
+                  </svg>
+                </button>
+
+                <button class="controller-btn" id="nextSentenceBtn" title="下一句 (快捷键: → 方向右)">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="5 4 15 12 5 20 5 4"/>
+                    <line x1="19" y1="5" x2="19" y2="19"/>
+                  </svg>
+                </button>
+              </div>
+
+              <!-- Right: A-B Loop Controls -->
+              <div class="right-controls">
+                <button class="btn btn-subtle btn-sm" id="btnSetA" title="设置 A-B 循环起点">设为 A 点</button>
+                <button class="btn btn-subtle btn-sm" id="btnSetB" title="设置 A-B 循环终点">设为 B 点</button>
+                <button class="btn btn-outline btn-sm" id="btnClearAB" title="清除 A-B 区间">清除 A-B</button>
+                <span class="badge badge-neutral" id="abStatusBadge" style="display:none;">A-B 激活</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 3: 听写纠错 (DICTATION)
+         ======================================================================== -->
+    <section class="view-container" id="view-dictation">
+      <div class="dictation-container">
+        <!-- Top Status Bar -->
+        <div class="dictation-banner">
+          <div>
+            <span class="badge badge-primary">听写模式</span>
+            <strong style="margin-left:8px;" id="dictationSentenceTitle">当前训练：第 04 句 · 2024年6月 第1套</strong>
+          </div>
+          <button class="btn btn-outline btn-sm" id="backToPracticeBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+            返回精听界面
+          </button>
+        </div>
+
+        <!-- Dictation Input Area -->
+        <div class="dictation-input-card">
+          <div style="display:flex; align-items:center; justify-content:space-between;">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <button class="btn btn-primary btn-sm" id="dictationPlayBtn">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="6 3 20 12 6 21 6 3"/>
+                </svg>
+                播放录音
+              </button>
+              <button class="btn btn-subtle btn-sm" id="dictationSlowBtn">0.75x 慢速听</button>
+            </div>
+
+            <!-- Quick Demo Helper for Reviewers -->
+            <div style="display:flex; align-items:center; gap:8px;">
+              <span style="font-size:12px; color:var(--text-muted);">快速测试：</span>
+              <button class="btn btn-subtle btn-sm" id="fillCorrectDemoBtn" title="填充完全正确文本">填入正确示例</button>
+              <button class="btn btn-subtle btn-sm" id="fillErrorDemoBtn" title="填充带有拼写错误/漏词/多词的示例以测试 Diff">填入含错示例</button>
+              <button class="btn btn-subtle btn-sm" id="clearDictationInputBtn">清空</button>
+            </div>
+          </div>
+
+          <textarea 
+            class="dictation-textarea" 
+            id="dictationTextarea" 
+            placeholder="仔细听录音，在此键入听到的英文句子... (支持快捷键 Ctrl+Enter 或点击右下角按钮直接提交)"
+            autofocus></textarea>
+
+          <div class="dictation-tools-row">
+            <div class="word-count-badge">
+              <span id="dictationWordCount">已输入 0 个单词</span>
+              <span>· 按 <span class="kbd">Ctrl+Enter</span> 交卷</span>
+            </div>
+
+            <button class="btn btn-primary btn-lg" id="submitDictationBtn">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="20 6 9 17 4 12"/>
+              </svg>
+              提交智能核对
+            </button>
+          </div>
+        </div>
+
+        <!-- Word-Level Diff Result Panel (Initially Hidden) -->
+        <div class="diff-result-panel" id="diffResultPanel" style="display:none;">
+          <div class="diff-header-row">
+            <div class="accuracy-score-box">
+              <span class="accuracy-big-num" id="diffAccuracyVal">85.7%</span>
+              <span style="font-size:14px; font-weight:600; color:var(--text-secondary);" id="diffGradeText">正确率 · 良好</span>
+            </div>
+
+            <div class="diff-legend">
+              <span class="legend-item"><span class="legend-color-dot" style="background:var(--success);"></span>正确匹配</span>
+              <span class="legend-item"><span class="legend-color-dot" style="background:var(--danger);"></span>拼写替换/错误</span>
+              <span class="legend-item"><span class="legend-color-dot" style="background:var(--warning);"></span>漏写词 (Missing)</span>
+              <span class="legend-item"><span class="legend-color-dot" style="background:var(--extra);"></span>多写多余词</span>
+            </div>
+          </div>
+
+          <!-- The Tokens Diff Visualization -->
+          <div>
+            <div style="font-size:13px; font-weight:600; color:var(--text-secondary); margin-bottom:8px;">词级纠错对照 (Word-level Diff):</div>
+            <div class="diff-tokens-container" id="diffTokensContainer">
+              <!-- Rendered by Diff Algorithm -->
+            </div>
+          </div>
+
+          <!-- Standard Reference Sentence -->
+          <div class="reference-text-card">
+            <div style="font-size:12px; font-weight:600; color:var(--success);">标准真题原文 (Reference Text):</div>
+            <div style="font-size:16px; font-weight:600; color:var(--text-primary);" id="diffReferenceEn">
+              However, modern urban designers are increasingly advocating for nature-based solutions and green architecture.
+            </div>
+            <div style="font-size:13px; color:var(--text-secondary);" id="diffReferenceCn">
+              然而，现代城市设计师越来越提倡基于自然的解决方案和绿色建筑。
+            </div>
+          </div>
+
+          <!-- Diff Footer Actions -->
+          <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; padding-top:8px;">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <button class="btn btn-outline" id="retryDictationBtn">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M1 4v6h6"/>
+                  <path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"/>
+                </svg>
+                重新听写本句
+              </button>
+              <button class="btn btn-outline" id="diffBookmarkBtn">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+                </svg>
+                加入错题难句本
+              </button>
+            </div>
+
+            <div style="display:flex; align-items:center; gap:10px;">
+              <button class="btn btn-primary" id="dictationNextSentenceBtn">
+                下一句听写
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="9 18 15 12 9 6"/>
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 4: 难句复习 (DIFFICULT SENTENCES REVIEW)
+         ======================================================================== -->
+    <section class="view-container" id="view-review">
+      <div class="review-container">
+        <!-- Review Banner -->
+        <div class="review-stats-banner">
+          <div>
+            <h2 style="font-size:20px; font-weight:700; color:var(--text-primary); margin-bottom:4px;">难句复习与强化池</h2>
+            <p style="font-size:13px; color:var(--text-secondary);">包含精听过程中收藏的高频生词句、错写 2 次以上或连读盲点句。</p>
+          </div>
+
+          <div style="display:flex; align-items:center; gap:12px;">
+            <div class="filter-group">
+              <button class="filter-pill active" data-review-filter="all">全部难句 (<span id="totalBookmarkCount">4</span>)</button>
+              <button class="filter-pill" data-review-filter="unmastered">待巩固 (<span id="unmasteredBookmarkCount">3</span>)</button>
+              <button class="filter-pill" data-review-filter="mastered">已掌握 (<span id="masteredBookmarkCount">1</span>)</button>
+            </div>
+
+            <button class="btn btn-primary" id="startContinuousReviewBtn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="5 3 19 12 5 21 5 3"/>
+              </svg>
+              开始连续复习
+            </button>
+          </div>
+        </div>
+
+        <!-- Sentences Review List -->
+        <div class="review-grid" id="reviewListContainer">
+          <!-- Rendered by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 5: 学习进度 (LEARNING PROGRESS / STATS)
+         ======================================================================== -->
+    <section class="view-container" id="view-stats">
+      <div class="stats-container">
+        <!-- 4 KPI Cards -->
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label">
+              <span>累计精听时长</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 16 14"/>
+              </svg>
+            </div>
+            <div class="kpi-value">16.8 <span style="font-size:15px; font-weight:500; color:var(--text-muted);">小时</span></div>
+            <div class="kpi-trend trend-up">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+              本周增加 2.4h · 状态良好
+            </div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-label">
+              <span>累计精听句子数</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                <polyline points="14 2 14 8 20 8"/>
+              </svg>
+            </div>
+            <div class="kpi-value">184 <span style="font-size:15px; font-weight:500; color:var(--text-muted);">句</span></div>
+            <div class="kpi-trend trend-neutral">总题库 280 句 · 进度 65.7%</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-label">
+              <span>平均听写正确率</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+              </svg>
+            </div>
+            <div class="kpi-value">86.4%</div>
+            <div class="kpi-trend trend-up">六级听力预估得分: 198 / 248.5</div>
+          </div>
+
+          <div class="kpi-card">
+            <div class="kpi-label">
+              <span>待复习难句数</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"/>
+                <line x1="12" y1="8" x2="12" y2="12"/>
+                <line x1="12" y1="16" x2="12.01" y2="16"/>
+              </svg>
+            </div>
+            <div class="kpi-value" id="kpiPendingReviewNum">3 <span style="font-size:15px; font-weight:500; color:var(--text-muted);">句</span></div>
+            <div class="kpi-trend" style="color:var(--warning);">今日推荐强化 3 句</div>
+          </div>
+        </div>
+
+        <!-- Charts Grid -->
+        <div class="chart-grid">
+          <!-- Accuracy Trend SVG Chart -->
+          <div class="chart-card">
+            <div style="display:flex; align-items:center; justify-content:space-between;">
+              <span class="chart-title">听写正确率趋势 (近 7 次训练走势)</span>
+              <span class="badge badge-success">稳步上升 (+8.2%)</span>
+            </div>
+
+            <div class="svg-chart-wrapper">
+              <svg viewBox="0 0 600 200" width="100%" height="100%">
+                <defs>
+                  <linearGradient id="chartGrad" x1="0" y1="0" x2="0" y2="1">
+                    <stop offset="0%" stop-color="var(--primary)" stop-opacity="0.3"/>
+                    <stop offset="100%" stop-color="var(--primary)" stop-opacity="0.0"/>
+                  </linearGradient>
+                </defs>
+                <!-- Grid Lines -->
+                <line x1="40" y1="30" x2="580" y2="30" stroke="var(--border-color)" stroke-dasharray="4"/>
+                <line x1="40" y1="80" x2="580" y2="80" stroke="var(--border-color)" stroke-dasharray="4"/>
+                <line x1="40" y1="130" x2="580" y2="130" stroke="var(--border-color)" stroke-dasharray="4"/>
+                <line x1="40" y1="180" x2="580" y2="180" stroke="var(--border-color)"/>
+
+                <!-- Y Axis Labels -->
+                <text x="10" y="34" font-size="11" fill="var(--text-muted)">100%</text>
+                <text x="15" y="84" font-size="11" fill="var(--text-muted)">80%</text>
+                <text x="15" y="134" font-size="11" fill="var(--text-muted)">60%</text>
+
+                <!-- Area Fill -->
+                <polygon points="50,140 130,120 210,110 290,95 370,80 450,75 530,55 530,180 50,180" fill="url(#chartGrad)"/>
+
+                <!-- Trend Line -->
+                <polyline points="50,140 130,120 210,110 290,95 370,80 450,75 530,55" fill="none" stroke="var(--primary)" stroke-width="3" stroke-linecap="round"/>
+
+                <!-- Data Points -->
+                <circle cx="50" cy="140" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="130" cy="120" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="210" cy="110" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="290" cy="95" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="370" cy="80" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="450" cy="75" r="4" fill="var(--bg-surface)" stroke="var(--primary)" stroke-width="2"/>
+                <circle cx="530" cy="55" r="5" fill="var(--primary)" stroke="#FFFFFF" stroke-width="2"/>
+
+                <!-- X Axis Labels -->
+                <text x="40" y="196" font-size="11" fill="var(--text-muted)">10/12</text>
+                <text x="120" y="196" font-size="11" fill="var(--text-muted)">10/13</text>
+                <text x="200" y="196" font-size="11" fill="var(--text-muted)">10/14</text>
+                <text x="280" y="196" font-size="11" fill="var(--text-muted)">10/15</text>
+                <text x="360" y="196" font-size="11" fill="var(--text-muted)">10/16</text>
+                <text x="440" y="196" font-size="11" fill="var(--text-muted)">10/17</text>
+                <text x="520" y="196" font-size="11" font-weight="600" fill="var(--primary)">今日</text>
+              </svg>
+            </div>
+          </div>
+
+          <!-- Section Breakdown -->
+          <div class="chart-card">
+            <span class="chart-title">六级各题型听力正确率诊断</span>
+            <div class="section-weakness-list">
+              <div class="weakness-item">
+                <div class="weakness-info">
+                  <strong>Section A (长对话 2篇)</strong>
+                  <span style="color:var(--success); font-weight:600;">91.2%</span>
+                </div>
+                <div class="progress-bar-bg">
+                  <div class="progress-bar-fill" style="width:91.2%; background:var(--success);"></div>
+                </div>
+              </div>
+
+              <div class="weakness-item">
+                <div class="weakness-info">
+                  <strong>Section B (听力篇章 2篇)</strong>
+                  <span style="color:var(--primary); font-weight:600;">84.5%</span>
+                </div>
+                <div class="progress-bar-bg">
+                  <div class="progress-bar-fill" style="width:84.5%; background:var(--primary);"></div>
+                </div>
+              </div>
+
+              <div class="weakness-item">
+                <div class="weakness-info">
+                  <strong>Section C (讲座/讲话 3篇)</strong>
+                  <span style="color:var(--warning); font-weight:600;">76.8% (重点弱项)</span>
+                </div>
+                <div class="progress-bar-bg">
+                  <div class="progress-bar-fill" style="width:76.8%; background:var(--warning);"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Per Set Completion Table -->
+        <div class="table-card">
+          <div style="padding:16px 20px; border-bottom:1px solid var(--border-color);">
+            <strong style="font-size:15px;">真题精听详细完成清单</strong>
+          </div>
+          <table class="data-table" id="statsDetailTable">
+            <thead>
+              <tr>
+                <th>真题套卷</th>
+                <th>总句数</th>
+                <th>已听句数</th>
+                <th>精听进度</th>
+                <th>听写均分</th>
+                <th>操作</th>
+              </tr>
+            </thead>
+            <tbody id="statsTableBody">
+              <!-- Rendered by JS -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ========================================================================
+         VIEW 6: 设置 (SETTINGS)
+         ======================================================================== -->
+    <section class="view-container" id="view-settings">
+      <div class="settings-container">
+        
+        <!-- Playback Settings -->
+        <div class="settings-section-card">
+          <h3 class="settings-section-title">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/>
+              <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+            </svg>
+            播放与精听偏好
+          </h3>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">默认播放倍速</div>
+              <div class="setting-desc">每次切换句子或新开套题时的初始音频语速</div>
+            </div>
+            <select class="select-dropdown" id="settingDefaultSpeed">
+              <option value="0.75">0.75x 适中慢速</option>
+              <option value="1.0" selected>1.0x 标准真题语速</option>
+              <option value="1.25">1.25x 提速挑战</option>
+            </select>
+          </div>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">单句默认循环次数</div>
+              <div class="setting-desc">单句播放完成后自动复读的次数</div>
+            </div>
+            <select class="select-dropdown" id="settingDefaultLoop">
+              <option value="1">1 次 (不复读)</option>
+              <option value="2" selected>2 次 (推荐)</option>
+              <option value="3">3 次</option>
+              <option value="5">5 次</option>
+              <option value="999">无限循环</option>
+            </select>
+          </div>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">原文默认展示模式</div>
+              <div class="setting-desc">进入新句子时是否默认隐藏英文防作弊</div>
+            </div>
+            <select class="select-dropdown" id="settingDefaultVisibility">
+              <option value="visible">正常显示原文</option>
+              <option value="blur" selected>默认模糊遮罩 (自习推荐)</option>
+              <option value="hidden">完全隐藏</option>
+            </select>
+          </div>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">循环结束后自动播放下一句</div>
+              <div class="setting-desc">完成预设循环次数后自动向前步进</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="settingAutoNext">
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Dictation Evaluation Settings -->
+        <div class="settings-section-card">
+          <h3 class="settings-section-title">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 20h9"/>
+              <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/>
+            </svg>
+            听写纠错评测偏好
+          </h3>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">忽略大小写差异</div>
+              <div class="setting-desc">比对听写时将 The 与 the 视作完全正确匹配</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="settingIgnoreCase" checked>
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">忽略英文标点符号</div>
+              <div class="setting-desc">逗号、句号、连字符不计入拼写错误考核</div>
+            </div>
+            <label class="toggle-switch">
+              <input type="checkbox" id="settingIgnorePunctuation" checked>
+              <span class="toggle-slider"></span>
+            </label>
+          </div>
+        </div>
+
+        <!-- Keyboard Shortcuts Reference -->
+        <div class="settings-section-card">
+          <h3 class="settings-section-title">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="4" width="20" height="16" rx="2" ry="2"/>
+              <line x1="6" y1="8" x2="6.01" y2="8"/>
+              <line x1="10" y1="8" x2="10.01" y2="8"/>
+              <line x1="14" y1="8" x2="14.01" y2="8"/>
+              <line x1="18" y1="8" x2="18.01" y2="8"/>
+              <line x1="6" y1="12" x2="6.01" y2="12"/>
+              <line x1="18" y1="12" x2="18.01" y2="12"/>
+              <line x1="7" y1="16" x2="17" y2="16"/>
+            </svg>
+            全局快捷键一览
+          </h3>
+
+          <table class="data-table">
+            <thead>
+              <tr>
+                <th style="width:220px;">按键</th>
+                <th>作用说明</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><span class="kbd">Space (空格)</span></td>
+                <td>播放 / 暂停当前句录音</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">R</span></td>
+                <td>立即重听本句 (Replay)</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">← (左箭头)</span> / <span class="kbd">→ (右箭头)</span></td>
+                <td>切换到上一句 / 下一句</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">Tab</span></td>
+                <td>切换原文显隐模式 (正常 / 模糊 / 隐藏)</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">B</span></td>
+                <td>收藏 / 取消收藏本句到难句库</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">Ctrl + Enter</span></td>
+                <td>在听写模式中快速交卷核对</td>
+              </tr>
+              <tr>
+                <td><span class="kbd">A</span> / <span class="kbd">S</span></td>
+                <td>打点设置 A-B 区间微调</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <!-- Reset Data -->
+        <div class="settings-section-card">
+          <h3 class="settings-section-title" style="color:var(--danger);">数据管理</h3>
+          <div class="setting-row">
+            <div class="setting-info">
+              <div class="setting-label">重置练习记录为预设状态</div>
+              <div class="setting-desc">清空所有听写记录并恢复内置 10 套六级真题的初始样本数据</div>
+            </div>
+            <button class="btn btn-danger" id="resetDataBtn">重置所有数据</button>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==========================================================================
+       IMPORT MODAL
+       ========================================================================== -->
+  <div class="modal-overlay" id="importModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title">导入本地六级听力素材</div>
+        <button class="icon-btn" id="closeImportModalBtn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+
+      <div class="dropzone" id="importDropzone">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="var(--primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+          <polyline points="17 8 12 3 7 8"/>
+          <line x1="12" y1="3" x2="12" y2="15"/>
+        </svg>
+        <div style="font-size:14px; font-weight:600; text-align:center;">
+          拖拽本地音频与字幕文件到此处，或点击浏览
+        </div>
+        <div style="font-size:12px; color:var(--text-muted); text-align:center;">
+          支持音频：MP3、WAV、M4A · 支持字幕：SRT、LRC、VTT
+        </div>
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:8px;">
+        <label style="font-size:12px; font-weight:600; color:var(--text-secondary);">套题命名</label>
+        <input type="text" id="importSetTitleInput" class="dictation-textarea" style="min-height:38px; padding:8px 12px; font-size:14px;" value="2024年12月 六级听力预备模拟套题 (自导入)">
+      </div>
+
+      <div style="display:flex; justify-content:flex-end; gap:10px;">
+        <button class="btn btn-outline" id="importCancelBtn">取消</button>
+        <button class="btn btn-primary" id="importConfirmBtn">确认导入并开始精听</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==========================================================================
+       SHORTCUTS HELP MODAL
+       ========================================================================== -->
+  <div class="modal-overlay" id="shortcutsModal">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div class="modal-title">快捷键速查表</div>
+        <button class="icon-btn" id="closeShortcutsModalBtn">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+      <div style="font-size:13px; color:var(--text-secondary); line-height:1.6;">
+        ListeningLab 针对自习室与听写场景进行了全键盘加速优化：
+      </div>
+      <ul style="list-style:none; display:flex; flex-direction:column; gap:8px; font-size:13px;">
+        <li style="display:flex; justify-content:space-between;"><span>播放 / 暂停</span> <span class="kbd">Space</span></li>
+        <li style="display:flex; justify-content:space-between;"><span>重听本句</span> <span class="kbd">R</span></li>
+        <li style="display:flex; justify-content:space-between;"><span>切换上一句 / 下一句</span> <span><span class="kbd">←</span> <span class="kbd">→</span></span></li>
+        <li style="display:flex; justify-content:space-between;"><span>原文显隐切换</span> <span class="kbd">Tab</span></li>
+        <li style="display:flex; justify-content:space-between;"><span>收藏/取消收藏难句</span> <span class="kbd">B</span></li>
+        <li style="display:flex; justify-content:space-between;"><span>提交听写答案</span> <span class="kbd">Ctrl + Enter</span></li>
+      </ul>
+      <div style="display:flex; justify-content:flex-end;">
+        <button class="btn btn-primary" id="shortcutsModalOkBtn">我知道了</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <!-- ==========================================================================
+       INTERACTIVE JAVASCRIPT STATE ENGINE
+       ========================================================================== -->
+  <script>
+    (function () {
+      'use strict';
+
+      /* ------------------------------------------------------------------------
+         1. MOCK DATA: 10 Authentic CET-6 Exam Sets & Detailed Sentences
+         ------------------------------------------------------------------------ */
+      const DEFAULT_EXAM_SETS = [
+        {
+          id: 'cet6-2024-06-1',
+          title: '2024年6月 六级听力真题 (第1套)',
+          year: 2024,
+          month: 6,
+          setNumber: 1,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 26,
+          sentenceCount: 28,
+          completedCount: 18,
+          accuracy: 88.5,
+          inProgress: true,
+          sentences: [
+            {
+              id: 's_01',
+              index: 1,
+              section: 'Section A · 长对话 1',
+              startTime: 12.0,
+              endTime: 19.5,
+              english: "Good morning, everyone. In today's lecture, we will examine how metropolitan areas are adapting to climate risks.",
+              chinese: "大家早上好。在今天的讲座中，我们将探讨大都市地区如何适应气候风险。",
+              vocab: [{ w: 'metropolitan', p: '/ˌmetrəˈpɑːlɪtn/', d: '大都市的' }, { w: 'adapt to', p: '/əˈdæpt tuː/', d: '适应' }],
+              status: 'listened',
+              bookmarked: false
+            },
+            {
+              id: 's_02',
+              index: 2,
+              section: 'Section A · 长对话 1',
+              startTime: 20.0,
+              endTime: 28.5,
+              english: "Extreme weather events, ranging from prolonged heatwaves to flash floods, have exposed vulnerabilities in urban planning.",
+              chinese: "从持续热浪到突发洪水等极端天气事件，暴露了城市规划中的脆弱性。",
+              vocab: [{ w: 'vulnerability', p: '/ˌvʌlnərəˈbɪləti/', d: '脆弱点，弱点' }, { w: 'prolonged', p: '/prəˈlɔːŋd/', d: '延长的，长期的' }],
+              status: 'listened',
+              bookmarked: true
+            },
+            {
+              id: 's_03',
+              index: 3,
+              section: 'Section A · 长对话 1',
+              startTime: 29.0,
+              endTime: 36.8,
+              english: "Traditional civil engineering often relied on gray infrastructure such as concrete storm drains and seawalls.",
+              chinese: "传统的土木工程通常依赖灰色基础设施，例如混凝土雨水渠和防波堤。",
+              vocab: [{ w: 'infrastructure', p: '/ˈɪnfrəstrʌktʃər/', d: '基础设施' }, { w: 'seawall', p: '/ˈsiːwɔːl/', d: '海堤，防波堤' }],
+              status: 'listened',
+              bookmarked: false
+            },
+            {
+              id: 's_04',
+              index: 4,
+              section: 'Section A · 长对话 1',
+              startTime: 45.2,
+              endTime: 52.8,
+              english: "However, modern urban designers are increasingly advocating for nature-based solutions and green architecture.",
+              chinese: "然而，现代城市设计师越来越提倡基于自然的解决方案和绿色建筑。",
+              vocab: [{ w: 'advocate for', p: '/ˈædvəkeɪt fɔːr/', d: '主张，拥护' }, { w: 'nature-based', p: '/ˈneɪtʃər beɪst/', d: '基于自然的' }],
+              status: 'listened',
+              bookmarked: true
+            },
+            {
+              id: 's_05',
+              index: 5,
+              section: 'Section A · 长对话 1',
+              startTime: 53.5,
+              endTime: 61.2,
+              english: "Green roofs and permeable pavements can absorb significant amounts of precipitation before runoff overwhelms drainage systems.",
+              chinese: "屋顶绿化和透水路面可以在地表径流压垮排水系统之前吸收大量降水。",
+              vocab: [{ w: 'permeable', p: '/ˈpɜːrmiəbl/', d: '透水的' }, { w: 'precipitation', p: '/prɪˌsɪpɪˈteɪʃn/', d: '降水，降雨量' }],
+              status: 'unread',
+              bookmarked: true
+            },
+            {
+              id: 's_06',
+              index: 6,
+              section: 'Section B · 篇章听力 1',
+              startTime: 62.0,
+              endTime: 70.0,
+              english: "Furthermore, urban canopy expansion plays a crucial role in mitigating the urban heat island effect.",
+              chinese: "此外，城市树冠扩张在缓解城市热岛效应方面发挥着至关重要的作用。",
+              vocab: [{ w: 'canopy', p: '/ˈkænəpi/', d: '树冠层' }, { w: 'mitigate', p: '/ˈmɪtɪɡeɪt/', d: '缓解，减轻' }],
+              status: 'unread',
+              bookmarked: false
+            },
+            {
+              id: 's_07',
+              index: 7,
+              section: 'Section B · 篇章听力 1',
+              startTime: 70.8,
+              endTime: 79.4,
+              english: "Critics often argue that retrofitting existing infrastructure requires exorbitant financial investment and political will.",
+              chinese: "批评人士经常辩称，改造现有基础设施需要高昂的资金投入和政治意愿。",
+              vocab: [{ w: 'retrofit', p: '/ˈretrəʊfɪt/', d: '翻新改造' }, { w: 'exorbitant', p: '/ɪɡˈzɔːrbɪtənt/', d: '过高的，昂贵的' }],
+              status: 'unread',
+              bookmarked: true
+            },
+            {
+              id: 's_08',
+              index: 8,
+              section: 'Section C · 讲座篇 1',
+              startTime: 80.0,
+              endTime: 88.5,
+              english: "Nonetheless, empirical case studies from Copenhagen and Singapore demonstrate substantial long-term economic dividends.",
+              chinese: "尽管如此，来自哥本哈根和新加坡的实证案例研究表明，这带来了可观的长期经济红利。",
+              vocab: [{ w: 'empirical', p: '/ɪmˈpɪrɪkl/', d: '实证的，经验主义的' }, { w: 'dividend', p: '/ˈdɪvɪdend/', d: '红利，回报' }],
+              status: 'unread',
+              bookmarked: false
+            }
+          ]
+        },
+        {
+          id: 'cet6-2024-06-2',
+          title: '2024年6月 六级听力真题 (第2套)',
+          year: 2024,
+          month: 6,
+          setNumber: 2,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 25,
+          sentenceCount: 26,
+          completedCount: 6,
+          accuracy: 82.0,
+          inProgress: true,
+          sentences: []
+        },
+        {
+          id: 'cet6-2023-12-1',
+          title: '2023年12月 六级听力真题 (第1套)',
+          year: 2023,
+          month: 12,
+          setNumber: 1,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 27,
+          sentenceCount: 30,
+          completedCount: 30,
+          accuracy: 91.5,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2023-12-2',
+          title: '2023年12月 六级听力真题 (第2套)',
+          year: 2023,
+          month: 12,
+          setNumber: 2,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 25,
+          sentenceCount: 27,
+          completedCount: 0,
+          accuracy: 0,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2023-06-1',
+          title: '2023年6月 六级听力真题 (第1套)',
+          year: 2023,
+          month: 6,
+          setNumber: 1,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 24,
+          sentenceCount: 25,
+          completedCount: 25,
+          accuracy: 85.0,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2023-06-2',
+          title: '2023年6月 六级听力真题 (第2套)',
+          year: 2023,
+          month: 6,
+          setNumber: 2,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 26,
+          sentenceCount: 29,
+          completedCount: 12,
+          accuracy: 79.4,
+          inProgress: true,
+          sentences: []
+        },
+        {
+          id: 'cet6-2022-12-1',
+          title: '2022年12月 六级听力真题 (第1套)',
+          year: 2022,
+          month: 12,
+          setNumber: 1,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 23,
+          sentenceCount: 24,
+          completedCount: 0,
+          accuracy: 0,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2022-12-2',
+          title: '2022年12月 六级听力真题 (第2套)',
+          year: 2022,
+          month: 12,
+          setNumber: 2,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 25,
+          sentenceCount: 26,
+          completedCount: 26,
+          accuracy: 94.2,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2022-06-1',
+          title: '2022年6月 六级听力真题 (第1套)',
+          year: 2022,
+          month: 6,
+          setNumber: 1,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 28,
+          sentenceCount: 31,
+          completedCount: 0,
+          accuracy: 0,
+          inProgress: false,
+          sentences: []
+        },
+        {
+          id: 'cet6-2022-06-2',
+          title: '2022年6月 六级听力真题 (第2套)',
+          year: 2022,
+          month: 6,
+          setNumber: 2,
+          category: '真题',
+          sectionTypes: ['Section A', 'Section B', 'Section C'],
+          durationMinutes: 26,
+          sentenceCount: 28,
+          completedCount: 14,
+          accuracy: 83.1,
+          inProgress: true,
+          sentences: []
+        }
+      ];
+
+      /* ------------------------------------------------------------------------
+         2. APPLICATION STATE
+         ------------------------------------------------------------------------ */
+      const state = {
+        currentView: 'library',
+        examSets: JSON.parse(JSON.stringify(DEFAULT_EXAM_SETS)),
+        currentSetId: 'cet6-2024-06-1',
+        currentSentenceIdx: 3, // 0-based, Sentence 4
+        
+        // Playback state
+        isPlaying: false,
+        playbackRate: 1.0,
+        loopTarget: 2,
+        currentLoopIteration: 1,
+        maskMode: 'blur', // 'visible' | 'blur' | 'hidden'
+        abPointA: null,
+        abPointB: null,
+        currentTimeInSentence: 0,
+        sentenceDurationSec: 7.6,
+        audioTimer: null,
+
+        // Settings
+        settings: {
+          defaultSpeed: 1.0,
+          defaultLoop: 2,
+          defaultVisibility: 'blur',
+          autoNext: false,
+          ignoreCase: true,
+          ignorePunctuation: true,
+          theme: 'light'
+        },
+
+        // Filters
+        libraryFilter: 'all',
+        librarySearchQuery: '',
+        reviewFilter: 'all',
+        sidebarOnlyUnread: false
+      };
+
+      /* ------------------------------------------------------------------------
+         3. AUDIO SYNTHESIS & PLAYBACK SIMULATOR (Offline Native Web Audio)
+         ------------------------------------------------------------------------ */
+      let audioCtx = null;
+      function getAudioContext() {
+        if (!audioCtx) {
+          const AudioContext = window.AudioContext || window.webkitAudioContext;
+          if (AudioContext) {
+            audioCtx = new AudioContext();
+          }
+        }
+        if (audioCtx && audioCtx.state === 'suspended') {
+          audioCtx.resume();
+        }
+        return audioCtx;
+      }
+
+      function playSyntheticTone(freq = 440, duration = 0.08) {
+        try {
+          const ctx = getAudioContext();
+          if (!ctx) return;
+          const osc = ctx.createOscillator();
+          const gain = ctx.createGain();
+          osc.type = 'sine';
+          osc.frequency.setValueAtTime(freq, ctx.currentTime);
+          gain.gain.setValueAtTime(0.05, ctx.currentTime);
+          gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + duration);
+          osc.connect(gain);
+          gain.connect(ctx.destination);
+          osc.start();
+          osc.stop(ctx.currentTime + duration);
+        } catch (e) {
+          // Silent fallback
+        }
+      }
+
+      function startPlayback() {
+        if (state.isPlaying) return;
+        state.isPlaying = true;
+        updatePlayPauseUI();
+        playSyntheticTone(520, 0.08);
+
+        // Timer step for smooth realistic progress simulation
+        const intervalMs = 50;
+        state.audioTimer = setInterval(() => {
+          if (!state.isPlaying) return;
+
+          const step = (intervalMs / 1000) * state.playbackRate;
+          state.currentTimeInSentence += step;
+
+          // A-B loop check
+          if (state.abPointA !== null && state.abPointB !== null) {
+            const startA = state.abPointA * state.sentenceDurationSec;
+            const endB = state.abPointB * state.sentenceDurationSec;
+            if (state.currentTimeInSentence >= endB) {
+              state.currentTimeInSentence = startA;
+              playSyntheticTone(640, 0.05);
+            }
+          } else if (state.currentTimeInSentence >= state.sentenceDurationSec) {
+            // Sentence finished
+            if (state.currentLoopIteration < state.loopTarget) {
+              state.currentLoopIteration++;
+              state.currentTimeInSentence = 0;
+              playSyntheticTone(580, 0.06);
+              renderPracticeLoopStatus();
+            } else {
+              // Loops completed
+              if (state.settings.autoNext) {
+                state.currentLoopIteration = 1;
+                state.currentTimeInSentence = 0;
+                stepSentence(1);
+              } else {
+                pausePlayback();
+                state.currentTimeInSentence = state.sentenceDurationSec;
+              }
+            }
+          }
+
+          updateTimelineUI();
+        }, intervalMs);
+      }
+
+      function pausePlayback() {
+        state.isPlaying = false;
+        if (state.audioTimer) {
+          clearInterval(state.audioTimer);
+          state.audioTimer = null;
+        }
+        updatePlayPauseUI();
+      }
+
+      function togglePlayPause() {
+        if (state.isPlaying) {
+          pausePlayback();
+        } else {
+          startPlayback();
+        }
+      }
+
+      function replayCurrentSentence() {
+        pausePlayback();
+        state.currentTimeInSentence = (state.abPointA !== null) ? state.abPointA * state.sentenceDurationSec : 0;
+        state.currentLoopIteration = 1;
+        renderPracticeLoopStatus();
+        updateTimelineUI();
+        startPlayback();
+      }
+
+      /* ------------------------------------------------------------------------
+         4. WORD-LEVEL DIFF ALGORITHM (LCS / Myers based)
+         ------------------------------------------------------------------------ */
+      function tokenize(text) {
+        if (!text) return [];
+        // Split while keeping token words
+        return text.trim().split(/\s+/).filter(Boolean);
+      }
+
+      function cleanToken(token, ignorePunct = true, ignoreCase = true) {
+        let t = token;
+        if (ignorePunct) {
+          t = t.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()?"'“”’]/g, '');
+        }
+        if (ignoreCase) {
+          t = t.toLowerCase();
+        }
+        return t;
+      }
+
+      function computeWordDiff(targetStr, userStr, ignoreCase = true, ignorePunct = true) {
+        const expectedTokens = tokenize(targetStr);
+        const actualTokens = tokenize(userStr);
+
+        // Compute LCS table
+        const n = expectedTokens.length;
+        const m = actualTokens.length;
+        const dp = Array.from({ length: n + 1 }, () => Array(m + 1).fill(0));
+
+        for (let i = 1; i <= n; i++) {
+          for (let j = 1; j <= m; j++) {
+            const expWord = cleanToken(expectedTokens[i - 1], ignorePunct, ignoreCase);
+            const actWord = cleanToken(actualTokens[j - 1], ignorePunct, ignoreCase);
+            if (expWord === actWord) {
+              dp[i][j] = dp[i - 1][j - 1] + 1;
+            } else {
+              dp[i][j] = Math.max(dp[i - 1][j], dp[i][j - 1]);
+            }
+          }
+        }
+
+        // Backtrack to build diff tokens
+        let i = n, j = m;
+        const diff = [];
+        let correctMatches = 0;
+
+        while (i > 0 || j > 0) {
+          if (i > 0 && j > 0 && cleanToken(expectedTokens[i - 1], ignorePunct, ignoreCase) === cleanToken(actualTokens[j - 1], ignorePunct, ignoreCase)) {
+            diff.unshift({
+              type: 'correct',
+              expected: expectedTokens[i - 1],
+              actual: actualTokens[j - 1]
+            });
+            correctMatches++;
+            i--; j--;
+          } else if (j > 0 && (i === 0 || dp[i][j - 1] >= dp[i - 1][j])) {
+            diff.unshift({
+              type: 'extra',
+              actual: actualTokens[j - 1]
+            });
+            j--;
+          } else if (i > 0 && (j === 0 || dp[i][j - 1] < dp[i - 1][j])) {
+            diff.unshift({
+              type: 'missing',
+              expected: expectedTokens[i - 1]
+            });
+            i--;
+          }
+        }
+
+        // Merge adjacent extra + missing into 'wrong' (substitution)
+        const normalized = [];
+        for (let k = 0; k < diff.length; k++) {
+          const cur = diff[k];
+          const next = diff[k + 1];
+          if (cur.type === 'extra' && next && next.type === 'missing') {
+            normalized.push({
+              type: 'wrong',
+              expected: next.expected,
+              actual: cur.actual
+            });
+            k++; // skip next
+          } else if (cur.type === 'missing' && next && next.type === 'extra') {
+            normalized.push({
+              type: 'wrong',
+              expected: cur.expected,
+              actual: next.actual
+            });
+            k++;
+          } else {
+            normalized.push(cur);
+          }
+        }
+
+        const totalExpected = Math.max(1, expectedTokens.length);
+        const accuracy = Math.min(100, Math.round((correctMatches / totalExpected) * 1000) / 10);
+
+        return {
+          tokens: normalized,
+          accuracy: accuracy,
+          correctCount: correctMatches,
+          totalExpected: totalExpected
+        };
+      }
+
+      /* ------------------------------------------------------------------------
+         5. VIEW ROUTING & RENDERING
+         ------------------------------------------------------------------------ */
+      function switchView(viewName) {
+        state.currentView = viewName;
+        pausePlayback();
+
+        // Update nav tabs
+        document.querySelectorAll('.nav-tab-btn').forEach(btn => {
+          btn.classList.toggle('active', btn.getAttribute('data-view') === viewName);
+        });
+
+        // Update view containers
+        document.querySelectorAll('.view-container').forEach(sec => {
+          sec.classList.remove('active');
+        });
+        const targetView = document.getElementById(`view-${viewName}`);
+        if (targetView) targetView.classList.add('active');
+
+        // View specific refresh
+        if (viewName === 'library') renderLibrary();
+        if (viewName === 'practice') renderPracticeView();
+        if (viewName === 'dictation') setupDictationView();
+        if (viewName === 'review') renderReviewView();
+        if (viewName === 'stats') renderStatsView();
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      /* ========================================================================
+         VIEW 1: LIBRARY RENDERING
+         ======================================================================== */
+      function renderLibrary() {
+        const grid = document.getElementById('setGridContainer');
+        const filter = state.libraryFilter;
+        const query = state.librarySearchQuery.toLowerCase();
+
+        const filteredSets = state.examSets.filter(s => {
+          if (filter === 'in_progress' && !s.inProgress) return false;
+          if (filter === 'completed' && s.completedCount < s.sentenceCount) return false;
+          if (filter === 'unstarted' && s.completedCount > 0) return false;
+          if (filter === '2024' && s.year !== 2024) return false;
+          if (filter === '2023' && s.year !== 2023) return false;
+          if (query && !s.title.toLowerCase().includes(query)) return false;
+          return true;
+        });
+
+        grid.innerHTML = filteredSets.map(set => {
+          const percent = Math.round((set.completedCount / set.sentenceCount) * 100);
+          const isCurrent = set.id === state.currentSetId;
+          const statusBadge = percent === 100 
+            ? `<span class="badge badge-success">已学完</span>`
+            : percent > 0 
+              ? `<span class="badge badge-primary">学习中 (${percent}%)</span>` 
+              : `<span class="badge badge-neutral">未开始</span>`;
+
+          return `
+            <div class="set-card ${isCurrent ? 'is-active-card' : ''}" data-set-id="${set.id}">
+              <div class="set-card-header">
+                <div>
+                  <h3 class="set-card-title">${set.title}</h3>
+                  <div class="set-meta-tags">
+                    <span class="badge badge-neutral">${set.durationMinutes} 分钟</span>
+                    <span class="badge badge-neutral">${set.sentenceCount} 句真题</span>
+                    ${set.accuracy > 0 ? `<span class="badge badge-success">均分 ${set.accuracy}%</span>` : ''}
+                  </div>
+                </div>
+                ${statusBadge}
+              </div>
+
+              <div>
+                <div class="progress-bar-bg">
+                  <div class="progress-bar-fill" style="width: ${percent}%;"></div>
+                </div>
+                <div class="set-stats-row" style="margin-top:6px;">
+                  <span>精听完成度 ${set.completedCount}/${set.sentenceCount} 句</span>
+                  <span>${percent}%</span>
+                </div>
+              </div>
+
+              <div class="set-card-footer">
+                <span style="font-size:12px; color:var(--text-muted);">
+                  ${set.sectionTypes.join(' · ')}
+                </span>
+                <button class="btn ${isCurrent ? 'btn-primary' : 'btn-outline'} btn-sm select-set-btn" data-set-id="${set.id}">
+                  ${percent > 0 ? '继续精听' : '开始精听'}
+                  <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+                </button>
+              </div>
+            </div>
+          `;
+        }).join('');
+
+        // Attach card click handlers
+        grid.querySelectorAll('.select-set-btn').forEach(btn => {
+          btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const setId = btn.getAttribute('data-set-id');
+            selectExamSet(setId);
+            switchView('practice');
+          });
+        });
+
+        document.getElementById('libraryCountBadge').textContent = state.examSets.length;
+      }
+
+      function selectExamSet(setId) {
+        state.currentSetId = setId;
+        const set = state.examSets.find(s => s.id === setId);
+        if (set) {
+          state.currentSentenceIdx = 0;
+          document.getElementById('currentSetPillText').textContent = set.title.replace('六级听力真题 ', '');
+          showToast(`已载入套题：${set.title}`);
+        }
+      }
+
+      /* ========================================================================
+         VIEW 2: INTENSIVE PRACTICE RENDERING
+         ======================================================================== */
+      function getCurrentSet() {
+        return state.examSets.find(s => s.id === state.currentSetId) || state.examSets[0];
+      }
+
+      function getCurrentSentence() {
+        const set = getCurrentSet();
+        const sentences = set.sentences && set.sentences.length > 0 ? set.sentences : DEFAULT_EXAM_SETS[0].sentences;
+        return sentences[state.currentSentenceIdx] || sentences[0];
+      }
+
+      function renderPracticeView() {
+        const set = getCurrentSet();
+        const sentence = getCurrentSentence();
+        const sentences = set.sentences && set.sentences.length > 0 ? set.sentences : DEFAULT_EXAM_SETS[0].sentences;
+
+        // Header info
+        document.getElementById('practiceSectionBadge').textContent = sentence.section || 'Section A';
+        document.getElementById('practiceSetTitle').textContent = set.title;
+        document.getElementById('sentenceProgressRatio').textContent = `${state.currentSentenceIdx + 1} / ${sentences.length}`;
+
+        // Sentence card info
+        const paddedNum = String(sentence.index || (state.currentSentenceIdx + 1)).padStart(2, '0');
+        document.getElementById('currentSentenceBadge').textContent = `第 ${paddedNum} 句`;
+        document.getElementById('currentSentenceTimeRange').textContent = `${formatTime(sentence.startTime)} - ${formatTime(sentence.endTime)}`;
+
+        const statusBadge = document.getElementById('currentSentenceStatusBadge');
+        if (sentence.status === 'listened') {
+          statusBadge.textContent = '已听过';
+          statusBadge.className = 'badge badge-success';
+        } else {
+          statusBadge.textContent = '未听';
+          statusBadge.className = 'badge badge-neutral';
+        }
+
+        // Bookmark button state
+        const isBm = sentence.bookmarked;
+        const bmIcon = document.getElementById('bookmarkIcon');
+        const bmText = document.getElementById('bookmarkBtnText');
+        if (isBm) {
+          bmIcon.setAttribute('fill', 'var(--warning)');
+          bmIcon.setAttribute('stroke', 'var(--warning)');
+          bmText.textContent = '已收藏难句';
+        } else {
+          bmIcon.setAttribute('fill', 'none');
+          bmIcon.setAttribute('stroke', 'currentColor');
+          bmText.textContent = '收藏难句';
+        }
+
+        // English text & mask
+        const enEl = document.getElementById('sentenceEnglishDisplay');
+        enEl.textContent = sentence.english;
+        updateMaskStyle();
+
+        // Chinese translation & vocab
+        document.getElementById('sentenceChineseDisplay').textContent = sentence.chinese || '暂无译文';
+        const vocabContainer = document.getElementById('sentenceVocabChips');
+        if (sentence.vocab && sentence.vocab.length > 0) {
+          vocabContainer.innerHTML = sentence.vocab.map(v => 
+            `<span class="vocab-chip"><b>${v.w}</b> ${v.p || ''} / ${v.d}</span>`
+          ).join('');
+        } else {
+          vocabContainer.innerHTML = `<span style="font-size:12px; color:var(--text-muted);">本句暂无重点生词标记</span>`;
+        }
+
+        // Sidebar list
+        renderSidebarList(sentences);
+
+        // Timeline reset
+        state.sentenceDurationSec = Math.max(3.0, (sentence.endTime - sentence.startTime) || 7.5);
+        state.currentTimeInSentence = 0;
+        state.currentLoopIteration = 1;
+        renderPracticeLoopStatus();
+        updateTimelineUI();
+      }
+
+      function renderSidebarList(sentences) {
+        const listEl = document.getElementById('sentenceListEl');
+        listEl.innerHTML = sentences.map((s, idx) => {
+          if (state.sidebarOnlyUnread && s.status === 'listened') return '';
+
+          const isActive = idx === state.currentSentenceIdx;
+          const numPadded = String(s.index || (idx + 1)).padStart(2, '0');
+          const timeStr = `${formatTime(s.startTime)}`;
+
+          return `
+            <div class="sentence-nav-item ${isActive ? 'active' : ''}" data-idx="${idx}">
+              <div class="item-top-row">
+                <span class="item-num">句 ${numPadded}</span>
+                <span class="item-time">${timeStr}</span>
+                ${s.bookmarked ? `<span title="已收藏" style="color:var(--warning); font-size:11px;">★</span>` : ''}
+              </div>
+              <div class="item-text-preview">${s.english}</div>
+            </div>
+          `;
+        }).join('');
+
+        listEl.querySelectorAll('.sentence-nav-item').forEach(el => {
+          el.addEventListener('click', () => {
+            const idx = parseInt(el.getAttribute('data-idx'), 10);
+            jumpToSentence(idx);
+          });
+        });
+      }
+
+      function jumpToSentence(idx) {
+        pausePlayback();
+        state.currentSentenceIdx = idx;
+        const set = getCurrentSet();
+        const sentences = set.sentences && set.sentences.length > 0 ? set.sentences : DEFAULT_EXAM_SETS[0].sentences;
+        const s = sentences[idx];
+        if (s) s.status = 'listened';
+        renderPracticeView();
+        startPlayback();
+      }
+
+      function stepSentence(delta) {
+        const set = getCurrentSet();
+        const sentences = set.sentences && set.sentences.length > 0 ? set.sentences : DEFAULT_EXAM_SETS[0].sentences;
+        const newIdx = state.currentSentenceIdx + delta;
+        if (newIdx >= 0 && newIdx < sentences.length) {
+          jumpToSentence(newIdx);
+        } else {
+          showToast(delta > 0 ? '已到本篇最后一句' : '已是第一句');
+        }
+      }
+
+      function toggleBookmarkCurrentSentence() {
+        const sentence = getCurrentSentence();
+        sentence.bookmarked = !sentence.bookmarked;
+        renderPracticeView();
+        updateReviewCountBadge();
+        showToast(sentence.bookmarked ? '★ 已加入难句库' : '已从难句库移出');
+      }
+
+      function updateMaskStyle() {
+        const enEl = document.getElementById('sentenceEnglishDisplay');
+        const noticeEl = document.getElementById('sentenceMaskNotice');
+        const maskBtnText = document.getElementById('maskBtnText');
+
+        enEl.classList.remove('mode-blur', 'mode-hidden');
+        noticeEl.classList.remove('visible');
+
+        if (state.maskMode === 'visible') {
+          maskBtnText.textContent = '遮罩原文';
+        } else if (state.maskMode === 'blur') {
+          enEl.classList.add('mode-blur');
+          noticeEl.classList.add('visible');
+          maskBtnText.textContent = '显示原文';
+        } else if (state.maskMode === 'hidden') {
+          enEl.classList.add('mode-hidden');
+          noticeEl.classList.add('visible');
+          maskBtnText.textContent = '解除隐藏';
+        }
+      }
+
+      function cycleMaskMode() {
+        if (state.maskMode === 'visible') state.maskMode = 'blur';
+        else if (state.maskMode === 'blur') state.maskMode = 'visible';
+        else state.maskMode = 'visible';
+        updateMaskStyle();
+      }
+
+      function updatePlayPauseUI() {
+        const playIcon = document.getElementById('playIcon');
+        const pauseIcon = document.getElementById('pauseIcon');
+        const wave = document.getElementById('waveVisualizer');
+
+        if (state.isPlaying) {
+          playIcon.style.display = 'none';
+          pauseIcon.style.display = 'block';
+          wave.classList.add('playing');
+        } else {
+          playIcon.style.display = 'block';
+          pauseIcon.style.display = 'none';
+          wave.classList.remove('playing');
+        }
+      }
+
+      function updateTimelineUI() {
+        const curEl = document.getElementById('audioCurrentTime');
+        const durEl = document.getElementById('audioDurationTime');
+        const progressEl = document.getElementById('timelineProgress');
+
+        const cur = state.currentTimeInSentence;
+        const dur = state.sentenceDurationSec;
+
+        curEl.textContent = formatDetailedTime(cur);
+        durEl.textContent = formatDetailedTime(dur);
+
+        const pct = Math.min(100, (cur / dur) * 100);
+        progressEl.style.width = `${pct}%`;
+      }
+
+      function renderPracticeLoopStatus() {
+        const badge = document.getElementById('loopCounterBadge');
+        if (state.loopTarget >= 999) {
+          badge.textContent = `循环: 无限`;
+        } else {
+          badge.textContent = `循环: ${state.currentLoopIteration}/${state.loopTarget}`;
+        }
+      }
+
+      /* ========================================================================
+         VIEW 3: DICTATION & WORD DIFF RENDERING
+         ======================================================================== */
+      function setupDictationView() {
+        const sentence = getCurrentSentence();
+        const set = getCurrentSet();
+
+        document.getElementById('dictationSentenceTitle').textContent = 
+          `当前训练：第 ${String(sentence.index || (state.currentSentenceIdx + 1)).padStart(2, '0')} 句 · ${set.title}`;
+
+        const textarea = document.getElementById('dictationTextarea');
+        textarea.value = '';
+        document.getElementById('dictationWordCount').textContent = '已输入 0 个单词';
+        document.getElementById('diffResultPanel').style.display = 'none';
+
+        // Pre-focus
+        setTimeout(() => textarea.focus(), 100);
+      }
+
+      function submitDictation() {
+        const sentence = getCurrentSentence();
+        const textarea = document.getElementById('dictationTextarea');
+        const userInput = textarea.value.trim();
+
+        if (!userInput) {
+          showToast('请先输入您听到的英语句子');
+          textarea.focus();
+          return;
+        }
+
+        const diffResult = computeWordDiff(
+          sentence.english, 
+          userInput, 
+          state.settings.ignoreCase, 
+          state.settings.ignorePunctuation
+        );
+
+        // Display results
+        const resultPanel = document.getElementById('diffResultPanel');
+        resultPanel.style.display = 'flex';
+
+        // Accuracy Score & Grade
+        const accEl = document.getElementById('diffAccuracyVal');
+        const gradeEl = document.getElementById('diffGradeText');
+        accEl.textContent = `${diffResult.accuracy}%`;
+
+        if (diffResult.accuracy >= 90) {
+          accEl.style.color = 'var(--success)';
+          gradeEl.textContent = '正确率 · 卓越 (优秀掌握)';
+        } else if (diffResult.accuracy >= 75) {
+          accEl.style.color = 'var(--primary)';
+          gradeEl.textContent = '正确率 · 良好 (注意微小连读拼写)';
+        } else {
+          accEl.style.color = 'var(--danger)';
+          gradeEl.textContent = '正确率 · 需加强 (建议加入错题)';
+        }
+
+        // Render Tokens
+        const tokensContainer = document.getElementById('diffTokensContainer');
+        tokensContainer.innerHTML = diffResult.tokens.map(token => {
+          if (token.type === 'correct') {
+            return `<span class="diff-token correct" title="正确匹配">✓ ${token.actual}</span>`;
+          } else if (token.type === 'wrong') {
+            return `
+              <span class="diff-token wrong" title="拼写错误/用词偏差">${token.actual}</span>
+              <span class="diff-token expected-correction" title="正确词对照">↳ ${token.expected}</span>
+            `;
+          } else if (token.type === 'missing') {
+            return `<span class="diff-token missing" title="此处漏写单词">⊙ 漏写: ${token.expected}</span>`;
+          } else if (token.type === 'extra') {
+            return `<span class="diff-token extra" title="此处多写了冗余词">✕ ${token.actual}</span>`;
+          }
+          return '';
+        }).join(' ');
+
+        // Standard references
+        document.getElementById('diffReferenceEn').textContent = sentence.english;
+        document.getElementById('diffReferenceCn').textContent = sentence.chinese || '';
+
+        // Auto mark as listened
+        sentence.status = 'listened';
+
+        // Scroll into view
+        resultPanel.scrollIntoView({ behavior: 'smooth' });
+        showToast(`核对完成！本次听写正确率 ${diffResult.accuracy}%`);
+      }
+
+      /* ========================================================================
+         VIEW 4: DIFFICULT SENTENCES REVIEW RENDERING
+         ======================================================================== */
+      function renderReviewView() {
+        const container = document.getElementById('reviewListContainer');
+        const filter = state.reviewFilter;
+
+        // Gather all bookmarked sentences
+        const bookmarkedList = [];
+        state.examSets.forEach(set => {
+          (set.sentences || []).forEach(s => {
+            if (s.bookmarked) {
+              bookmarkedList.push({
+                sentence: s,
+                set: set
+              });
+            }
+          });
+        });
+
+        // Add defaults if empty
+        if (bookmarkedList.length === 0) {
+          DEFAULT_EXAM_SETS[0].sentences.forEach(s => {
+            if (s.bookmarked) {
+              bookmarkedList.push({
+                sentence: s,
+                set: DEFAULT_EXAM_SETS[0]
+              });
+            }
+          });
+        }
+
+        const filtered = bookmarkedList.filter(item => {
+          if (filter === 'mastered' && !item.sentence.isMastered) return false;
+          if (filter === 'unmastered' && item.sentence.isMastered) return false;
+          return true;
+        });
+
+        if (filtered.length === 0) {
+          container.innerHTML = `
+            <div class="card" style="text-align:center; padding:48px 20px; color:var(--text-muted);">
+              <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin-bottom:12px;">
+                <circle cx="12" cy="12" r="10"/>
+                <polyline points="12 6 12 12 14 14"/>
+              </svg>
+              <div style="font-size:16px; font-weight:600; color:var(--text-primary); margin-bottom:4px;">当前分类无难句</div>
+              <div style="font-size:13px;">在精听或听写过程中随时点击“收藏难句”即可归档至此复习池。</div>
+            </div>
+          `;
+          return;
+        }
+
+        container.innerHTML = filtered.map(({ sentence, set }) => {
+          const isMastered = !!sentence.isMastered;
+          return `
+            <div class="review-card ${isMastered ? 'mastered' : ''}" data-sentence-id="${sentence.id}">
+              <div class="review-card-top">
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <span class="badge badge-primary">${set.title.replace('六级听力真题 ', '')}</span>
+                  <span class="badge badge-neutral">${sentence.section || 'Section A'}</span>
+                  ${isMastered ? `<span class="badge badge-success">已掌握</span>` : `<span class="badge badge-warning">待强化</span>`}
+                </div>
+
+                <button class="btn btn-subtle btn-sm toggle-mastery-btn" data-sentence-id="${sentence.id}">
+                  ${isMastered ? '移回待复习' : '标记已掌握'}
+                </button>
+              </div>
+
+              <div>
+                <div class="review-sentence-en">${sentence.english}</div>
+                <div class="review-sentence-cn" style="margin-top:4px;">${sentence.chinese}</div>
+              </div>
+
+              <div class="review-card-actions">
+                <div style="font-size:12px; color:var(--text-muted); display:flex; align-items:center; gap:12px;">
+                  <span>时长: ${formatTime(sentence.startTime)} - ${formatTime(sentence.endTime)}</span>
+                  <span>难点: 连读弱化 · 重点六级词</span>
+                </div>
+
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <button class="btn btn-outline btn-sm review-play-btn" data-sentence-id="${sentence.id}">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 3 20 12 6 21 6 3"/></svg>
+                    单句试听
+                  </button>
+                  <button class="btn btn-primary btn-sm review-redo-dictation-btn" data-sentence-id="${sentence.id}">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+                    重做听写
+                  </button>
+                </div>
+              </div>
+            </div>
+          `;
+        }).join('');
+
+        // Action handlers
+        container.querySelectorAll('.toggle-mastery-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const id = btn.getAttribute('data-sentence-id');
+            const target = bookmarkedList.find(b => b.sentence.id === id);
+            if (target) {
+              target.sentence.isMastered = !target.sentence.isMastered;
+              renderReviewView();
+              updateReviewCountBadge();
+              showToast(target.sentence.isMastered ? '已将难句标记为掌握！' : '已移回复习队列');
+            }
+          });
+        });
+
+        container.querySelectorAll('.review-play-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            playSyntheticTone(560, 0.2);
+            showToast('正在播放单句音频模拟...');
+          });
+        });
+
+        container.querySelectorAll('.review-redo-dictation-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const id = btn.getAttribute('data-sentence-id');
+            const target = bookmarkedList.find(b => b.sentence.id === id);
+            if (target) {
+              state.currentSetId = target.set.id;
+              state.currentSentenceIdx = (target.set.sentences || DEFAULT_EXAM_SETS[0].sentences).findIndex(s => s.id === id);
+              switchView('dictation');
+            }
+          });
+        });
+
+        updateReviewCountBadge();
+      }
+
+      function updateReviewCountBadge() {
+        let total = 0, unmastered = 0, mastered = 0;
+        state.examSets.forEach(set => {
+          (set.sentences || []).forEach(s => {
+            if (s.bookmarked) {
+              total++;
+              if (s.isMastered) mastered++;
+              else unmastered++;
+            }
+          });
+        });
+
+        document.getElementById('reviewCountBadge').textContent = total;
+        document.getElementById('totalBookmarkCount').textContent = total;
+        document.getElementById('unmasteredBookmarkCount').textContent = unmastered;
+        document.getElementById('masteredBookmarkCount').textContent = mastered;
+        document.getElementById('kpiPendingReviewNum').innerHTML = `${unmastered} <span style="font-size:15px; font-weight:500; color:var(--text-muted);">句</span>`;
+      }
+
+      /* ========================================================================
+         VIEW 5: STATS RENDERING
+         ======================================================================== */
+      function renderStatsView() {
+        const tbody = document.getElementById('statsTableBody');
+        tbody.innerHTML = state.examSets.map(set => {
+          const pct = Math.round((set.completedCount / set.sentenceCount) * 100);
+          return `
+            <tr>
+              <td><strong>${set.title}</strong></td>
+              <td>${set.sentenceCount} 句</td>
+              <td>${set.completedCount} 句</td>
+              <td>
+                <div style="display:flex; align-items:center; gap:8px;">
+                  <div class="progress-bar-bg" style="width:100px;">
+                    <div class="progress-bar-fill" style="width:${pct}%;"></div>
+                  </div>
+                  <span style="font-size:12px; color:var(--text-muted);">${pct}%</span>
+                </div>
+              </td>
+              <td>
+                ${set.accuracy > 0 ? `<span class="badge badge-success">${set.accuracy}%</span>` : `<span style="color:var(--text-muted);">-</span>`}
+              </td>
+              <td>
+                <button class="btn btn-outline btn-sm stats-jump-btn" data-set-id="${set.id}">
+                  练习
+                </button>
+              </td>
+            </tr>
+          `;
+        }).join('');
+
+        tbody.querySelectorAll('.stats-jump-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            selectExamSet(btn.getAttribute('data-set-id'));
+            switchView('practice');
+          });
+        });
+      }
+
+      /* ------------------------------------------------------------------------
+         6. HELPERS: Formatting, Toast & Theme
+         ------------------------------------------------------------------------ */
+      function formatTime(seconds) {
+        if (!seconds) return '00:00';
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}`;
+      }
+
+      function formatDetailedTime(seconds) {
+        if (!seconds) return '00:00.0';
+        const mins = Math.floor(seconds / 60);
+        const secs = Math.floor(seconds % 60);
+        const tenths = Math.floor((seconds % 1) * 10);
+        return `${String(mins).padStart(2, '0')}:${String(secs).padStart(2, '0')}.${tenths}`;
+      }
+
+      function showToast(message) {
+        const container = document.getElementById('toastContainer');
+        const toast = document.createElement('div');
+        toast.className = 'toast-item';
+        toast.innerHTML = `
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"/>
+            <polyline points="12 6 12 12 14 14"/>
+          </svg>
+          <span>${message}</span>
+        `;
+        container.appendChild(toast);
+        setTimeout(() => {
+          toast.style.opacity = '0';
+          toast.style.transition = 'opacity 250ms ease';
+          setTimeout(() => toast.remove(), 250);
+        }, 2200);
+      }
+
+      function toggleTheme() {
+        const doc = document.documentElement;
+        const isDark = doc.getAttribute('data-theme') === 'dark';
+        const nextTheme = isDark ? 'light' : 'dark';
+        doc.setAttribute('data-theme', nextTheme);
+        state.settings.theme = nextTheme;
+
+        const sun = document.getElementById('themeIconSun');
+        const moon = document.getElementById('themeIconMoon');
+        if (nextTheme === 'dark') {
+          sun.style.display = 'none';
+          moon.style.display = 'block';
+        } else {
+          sun.style.display = 'block';
+          moon.style.display = 'none';
+        }
+        showToast(nextTheme === 'dark' ? '已开启深色护眼模式' : '已切换浅色模式');
+      }
+
+      /* ------------------------------------------------------------------------
+         7. EVENT LISTENERS SETUP
+         ------------------------------------------------------------------------ */
+      function initEventListeners() {
+        // Navigation Tabs
+        document.querySelectorAll('.nav-tab-btn').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const view = btn.getAttribute('data-view');
+            switchView(view);
+          });
+        });
+
+        // Theme Toggle
+        document.getElementById('themeToggleBtn').addEventListener('click', toggleTheme);
+
+        // Shortcuts Modal
+        const scModal = document.getElementById('shortcutsModal');
+        document.getElementById('shortcutHelpBtn').addEventListener('click', () => scModal.classList.add('open'));
+        document.getElementById('closeShortcutsModalBtn').addEventListener('click', () => scModal.classList.remove('open'));
+        document.getElementById('shortcutsModalOkBtn').addEventListener('click', () => scModal.classList.remove('open'));
+
+        // Import Modal
+        const importModal = document.getElementById('importModal');
+        document.getElementById('openImportModalBtn').addEventListener('click', () => importModal.classList.add('open'));
+        document.getElementById('closeImportModalBtn').addEventListener('click', () => importModal.classList.remove('open'));
+        document.getElementById('importCancelBtn').addEventListener('click', () => importModal.classList.remove('open'));
+        document.getElementById('importConfirmBtn').addEventListener('click', () => {
+          const title = document.getElementById('importSetTitleInput').value.trim() || '导入自定义套卷';
+          const newSet = {
+            id: 'custom-' + Date.now(),
+            title: title,
+            year: 2024,
+            month: 12,
+            setNumber: 1,
+            category: '自导入',
+            sectionTypes: ['Section A', 'Section B'],
+            durationMinutes: 20,
+            sentenceCount: 15,
+            completedCount: 0,
+            accuracy: 0,
+            inProgress: false,
+            sentences: JSON.parse(JSON.stringify(DEFAULT_EXAM_SETS[0].sentences))
+          };
+          state.examSets.unshift(newSet);
+          importModal.classList.remove('open');
+          selectExamSet(newSet.id);
+          switchView('practice');
+          showToast(`导入成功！已载入「${title}」`);
+        });
+
+        // Library Filters & Search
+        document.querySelectorAll('.filter-pill[data-filter]').forEach(pill => {
+          pill.addEventListener('click', () => {
+            document.querySelectorAll('.filter-pill[data-filter]').forEach(p => p.classList.remove('active'));
+            pill.classList.add('active');
+            state.libraryFilter = pill.getAttribute('data-filter');
+            renderLibrary();
+          });
+        });
+
+        document.getElementById('librarySearchInput').addEventListener('input', (e) => {
+          state.librarySearchQuery = e.target.value;
+          renderLibrary();
+        });
+
+        // Review Filters
+        document.querySelectorAll('.filter-pill[data-review-filter]').forEach(pill => {
+          pill.addEventListener('click', () => {
+            document.querySelectorAll('.filter-pill[data-review-filter]').forEach(p => p.classList.remove('active'));
+            pill.classList.add('active');
+            state.reviewFilter = pill.getAttribute('data-review-filter');
+            renderReviewView();
+          });
+        });
+
+        document.getElementById('startContinuousReviewBtn').addEventListener('click', () => {
+          showToast('进入连续复习模式...');
+          switchView('dictation');
+        });
+
+        // Practice Controls
+        document.getElementById('mainPlayPauseBtn').addEventListener('click', togglePlayPause);
+        document.getElementById('replaySentenceBtn').addEventListener('click', replayCurrentSentence);
+        document.getElementById('prevSentenceBtn').addEventListener('click', () => stepSentence(-1));
+        document.getElementById('nextSentenceBtn').addEventListener('click', () => stepSentence(1));
+        document.getElementById('bookmarkToggleBtn').addEventListener('click', toggleBookmarkCurrentSentence);
+        document.getElementById('toggleMaskBtn').addEventListener('click', cycleMaskMode);
+
+        // Speed & Loop selectors
+        document.getElementById('speedSelect').addEventListener('change', (e) => {
+          state.playbackRate = parseFloat(e.target.value);
+          showToast(`已切换至 ${state.playbackRate}x 语速`);
+        });
+
+        document.getElementById('loopSelect').addEventListener('change', (e) => {
+          state.loopTarget = parseInt(e.target.value, 10);
+          state.currentLoopIteration = 1;
+          renderPracticeLoopStatus();
+        });
+
+        // A-B Repeat Controls
+        document.getElementById('btnSetA').addEventListener('click', () => {
+          const ratio = state.currentTimeInSentence / state.sentenceDurationSec;
+          state.abPointA = Math.max(0, ratio);
+          const marker = document.getElementById('markerPointA');
+          marker.style.left = `${state.abPointA * 100}%`;
+          marker.style.display = 'block';
+          document.getElementById('abStatusBadge').style.display = 'inline-flex';
+          showToast('已设定 A 点 (循环起点)');
+        });
+
+        document.getElementById('btnSetB').addEventListener('click', () => {
+          const ratio = state.currentTimeInSentence / state.sentenceDurationSec;
+          state.abPointB = Math.min(1, ratio);
+          const marker = document.getElementById('markerPointB');
+          marker.style.left = `${state.abPointB * 100}%`;
+          marker.style.display = 'block';
+          document.getElementById('abStatusBadge').style.display = 'inline-flex';
+          showToast('已设定 B 点 (循环终点)');
+        });
+
+        document.getElementById('btnClearAB').addEventListener('click', () => {
+          state.abPointA = null;
+          state.abPointB = null;
+          document.getElementById('markerPointA').style.display = 'none';
+          document.getElementById('markerPointB').style.display = 'none';
+          document.getElementById('abStatusBadge').style.display = 'none';
+          showToast('已清除 A-B 区间');
+        });
+
+        // Translation accordion toggle
+        document.getElementById('toggleTransContentBtn').addEventListener('click', (e) => {
+          const transContent = document.getElementById('sentenceChineseDisplay');
+          const isHidden = transContent.style.display === 'none';
+          transContent.style.display = isHidden ? 'block' : 'none';
+          e.target.textContent = isHidden ? '收起译文' : '展开译文';
+        });
+
+        // Jump to dictation from practice
+        document.getElementById('jumpToDictationBtn').addEventListener('click', () => {
+          switchView('dictation');
+        });
+
+        // Dictation Action Handlers
+        document.getElementById('backToPracticeBtn').addEventListener('click', () => {
+          switchView('practice');
+        });
+
+        document.getElementById('dictationPlayBtn').addEventListener('click', () => {
+          playSyntheticTone(500, 0.15);
+          showToast('正在播放当前句音频...');
+        });
+
+        document.getElementById('dictationSlowBtn').addEventListener('click', () => {
+          playSyntheticTone(440, 0.2);
+          showToast('正在以 0.75x 慢速重听...');
+        });
+
+        // Fill sample buttons for quick testing
+        document.getElementById('fillCorrectDemoBtn').addEventListener('click', () => {
+          const sentence = getCurrentSentence();
+          const textarea = document.getElementById('dictationTextarea');
+          textarea.value = sentence.english;
+          document.getElementById('dictationWordCount').textContent = `已输入 ${tokenize(sentence.english).length} 个单词`;
+          submitDictation();
+        });
+
+        document.getElementById('fillErrorDemoBtn').addEventListener('click', () => {
+          // Provide realistic errors: mistyped word, missing word, extra word
+          const sentence = getCurrentSentence();
+          const words = tokenize(sentence.english);
+          if (words.length > 5) {
+            words[1] = "modernize"; // typo
+            words.splice(3, 1);    // missing word
+            words.splice(5, 0, "completely"); // extra word
+          }
+          const text = words.join(' ');
+          const textarea = document.getElementById('dictationTextarea');
+          textarea.value = text;
+          document.getElementById('dictationWordCount').textContent = `已输入 ${tokenize(text).length} 个单词`;
+          submitDictation();
+        });
+
+        document.getElementById('clearDictationInputBtn').addEventListener('click', () => {
+          document.getElementById('dictationTextarea').value = '';
+          document.getElementById('dictationWordCount').textContent = '已输入 0 个单词';
+          document.getElementById('diffResultPanel').style.display = 'none';
+        });
+
+        document.getElementById('submitDictationBtn').addEventListener('click', submitDictation);
+
+        document.getElementById('retryDictationBtn').addEventListener('click', () => {
+          document.getElementById('diffResultPanel').style.display = 'none';
+          document.getElementById('dictationTextarea').focus();
+          showToast('已重置输入，请再次尝试！');
+        });
+
+        document.getElementById('diffBookmarkBtn').addEventListener('click', () => {
+          toggleBookmarkCurrentSentence();
+        });
+
+        document.getElementById('dictationNextSentenceBtn').addEventListener('click', () => {
+          stepSentence(1);
+          switchView('dictation');
+        });
+
+        // Dictation textarea input live word count
+        document.getElementById('dictationTextarea').addEventListener('input', (e) => {
+          const count = tokenize(e.target.value).length;
+          document.getElementById('dictationWordCount').textContent = `已输入 ${count} 个单词`;
+        });
+
+        // Settings Form Elements
+        document.getElementById('settingDefaultSpeed').addEventListener('change', (e) => {
+          state.settings.defaultSpeed = parseFloat(e.target.value);
+          state.playbackRate = state.settings.defaultSpeed;
+          document.getElementById('speedSelect').value = e.target.value;
+          showToast('已保存默认倍速设置');
+        });
+
+        document.getElementById('settingDefaultLoop').addEventListener('change', (e) => {
+          state.settings.defaultLoop = parseInt(e.target.value, 10);
+          state.loopTarget = state.settings.defaultLoop;
+          document.getElementById('loopSelect').value = e.target.value;
+          showToast('已保存默认循环次数设置');
+        });
+
+        document.getElementById('settingDefaultVisibility').addEventListener('change', (e) => {
+          state.settings.defaultVisibility = e.target.value;
+          state.maskMode = e.target.value;
+          updateMaskStyle();
+          showToast('已保存原文显示设置');
+        });
+
+        document.getElementById('settingAutoNext').addEventListener('change', (e) => {
+          state.settings.autoNext = e.target.checked;
+          showToast(e.target.checked ? '已开启连播下一句' : '已关闭自动连播');
+        });
+
+        document.getElementById('settingIgnoreCase').addEventListener('change', (e) => {
+          state.settings.ignoreCase = e.target.checked;
+          showToast('已更新大小写容忍偏好');
+        });
+
+        document.getElementById('settingIgnorePunctuation').addEventListener('change', (e) => {
+          state.settings.ignorePunctuation = e.target.checked;
+          showToast('已更新标点容忍偏好');
+        });
+
+        document.getElementById('resetDataBtn').addEventListener('click', () => {
+          if (confirm('确认重置所有本地练习进度与错题本数据吗？')) {
+            state.examSets = JSON.parse(JSON.stringify(DEFAULT_EXAM_SETS));
+            state.currentSentenceIdx = 3;
+            renderLibrary();
+            renderPracticeView();
+            updateReviewCountBadge();
+            showToast('已重置所有数据为初始预设状态！');
+          }
+        });
+
+        // Global Keyboard Shortcuts
+        window.addEventListener('keydown', (e) => {
+          // If in textarea and wants Ctrl+Enter to submit
+          if (e.target.tagName === 'TEXTAREA' || e.target.tagName === 'INPUT') {
+            if (e.ctrlKey && e.key === 'Enter') {
+              e.preventDefault();
+              submitDictation();
+            }
+            return;
+          }
+
+          if (e.code === 'Space') {
+            e.preventDefault();
+            togglePlayPause();
+          } else if (e.key === 'r' || e.key === 'R') {
+            e.preventDefault();
+            replayCurrentSentence();
+          } else if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            stepSentence(-1);
+          } else if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            stepSentence(1);
+          } else if (e.key === 'Tab') {
+            e.preventDefault();
+            cycleMaskMode();
+          } else if (e.key === 'b' || e.key === 'B') {
+            e.preventDefault();
+            toggleBookmarkCurrentSentence();
+          }
+        });
+      }
+
+      /* ------------------------------------------------------------------------
+         8. INITIALIZATION
+         ------------------------------------------------------------------------ */
+      function init() {
+        initEventListeners();
+        renderLibrary();
+        renderPracticeView();
+        updateReviewCountBadge();
+      }
+
+      // Run on DOM ready
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+
+    })();
+  </script>
+</body>
+</html>
