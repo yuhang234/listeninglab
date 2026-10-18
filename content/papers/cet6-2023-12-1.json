@@ -1,0 +1,167 @@
+{
+  "id": "cet6-2023-12-1",
+  "title": "2023年12月 六级听力真题 (第1套)",
+  "year": 2023,
+  "month": 12,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 1500,
+  "sentence_count": 5,
+  "version": 1,
+  "audio_path": "content/papers/placeholder.mp3",
+  "sections": [
+    {
+      "id": "cet6-2023-12-1_sec_0",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section B · 听力篇章 1",
+      "section_type": "Section B",
+      "sort_order": 0
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2023-12-1_s_1",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "idx": 1,
+      "english": "In recent years, artificial intelligence has transformed numerous industries from healthcare to transportation.",
+      "chinese": "近年来，人工智能已从医疗保健到交通运输改变了众多行业。",
+      "start_time": 0,
+      "end_time": 9,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "artificial intelligence",
+          "definition": "人工智能"
+        },
+        {
+          "word": "transform",
+          "definition": "改变"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_2",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "idx": 2,
+      "english": "Machine learning algorithms can now diagnose diseases with accuracy comparable to experienced physicians.",
+      "chinese": "机器学习算法现在能够以与经验丰富的医生相当的准确度诊断疾病。",
+      "start_time": 9,
+      "end_time": 17,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "algorithms",
+          "definition": "算法"
+        },
+        {
+          "word": "diagnose",
+          "definition": "诊断"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_3",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "idx": 3,
+      "english": "Despite these advances, ethical concerns regarding privacy and job displacement remain significant.",
+      "chinese": "尽管取得了这些进步，关于隐私和就业岗位流失的伦理担忧仍然重大。",
+      "start_time": 17,
+      "end_time": 25,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "ethical",
+          "definition": "伦理的"
+        },
+        {
+          "word": "displacement",
+          "definition": "流失/取代"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_4",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "idx": 4,
+      "english": "Researchers emphasize the importance of developing transparent and accountable AI systems.",
+      "chinese": "研究人员强调开发透明和负责任的人工智能系统的重要性。",
+      "start_time": 25,
+      "end_time": 33,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "transparent",
+          "definition": "透明的"
+        },
+        {
+          "word": "accountable",
+          "definition": "负责任的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_5",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "idx": 5,
+      "english": "The future of AI depends on balancing technological innovation with social responsibility.",
+      "chinese": "人工智能的未来取决于平衡技术创新与社会责任。",
+      "start_time": 33,
+      "end_time": 40,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "innovation",
+          "definition": "创新"
+        },
+        {
+          "word": "responsibility",
+          "definition": "责任"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2023-12-1_q_1",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "sentence_id": null,
+      "idx": 1,
+      "question_text": "What is the passage mainly about?",
+      "options": "[\"A) Healthcare reform\",\"B) AI and its impact\",\"C) Transportation technology\",\"D) Medical education\"]",
+      "answer": "B",
+      "explanation": "The passage focuses on how AI has transformed industries and the ethical concerns involved."
+    },
+    {
+      "id": "cet6-2023-12-1_q_2",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_0",
+      "sentence_id": null,
+      "idx": 2,
+      "question_text": "What ethical concern is mentioned in the passage?",
+      "options": "[\"A) Data security\",\"B) Privacy and job displacement\",\"C) Environmental damage\",\"D) High costs\"]",
+      "answer": "B",
+      "explanation": "The speaker mentions ethical concerns regarding privacy and job displacement."
+    }
+  ]
+}

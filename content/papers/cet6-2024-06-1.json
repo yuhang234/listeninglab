@@ -1,0 +1,167 @@
+{
+  "id": "cet6-2024-06-1",
+  "title": "2024年6月 六级听力真题 (第1套)",
+  "year": 2024,
+  "month": 6,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 1560,
+  "sentence_count": 5,
+  "version": 1,
+  "audio_path": "content/papers/placeholder.mp3",
+  "sections": [
+    {
+      "id": "cet6-2024-06-1_sec_0",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section A · 长对话 1",
+      "section_type": "Section A",
+      "sort_order": 0
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2024-06-1_s_1",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "idx": 1,
+      "english": "Good morning, everyone. Today we'll discuss urban planning and sustainable development.",
+      "chinese": "大家早上好。今天我们将讨论城市规划和可持续发展。",
+      "start_time": 0,
+      "end_time": 8,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "urban planning",
+          "definition": "城市规划"
+        },
+        {
+          "word": "sustainable",
+          "definition": "可持续的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_2",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "idx": 2,
+      "english": "Cities around the world are facing unprecedented challenges from climate change and rapid urbanization.",
+      "chinese": "世界各地的城市正面临来自气候变化和快速城市化前所未有的挑战。",
+      "start_time": 8,
+      "end_time": 16,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "unprecedented",
+          "definition": "前所未有的"
+        },
+        {
+          "word": "urbanization",
+          "definition": "城市化"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_3",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "idx": 3,
+      "english": "Green roofs and permeable pavements can absorb significant amounts of precipitation.",
+      "chinese": "绿色屋顶和透水路面可以吸收大量的降水。",
+      "start_time": 16,
+      "end_time": 23,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "permeable",
+          "definition": "可渗透的"
+        },
+        {
+          "word": "precipitation",
+          "definition": "降水"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_4",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "idx": 4,
+      "english": "However, modern urban designers are increasingly advocating for nature-based solutions and green architecture.",
+      "chinese": "然而，现代城市设计师越来越提倡基于自然的解决方案和绿色建筑。",
+      "start_time": 23,
+      "end_time": 32,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "advocate for",
+          "definition": "提倡支持"
+        },
+        {
+          "word": "architecture",
+          "definition": "建筑设计"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_5",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "idx": 5,
+      "english": "These innovative approaches not only reduce environmental impact but also improve residents' quality of life.",
+      "chinese": "这些创新方法不仅减少环境影响，还提高了居民的生活质量。",
+      "start_time": 32,
+      "end_time": 40,
+      "audio_path": null,
+      "key_vocab": [
+        {
+          "word": "innovative",
+          "definition": "创新的"
+        },
+        {
+          "word": "residents",
+          "definition": "居民"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2024-06-1_q_1",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "sentence_id": null,
+      "idx": 1,
+      "question_text": "What is the main topic of this conversation?",
+      "options": "[\"A) Climate change\",\"B) Urban planning and sustainability\",\"C) Green architecture\",\"D) Population growth\"]",
+      "answer": "B",
+      "explanation": "The speaker introduces urban planning and sustainable development at the beginning."
+    },
+    {
+      "id": "cet6-2024-06-1_q_2",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_0",
+      "sentence_id": null,
+      "idx": 2,
+      "question_text": "According to the speaker, what can green roofs do?",
+      "options": "[\"A) Reduce noise\",\"B) Absorb precipitation\",\"C) Generate electricity\",\"D) Cool buildings\"]",
+      "answer": "B",
+      "explanation": "The speaker explicitly mentions that green roofs can absorb significant amounts of precipitation."
+    }
+  ]
+}
