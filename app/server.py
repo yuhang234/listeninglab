@@ -102,6 +102,16 @@ class APIHandler(BaseHTTPRequestHandler):
         file_path = os.path.join(STATIC_DIR, path.lstrip("/"))
         safe_path = os.path.abspath(os.path.normpath(file_path))
         if not safe_path.startswith(os.path.abspath(STATIC_DIR)):
+            # Allow serving content/papers/ audio files
+            if path.startswith("/content/papers/"):
+                content_path = os.path.abspath(os.path.normpath(path.lstrip("/")))
+                if os.path.isfile(content_path):
+                    self.send_response(200)
+                    self.send_header("Content-Type", "audio/mpeg")
+                    self.end_headers()
+                    with open(content_path, "rb") as f:
+                        shutil.copyfileobj(f, self.wfile)
+                    return
             error_response(self, "forbidden", 403)
             return
 
