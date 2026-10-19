@@ -739,8 +739,8 @@
     }
 
     .sentence-english-text.mode-hidden {
-      filter: blur(16px);
-      opacity: 0.15;
+      filter: blur(20px);
+      opacity: 0;
       user-select: none;
     }
 

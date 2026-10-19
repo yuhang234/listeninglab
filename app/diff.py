@@ -6,9 +6,14 @@ from typing import List, Dict, Any
 def tokenize(text: str, ignore_punctuation: bool = True, case_sensitive: bool = False) -> List[str]:
     if not case_sensitive:
         text = text.lower()
+    text = re.sub(r"[’‘＇`]", "'", text)
     if ignore_punctuation:
         text = re.sub(r"[^\w\s'-]", " ", text)
-    tokens = text.strip().split()
+    raw_tokens = text.strip().split()
+    if ignore_punctuation:
+        tokens = [t.strip("'-_") for t in raw_tokens if t.strip("'-_")]
+    else:
+        tokens = raw_tokens
     return tokens
 
 

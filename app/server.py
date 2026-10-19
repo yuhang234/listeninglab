@@ -30,6 +30,55 @@ def error_response(handler, message, status=400):
     json_response(handler, {"error": message}, status)
 
 
+def send_audio_file(handler, file_path):
+    try:
+        file_size = os.path.getsize(file_path)
+    except OSError:
+        error_response(handler, "not found", 404)
+        return
+
+    range_header = handler.headers.get("Range")
+    if range_header and range_header.startswith("bytes="):
+        try:
+            ranges = range_header[6:].split("-")
+            start = int(ranges[0]) if ranges[0] else 0
+            end = int(ranges[1]) if len(ranges) > 1 and ranges[1] else file_size - 1
+            if start >= file_size or end >= file_size or start > end:
+                handler.send_response(416)
+                handler.send_header("Content-Range", f"bytes */{file_size}")
+                handler.end_headers()
+                return
+            length = end - start + 1
+            handler.send_response(206)
+            handler.send_header("Content-Type", "audio/mpeg")
+            handler.send_header("Content-Range", f"bytes {start}-{end}/{file_size}")
+            handler.send_header("Content-Length", str(length))
+            handler.send_header("Accept-Ranges", "bytes")
+            handler.send_header("Access-Control-Allow-Origin", "*")
+            handler.end_headers()
+            with open(file_path, "rb") as f:
+                f.seek(start)
+                remaining = length
+                while remaining > 0:
+                    chunk = f.read(min(remaining, 64 * 1024))
+                    if not chunk:
+                        break
+                    handler.wfile.write(chunk)
+                    remaining -= len(chunk)
+            return
+        except (ValueError, IOError):
+            pass
+
+    handler.send_response(200)
+    handler.send_header("Content-Type", "audio/mpeg")
+    handler.send_header("Content-Length", str(file_size))
+    handler.send_header("Accept-Ranges", "bytes")
+    handler.send_header("Access-Control-Allow-Origin", "*")
+    handler.end_headers()
+    with open(file_path, "rb") as f:
+        shutil.copyfileobj(f, handler.wfile)
+
+
 class APIHandler(BaseHTTPRequestHandler):
     def log_message(self, fmt, *args):
         pass  # Quiet logs
@@ -104,17 +153,27 @@ class APIHandler(BaseHTTPRequestHandler):
                 error_response(self, "forbidden", 403)
                 return
             if os.path.isfile(content_path):
-                self.send_response(200)
-                self.send_header("Content-Type", "audio/mpeg")
-                self.end_headers()
-                with open(content_path, "rb") as f:
-                    shutil.copyfileobj(f, self.wfile)
+                send_audio_file(self, content_path)
                 return
             else:
                 parts = path.strip("/").split("/")
                 paper_name = parts[2] if len(parts) > 2 else ""
                 cmd = f"python3 content/tts/synthesize.py content/papers/{paper_name}.json" if paper_name else "python3 content/tts/synthesize.py"
                 error_response(self, f"音频文件缺失: {path.lstrip('/')}。请在终端执行 '{cmd}' 重新合成音频。", 404)
+                return
+
+        # Content imported audio files
+        if path.startswith("/content/imported/"):
+            content_path = os.path.abspath(os.path.normpath(path.lstrip("/")))
+            imported_root = os.path.abspath("content/imported")
+            if not content_path.startswith(imported_root):
+                error_response(self, "forbidden", 403)
+                return
+            if os.path.isfile(content_path):
+                send_audio_file(self, content_path)
+                return
+            else:
+                error_response(self, f"导入音频文件缺失: {path.lstrip('/')}", 404)
                 return
 
         # Static files
@@ -254,7 +313,17 @@ class APIHandler(BaseHTTPRequestHandler):
             name = cd_match.group(1)
             filename = cd_match.group(2)
 
-            if filename:
+            if filename and name == "audio":
+                os.makedirs(UPLOAD_DIR, exist_ok=True)
+                dest = os.path.join(UPLOAD_DIR, filename)
+                with open(dest, "wb") as f:
+                    f.write(payload)
+                uploaded_audio_path = dest
+            elif filename and name in ("subtitle", "subtitles", "subtitle_file"):
+                fields["subtitle"] = payload.decode("utf-8", errors="ignore")
+                if "subtitle_format" not in fields:
+                    fields["subtitle_format"] = filename.split(".")[-1].lower()
+            elif filename:
                 os.makedirs(UPLOAD_DIR, exist_ok=True)
                 dest = os.path.join(UPLOAD_DIR, filename)
                 with open(dest, "wb") as f:
@@ -270,6 +339,8 @@ class APIHandler(BaseHTTPRequestHandler):
         try:
             result = import_data.handle_import(paper_id, uploaded_audio_path or "", subtitle_text, subtitle_format)
             json_response(self, result)
+        except ValueError as e:
+            error_response(self, str(e), 400)
         except Exception as e:
             error_response(self, str(e), 500)
 

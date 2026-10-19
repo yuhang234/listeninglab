@@ -163,52 +163,81 @@ def import_paper_data(data: Dict[str, Any]) -> bool:
 
 
 def parse_subtitle(text: str, fmt: str) -> List[Dict[str, Any]]:
-    fmt = fmt.lower()
+    fmt = fmt.lower().strip()
+    if fmt not in ("srt", "lrc", "txt"):
+        raise ValueError(f"不支持的字幕格式: '{fmt}'。仅支持 SRT、LRC、TXT 格式。")
+
+    if not text.strip():
+        return []
+
     sentences = []
     if fmt == "srt":
         blocks = re.split(r"\n\s*\n", text.strip())
         idx = 0
         for block in blocks:
             lines = [l.strip() for l in block.splitlines() if l.strip()]
-            if len(lines) < 3:
+            if len(lines) < 2:
                 continue
-            time_line = lines[1]
+            time_line_idx = -1
+            for li, line in enumerate(lines):
+                if "-->" in line:
+                    time_line_idx = li
+                    break
+            if time_line_idx == -1:
+                continue
+            time_line = lines[time_line_idx]
             m = re.match(r"(.+?)\s*-->\s*(.+)", time_line)
             if not m:
                 continue
             start = _parse_time(m.group(1).strip())
             end = _parse_time(m.group(2).strip())
-            content = " ".join(lines[2:])
+            content = " ".join(lines[time_line_idx + 1:]).strip()
+            if not content:
+                continue
             idx += 1
             sentences.append({"idx": idx, "english": content, "start_time": start, "end_time": end})
+        if not sentences:
+            raise ValueError("SRT 字幕格式无效: 未解析到有效的时间轴与句子内容。")
     elif fmt == "lrc":
-        pattern = re.compile(r"\[(\d{2}):(.+?)\](.*)")
+        pattern = re.compile(r"\[(\d{1,2}):(.+?)\](.*)")
         entries = []
         for line in text.splitlines():
-            m = pattern.match(line.strip())
+            line_str = line.strip()
+            if not line_str:
+                continue
+            m = pattern.match(line_str)
             if m:
                 mm = int(m.group(1))
-                ss = float(m.group(2))
-                entries.append({"time": mm * 60 + ss, "text": m.group(3).strip()})
+                ss = float(m.group(2).replace(",", "."))
+                text_content = m.group(3).strip()
+                if text_content:
+                    entries.append({"time": mm * 60 + ss, "text": text_content})
         entries.sort(key=lambda x: x["time"])
         for i, e in enumerate(entries):
             end_time = entries[i + 1]["time"] if i + 1 < len(entries) else e["time"] + 5
             sentences.append({"idx": i + 1, "english": e["text"], "start_time": e["time"], "end_time": end_time})
+        if not sentences:
+            raise ValueError("LRC 歌词格式无效: 未解析到有效的时间标签 [分:秒] 与歌词内容。")
     elif fmt == "txt":
         lines = [l.strip() for l in text.splitlines() if l.strip()]
         for i, line in enumerate(lines):
             sentences.append({"idx": i + 1, "english": line, "start_time": 0, "end_time": 0})
+        if not sentences:
+            raise ValueError("TXT 文本为空或无有效内容。")
     return sentences
 
 
 def _parse_time(t: str) -> float:
     t = t.replace(",", ".")
     parts = t.split(":")
-    if len(parts) == 3:
-        return int(parts[0]) * 3600 + int(parts[1]) * 60 + float(parts[2])
-    elif len(parts) == 2:
-        return int(parts[0]) * 60 + float(parts[1])
-    return float(parts[0])
+    try:
+        if len(parts) == 3:
+            return int(parts[0]) * 3600 + int(parts[1]) * 60 + float(parts[2])
+        elif len(parts) == 2:
+            return int(parts[0]) * 60 + float(parts[1])
+        return float(parts[0])
+    except (ValueError, TypeError) as e:
+        raise ValueError(f"时间格式无效: '{t}'") from e
 
 
 def handle_import(paper_id: str, audio_file_path: str, subtitle_text: str, subtitle_format: str) -> Dict[str, Any]:

@@ -45,6 +45,7 @@ const state = {
   },
   dictationResult: null,
 };
+window.appState = state;
 
 function showView(viewName) {
   const viewId = 'view-' + viewName;
@@ -62,6 +63,12 @@ function formatTime(s) {
   return m + ':' + String(sec).padStart(2, '0') + (ms ? '.' + ms : '');
 }
 
+function formatDuration(sec) {
+  if (!sec || !isFinite(sec)) return '0 分钟';
+  const m = Math.round(sec / 60);
+  return m > 0 ? `${m} 分钟` : `${Math.round(sec)} 秒`;
+}
+
 async function init() {
   state.settings = await apiGet('/api/settings');
   applyTheme(state.settings.theme || 'light');
@@ -73,6 +80,8 @@ async function init() {
   renderStats();
   renderSettings();
   setupPlayer();
+  setupDictation();
+  setupSettings();
   setupNav();
   setupKeyboard();
   setupImport();
@@ -109,6 +118,23 @@ function setupNav() {
   $('#closeShortcutsModalBtn').addEventListener('click', () => {
     $('#shortcutsModal').classList.remove('active');
   });
+
+  // Material Library filters and search
+  $$('.filter-pill').forEach(btn => {
+    btn.addEventListener('click', () => {
+      $$('.filter-pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      state.libraryFilter = btn.dataset.filter || 'all';
+      renderLibrary();
+    });
+  });
+  const searchInput = $('#librarySearchInput');
+  if (searchInput) {
+    searchInput.addEventListener('input', e => {
+      state.librarySearch = e.target.value.trim().toLowerCase();
+      renderLibrary();
+    });
+  }
 }
 
 function toggleTheme() {
@@ -123,11 +149,40 @@ function toggleTheme() {
 function renderLibrary() {
   const grid = $('#setGridContainer');
   if (!grid) return;
-  if (!state.papers.length) {
-    grid.innerHTML = '<div class="card" style="grid-column:1/-1;padding:40px;text-align:center;color:var(--text-muted)">暂无听力材料，请点击右上角导入本地音频/字幕。</div>';
+
+  let filtered = state.papers;
+  if (state.libraryFilter === 'in_progress') {
+    filtered = filtered.filter(p => {
+      const idx = (p.progress && p.progress.current_sentence_idx) || 0;
+      return idx > 0 && (!p.sentence_count || idx < p.sentence_count);
+    });
+  } else if (state.libraryFilter === 'completed') {
+    filtered = filtered.filter(p => {
+      const idx = (p.progress && p.progress.current_sentence_idx) || 0;
+      return p.sentence_count && idx >= p.sentence_count;
+    });
+  } else if (state.libraryFilter === 'unstarted') {
+    filtered = filtered.filter(p => {
+      const idx = (p.progress && p.progress.current_sentence_idx) || 0;
+      return idx === 0;
+    });
+  } else if (state.libraryFilter === '2024') {
+    filtered = filtered.filter(p => p.year === 2024);
+  } else if (state.libraryFilter === '2023') {
+    filtered = filtered.filter(p => p.year === 2023);
+  }
+
+  if (state.librarySearch) {
+    const q = state.librarySearch.toLowerCase();
+    filtered = filtered.filter(p => (p.title || '').toLowerCase().includes(q) || (p.id || '').toLowerCase().includes(q));
+  }
+
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="card" style="grid-column:1/-1;padding:40px;text-align:center;color:var(--text-muted)">暂无匹配的听力材料。</div>';
+    $('#libraryCountBadge').textContent = state.papers.length;
     return;
   }
-  grid.innerHTML = state.papers.map(p => {
+  grid.innerHTML = filtered.map(p => {
     const progress = p.progress || {};
     const pct = p.sentence_count ? Math.round(((progress.current_sentence_idx || 0) / p.sentence_count) * 100) : 0;
     return `
@@ -139,13 +194,14 @@ function renderLibrary() {
             <span class="badge badge-neutral">${p.year || '自定义'}</span>
             <span class="badge badge-neutral">${p.category === 'custom-import' ? '导入' : '真题'}</span>
             <span class="badge badge-neutral">${p.sentence_count || 0} 句</span>
+            <span class="badge badge-neutral">${formatDuration(p.total_duration_sec)}</span>
           </div>
         </div>
       </div>
       <div class="progress-bar-bg"><div class="progress-bar-fill" style="width:${pct}%"></div></div>
       <div class="set-stats-row">
         <span>进度 ${pct}%</span>
-        <span>${p.sentence_count || 0} 句</span>
+        <span>${p.sentence_count || 0} 句 · ${formatDuration(p.total_duration_sec)}</span>
       </div>
       <div class="set-card-footer">
         <button class="btn btn-primary btn-sm btn-start" data-id="${p.id}">
@@ -167,7 +223,9 @@ async function loadPaper(paperId, targetView) {
   const paper = await apiGet('/api/papers/' + encodeURIComponent(paperId));
   state.currentPaper = paper;
   state.sentences = paper.sentences || [];
-  state.currentSentenceIdx = (paper.progress && paper.progress.current_sentence_idx) || 0;
+
+  const prog = paper.progress || {};
+  state.currentSentenceIdx = prog.current_sentence_idx != null ? prog.current_sentence_idx : 0;
   if (state.currentSentenceIdx >= state.sentences.length) state.currentSentenceIdx = 0;
 
   if (paper.audio_path) {
@@ -178,10 +236,18 @@ async function loadPaper(paperId, targetView) {
     state.player.audio.removeAttribute('src');
     showToast(`该套题音频缺失，请在终端执行: python3 content/tts/synthesize.py content/papers/${paperId}.json`);
   }
-  state.player.audio.playbackRate = state.settings.default_playback_rate || 1.0;
-  state.player.playbackRate = state.settings.default_playback_rate || 1.0;
-  state.player.loopCountTarget = state.settings.default_loop_count || 2;
-  state.player.transcriptVisibility = state.settings.default_transcript_visibility || 'visible';
+
+  const rate = prog.playback_rate != null ? prog.playback_rate : (state.settings.default_playback_rate || 1.0);
+  state.player.playbackRate = rate;
+  state.player.audio.playbackRate = rate;
+
+  state.player.loopCountTarget = prog.loop_count_target != null ? prog.loop_count_target : (state.settings.default_loop_count || 2);
+  state.player.loopMode = prog.loop_mode || (state.player.loopCountTarget === 999 ? 'infinite' : 'sentence');
+  state.player.transcriptVisibility = prog.transcript_visibility || (state.settings.default_transcript_visibility || 'visible');
+
+  // Update set pill in header
+  const pillText = $('#currentSetPillText');
+  if (pillText) pillText.textContent = paper.title || paperId;
 
   if (targetView === 'practice') {
     renderPractice();
@@ -215,6 +281,10 @@ function renderPractice() {
       state.currentSentenceIdx = parseInt(el.dataset.idx);
       refreshPracticeSentence();
       saveProgress();
+      if (state.player.audio && state.player.audio.src) {
+        state.player.currentLoopIteration = 0;
+        state.player.audio.play().catch(console.error);
+      }
     });
   });
 
@@ -289,6 +359,7 @@ function cycleTranscript() {
   const idx = modes.indexOf(state.player.transcriptVisibility);
   state.player.transcriptVisibility = modes[(idx + 1) % modes.length];
   updateTranscriptMode();
+  saveProgress();
 }
 
 function setupPlayer() {
@@ -299,6 +370,10 @@ function setupPlayer() {
   });
   audio.addEventListener('play', () => { state.player.isPlaying = true; updatePlayerUI(); });
   audio.addEventListener('pause', () => { state.player.isPlaying = false; updatePlayerUI(); });
+  audio.addEventListener('loadedmetadata', () => {
+    if (state.player.playbackRate) audio.playbackRate = state.player.playbackRate;
+    updatePlayerUI();
+  });
   audio.addEventListener('error', () => {
     state.player.isPlaying = false;
     updatePlayerUI();
@@ -308,11 +383,12 @@ function setupPlayer() {
   });
   audio.addEventListener('ended', () => {
     state.player.isPlaying = false;
-    if (state.settings.auto_play_next && state.player.loopMode !== 'sentence') {
-      nextSentence();
+    if (state.settings.auto_play_next && state.player.loopMode !== 'sentence' && state.player.loopMode !== 'infinite') {
+      nextSentence(true);
       return;
     }
-    if (state.player.loopMode === 'sentence' && state.player.currentLoopIteration < state.player.loopCountTarget - 1) {
+    if ((state.player.loopCountTarget === 999 || state.player.loopMode === 'infinite') ||
+        (state.player.loopMode === 'sentence' && state.player.currentLoopIteration < state.player.loopCountTarget - 1)) {
       state.player.currentLoopIteration++;
       const s = state.sentences[state.currentSentenceIdx];
       if (s) audio.currentTime = s.start_time || 0;
@@ -327,11 +403,14 @@ function setupPlayer() {
   $('#speedSelect').addEventListener('change', e => {
     state.player.playbackRate = parseFloat(e.target.value);
     audio.playbackRate = state.player.playbackRate;
+    saveProgress();
   });
   $('#loopSelect').addEventListener('change', e => {
     state.player.loopCountTarget = parseInt(e.target.value);
-    state.player.loopMode = state.player.loopCountTarget === 999 ? 'off' : 'sentence';
+    state.player.loopMode = state.player.loopCountTarget === 999 ? 'infinite' : 'sentence';
+    state.player.currentLoopIteration = 0;
     $('#loopCounterBadge').textContent = state.player.loopCountTarget === 999 ? '∞' : String(state.player.loopCountTarget);
+    saveProgress();
   });
   $('#toggleMaskBtn').addEventListener('click', cycleTranscript);
   $('#bookmarkToggleBtn').addEventListener('click', toggleBookmarkCurrent);
@@ -407,16 +486,26 @@ function togglePlay() {
     });
   }
 }
-function prevSentence() {
+function prevSentence(autoPlay = false) {
   if (state.currentSentenceIdx > 0) {
     state.currentSentenceIdx--;
     refreshPracticeSentence();
+    saveProgress();
+    if (autoPlay && state.player.audio && state.player.audio.src) {
+      state.player.currentLoopIteration = 0;
+      state.player.audio.play().catch(console.error);
+    }
   }
 }
-function nextSentence() {
+function nextSentence(autoPlay = false) {
   if (state.currentSentenceIdx < state.sentences.length - 1) {
     state.currentSentenceIdx++;
     refreshPracticeSentence();
+    saveProgress();
+    if (autoPlay && state.player.audio && state.player.audio.src) {
+      state.player.currentLoopIteration = 0;
+      state.player.audio.play().catch(console.error);
+    }
   }
 }
 function replaySentence() {
@@ -438,20 +527,20 @@ function checkLoopBoundaries() {
     }
   } else if (s.end_time > s.start_time) {
     if (ct >= s.end_time) {
-      if (state.player.loopMode === 'sentence') {
-        if (state.player.currentLoopIteration < state.player.loopCountTarget - 1) {
-          state.player.currentLoopIteration++;
-          audio.currentTime = s.start_time;
-        } else {
-          audio.pause();
-          state.player.isPlaying = false;
-          if (state.settings.auto_play_next) nextSentence();
-          updatePlayerUI();
-        }
+      if (state.player.loopCountTarget === 999 || state.player.loopMode === 'infinite') {
+        state.player.currentLoopIteration++;
+        audio.currentTime = s.start_time;
+      } else if (state.player.loopMode === 'sentence' && state.player.currentLoopIteration < state.player.loopCountTarget - 1) {
+        state.player.currentLoopIteration++;
+        audio.currentTime = s.start_time;
       } else {
         audio.pause();
         state.player.isPlaying = false;
-        updatePlayerUI();
+        if (state.settings.auto_play_next) {
+          nextSentence(true);
+        } else {
+          updatePlayerUI();
+        }
       }
     }
   }
@@ -628,7 +717,11 @@ async function playBookmarked(sid) {
   if (idx >= 0) {
     state.currentSentenceIdx = idx;
     refreshPracticeSentence();
-    togglePlay();
+    saveProgress();
+    if (state.player.audio && state.player.audio.src) {
+      state.player.currentLoopIteration = 0;
+      state.player.audio.play().catch(console.error);
+    }
   }
 }
 
@@ -800,12 +893,14 @@ function setupKeyboard() {
         state.player.playbackRate = Math.min(2.0, parseFloat((state.player.playbackRate + 0.1).toFixed(1)));
         state.player.audio.playbackRate = state.player.playbackRate;
         $('#speedSelect').value = String(state.player.playbackRate);
+        saveProgress();
         break;
       case 'ArrowDown':
         e.preventDefault();
         state.player.playbackRate = Math.max(0.5, parseFloat((state.player.playbackRate - 0.1).toFixed(1)));
         state.player.audio.playbackRate = state.player.playbackRate;
         $('#speedSelect').value = String(state.player.playbackRate);
+        saveProgress();
         break;
       case 'r':
       case 'R':
