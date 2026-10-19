@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: '3.13'
 
+      - name: Install ffmpeg (provides ffprobe, required by content/validate.py)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Validate content
         run: python3 content/validate.py
 
