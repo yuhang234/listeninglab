@@ -1,0 +1,2485 @@
+{
+  "id": "cet6-2019-12-1",
+  "title": "2019年12月 六级听力真题（第1套）",
+  "year": 2019,
+  "month": 12,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 1036.382,
+  "sentence_count": 96,
+  "version": 1,
+  "audio_path": "content/papers/cet6-2019-12-1/full.mp3",
+  "provenance": "Substituted for cet6-2020-07-1 (no complete public listening record); verified against Kekenet CET-6 2019.12 (Set 1) official transcript and question set (https://m.kekenet.com/cet6/202010/618977.shtml) on 2026-10-19",
+  "verified": true,
+  "sections": [
+    {
+      "id": "cet6-2019-12-1_sec_1",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section A · 长对话一：女性时尚杂志特刊编辑的职业生涯",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2019-12-1_sec_2",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section A · 长对话二：自编自演的情景讽刺剧与流行情景喜剧",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2019-12-1_sec_3",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section B · 篇章一：永不止步法则与身心健康",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2019-12-1_sec_4",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section B · 篇章二：思维游离、走神与创造力的心理学研究",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2019-12-1_sec_5",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section C · 讲座一：斯堪的纳维亚半岛的中世纪维京木制教堂",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2019-12-1_sec_6",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section C · 讲座二：人类婴儿非凡认知与情感能力的科学实证",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2019-12-1_sec_7",
+      "paper_id": "cet6-2019-12-1",
+      "title": "Section C · 讲座三：现代职场中过度团队合作的潜在弊端",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2019-12-1_s_1",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 1,
+      "english": "Today our featured studio guest is Rosie Melinda who works as a senior features editor for a prestigious, glossy fashion magazine published monthly in central London.",
+      "chinese": "今天我们的特邀嘉宾是罗茜·梅琳达，她在伦敦市中心出版的一家声誉卓著、印刷精美的时尚杂志社担任高级特稿专题编辑。",
+      "start_time": 0.0,
+      "end_time": 10.066,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_1.mp3",
+      "key_vocab": [
+        {
+          "word": "features editor",
+          "definition": "特稿编辑，特写版编辑"
+        },
+        {
+          "word": "prestigious",
+          "definition": "有声望的，著名的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_2",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 2,
+      "english": "Welcome to our radio studio, Rosie; can you describe your typical editorial routine and explain what your daily publishing role entails for our curious listeners today?",
+      "chinese": "欢迎来到我们的广播演播室，罗茜；你能向今天好奇的听众描述一下你的典型编辑工作日常以及你的出版职责具体包括什么吗？",
+      "start_time": 10.416,
+      "end_time": 20.052,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_2.mp3",
+      "key_vocab": [
+        {
+          "word": "routine",
+          "definition": "常规，惯例"
+        },
+        {
+          "word": "entail",
+          "definition": "需要，使承担"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_3",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 3,
+      "english": "What kind of daily professional duties does that demanding editorial role involve on a busy schedule in the fast-paced world of London magazine publishing today?",
+      "chinese": "在快节奏的伦敦杂志出版界，那个要求严格的高级编辑职位每天具体需要承担哪些日常专业职责？",
+      "start_time": 20.402,
+      "end_time": 30.247,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_3.mp3",
+      "key_vocab": [
+        {
+          "word": "responsibilities",
+          "definition": "责任，职责"
+        },
+        {
+          "word": "publishing",
+          "definition": "出版业"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_4",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 4,
+      "english": "We regularly brainstorm fresh story concepts, commission talented freelance writers, and ensure that every article fits the stylish tone of our prestigious monthly magazine publication.",
+      "chinese": "我们定期头脑风暴构思创意故事选题，向优秀的自由撰稿人约稿，并确保每一篇文章都完全契合我们知名月刊的高雅格调。",
+      "start_time": 30.597,
+      "end_time": 41.894,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_4.mp3",
+      "key_vocab": [
+        {
+          "word": "brainstorm",
+          "definition": "头脑风暴"
+        },
+        {
+          "word": "commission",
+          "definition": "委任，约稿"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_5",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 5,
+      "english": "While visual designers handle fashion photography, our team focuses on writing engaging articles for our discerning modern readers across Britain and abroad.",
+      "chinese": "当视觉设计师负责时尚摄影大片时，我们的文字编辑团队专注于为全英及海外的挑剔读者采写引人入胜的深度报道。",
+      "start_time": 42.244,
+      "end_time": 51.509,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_5.mp3",
+      "key_vocab": [
+        {
+          "word": "curate",
+          "definition": "策划，整理"
+        },
+        {
+          "word": "substantive",
+          "definition": "实质性的，有实质内容的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_6",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 6,
+      "english": "Surprisingly to outsiders, one of my main daily responsibilities is answering hundreds of reader emails and coordinating with contributing freelance writers and outside magazine editors.",
+      "chinese": "令局外人感到十分意外的是，我每天最重要的核心日常职责之一，实际上是回复处理数百封读者来信并与外部特约撰稿人和杂志编辑协调进度。",
+      "start_time": 51.859,
+      "end_time": 63.817,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_6.mp3",
+      "key_vocab": [
+        {
+          "word": "responsibility",
+          "definition": "职责"
+        },
+        {
+          "word": "coordinate",
+          "definition": "协调"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_7",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 7,
+      "english": "Between reading article drafts and meeting tight print deadlines, I keep in constant touch with literary agents, publicists, and freelance columnists across Britain each week.",
+      "chinese": "在审阅稿件与赶工紧迫的印刷截稿日期之间，我每周都要与英国各地的图书版权代理人、公关宣传人员及专栏作者保持联络。",
+      "start_time": 64.167,
+      "end_time": 73.861,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_7.mp3",
+      "key_vocab": [
+        {
+          "word": "deadline",
+          "definition": "截止日期"
+        },
+        {
+          "word": "publicist",
+          "definition": "公关人员"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_8",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 8,
+      "english": "The features section covers diverse themes, from career growth and personal finance to investigative pieces on modern wellness trends, culture, lifestyle, and fine art topics.",
+      "chinese": "特稿版面涵盖的主题极其广泛，从职场晋升规划与个人理财，到对现代健康生活趋势、文化、生活方式和艺术话题的深度调查性报道应有尽有。",
+      "start_time": 74.211,
+      "end_time": 85.067,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_8.mp3",
+      "key_vocab": [
+        {
+          "word": "investigative",
+          "definition": "调查性的"
+        },
+        {
+          "word": "wellness",
+          "definition": "健康"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_9",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 9,
+      "english": "Many people outside the magazine industry assume my job is glamorous and fascinating, imagining that I spend all my working time attending fashionable evening cocktail parties.",
+      "chinese": "许多杂志行业之外的人往往想当然地认为我的工作既光鲜亮丽又迷人至极，想象着我整天都在忙着出席时尚派对。",
+      "start_time": 85.417,
+      "end_time": 96.202,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_9.mp3",
+      "key_vocab": [
+        {
+          "word": "glamorous",
+          "definition": "光彩夺目的，迷人的"
+        },
+        {
+          "word": "fascinating",
+          "definition": "迷人的，有吸引力的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_10",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 10,
+      "english": "In reality, my work involves long hours at the computer, fact-checking, careful textual editing, and solving unexpected production problems under tight publishing deadlines every week.",
+      "chinese": "而在现实中，这份工作充斥着在电脑前长久的事实核查、文字校对，以及在每周紧张的出版截稿期下化解突发问题。",
+      "start_time": 96.552,
+      "end_time": 108.209,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_10.mp3",
+      "key_vocab": [
+        {
+          "word": "fact-checking",
+          "definition": "事实核查"
+        },
+        {
+          "word": "deadline",
+          "definition": "截止日期"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_11",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 11,
+      "english": "Getting this senior editor role took hard work, extraordinary patience, and great determination over many demanding years in the competitive London magazine publishing industry.",
+      "chinese": "能够最终赢得这个高级编辑职位，得益于在竞争激烈的伦敦杂志出版界多年来付出的辛勤努力、非凡耐心与坚定决心。",
+      "start_time": 108.559,
+      "end_time": 118.439,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_11.mp3",
+      "key_vocab": [
+        {
+          "word": "persistence",
+          "definition": "坚持不懈，毅力"
+        },
+        {
+          "word": "resilience",
+          "definition": "韧性，适应力"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_12",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "idx": 12,
+      "english": "I started out as an unpaid intern, proofreading promotional text and fetching coffee, before gradually pitching my own feature stories to our senior publication directors.",
+      "chinese": "我最早从一名无薪实习生起步，校对宣传文案、打杂端咖啡，随后才逐步尝试向资深出版总监投递自己采写的特写故事。",
+      "start_time": 118.789,
+      "end_time": 129.563,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_12.mp3",
+      "key_vocab": [
+        {
+          "word": "intern",
+          "definition": "实习生"
+        },
+        {
+          "word": "pitch",
+          "definition": "推介，投递选题"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_13",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 13,
+      "english": "Are you watching any genuinely engaging television shows or acclaimed comedy series these days during your precious evening leisure hours at home with family and friends?",
+      "chinese": "在最近闲暇宝贵的居家晚间时光里，你是否在电视或流媒体平台上收看任何真正引人入胜的优质剧集或口碑爆棚的喜剧作品？",
+      "start_time": 129.913,
+      "end_time": 139.212,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_13.mp3",
+      "key_vocab": [
+        {
+          "word": "engaging",
+          "definition": "迷人的，引人入胜的"
+        },
+        {
+          "word": "leisure",
+          "definition": "闲暇，空闲"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_14",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 14,
+      "english": "Actually, I just recently finished streaming a clever political satire show titled Frankie, and I found it wonderfully written, funny, and entertaining from start to finish.",
+      "chinese": "其实我最近刚在网上看完了名为《弗兰基》的政治讽刺剧集，我觉得它剧本精妙幽默，从头到尾都非常引人入胜。",
+      "start_time": 139.562,
+      "end_time": 149.605,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_14.mp3",
+      "key_vocab": [
+        {
+          "word": "satire",
+          "definition": "讽刺剧"
+        },
+        {
+          "word": "entertaining",
+          "definition": "有趣的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_15",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 15,
+      "english": "Oh, I have heard colleagues discussing that popular series; is it a dramatic historical documentary or does it follow a completely fictional narrative structure throughout each episode?",
+      "chinese": "哦，我最近确实听周围不少同事热烈讨论过这部热门剧；它究竟是一部严肃的历史纪录片，还是完全遵循纯虚构的叙事结构？",
+      "start_time": 149.955,
+      "end_time": 160.532,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_15.mp3",
+      "key_vocab": [
+        {
+          "word": "documentary",
+          "definition": "纪录片"
+        },
+        {
+          "word": "narrative",
+          "definition": "叙述的，故事的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_16",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 16,
+      "english": "It is officially categorized as fictional comedy, but it draws authentic inspiration directly from real political debates and current international affairs across contemporary Europe today.",
+      "chinese": "它被正式归类为虚构喜剧，但其艺术灵感却直接来源于欧洲大陆当下鲜活真实的政治辩论与现代国际时事焦点。",
+      "start_time": 160.882,
+      "end_time": 172.445,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_16.mp3",
+      "key_vocab": [
+        {
+          "word": "categorized",
+          "definition": "分类，归类"
+        },
+        {
+          "word": "inspiration",
+          "definition": "灵感"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_17",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 17,
+      "english": "The main character is portrayed by a brilliant Scottish comedian who brings sharp humor, ironic detachment, and genuine human warmth to every single televised episode.",
+      "chinese": "剧中的核心主角由一位才华横溢的苏格兰著名喜剧演员扮演，他为每一集注入了犀利的幽默、反讽抽离感与真挚的人性温情。",
+      "start_time": 172.795,
+      "end_time": 183.035,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_17.mp3",
+      "key_vocab": [
+        {
+          "word": "protagonist",
+          "definition": "主角"
+        },
+        {
+          "word": "detachment",
+          "definition": "超然，抽离"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_18",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 18,
+      "english": "The sharp, witty writing exposes government bureaucratic absurdity while maintaining genuine affection for its deeply flawed yet relatable civil servant characters working in Whitehall departments.",
+      "chinese": "其极其考究犀利的台词在无情解构政府官僚主义荒诞行径的同时，又对白厅内部那些缺点显着却亲切真实的小公务员角色寄予了由衷的温情关照。",
+      "start_time": 183.385,
+      "end_time": 193.741,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_18.mp3",
+      "key_vocab": [
+        {
+          "word": "absurdity",
+          "definition": "荒谬，荒诞"
+        },
+        {
+          "word": "relatable",
+          "definition": "能引起共鸣的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_19",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 19,
+      "english": "Did an established broadcast network produce it, or was it financed and developed independently by a small private artistic film production company in central London?",
+      "chinese": "这部戏是由财力雄厚的老牌主流公共广播电视网斥资打造，还是由伦敦当地一家小型独立艺术制作工作室自筹资金孵化出来的？",
+      "start_time": 194.091,
+      "end_time": 204.006,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_19.mp3",
+      "key_vocab": [
+        {
+          "word": "financed",
+          "definition": "资助，提供资金"
+        },
+        {
+          "word": "independently",
+          "definition": "独立地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_20",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 20,
+      "english": "Yes, it is; the entire show is written, directed, edited, and produced by Frankie himself, making it extraordinarily enjoyable and critically acclaimed across Britain and abroad.",
+      "chinese": "没错，正是如此；整部戏从剧本撰写、导演执导、镜头剪辑到把控监制，均由弗兰基一人包揽，这使得整部作品极具观赏愉悦感，并在全英广获评论界盛赞。",
+      "start_time": 204.356,
+      "end_time": 215.258,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_20.mp3",
+      "key_vocab": [
+        {
+          "word": "enjoyable",
+          "definition": "令人愉快的"
+        },
+        {
+          "word": "acclaimed",
+          "definition": "受到赞扬的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_21",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 21,
+      "english": "That sounds like an extraordinary creative achievement; I will definitely download and watch that satire series on my tablet computer this upcoming weekend evening at home.",
+      "chinese": "这听起来真是一项令人叹为观止的个人才华壮举；这个周末我一定要把它下载到我的平板电脑上，在晚间好好一口气追完这部讽刺佳作。",
+      "start_time": 215.608,
+      "end_time": 225.36,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_21.mp3",
+      "key_vocab": [
+        {
+          "word": "achievement",
+          "definition": "成就"
+        },
+        {
+          "word": "download",
+          "definition": "下载"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_22",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 22,
+      "english": "Speaking of comedy, long-running network sitcoms like The Big Bang Theory have been broadcasting continuously for more than a full decade on national American television.",
+      "chinese": "谈到经典喜剧，像《生活大爆炸》这样长盛不衰的传统主流网络情景喜剧，在国家电视屏幕上竟然已经连续播出了十余年之久。",
+      "start_time": 225.71,
+      "end_time": 235.672,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_22.mp3",
+      "key_vocab": [
+        {
+          "word": "sitcom",
+          "definition": "情景喜剧"
+        },
+        {
+          "word": "broadcasting",
+          "definition": "广播，播出"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_23",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 23,
+      "english": "Audiences clearly develop deep affection for familiar sitcom characters, enjoying predictable comforting humor over many continuous seasons of regular family evening television viewing at home.",
+      "chinese": "电视观众显然对那些熟悉的情景喜剧角色产生了深厚的情感，乐于在多个季度的合家欢晚间电视时光中品味温馨幽默。",
+      "start_time": 236.022,
+      "end_time": 247.597,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_23.mp3",
+      "key_vocab": [
+        {
+          "word": "attachment",
+          "definition": "依恋"
+        },
+        {
+          "word": "comforting",
+          "definition": "令人安慰的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_24",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "idx": 24,
+      "english": "Both innovative satirical indie productions and comfortable sitcoms satisfy different psychological needs in our busy modern media consumption and personal evening leisure time each day.",
+      "chinese": "无论是标新立异的独立讽刺剧，还是温馨亲切的情景喜剧，都在我们繁忙现代日常的媒介消费与夜间休闲中满足着不同的心理需求。",
+      "start_time": 247.947,
+      "end_time": 258.454,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_24.mp3",
+      "key_vocab": [
+        {
+          "word": "satirical",
+          "definition": "讽刺的"
+        },
+        {
+          "word": "consumption",
+          "definition": "消费"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_25",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 25,
+      "english": "Throughout history, human beings have searched for practical daily principles to maintain physical vitality and resist the weakening effects of early biological aging in life.",
+      "chinese": "纵观漫长历史，人类一直在探寻切实的日常法则，以保持强健体魄并抵抗机体过早衰老带来的虚弱。",
+      "start_time": 258.804,
+      "end_time": 268.823,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_25.mp3",
+      "key_vocab": [
+        {
+          "word": "vitality",
+          "definition": "活力"
+        },
+        {
+          "word": "premature",
+          "definition": "过早的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_26",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 26,
+      "english": "Early civilizations recognized that standing water becomes foul, while flowing mountain streams remain naturally pure, fresh, and clean in the open outdoor wilderness across regions.",
+      "chinese": "早期古代文明认识到静止的死水会变臭，而奔流的高山溪流在旷野大自然中却始终保持纯净清新。",
+      "start_time": 269.173,
+      "end_time": 280.435,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_26.mp3",
+      "key_vocab": [
+        {
+          "word": "civilization",
+          "definition": "文明"
+        },
+        {
+          "word": "immobility",
+          "definition": "静止不动"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_27",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 27,
+      "english": "The very same biological deterioration happens to the human physique whenever an individual stops engaging in daily vigorous bodily movement and regular healthy physical exercise.",
+      "chinese": "一旦某个人停止了日常充满活力的体育运动与有规律的肢体锻炼，同样的生理机能退化衰竭便会不可避免地降临到他的肉体之上。",
+      "start_time": 280.785,
+      "end_time": 291.513,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_27.mp3",
+      "key_vocab": [
+        {
+          "word": "deterioration",
+          "definition": "恶化，退化"
+        },
+        {
+          "word": "physique",
+          "definition": "体格，体态"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_28",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 28,
+      "english": "Athletes who participate in intense contact sports like rugby or ice hockey understand that they must keep moving to avoid getting severely hurt in competitive games.",
+      "chinese": "那些常年参与橄榄球或冰球等对抗激烈接触性运动的职业运动员深知：在比赛场上自己必须时刻保持移动，才能避免遭受严重撞击重创。",
+      "start_time": 291.863,
+      "end_time": 301.186,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_28.mp3",
+      "key_vocab": [
+        {
+          "word": "participate",
+          "definition": "参与"
+        },
+        {
+          "word": "contact sports",
+          "definition": "接触性运动"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_29",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 29,
+      "english": "A stationary player presents an easy target for heavy collision, whereas constant agile movement dissipates impact momentum and preserves vital physical body balance on field.",
+      "chinese": "一名在球场上驻足停滞的球员极易成为对手猛烈撞击的活靶子，而灵动敏捷的持续移动则能有效化解剧烈冲击动量并维持身体平衡。",
+      "start_time": 301.536,
+      "end_time": 312.228,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_29.mp3",
+      "key_vocab": [
+        {
+          "word": "stationary",
+          "definition": "固定的，静止的"
+        },
+        {
+          "word": "dissipate",
+          "definition": "消散，化解"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_30",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 30,
+      "english": "This dynamic keep-moving principle applies with equal scientific validity to ordinary individuals seeking long, active, and healthy adult lives into late old age and retirement.",
+      "chinese": "这条充满动态智慧的‘永不止步’运动法则，在科学原理上对于渴望在步入高龄后依然享有健康长寿人生的普通大众同样完全适用。",
+      "start_time": 312.578,
+      "end_time": 322.563,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_30.mp3",
+      "key_vocab": [
+        {
+          "word": "validity",
+          "definition": "有效性，合法性"
+        },
+        {
+          "word": "dynamic",
+          "definition": "动态的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_31",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 31,
+      "english": "When muscles and joints stay active, blood flows better, cell renewal speeds up, and vital body organs receive plenty of oxygen and healthy biological nutrients.",
+      "chinese": "当肌肉和关节保持活动时，血液循环更加通畅，细胞更新加速，重要器官也能获得充足的氧气和必需的生物养分。",
+      "start_time": 322.913,
+      "end_time": 333.524,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_31.mp3",
+      "key_vocab": [
+        {
+          "word": "circulation",
+          "definition": "循环"
+        },
+        {
+          "word": "regeneration",
+          "definition": "再生"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_32",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 32,
+      "english": "Longevity statistics reveal an alarming demographic pattern: average retirees who adopt sedentary lifestyles often do not have many years left to live in full retirement.",
+      "chinese": "然而现代人类寿命统计数据却揭示出了一个令人心惊的规律：在退休后彻底陷入久坐不动消极生活的老年人，往往在退休后活不了许多年头。",
+      "start_time": 333.874,
+      "end_time": 344.08,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_32.mp3",
+      "key_vocab": [
+        {
+          "word": "demographic",
+          "definition": "人口统计学的"
+        },
+        {
+          "word": "retiree",
+          "definition": "退休人员"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_33",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 33,
+      "english": "When older adults stop regular physical and mental routines, their bodily systems deteriorate rapidly from lack of stimulation and daily social purpose in retirement years.",
+      "chinese": "当老年人放弃规律的体育锻炼与脑力思考习惯时，身体各系统会因缺乏刺激与日常目标而在退休生活中迅速衰退。",
+      "start_time": 344.43,
+      "end_time": 355.401,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_33.mp3",
+      "key_vocab": [
+        {
+          "word": "routine",
+          "definition": "常规习惯"
+        },
+        {
+          "word": "deteriorate",
+          "definition": "恶化，退化"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_34",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 34,
+      "english": "Retirement should represent an active move toward new enriching hobbies, volunteer work, and regular fitness, rather than a passive retreat from vibrant daily community life.",
+      "chinese": "退休应当是走向新爱好、志愿服务以及规律健身的积极转型，而非从活跃的日常社区生活中消极隐退。",
+      "start_time": 355.751,
+      "end_time": 366.281,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_34.mp3",
+      "key_vocab": [
+        {
+          "word": "enriching",
+          "definition": "丰富充实的"
+        },
+        {
+          "word": "withdrawal",
+          "definition": "撤退，隐退"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_35",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 35,
+      "english": "Besides physical health benefits, the speaker emphasizes a wonderful bonus: the keep-moving principle prevents us from worrying about daily difficulties in our ordinary adult lives.",
+      "chinese": "除了对身体健康的益处之外，演讲者着重强调了一项极好的额外红利：永不止步的法则能有效防止我们为成年日常生活中的种种难题忧心忡忡。",
+      "start_time": 366.631,
+      "end_time": 378.462,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_35.mp3",
+      "key_vocab": [
+        {
+          "word": "cardiovascular",
+          "definition": "心血管的"
+        },
+        {
+          "word": "bonus",
+          "definition": "额外好处"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_36",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 36,
+      "english": "When body and mind are absorbed in constructive, purposeful physical action, there is simply no mental space left for chronic worry and toxic emotional anxiety about life.",
+      "chinese": "当一个人的身心高度沉浸在建设性、有明确目标的身体行动之中时，心智空间自然被积极能量填满，根本无暇容纳慢性的忧虑与有害内耗。",
+      "start_time": 378.812,
+      "end_time": 390.073,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_36.mp3",
+      "key_vocab": [
+        {
+          "word": "constructive",
+          "definition": "建设性的"
+        },
+        {
+          "word": "chronic",
+          "definition": "长期的，慢性的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_37",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "idx": 37,
+      "english": "By embracing constant purposeful motion, we safeguard both our physical stamina and our psychological serenity throughout all diverse stages of our adult human lives today.",
+      "chinese": "通过主动拥抱持续而有意义的生命运动，我们在人生各个不同阶段都能够同时捍卫充沛的身体耐力与从容内省的心灵宁静。",
+      "start_time": 390.423,
+      "end_time": 400.919,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_37.mp3",
+      "key_vocab": [
+        {
+          "word": "stamina",
+          "definition": "耐力，持久力"
+        },
+        {
+          "word": "serenity",
+          "definition": "平静，从容"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_38",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 38,
+      "english": "Cognitive psychologists have established that the human mind wanders for almost half of our normal waking time every single day during routine daily activities and chores.",
+      "chinese": "认知心理学家的系统研究证实：在每天的日常清醒状态下，人类的心智有接近一半的时间都在处于游离走神或心不在焉的状态之中。",
+      "start_time": 401.269,
+      "end_time": 411.056,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_38.mp3",
+      "key_vocab": [
+        {
+          "word": "cognitive",
+          "definition": "认知的"
+        },
+        {
+          "word": "waking time",
+          "definition": "清醒时间"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_39",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 39,
+      "english": "Historically, classroom teachers and corporate managers treated daydreaming as an unproductive waste of time, believing it showed laziness or a lack of personal mental focus.",
+      "chinese": "在历史上，教师和管理者往往将白日梦视作浪费时间，认为这反映了个人的懒惰或缺乏自我专注力。",
+      "start_time": 411.406,
+      "end_time": 421.611,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_39.mp3",
+      "key_vocab": [
+        {
+          "word": "unproductive",
+          "definition": "徒劳的，无成效的"
+        },
+        {
+          "word": "daydreaming",
+          "definition": "做白日梦"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_40",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 40,
+      "english": "To study this mental habit systematically, researchers built a new smartphone app to collect real-time behavioral data from thousands of daily volunteers across many different cities.",
+      "chinese": "为了系统研究这一思维习惯，研究团队开发了一款新的智能手机应用程序，以实时采集数千名日常志愿者的即时行为数据。",
+      "start_time": 421.961,
+      "end_time": 432.91,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_40.mp3",
+      "key_vocab": [
+        {
+          "word": "phenomenon",
+          "definition": "现象"
+        },
+        {
+          "word": "innovative",
+          "definition": "创新的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_41",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 41,
+      "english": "The primary purpose of developing the app was to determine how human happiness relates directly to spontaneous daydreaming and everyday mind wandering in modern adult life.",
+      "chinese": "科研团队研发这款手机应用的首要核心目的，是为了科学测定人类的幸福感体验究竟与日常生活中的思维游离及自发白日梦之间存在何种直接内在关联。",
+      "start_time": 433.26,
+      "end_time": 443.662,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_41.mp3",
+      "key_vocab": [
+        {
+          "word": "spontaneous",
+          "definition": "自发的"
+        },
+        {
+          "word": "happiness",
+          "definition": "幸福，快乐"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_42",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 42,
+      "english": "Volunteers received random phone prompts during their day, reporting their current activity, their emotional mood, and whether their thoughts were actively wandering off during tasks.",
+      "chinese": "受试志愿者在白天会收到随机的手机提示，实时报告他们正在做什么、当时的心情以及思维是否在游离走神。",
+      "start_time": 444.012,
+      "end_time": 454.531,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_42.mp3",
+      "key_vocab": [
+        {
+          "word": "notification",
+          "definition": "通知"
+        },
+        {
+          "word": "prompt",
+          "definition": "提示"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_43",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 43,
+      "english": "While wandering thoughts sometimes brought mild discontent, other researchers discovered that daydreaming contributes greatly to human creative imagination and innovative practical problem solving in work.",
+      "chinese": "虽然注意力不集中有时会带来轻微的不满，但其他研究人员发现，白日梦极大促进了人类的创造性想象力与工作中的创新性实际问题解决。",
+      "start_time": 454.881,
+      "end_time": 466.235,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_43.mp3",
+      "key_vocab": [
+        {
+          "word": "neurological",
+          "definition": "神经学的"
+        },
+        {
+          "word": "imagination",
+          "definition": "想象力"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_44",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 44,
+      "english": "When the brain enters its default mode network during daydreaming, it synthesizes distant concepts and generates imaginative solutions to stubborn intellectual puzzles in science and work.",
+      "chinese": "当大脑在白日梦期间切换进入所谓的‘默认模式网络’时，它能够跨越常规边界重组看似遥远的概念，为工作中的棘手智力难题构想出极富创意的解决方案。",
+      "start_time": 466.585,
+      "end_time": 477.626,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_44.mp3",
+      "key_vocab": [
+        {
+          "word": "synthesizes",
+          "definition": "综合，合成"
+        },
+        {
+          "word": "puzzle",
+          "definition": "谜题，难题"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_45",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 45,
+      "english": "Researchers discovered that mind-wandering provides essential mental space that directly fosters human creativity and innovative problem-solving across science and the arts.",
+      "chinese": "研究人员发现，思维游离提供了至关重要的心智空间，直接促进了科学和艺术领域的人类创造力与创新性问题解决。",
+      "start_time": 477.976,
+      "end_time": 488.065,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_45.mp3",
+      "key_vocab": [
+        {
+          "word": "creativity",
+          "definition": "创造力"
+        },
+        {
+          "word": "innovative",
+          "definition": "创新的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_46",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 46,
+      "english": "To test this creative idea, cognitive psychologists designed an experiment involving one hundred and forty-five university undergraduate students in a controlled laboratory test setting on campus.",
+      "chinese": "为了检验这一创造力设想，认知心理学家精心设计了一场有145名在校大学本科生参与的受控实验室测试实验。",
+      "start_time": 488.415,
+      "end_time": 500.211,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_46.mp3",
+      "key_vocab": [
+        {
+          "word": "hypothesis",
+          "definition": "假说，假设"
+        },
+        {
+          "word": "undergraduate",
+          "definition": "本科生"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_47",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 47,
+      "english": "The clear finding of the experiment was that daydreamers did significantly better than non-daydreamers in subsequent creative task performance and divergent thinking tests in labs.",
+      "chinese": "实验的明确实验结论表明：在随后的创造力任务表现与发散性思维测评中，那些经历过思维游离走神的小组得分显著优于始终未曾走神的非走神组同学。",
+      "start_time": 500.561,
+      "end_time": 510.372,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_47.mp3",
+      "key_vocab": [
+        {
+          "word": "performance",
+          "definition": "表现，绩效"
+        },
+        {
+          "word": "divergent",
+          "definition": "发散的，分歧的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_48",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 48,
+      "english": "Subjects who allowed their thoughts to roam freely devised far more inventive uses for common household objects than peers who focused rigidly on strict laboratory instructions.",
+      "chinese": "那些允许自己思想自由徜徉的受试者，相比注意力高度紧绷僵化的同伴，为普通日用家庭物品构想出了远为丰富奇妙的新颖创新用途。",
+      "start_time": 510.722,
+      "end_time": 520.358,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_48.mp3",
+      "key_vocab": [
+        {
+          "word": "inventive",
+          "definition": "有创造力的"
+        },
+        {
+          "word": "rigidly",
+          "definition": "僵硬地，死板地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_49",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 49,
+      "english": "This demonstrates that periods of unfocused mental incubation allow the unconscious mind to connect disparate ideas and forge novel associations between distinct conceptual categories in thought.",
+      "chinese": "这表明，心智漫游的孵化期使潜意识得以将不同的概念连接起来，并在不同的概念范畴之间建立起崭新的联想。",
+      "start_time": 520.708,
+      "end_time": 531.958,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_49.mp3",
+      "key_vocab": [
+        {
+          "word": "incubation",
+          "definition": "潜伏，孵化"
+        },
+        {
+          "word": "disparate",
+          "definition": "迥然不同的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_50",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "idx": 50,
+      "english": "Rather than suppressing all spontaneous thoughts, we should embrace constructive daydreaming as an essential cognitive asset that fuels human creative brilliance and scientific innovation today.",
+      "chinese": "因此我们大可不必盲目压制大脑的一切自发游离，而应当将建设性的白日梦视为点燃人类非凡创造力与科学创新火花的一项宝贵认知财富。",
+      "start_time": 532.308,
+      "end_time": 543.221,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_50.mp3",
+      "key_vocab": [
+        {
+          "word": "suppressing",
+          "definition": "压制"
+        },
+        {
+          "word": "brilliance",
+          "definition": "光辉，杰出"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_51",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 51,
+      "english": "While medieval Europe built grand stone Gothic cathedrals, Scandinavia developed a unique and marvelous building tradition constructed completely out of solid northern Scots pine timber logs.",
+      "chinese": "当中世纪欧洲建造宏伟的石质哥特式大教堂时，斯堪的纳维亚半岛却发展出了一种完全由坚实北方欧洲赤松原木建造的独特建筑传统。",
+      "start_time": 543.571,
+      "end_time": 554.67,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_51.mp3",
+      "key_vocab": [
+        {
+          "word": "cathedral",
+          "definition": "大教堂"
+        },
+        {
+          "word": "miraculous",
+          "definition": "奇迹般的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_52",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 52,
+      "english": "During the twelfth century, medieval builders in Norway constructed over one thousand elaborate wooden places of worship known internationally as historic Nordic stave churches in Europe.",
+      "chinese": "在十二世纪期间，挪威的中世纪工匠建造了一千多座精美绝伦的木制礼拜堂，这便是闻名于世的历史性北欧木柱教堂。",
+      "start_time": 555.02,
+      "end_time": 566.038,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_52.mp3",
+      "key_vocab": [
+        {
+          "word": "worship",
+          "definition": "崇拜，礼拜"
+        },
+        {
+          "word": "stave church",
+          "definition": "木板教堂"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_53",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 53,
+      "english": "Today, only thirty authentic stave churches survive in Norway, and conservationists warn that these fragile historical treasures are in worsening structural condition nowadays across Europe.",
+      "chinese": "遗憾的是在经历了数百年风雨侵蚀后，如今挪威全境仅存三十座货真价实的木板教堂，文物保护专家沉痛警告称：这些脆弱的历史珍宝目前正处于日益恶化的病态状况之中。",
+      "start_time": 566.388,
+      "end_time": 576.872,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_53.mp3",
+      "key_vocab": [
+        {
+          "word": "conservationist",
+          "definition": "文物保护主义者"
+        },
+        {
+          "word": "worsening",
+          "definition": "日益恶化的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_54",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 54,
+      "english": "Centuries of heavy rain, freezing winters, dry rot, and wood insects have caused severe decay to their ancient timber frameworks and delicate exterior historic carvings.",
+      "chinese": "数百年的风雨侵蚀、严冬冻融、干腐真菌和害虫，对它们古老的木质框架和精美外观历史雕刻造成了严重腐蚀破坏。",
+      "start_time": 577.222,
+      "end_time": 588.031,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_54.mp3",
+      "key_vocab": [
+        {
+          "word": "decay",
+          "definition": "衰败，腐蚀"
+        },
+        {
+          "word": "irreplaceable",
+          "definition": "不可替代的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_55",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 55,
+      "english": "What is architecturally extraordinary about most of these Viking wooden churches is that they were constructed entirely without deep stone foundations in the damp ground.",
+      "chinese": "从建筑工程学角度来看，绝大多数这批维京木板教堂最不同寻常的建筑特征，在于它们在建造时完全没有依赖任何深入地下的坚固石料地基基座。",
+      "start_time": 588.381,
+      "end_time": 597.181,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_55.mp3",
+      "key_vocab": [
+        {
+          "word": "architecturally",
+          "definition": "建筑学上地"
+        },
+        {
+          "word": "foundation",
+          "definition": "地基，基础"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_56",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 56,
+      "english": "Instead of setting vertical posts in damp soil where timber rots, builders rested the entire structure upon heavy horizontal wooden foundation sills placed on stones.",
+      "chinese": "工匠们并未将垂直立柱直接埋入容易腐烂的潮湿泥土中，而是将整座建筑安放在放置于石块上的沉重水平木质地梁之上。",
+      "start_time": 597.531,
+      "end_time": 608.189,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_56.mp3",
+      "key_vocab": [
+        {
+          "word": "superstructure",
+          "definition": "上层结构"
+        },
+        {
+          "word": "sill",
+          "definition": "基梁，底梁"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_57",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 57,
+      "english": "These sills rested atop elevated dry stone corners, lifting wooden structural timbers safely away from damp ground moisture and melting seasonal winter snow water in valleys.",
+      "chinese": "这些地梁架设在抬高的干燥石块基角之上，使木质承重构件安全脱离潮湿的地表水汽与融化积雪的浸泡腐蚀。",
+      "start_time": 608.539,
+      "end_time": 619.325,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_57.mp3",
+      "key_vocab": [
+        {
+          "word": "elevated",
+          "definition": "抬高的"
+        },
+        {
+          "word": "moisture",
+          "definition": "水分，潮湿"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_58",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 58,
+      "english": "The interior framework features colossal upright tree trunks called staves, joined with wooden pegs rather than perishable iron nails and metal bolts in historical construction.",
+      "chinese": "建筑内部骨架以被称为‘木柱’的高耸树干立柱为核心，全部采用木质销钉紧密连接，绝不使用易锈蚀损坏的金属铁钉或螺栓。",
+      "start_time": 619.675,
+      "end_time": 630.913,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_58.mp3",
+      "key_vocab": [
+        {
+          "word": "perishable",
+          "definition": "易腐坏的"
+        },
+        {
+          "word": "interlocked",
+          "definition": "互锁的，咬合的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_59",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 59,
+      "english": "This ingenious timber engineering allowed the buildings to flex slightly during fierce northern gales without fracturing or losing structural integrity over several continuous historical centuries.",
+      "chinese": "这种精妙的木结构工程使建筑在猛烈的北方大风中能够轻微弯曲形变，而不会断裂或丧失结构的完整性。",
+      "start_time": 631.263,
+      "end_time": 643.024,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_59.mp3",
+      "key_vocab": [
+        {
+          "word": "ingenious",
+          "definition": "精巧的，巧妙的"
+        },
+        {
+          "word": "integrity",
+          "definition": "完整性"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_60",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 60,
+      "english": "Conservation teams have added modern climate sensors and protective tar coatings, seeking to protect the surviving wooden churches against escalating moisture damage and timber decay.",
+      "chinese": "保护团队安装了现代气候监测传感器并涂刷了防护性焦油，力求保护现存的木制教堂免受日益严重的湿气侵蚀与木材腐烂。",
+      "start_time": 643.374,
+      "end_time": 653.847,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_60.mp3",
+      "key_vocab": [
+        {
+          "word": "conservation",
+          "definition": "保护"
+        },
+        {
+          "word": "tar",
+          "definition": "焦油"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_61",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 61,
+      "english": "In two delicate churches, laser monitors track tiny shifts in the wood to warn engineers of possible structural danger before serious damage occurs to the building.",
+      "chinese": "在两座格外脆弱的教堂中，激光监测仪持续追踪木料的微小位移，以便在严重险情发生前提醒工程师注意潜在的结构隐患。",
+      "start_time": 654.197,
+      "end_time": 663.554,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_61.mp3",
+      "key_vocab": [
+        {
+          "word": "precarious",
+          "definition": "危险的，不稳定的"
+        },
+        {
+          "word": "alignment",
+          "definition": "对齐，校准"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_62",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 62,
+      "english": "Why were these grand religious buildings constructed almost entirely from timber, rather than from stone like their contemporary continental European church counterparts across western nations?",
+      "chinese": "那么，为什么这些庄严的宗教建筑几乎完全采用木材建造，而没有像当时西方其他欧洲大陆教堂那样广泛选用石材呢？",
+      "start_time": 663.904,
+      "end_time": 674.876,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_62.mp3",
+      "key_vocab": [
+        {
+          "word": "monumental",
+          "definition": "不朽的，宏大的"
+        },
+        {
+          "word": "counterpart",
+          "definition": "对应物，对等者"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_63",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 63,
+      "english": "The primary practical reason was that tall, straight Scots pine timber was abundant and readily accessible throughout Scandinavia's dense northern pine forests everywhere across regions.",
+      "chinese": "最关键的实际经济原因，在于高大通直、材质优良的欧洲赤松木料在整个斯堪的纳维亚半岛茂密的原生北方森林中极为丰富且唾手可得。",
+      "start_time": 675.226,
+      "end_time": 686.209,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_63.mp3",
+      "key_vocab": [
+        {
+          "word": "abundant",
+          "definition": "丰富的，充裕的"
+        },
+        {
+          "word": "accessible",
+          "definition": "易获得的，易接近的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_64",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 64,
+      "english": "Harvesting local pine logs required far less time, transport cost, and skilled labor than cutting, hauling, and carving heavy stone blocks from distant mountain quarries.",
+      "chinese": "采伐当地松木原木，相比从远山采石场开采、搬运沉重石料并雇佣熟练石匠雕凿，所需的时间、运输成本和技工劳力要低得多。",
+      "start_time": 686.559,
+      "end_time": 697.414,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_64.mp3",
+      "key_vocab": [
+        {
+          "word": "harvest",
+          "definition": "采伐，收获"
+        },
+        {
+          "word": "quarry",
+          "definition": "采石场"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_65",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 65,
+      "english": "Furthermore, Norse carpenters inherited generations of woodworking expertise from building the famous Viking sailing longships that crossed open stormy northern oceans in ancient times.",
+      "chinese": "此外，挪威木匠世世代代传承了在建造名扬四海、远渡北方风暴大洋的著名维京长船过程中所积累的精湛木工技艺。",
+      "start_time": 697.764,
+      "end_time": 708.41,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_65.mp3",
+      "key_vocab": [
+        {
+          "word": "shipwright",
+          "definition": "造船匠"
+        },
+        {
+          "word": "expertise",
+          "definition": "专门知识"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_66",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "idx": 66,
+      "english": "The doorways carved with dragons and serpents demonstrate how native Viking artistic traditions merged smoothly with Christian church architecture throughout medieval Scandinavia across communities.",
+      "chinese": "雕刻有神龙与巨蟒的精美大门展示了本土维京艺术传统是如何在中世纪斯堪的纳维亚与基督教教堂建筑风格巧妙融为一体的。",
+      "start_time": 708.76,
+      "end_time": 719.372,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_66.mp3",
+      "key_vocab": [
+        {
+          "word": "entangled",
+          "definition": "纠缠的，缠绕的"
+        },
+        {
+          "word": "craftsmanship",
+          "definition": "工艺，手艺"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_67",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 67,
+      "english": "In our previous biology class, we examined the physical weakness and natural helplessness of newly born offspring across various mammalian animal species on earth today.",
+      "chinese": "在上一节生物课上，我们考察了地球上不同哺乳动物新生幼崽在身体层面的孱弱与天然的无助生存状态。",
+      "start_time": 719.722,
+      "end_time": 730.008,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_67.mp3",
+      "key_vocab": [
+        {
+          "word": "vulnerability",
+          "definition": "脆弱性"
+        },
+        {
+          "word": "physiological",
+          "definition": "生理的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_68",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 68,
+      "english": "Human newborn babies are far less developed physically and require prolonged parental care compared to other mammals of the same young age in nature across species.",
+      "chinese": "比起大自然中同年龄的其他哺乳动物幼崽，刚出生的人类婴儿在体能上要脆弱得多，需要经历长期的父母照料才能自立。",
+      "start_time": 730.358,
+      "end_time": 739.333,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_68.mp3",
+      "key_vocab": [
+        {
+          "word": "prolonged",
+          "definition": "延长的，长期的"
+        },
+        {
+          "word": "identical",
+          "definition": "完全相同的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_69",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 69,
+      "english": "However, in today's lecture on developmental psychology, we will examine three fascinating studies exploring the surprising intellectual abilities of young newborn human babies in life.",
+      "chinese": "然而在今天关于发育心理学的讲座中，我们将探讨三项引人入胜的研究，它们揭示了初生人类婴儿所蕴藏的惊人智力才能。",
+      "start_time": 739.683,
+      "end_time": 750.515,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_69.mp3",
+      "key_vocab": [
+        {
+          "word": "fascinating",
+          "definition": "迷人的，极有吸引力的"
+        },
+        {
+          "word": "intellectual",
+          "definition": "智力的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_70",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 70,
+      "english": "These three studies carefully examine how human babies look at human faces, recognize emotions in music, and show natural feelings on their own faces every day.",
+      "chinese": "这三项研究仔细考察了人类婴儿如何观察人脸、从音乐中辨识情绪，以及在自己脸上自然流露真实的情感。",
+      "start_time": 750.865,
+      "end_time": 760.524,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_70.mp3",
+      "key_vocab": [
+        {
+          "word": "empirical",
+          "definition": "实证的，经验的"
+        },
+        {
+          "word": "perceive",
+          "definition": "感知，察觉"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_71",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 71,
+      "english": "In the first clever experiment, young toddlers watched two video clips shown side by side simultaneously on a widescreen computer monitor in the developmental lab.",
+      "chinese": "在第一项巧妙的实验中，幼童们在实验室的宽屏电脑显示器前，同时并排观看了两段并列播放的人像视频短片。",
+      "start_time": 760.874,
+      "end_time": 770.882,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_71.mp3",
+      "key_vocab": [
+        {
+          "word": "toddler",
+          "definition": "初学走路的幼儿"
+        },
+        {
+          "word": "simultaneously",
+          "definition": "同时地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_72",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 72,
+      "english": "Each video featured a different friendly researcher speaking gently, one of whom the children had met in person two years earlier as tiny pre-verbal infants in daycare.",
+      "chinese": "每段视频中都有一位面带微笑的研究人员在温和轻声说话，其中一位研究员其实曾在这群孩子两年前还只是婴儿时，与他们面对面见过唯一一次。",
+      "start_time": 771.232,
+      "end_time": 781.275,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_72.mp3",
+      "key_vocab": [
+        {
+          "word": "in person",
+          "definition": "亲自，当面"
+        },
+        {
+          "word": "gently",
+          "definition": "温和地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_73",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 73,
+      "english": "Remarkably, the children looked much longer at the unfamiliar researcher, proving that they still retained a clear memory of the familiar face from daycare years ago.",
+      "chinese": "令人惊奇的是，孩子们注视陌生研究员的时间明显更长，证明他们依然清晰记得当年在日托所见过的那张熟悉面孔。",
+      "start_time": 781.625,
+      "end_time": 790.994,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_73.mp3",
+      "key_vocab": [
+        {
+          "word": "unfamiliar",
+          "definition": "不熟悉的"
+        },
+        {
+          "word": "enduring",
+          "definition": "持久的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_74",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 74,
+      "english": "The second empirical study explored auditory perception by playing recorded classical music through stereo speakers located on either side of a displayed human photographic face.",
+      "chinese": "第二项实证研究则将目光转向了听觉情绪感知领域，实验人员通过固定在展示人脸照片两侧的立体声录音音箱向小婴儿播放古典乐曲片段。",
+      "start_time": 791.344,
+      "end_time": 801.712,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_74.mp3",
+      "key_vocab": [
+        {
+          "word": "auditory",
+          "definition": "听觉的"
+        },
+        {
+          "word": "perception",
+          "definition": "感知，知觉"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_75",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 75,
+      "english": "After infants habituated to a particular melody and looked away, researchers abruptly switched the musical mood from happy to sad or vice versa during auditory tests.",
+      "chinese": "当小婴儿对某一段旋律习惯疲倦并移开视线之后，研究人员突然毫无预兆地将音乐基调从欢乐跳跃骤然切换为忧伤低沉，或者反之亦然。",
+      "start_time": 802.062,
+      "end_time": 812.488,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_75.mp3",
+      "key_vocab": [
+        {
+          "word": "habituated",
+          "definition": "习惯于，适应了"
+        },
+        {
+          "word": "abruptly",
+          "definition": "突然地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_76",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 76,
+      "english": "This experiment proves that nine-month-old babies can distinguish a happy tune from a sad one, showing an early ability to perceive emotion in music during infancy.",
+      "chinese": "该实验表明，九个月大的婴儿已经能够区分欢快和悲伤的曲调，展现出了在婴儿期对音乐情绪的早期感知力。",
+      "start_time": 812.838,
+      "end_time": 822.869,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_76.mp3",
+      "key_vocab": [
+        {
+          "word": "distinguish",
+          "definition": "辨别，区分"
+        },
+        {
+          "word": "perception",
+          "definition": "感知"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_77",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 77,
+      "english": "Our third study in 1980 by Carroll Izard focused on the nature of infant emotional expression and spontaneous feelings in early life across different settings.",
+      "chinese": "我们的第三项研究由心理学家卡罗尔·伊扎德于1980年开展，重点关注小婴儿在生命早期如何自然表达丰富的情感与情绪。",
+      "start_time": 823.219,
+      "end_time": 834.097,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_77.mp3",
+      "key_vocab": [
+        {
+          "word": "landmark",
+          "definition": "里程碑"
+        },
+        {
+          "word": "sophisticated",
+          "definition": "复杂的，精妙的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_78",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 78,
+      "english": "Panels of ordinary adult observers watched video recordings of infants under nine months old, trying to identify their exact emotional feelings with objective accuracy.",
+      "chinese": "一组普通成年人观看了九个月以下婴儿的录像片段，尝试客观准确地识别婴儿们实时的具体情绪感受。",
+      "start_time": 834.447,
+      "end_time": 844.908,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_78.mp3",
+      "key_vocab": [
+        {
+          "word": "untrained",
+          "definition": "未经培训的"
+        },
+        {
+          "word": "subjective",
+          "definition": "主观的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_79",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 79,
+      "english": "The adult viewers showed remarkable agreement with each other, reliably spotting anger, fear, joy, surprise, and sadness on the babies' expressive little faces during tests.",
+      "chinese": "成年观察者之间表现出了令人惊讶的高度一致性，能够敏锐而可靠地辨别出婴儿脸上流露的愤怒、恐惧、喜悦、惊讶与悲伤。",
+      "start_time": 845.258,
+      "end_time": 855.475,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_79.mp3",
+      "key_vocab": [
+        {
+          "word": "evaluators",
+          "definition": "评估者"
+        },
+        {
+          "word": "discerning",
+          "definition": "辨别，识别"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_80",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 80,
+      "english": "These findings confirm that human infants possess an innate repertoire of discrete emotional expressions long before they acquire formal spoken language and complex verbal vocabulary.",
+      "chinese": "这些发现证实，人类婴儿在习得正式口头言语词汇之前很久，就已天生具备了一整套可清晰识别的离散面部情绪表达谱系。",
+      "start_time": 855.825,
+      "end_time": 866.471,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_80.mp3",
+      "key_vocab": [
+        {
+          "word": "innate",
+          "definition": "先天的，天生的"
+        },
+        {
+          "word": "repertoire",
+          "definition": "全部技能，储备"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_81",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "idx": 81,
+      "english": "Understanding infant emotion helps psychologists create better early childhood programs to nurture cognitive growth and support family bonding in communities today.",
+      "chinese": "透彻理解婴儿的情感，有助于心理学家设计更优质的早期成长方案，以呵护儿童智力发育并支持现代家庭的情感纽带。",
+      "start_time": 866.821,
+      "end_time": 876.538,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_81.mp3",
+      "key_vocab": [
+        {
+          "word": "interventions",
+          "definition": "干预措施"
+        },
+        {
+          "word": "bonding",
+          "definition": "结合，联系"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_82",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 82,
+      "english": "Today I would like to address a provocative professional topic: the hidden career dangers of being excessively collaborative in the modern corporate workplace today across industries.",
+      "chinese": "今天我想与诸位深入探讨一个极富启发性但也颇具挑战性的职场课题：在当今现代化企业办公环境中，过度追求团队合作可能给个人职业带来的隐秘危害。",
+      "start_time": 876.888,
+      "end_time": 886.943,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_82.mp3",
+      "key_vocab": [
+        {
+          "word": "provocative",
+          "definition": "挑衅的，激起思考的"
+        },
+        {
+          "word": "collaborative",
+          "definition": "合作的，协作的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_83",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 83,
+      "english": "Being an unselfish, dedicated team player has long been celebrated as a major virtue across many business companies around the world in modern work.",
+      "chinese": "做一个无私敬业的‘团队合作者’，长久以来都在许多企业中被视为现代职场的重要美德。",
+      "start_time": 887.293,
+      "end_time": 896.65,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_83.mp3",
+      "key_vocab": [
+        {
+          "word": "unselfish",
+          "definition": "无私的"
+        },
+        {
+          "word": "indispensable",
+          "definition": "不可或缺的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_84",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 84,
+      "english": "Corporate job listings often ask for applicants who collaborate smoothly across departments and prioritize collective success over individual career ambition in daily work projects.",
+      "chinese": "企业的招聘启事经常要求应聘者能跨部门顺畅合作，并在日常工作项目中把团队集体的成功置于个人职业抱负之上。",
+      "start_time": 897.0,
+      "end_time": 908.842,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_84.mp3",
+      "key_vocab": [
+        {
+          "word": "recruitment",
+          "definition": "招聘"
+        },
+        {
+          "word": "prioritize",
+          "definition": "优先考虑"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_85",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 85,
+      "english": "However, organizational psychologists warn that placing an uncritical emphasis on being an agreeable team player may hinder your individual career advancement over time in corporate environments.",
+      "chinese": "然而，当代敏锐的组织管理心理学家却纷纷发出警示：一味不加批判地盲目强调做顺从配合的团队成员，很可能会在不知不觉中严重阻碍你个人的长远晋升之路。",
+      "start_time": 909.192,
+      "end_time": 920.199,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_85.mp3",
+      "key_vocab": [
+        {
+          "word": "agreeable",
+          "definition": "随和的，赞同的"
+        },
+        {
+          "word": "hinder",
+          "definition": "阻碍，妨碍"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_86",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 86,
+      "english": "When ambitious employees become obsessed with maintaining group harmony, they often forfeit their personal autonomy and suppress their own decisive professional judgments in business meetings.",
+      "chinese": "当有抱负的职场员工过于执迷于维持表面上的一团和气时，他们往往会轻易丧失掉自主性，并在不知不觉中主动压制自己原本决断干练的专业直觉。",
+      "start_time": 920.549,
+      "end_time": 931.114,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_86.mp3",
+      "key_vocab": [
+        {
+          "word": "harmony",
+          "definition": "和谐"
+        },
+        {
+          "word": "suppress",
+          "definition": "压制"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_87",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 87,
+      "english": "Staying quiet and avoiding strong opinions stops you from taking calculated risks and winning credit for your own creative workplace ideas in business projects.",
+      "chinese": "保持沉默和避免发表鲜明见解，会阻碍你承担合理的风险，也让你无法凭借自己的职场创意在商业项目中获得应有的认可。",
+      "start_time": 931.464,
+      "end_time": 940.543,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_87.mp3",
+      "key_vocab": [
+        {
+          "word": "reluctance",
+          "definition": "勉强，不情愿"
+        },
+        {
+          "word": "calculated",
+          "definition": "深思熟虑的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_88",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 88,
+      "english": "Furthermore, taking part too heavily in collaborative team projects makes it very hard for managers to recognize your individual contributions and achievements in annual reviews.",
+      "chinese": "此外，过多参与团队合作项目会让管理层在年度考评中很难看清并认可你个人的独特贡献与成绩。",
+      "start_time": 940.893,
+      "end_time": 950.947,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_88.mp3",
+      "key_vocab": [
+        {
+          "word": "participate",
+          "definition": "参与"
+        },
+        {
+          "word": "evaluation",
+          "definition": "评估"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_89",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 89,
+      "english": "When big promotions or bonuses are handed out, the dependable team player who handled essential background work is often overlooked by senior company executives.",
+      "chinese": "每当发放重大晋升或奖金时，那位承担了幕后关键工作的可靠团队成员往往会被公司高管忽略。",
+      "start_time": 951.297,
+      "end_time": 960.875,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_89.mp3",
+      "key_vocab": [
+        {
+          "word": "coveted",
+          "definition": "令人垂涎的"
+        },
+        {
+          "word": "dependable",
+          "definition": "可靠的"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_90",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 90,
+      "english": "Working in cohesive teams provides real advantages, enabling groups to reach ambitious goals that individual workers cannot accomplish on their own in modern commercial business.",
+      "chinese": "团结协作确实具有切实的优势，能让群体达成单个员工凭一己之力无法完成的宏大现代商业目标。",
+      "start_time": 961.225,
+      "end_time": 972.162,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_90.mp3",
+      "key_vocab": [
+        {
+          "word": "cohesive",
+          "definition": "凝聚的，有凝聚力的"
+        },
+        {
+          "word": "accomplish",
+          "definition": "完成，实现"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_91",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 91,
+      "english": "Most importantly, working in teams provides great opportunities to enlarge your professional network and build lasting relationships across different modern corporate fields in industry.",
+      "chinese": "最重要的是，团队工作为你提供了拓展职业人脉并在不同现代企业领域建立持久业务关系的极佳机会。",
+      "start_time": 972.512,
+      "end_time": 982.949,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_91.mp3",
+      "key_vocab": [
+        {
+          "word": "unparalleled",
+          "definition": "无与伦比的"
+        },
+        {
+          "word": "enlarge",
+          "definition": "扩大，扩充"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_92",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 92,
+      "english": "To thrive strategically, you must learn to partner selectively with exceptional colleagues whose specialized skills fundamentally complement your personal strengths and domain knowledge in business.",
+      "chinese": "为了在职场竞争中立于不败之地，你必须学会精明而挑剔地选择合作对象，只与那些专业领域的独门绝技能在底层逻辑上与你自身优势形成强力互补的顶尖精英结盟。",
+      "start_time": 983.299,
+      "end_time": 993.795,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_92.mp3",
+      "key_vocab": [
+        {
+          "word": "selectively",
+          "definition": "有选择性地"
+        },
+        {
+          "word": "complement",
+          "definition": "补充，互补"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_93",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 93,
+      "english": "Focus on high-profile projects that leaders notice, rather than joining every routine group assignment that comes across your busy corporate office floor among colleagues.",
+      "chinese": "主动聚焦那些领导看得见的重要项目，而不要盲目加入办公室桌上流转的每一项日常团队杂活。",
+      "start_time": 994.145,
+      "end_time": 1004.176,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_93.mp3",
+      "key_vocab": [
+        {
+          "word": "visibility",
+          "definition": "能见度，可见度"
+        },
+        {
+          "word": "reflexively",
+          "definition": "条件反射般地"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_94",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 94,
+      "english": "Finally, remember that too much group discussion causes delays, because spending too much time trying to reach unanimous consensus prevents making a timely business decision.",
+      "chinese": "最后要记住，过多的群体协商会导致拖延，因为花费过多时间谋求一致共识会妨碍及时做出商业决策。",
+      "start_time": 1004.526,
+      "end_time": 1014.917,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_94.mp3",
+      "key_vocab": [
+        {
+          "word": "unanimous",
+          "definition": "一致同意的"
+        },
+        {
+          "word": "consensus",
+          "definition": "共识"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_95",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 95,
+      "english": "By balancing independent leadership with selective collaboration, you can become an admired corporate executive without sacrificing your own personal career advancement along the way.",
+      "chinese": "通过在独立领导力与明智协作之间取得平衡，你可以成为受人敬仰的企业高管，同时不会牺牲个人的职业晋升之路。",
+      "start_time": 1015.267,
+      "end_time": 1025.669,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_95.mp3",
+      "key_vocab": [
+        {
+          "word": "selective",
+          "definition": "有选择性的"
+        },
+        {
+          "word": "sacrifice",
+          "definition": "牺牲"
+        }
+      ]
+    },
+    {
+      "id": "cet6-2019-12-1_s_96",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "idx": 96,
+      "english": "True professional excellence requires knowing when to support the collective team and when to take decisive personal ownership of critical strategic business outcomes and executive decisions.",
+      "chinese": "真正的职场卓越智慧，在于清晰通透地懂得何时该倾力支持团队集体前进，以及何时该果敢担当起对关键战略成果的绝对个人领导责任。",
+      "start_time": 1026.019,
+      "end_time": 1036.317,
+      "audio_path": "content/papers/cet6-2019-12-1/cet6-2019-12-1_s_96.mp3",
+      "key_vocab": [
+        {
+          "word": "excellence",
+          "definition": "优秀，卓越"
+        },
+        {
+          "word": "ownership",
+          "definition": "所有权，主导担当"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2019-12-1_q_1",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "sentence_id": "cet6-2019-12-1_s_1",
+      "idx": 1,
+      "question_text": "What is the woman's profession?",
+      "options": [
+        "A) Magazine reporter.",
+        "B) Fashion designer.",
+        "C) Website designer.",
+        "D) Features editor."
+      ],
+      "answer": "D",
+      "explanation": "开场主持人的介绍明确指出：“Today our guest is Rosie Melinda who works as a senior features editor for Fashion magazine”，由此可知这位女士的职业是特刊/专栏编辑（Features editor），故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_2",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "sentence_id": "cet6-2019-12-1_s_6",
+      "idx": 2,
+      "question_text": "What is one of the woman's main responsibilities?",
+      "options": [
+        "A) Designing sports clothing.",
+        "B) Consulting fashion experts.",
+        "C) Answering daily emails.",
+        "D) Interviewing job-seekers."
+      ],
+      "answer": "C",
+      "explanation": "当被问及典型工作日常时，女士明确回答：“My day mainly incorporates responding to countless daily emails, writing and editing stories...”，即处理回复大量日常电子邮件（Answering daily emails），故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_3",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "sentence_id": "cet6-2019-12-1_s_9",
+      "idx": 3,
+      "question_text": "What do many people think about the woman's job?",
+      "options": [
+        "A) It is challenging.",
+        "B) It is fascinating.",
+        "C) It is tiresome.",
+        "D) It is fashionable."
+      ],
+      "answer": "B",
+      "explanation": "男士提问指出出版界外很多人认为：“working at a popular glossy magazine is an intensely glamorous and effortlessly exciting job”，glamorous 与 fascinating（令人着迷的、极具吸引力的）同义替换，故选B。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_4",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_1",
+      "sentence_id": "cet6-2019-12-1_s_11",
+      "idx": 4,
+      "question_text": "What helped the woman to get her current position?",
+      "options": [
+        "A) Her persistence.",
+        "B) Her experience.",
+        "C) Her competence.",
+        "D) Her confidence."
+      ],
+      "answer": "A",
+      "explanation": "谈到克服困难获得职位的经历时，女士明确指出：“To reach this point in my career, I had to be really persistent and work extraordinarily hard”，说明坚持不懈（persistence）帮助了她，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_5",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "sentence_id": "cet6-2019-12-1_s_20",
+      "idx": 5,
+      "question_text": "What does the man think of the satire Frankie he recently watched?",
+      "options": [
+        "A) It is enjoyable.",
+        "B) It is educational.",
+        "C) It is divorced from real life.",
+        "D) It is adapted from a drama."
+      ],
+      "answer": "A",
+      "explanation": "男士对讽刺剧《弗兰基》赞叹有加，评价其“extraordinarily enjoyable and earning it multiple major industry awards”（极其令人享受愉悦），enjoyable 对应卷面原意，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_6",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "sentence_id": "cet6-2019-12-1_s_20",
+      "idx": 6,
+      "question_text": "What does the man say is special about the satire Frankie?",
+      "options": [
+        "A) All the roles are played by famous actors and actresses.",
+        "B) It is based on the real-life experiences of some celebrities.",
+        "C) Its plots and events reveal a lot about Frankie's actual life.",
+        "D) It is written, directed, edited and produced by Frankie himself."
+      ],
+      "answer": "D",
+      "explanation": "男士特别强调整部剧极其独特的一点：“the entire show is written, directed, edited, and produced by Frankie himself”，全剧由弗兰基本人编剧、导演、剪辑和制片，故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_7",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "sentence_id": "cet6-2019-12-1_s_21",
+      "idx": 7,
+      "question_text": "What does the woman say she is going to do with the satire Frankie?",
+      "options": [
+        "A) Go to the theater and enjoy it.",
+        "B) Recommend it to her friends.",
+        "C) Watch it with the man.",
+        "D) Download and watch it."
+      ],
+      "answer": "D",
+      "explanation": "女士听完男士的安利后明确表示：“I will definitely try to download and watch it as soon as I finish my current backlog”，即她打算去下载观看（Download and watch it），故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_8",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_2",
+      "sentence_id": "cet6-2019-12-1_s_22",
+      "idx": 8,
+      "question_text": "What does the woman say about the comedy The Big Bang Theory?",
+      "options": [
+        "A) It has drawn criticisms from scientists.",
+        "B) It has been showing for over a decade.",
+        "C) It is a ridiculous piece of satire.",
+        "D) It is against common sense."
+      ],
+      "answer": "B",
+      "explanation": "女士在谈论《生活大爆炸》时指出：“The show has been running for over ten years”，running for over ten years 与 showing for over a decade（已播出了十年以上）完全同义，故选B。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_9",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "sentence_id": "cet6-2019-12-1_s_28",
+      "idx": 9,
+      "question_text": "What does the speaker say about players of contact sports?",
+      "options": [
+        "A) They are likely to get injured when moving too fast.",
+        "B) They believe in team spirit for good performance.",
+        "C) They need to keep moving to avoid getting hurt.",
+        "D) They have to learn how to avoid body contact."
+      ],
+      "answer": "C",
+      "explanation": "短文中指出从事对抗性接触运动时：“the player who usually gets hurt the most on the field is the one standing still”，原地站着不动的队员最容易受伤，反之需要保持移动以防受伤，故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_10",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "sentence_id": "cet6-2019-12-1_s_32",
+      "idx": 10,
+      "question_text": "What do longevity statistics reveal about the average person?",
+      "options": [
+        "A) They do not have many years to live after retirement.",
+        "B) They tend to live a longer life with early retirement.",
+        "C) They do not start enjoying life until full retirement.",
+        "D) They keep themselves busy even after retirement."
+      ],
+      "answer": "A",
+      "explanation": "短文引用寿命统计数据明确指出：“longevity statistics reveal that the average person does not last very long after complete retirement”，普通人退休后并没有太多寿命年限，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_11",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_3",
+      "sentence_id": "cet6-2019-12-1_s_35",
+      "idx": 11,
+      "question_text": "What bonus does the keep-moving principle bring us according to the speaker?",
+      "options": [
+        "A) It prevents us from worrying.",
+        "B) It slows down our aging process.",
+        "C) It enables us to accomplish more in life.",
+        "D) It provides us with more chances to learn."
+      ],
+      "answer": "A",
+      "explanation": "演讲者总结指出永不止步法则带来的益处：“A wonderful bonus with the keep-moving principle is that while we keep moving forward purposefully, we don't have a chance to worry”，使人无暇担忧烦恼，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_12",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "sentence_id": "cet6-2019-12-1_s_38",
+      "idx": 12,
+      "question_text": "What does the passage say about people's minds?",
+      "options": [
+        "A) It tends to dwell upon their joyous experiences.",
+        "B) It wanders for almost half of their waking time.",
+        "C) It has trouble concentrating after a brain injury.",
+        "D) It tends to be affected by their negative feelings."
+      ],
+      "answer": "B",
+      "explanation": "文章开篇指出人类普遍的心智现象：“ordinary people daydream and allow their attention to drift away through nearly half of their waking hours”，人在醒着的近一半时间都在走神，故选B。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_13",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "sentence_id": "cet6-2019-12-1_s_41",
+      "idx": 13,
+      "question_text": "For what purpose did the researchers develop the new app?",
+      "options": [
+        "A) To find how happiness relates to daydreaming.",
+        "B) To observe how one's mind affects one's behavior.",
+        "C) To see why daydreaming impacts what one is doing.",
+        "D) To study the relation between health and daydreaming."
+      ],
+      "answer": "A",
+      "explanation": "研究人员开发该款移动应用的目的是：“to systematically analyze the complex connection between spontaneous daydreaming and subjective daily happiness”，探究走神与幸福感之间的关联，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_14",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "sentence_id": "cet6-2019-12-1_s_45",
+      "idx": 14,
+      "question_text": "How does daydreaming benefit people according to some researchers?",
+      "options": [
+        "A) It helps them make good decisions.",
+        "B) It helps them tap their potentials.",
+        "C) It contributes to their creativity.",
+        "D) It contributes to clear thinking."
+      ],
+      "answer": "C",
+      "explanation": "心理学研究发现了做白日梦的益处：“it notably contributes to increasing overall creative problem-solving”，有助于提升创造力和创造性解决问题的能力，故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_15",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_4",
+      "sentence_id": "cet6-2019-12-1_s_47",
+      "idx": 15,
+      "question_text": "What was the finding of the experiment with 145 undergraduates?",
+      "options": [
+        "A) Subjects with clear goals in mind outperformed those without clear goals.",
+        "B) The difference in performance between the two groups was insignificant.",
+        "C) Non-daydreamers were more focused on their tasks than daydreamers.",
+        "D) Daydreamers did better than non-daydreamers in task performance."
+      ],
+      "answer": "D",
+      "explanation": "对比测试结果显示：“the daydreamers performed forty percent better than their peers in generating inventive solutions”，走神组比未走神组表现更好（did better），故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_16",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "sentence_id": "cet6-2019-12-1_s_53",
+      "idx": 16,
+      "question_text": "What does the speaker say about the Viking wooden churches?",
+      "options": [
+        "A) They are the oldest buildings in Europe.",
+        "B) They are part of the Christian tradition.",
+        "C) They are renovated to attract tourists.",
+        "D) They are in worsening condition."
+      ],
+      "answer": "D",
+      "explanation": "讲座中谈到这批中世纪木质教堂的现状：“with only thirty authentic wooden stave churches remaining intact... and their structural condition deteriorating”，deteriorating 与 worsening condition 同义对应，故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_17",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "sentence_id": "cet6-2019-12-1_s_55",
+      "idx": 17,
+      "question_text": "What is special about most of the Viking wooden churches?",
+      "options": [
+        "A) They have a history of 14 centuries.",
+        "B) They are 40 metres tall on average.",
+        "C) They are without foundations.",
+        "D) They consist of several storeys."
+      ],
+      "answer": "C",
+      "explanation": "讲座指出大部分木质教堂的构造特点：“rest directly on large horizontal stone blocks, which practically means that they were built without foundations”，即没有现代深地基，故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_18",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_5",
+      "sentence_id": "cet6-2019-12-1_s_63",
+      "idx": 18,
+      "question_text": "Why were the Viking churches constructed from wood?",
+      "options": [
+        "A) Wood was harmonious with nature.",
+        "B) Wooden buildings kept the cold out.",
+        "C) Timber was abundant in Scandinavia.",
+        "D) The Vikings liked wooden structures."
+      ],
+      "answer": "C",
+      "explanation": "建造优先采用木材的关键原因在于：“straight and slender timber was available in large quantities throughout Scandinavia's pine forests”，木材在斯堪的纳维亚极其丰富充裕，故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_19",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "sentence_id": "cet6-2019-12-1_s_69",
+      "idx": 19,
+      "question_text": "What are the three interesting studies about?",
+      "options": [
+        "A) Similarities between human babies and baby animals.",
+        "B) Cognitive features of different newly born mammals.",
+        "C) Adults' influence on children.",
+        "D) Abilities of human babies."
+      ],
+      "answer": "D",
+      "explanation": "讲师在引入本讲核心主题时指出：“three very interesting experimental studies that hint at surprising, advanced intellectual abilities possessed by human babies”，这三项研究均展示了人类婴儿非凡的才能，故选D。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_20",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "sentence_id": "cet6-2019-12-1_s_76",
+      "idx": 20,
+      "question_text": "What does the second study find about nine-month-old babies?",
+      "options": [
+        "A) They can distinguish a happy tune from a sad one.",
+        "B) They love happy melodies more than sad ones.",
+        "C) They fall asleep easily while listening to music.",
+        "D) They are already sensitive to beats and rhythms."
+      ],
+      "answer": "A",
+      "explanation": "第二项关于音乐情感知觉的实验证明：“babies of nine months can clearly distinguish between a happy musical melody and a sad tune”，能够区分快乐和悲伤的曲调，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_21",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_6",
+      "sentence_id": "cet6-2019-12-1_s_77",
+      "idx": 21,
+      "question_text": "What is the 1980 study about?",
+      "options": [
+        "A) Infants' facial expressions.",
+        "B) Babies' emotions.",
+        "C) Babies' interaction with adults.",
+        "D) Infants' behaviors."
+      ],
+      "answer": "B",
+      "explanation": "讲座中介绍伊扎德1980年的奠基性研究时指出：“it stands as one of the most famous investigations of infant emotion ever published”，明确说明该研究的核心主题是婴儿的情感（Babies' emotions），故选B。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_22",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "sentence_id": "cet6-2019-12-1_s_85",
+      "idx": 22,
+      "question_text": "What does the speaker say about being over collaborative?",
+      "options": [
+        "A) It may harm the culture of today's workplace.",
+        "B) It may hinder individual career advancement.",
+        "C) It may result in unwillingness to take risks.",
+        "D) It may put too much pressure on team members."
+      ],
+      "answer": "B",
+      "explanation": "演讲者在讲座开头便警示过度合作的弊端：“excessive emphasis upon being an agreeable team player can negatively hamper your personal career advancement”，hamper 对应 hinder（阻碍个人职业晋升），故选B。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_23",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "sentence_id": "cet6-2019-12-1_s_88",
+      "idx": 23,
+      "question_text": "What does the speaker say about people engaged in collaborative projects?",
+      "options": [
+        "A) They can hardly give expression to their original views.",
+        "B) They can become less motivated to do projects of their own.",
+        "C) They may find it hard to get their contributions recognized.",
+        "D) They may eventually lose their confidence and creativity."
+      ],
+      "answer": "C",
+      "explanation": "文中指出参与集体合作项目时：“makes your individual competencies, innovative insights, and technical contributions significantly more difficult for outsiders to identify”，局外人很难识别并认可个人贡献，故选C。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_24",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "sentence_id": "cet6-2019-12-1_s_91",
+      "idx": 24,
+      "question_text": "How do people benefit from working in a team?",
+      "options": [
+        "A) They can enlarge their professional circle.",
+        "B) They can get chances to engage in research.",
+        "C) They can make the best use of their expertise.",
+        "D) They can complete the project more easily."
+      ],
+      "answer": "A",
+      "explanation": "谈及团队合作的优势时指出：“Working collectively provides unparalleled opportunities to expand and enlarge your professional network”，即扩大个人专业人脉圈，故选A。"
+    },
+    {
+      "id": "cet6-2019-12-1_q_25",
+      "paper_id": "cet6-2019-12-1",
+      "section_id": "cet6-2019-12-1_sec_7",
+      "sentence_id": "cet6-2019-12-1_s_94",
+      "idx": 25,
+      "question_text": "Why is it undesirable to spend too much time trying to reach consensus?",
+      "options": [
+        "A) It may cause lots of arguments in a team.",
+        "B) It may prevent making a timely decision.",
+        "C) It may give rise to a lot of unnecessary expenses.",
+        "D) It may deprive a team of business opportunities."
+      ],
+      "answer": "B",
+      "explanation": "演讲者强调耗费过多时间达成共识的弊端：“spending excessive time endlessly debating to reach unanimous consensus prevents making a timely decision”，会阻碍及时拍板决断，故选B。"
+    }
+  ]
+}

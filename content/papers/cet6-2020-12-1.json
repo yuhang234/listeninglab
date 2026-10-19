@@ -1,0 +1,2849 @@
+{
+  "id": "cet6-2020-12-1",
+  "title": "2020年12月 六级听力真题（第1套）",
+  "year": 2020,
+  "month": 12,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 1028.833,
+  "sentence_count": 98,
+  "version": 1,
+  "audio_path": "content/papers/cet6-2020-12-1/full.mp3",
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2020-12-1_sec_1",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section A · 长对话一：房屋保险理赔纠纷",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2020-12-1_sec_2",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section A · 长对话二：人工智能与人类未来",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2020-12-1_sec_3",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section B · 篇章一：青年人的财务安全与储蓄规划",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2020-12-1_sec_4",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section B · 篇章二：职场着装与个人形象管理",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2020-12-1_sec_5",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section C · 讲座一：精简生活与过度消费的反思",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2020-12-1_sec_6",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section C · 讲座二：为了维护名誉而说谎的心理机制",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2020-12-1_sec_7",
+      "paper_id": "cet6-2020-12-1",
+      "title": "Section C · 讲座三：为什么年龄增长后不再喜欢新音乐",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2020-12-1_s_1",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 1,
+      "english": "Good morning, Safehouse Insurance Customer Support. My name is Paul, and I am here to assist you with your existing policy today.",
+      "chinese": "早上好，这里是安全居保险客户支持中心。我叫保罗，今天由我协助您办理现有的保单业务。",
+      "start_time": 0.0,
+      "end_time": 7.21,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_1.mp3",
+      "key_vocab": [
+        {
+          "word": "customer support",
+          "definition": "客户支持"
+        },
+        {
+          "word": "policy",
+          "definition": "保险单"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_2",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 2,
+      "english": "Morning? I certainly wouldn't say that it is a good morning from where I am standing after what my family has been through.",
+      "chinese": "早上好？在我们全家经历了这一切之后，站在我的处境上，我可绝不会说这是个美好的早晨。",
+      "start_time": 7.56,
+      "end_time": 13.423,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_2.mp3",
+      "key_vocab": [
+        {
+          "word": "standing",
+          "definition": "处境，立场"
+        },
+        {
+          "word": "through",
+          "definition": "经历"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_3",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 3,
+      "english": "This is Miss May Wilson, and this is the third time I have called your office this week since receiving your rejection letter regarding our claim.",
+      "chinese": "我是梅·威尔逊女士，自从收到你们拒绝我们理赔的信件以来，这已经是我这周第三次给你们办公室打电话了。",
+      "start_time": 13.773,
+      "end_time": 21.168,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_3.mp3",
+      "key_vocab": [
+        {
+          "word": "rejection",
+          "definition": "拒绝"
+        },
+        {
+          "word": "claim",
+          "definition": "理赔，索赔"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_4",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 4,
+      "english": "I am getting extremely fed up with my repeated phone calls about my legitimate insurance claim being completely disregarded by your claims department.",
+      "chinese": "对于我打来的关于合法保险理赔的多次电话完全被你们理赔部门置之不理这件事，我感到极其厌烦和愤怒。",
+      "start_time": 21.518,
+      "end_time": 29.135,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_4.mp3",
+      "key_vocab": [
+        {
+          "word": "fed up with",
+          "definition": "对……感到厌烦"
+        },
+        {
+          "word": "disregard",
+          "definition": "忽视，置之不理"
+        },
+        {
+          "word": "legitimate",
+          "definition": "合法的，正当的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_5",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 5,
+      "english": "It is Miss May Wilson of 15 South Sea Road in Cornwall, and the details are that our entire coastal village was extensively flooded two months ago.",
+      "chinese": "我是康沃尔郡南海路15号的梅·威尔逊女士，具体情况是两个月前我们整个沿海村庄遭遇了极其严重的洪涝灾害。",
+      "start_time": 29.485,
+      "end_time": 38.447,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_5.mp3",
+      "key_vocab": [
+        {
+          "word": "coastal",
+          "definition": "沿海的"
+        },
+        {
+          "word": "extensively",
+          "definition": "广泛地，大规模地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_6",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 6,
+      "english": "The entire ground floor of our cottage was completely submerged in muddy water, and five of us have been forced to live in a cramped caravan ever since.",
+      "chinese": "我们家农舍的整个一楼都被浑浊的泥水彻底淹没了，从那时起我们一家五口人就不得不一直挤在一辆狭窄的房车里度日。",
+      "start_time": 38.797,
+      "end_time": 47.586,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_6.mp3",
+      "key_vocab": [
+        {
+          "word": "cottage",
+          "definition": "农舍，村舍"
+        },
+        {
+          "word": "submerged",
+          "definition": "淹没的"
+        },
+        {
+          "word": "caravan",
+          "definition": "房车，大篷车"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_7",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 7,
+      "english": "Our furniture and personal memories were destroyed, yet your company is still withholding the emergency flood assistance money we are fully entitled to receive.",
+      "chinese": "我们的家具和个人回忆全被毁了，然而你们公司却依然扣留着我们完全有权获得的紧急抗洪救助金。",
+      "start_time": 47.936,
+      "end_time": 57.712,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_7.mp3",
+      "key_vocab": [
+        {
+          "word": "withholding",
+          "definition": "扣留，保留"
+        },
+        {
+          "word": "entitled to",
+          "definition": "有权享有"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_8",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 8,
+      "english": "Miss Wilson, according to the official assessor notes on your account, the bizarre technical detail that you mentioned refers to the fact that you hadn't paid house insurance the month before the incident.",
+      "chinese": "威尔逊女士，根据您账户上的官方定损员备注，您提到的荒唐技术细节是指在事故发生的前一个月您未按时缴纳房屋保险费这一事实。",
+      "start_time": 58.062,
+      "end_time": 68.615,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_8.mp3",
+      "key_vocab": [
+        {
+          "word": "assessor",
+          "definition": "定损员，评估员"
+        },
+        {
+          "word": "incident",
+          "definition": "事件，事故"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_9",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 9,
+      "english": "That monthly installment left our personal bank account exactly on schedule via direct debit, and now that you should be paying out compensation, you are suddenly claiming you never received it on time.",
+      "chinese": "那笔月供早已通过自动扣款按期从我们的个人银行账户划走了，现在到了你们理应赔付的时候，你们却突然声称当时从未按时收到。",
+      "start_time": 68.965,
+      "end_time": 80.842,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_9.mp3",
+      "key_vocab": [
+        {
+          "word": "installment",
+          "definition": "分期付款"
+        },
+        {
+          "word": "direct debit",
+          "definition": "直接借记，自动扣款"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_10",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 10,
+      "english": "I am deeply skeptical of this convenient corporate excuse, especially given that we have faithfully maintained our comprehensive policy with your firm for more than six consecutive years.",
+      "chinese": "我对这种冠冕堂皇的公司借口深表怀疑，特别是考虑到我们六年来一直忠实地在贵公司投保综合险，从未出现过任何差错。",
+      "start_time": 81.192,
+      "end_time": 92.257,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_10.mp3",
+      "key_vocab": [
+        {
+          "word": "skeptical",
+          "definition": "怀疑的"
+        },
+        {
+          "word": "consecutive",
+          "definition": "连续的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_11",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 11,
+      "english": "The insurance policy contract does clearly state that any missed payment within a calendar year alters the terms and conditions and can legally jeopardize unsettled claims.",
+      "chinese": "保险合同条款中确实明确规定，在一个日历年内的任何保费欠缴都会改变合同条款，并在法律上危及未决理赔。",
+      "start_time": 92.607,
+      "end_time": 102.405,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_11.mp3",
+      "key_vocab": [
+        {
+          "word": "jeopardize",
+          "definition": "危及，损害"
+        },
+        {
+          "word": "unsettled",
+          "definition": "未决的，未结清的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_12",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "idx": 12,
+      "english": "I have already spoken to him twice and you can tell him I am furious now and that your company has a serious lawsuit on its hands; you will definitely be hearing from my lawyer tomorrow!",
+      "chinese": "我已经和他谈过两次了，你可以转告他我现在出离愤怒，你们公司马上就要面临一场严重的法律诉讼；你们明天绝对会收到我律师的正式信函！",
+      "start_time": 102.755,
+      "end_time": 113.379,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_12.mp3",
+      "key_vocab": [
+        {
+          "word": "furious",
+          "definition": "狂怒的，暴怒的"
+        },
+        {
+          "word": "lawsuit",
+          "definition": "法律诉讼"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_13",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 13,
+      "english": "How do you feel about the rapid advancement and future integration of artificial intelligence in our society? Personally, I feel quite optimistic about its immense potential.",
+      "chinese": "你对人工智能在我们社会的快速发展和未来的深度融合有什么看法？就我个人而言，我对它的巨大潜力感到非常乐观。",
+      "start_time": 113.729,
+      "end_time": 122.924,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_13.mp3",
+      "key_vocab": [
+        {
+          "word": "advancement",
+          "definition": "前进，进步"
+        },
+        {
+          "word": "integration",
+          "definition": "整合，一体化"
+        },
+        {
+          "word": "optimistic",
+          "definition": "乐观的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_14",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 14,
+      "english": "AI? I am not so optimistic, actually. In fact, its unchecked expansion is something we should be very deeply concerned about.",
+      "chinese": "人工智能？实际上我并没有那么乐观。事实上，它不受节制的扩张正是我们应该深感担忧的事情。",
+      "start_time": 123.274,
+      "end_time": 130.658,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_14.mp3",
+      "key_vocab": [
+        {
+          "word": "unchecked",
+          "definition": "未受抑制的"
+        },
+        {
+          "word": "concerned",
+          "definition": "担忧的，关切的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_15",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 15,
+      "english": "Well, sophisticated algorithms will help human beings analyze complex medical problems and understand ourselves much better, and when we achieve deeper self-awareness, we can surely improve the world.",
+      "chinese": "嗯，精密先进的算法将帮助人类分析复杂的医学难题并更好地理解我们自身，而当我们实现更深层次的自我认知时，我们必能改善这个世界。",
+      "start_time": 131.008,
+      "end_time": 142.513,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_15.mp3",
+      "key_vocab": [
+        {
+          "word": "sophisticated",
+          "definition": "精密的，复杂的"
+        },
+        {
+          "word": "self-awareness",
+          "definition": "自我意识，自知"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_16",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 16,
+      "english": "I think artificial intelligence will actually help create new kinds of jobs which would require less of our time and allow us to be centered on creative tasks.",
+      "chinese": "我认为人工智能实际上会帮助创造新型工种，这些工作所耗费的时间更少，并让我们能够专注于富有创造性的核心任务。",
+      "start_time": 142.863,
+      "end_time": 151.826,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_16.mp3",
+      "key_vocab": [
+        {
+          "word": "centered on",
+          "definition": "专注于，以……为中心"
+        },
+        {
+          "word": "creative",
+          "definition": "创造性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_17",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 17,
+      "english": "I doubt that very much. Probably the last remaining employment for mankind will be writing preliminary machine learning code, and then eventually, autonomous AI will simply write all its own software.",
+      "chinese": "我对此深表怀疑。人类可能剩下的最后一份工作就是编写最初的机器学习代码，而最终，自主的AI将能轻而易举地自行编写所有软件。",
+      "start_time": 152.176,
+      "end_time": 163.983,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_17.mp3",
+      "key_vocab": [
+        {
+          "word": "preliminary",
+          "definition": "初步的"
+        },
+        {
+          "word": "autonomous",
+          "definition": "自主的，自治的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_18",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 18,
+      "english": "By that stage in the distant future, our aging global population will face massive structural labor shortages in essential physical occupations that nobody genuinely wants to perform.",
+      "chinese": "到了遥远未来的那个阶段，全球老龄化人口将会在没人真正想做的基础体力劳动中面临严重的结构性劳动力短缺。",
+      "start_time": 164.333,
+      "end_time": 175.235,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_18.mp3",
+      "key_vocab": [
+        {
+          "word": "structural",
+          "definition": "结构性的"
+        },
+        {
+          "word": "shortage",
+          "definition": "短缺，不足"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_19",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 19,
+      "english": "We will desperately need intelligent humanoid robots to handle strenuous sanitation, maintain agricultural yields, and provide compassionate round-the-clock nursing care for elderly citizens like us.",
+      "chinese": "我们届时将极其需要智能人形机器人来承担繁重的环境卫生工作、维持农业收成，并为像我们这样的老年群体提供全天候贴心照料。",
+      "start_time": 175.585,
+      "end_time": 188.054,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_19.mp3",
+      "key_vocab": [
+        {
+          "word": "strenuous",
+          "definition": "艰苦繁重的"
+        },
+        {
+          "word": "compassionate",
+          "definition": "富有同情心的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_20",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 20,
+      "english": "I don't know if that utopian vision is realistic. There is an existential risk that human civilization could be replaced by a superior type of digital life.",
+      "chinese": "我不知道那种乌托邦式的愿景是否切合实际。存在着一种生存维度的重大风险，即人类文明可能被一种更优越的数字生命形式所彻底取代。",
+      "start_time": 188.404,
+      "end_time": 196.845,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_20.mp3",
+      "key_vocab": [
+        {
+          "word": "utopian",
+          "definition": "乌托邦式的"
+        },
+        {
+          "word": "existential",
+          "definition": "生存的，存在主义的"
+        },
+        {
+          "word": "superior",
+          "definition": "更优越的，高级的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_21",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 21,
+      "english": "Future quantum machines will be able to completely simulate every subtle facet of human cognition, memory, and emotional expression with total fidelity.",
+      "chinese": "未来的量子机器将能够以绝对的逼真度，完全模拟人类认知、记忆和情感表达的每一个微妙侧面。",
+      "start_time": 197.195,
+      "end_time": 206.111,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_21.mp3",
+      "key_vocab": [
+        {
+          "word": "quantum",
+          "definition": "量子的"
+        },
+        {
+          "word": "fidelity",
+          "definition": "保真度，逼真"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_22",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 22,
+      "english": "That is completely absurd philosophical speculation! Humans cannot even construct a living biological mosquito from raw chemical elements, whereas computers only contain inanimate silicon microchips.",
+      "chinese": "那完全是荒诞不经的哲学猜测！人类甚至无法用纯化学元素合成出一只活生生的生物蚊子，而计算机内部仅仅包含无生命的硅基微芯片。",
+      "start_time": 206.461,
+      "end_time": 219.023,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_22.mp3",
+      "key_vocab": [
+        {
+          "word": "absurd",
+          "definition": "荒谬的"
+        },
+        {
+          "word": "inanimate",
+          "definition": "无生命的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_23",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 23,
+      "english": "Once it is fully developed, super-intelligent AI will become tired of trying to communicate with humans, as we would be much slower thinkers in comparison.",
+      "chinese": "一旦充分发展，超级智能AI将会对尝试与人类交流感到厌烦，因为相较之下我们人类的思考速度实在太慢了。",
+      "start_time": 219.373,
+      "end_time": 228.081,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_23.mp3",
+      "key_vocab": [
+        {
+          "word": "super-intelligent",
+          "definition": "超智能的"
+        },
+        {
+          "word": "in comparison",
+          "definition": "相较之下"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_24",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "idx": 24,
+      "english": "Well, I maintain faith that humanity will forge a mutually beneficial and benevolent partnership with AI, and frankly, I suspect you have been indulging in far too many dystopian movie marathons.",
+      "chinese": "好吧，我依然坚信人类会与AI建立起互利共赢且充满善意的伙伴关系，而且坦率地说，我怀疑你看了太多反乌托邦式的末日电影通宵连播了。",
+      "start_time": 228.431,
+      "end_time": 239.448,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_24.mp3",
+      "key_vocab": [
+        {
+          "word": "benevolent",
+          "definition": "仁慈的，善意的"
+        },
+        {
+          "word": "dystopian",
+          "definition": "反乌托邦的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_25",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 25,
+      "english": "To achieve genuine lifelong financial security, how much you save is always far more important than the gross amount you earn or how shrewdly you invest.",
+      "chinese": "要想实现真正终身受益的财务安全，你究竟存下了多少钱，始终比你的总收入数额或者你的投资多么精明要重要得多。",
+      "start_time": 239.798,
+      "end_time": 248.541,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_25.mp3",
+      "key_vocab": [
+        {
+          "word": "financial security",
+          "definition": "财务安全"
+        },
+        {
+          "word": "shrewdly",
+          "definition": "精明地，敏锐地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_26",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 26,
+      "english": "Many novice professionals mistakenly equate high initial salaries with guaranteed wealth, forgetting that undisciplined lifestyle inflation can rapidly consume even substantial corporate compensation packages.",
+      "chinese": "许多职场新人错误地将高起薪等同于财富保障，却忘记了毫无节制的生活方式通胀会迅速吞噬哪怕是相当可观的丰厚薪酬包。",
+      "start_time": 248.891,
+      "end_time": 261.975,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_26.mp3",
+      "key_vocab": [
+        {
+          "word": "novice",
+          "definition": "初学者，新手"
+        },
+        {
+          "word": "inflation",
+          "definition": "膨胀，通胀"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_27",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 27,
+      "english": "If you are under 30 years old, your goal should be to save 20% of your monthly income after tax deductions.",
+      "chinese": "如果你在30岁以下，你的首要财务目标应该是每月存下税后扣除净收入的20%。",
+      "start_time": 262.325,
+      "end_time": 269.163,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_27.mp3",
+      "key_vocab": [
+        {
+          "word": "deductions",
+          "definition": "扣除额"
+        },
+        {
+          "word": "net income",
+          "definition": "净收入"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_28",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 28,
+      "english": "This prudent golden rule applies strictly irrespective of how much you earn, whether you are working in your first entry-level apprenticeship or managing corporate departments.",
+      "chinese": "这条审慎的黄金法则严格适用，无论你收入几何，无论你是在做第一份初级学徒工还是已经在管理企业核心部门。",
+      "start_time": 269.513,
+      "end_time": 278.848,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_28.mp3",
+      "key_vocab": [
+        {
+          "word": "prudent",
+          "definition": "审慎的"
+        },
+        {
+          "word": "irrespective of",
+          "definition": "不论，不论……如何"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_29",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 29,
+      "english": "Under this conventional budgeting framework, approximately 50% of your total net earnings should be reserved exclusively for absolute everyday necessities.",
+      "chinese": "在这一经典的预算管理框架下，你全部净收入的大约50%应当专门留作日常生活必需品的开销。",
+      "start_time": 279.198,
+      "end_time": 289.264,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_29.mp3",
+      "key_vocab": [
+        {
+          "word": "budgeting",
+          "definition": "预算编制"
+        },
+        {
+          "word": "necessities",
+          "definition": "必需品"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_30",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 30,
+      "english": "The remaining 30% of your disposable income can then be comfortably designated for discretionary spending, such as weekend recreation, social dinners, and holiday travel.",
+      "chinese": "随后，你可支配收入中剩余的30%就可以从容地用于随意支配的开支，例如周末休闲、朋友聚餐和假日旅行。",
+      "start_time": 289.614,
+      "end_time": 300.655,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_30.mp3",
+      "key_vocab": [
+        {
+          "word": "disposable",
+          "definition": "可支配的"
+        },
+        {
+          "word": "discretionary",
+          "definition": "任意支配的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_31",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 31,
+      "english": "If you find it hard to save any money at all, start up by cutting all unnecessary spending, allocate a tiny amount of 1 or 2 percent for savings, and gradually increase that amount.",
+      "chinese": "如果你发觉自己根本存不下任何钱，那就先从砍掉所有不必要的开支着手，拨出1%或2%的微小比例用于储蓄，随后逐步提升这个额度。",
+      "start_time": 301.005,
+      "end_time": 310.316,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_31.mp3",
+      "key_vocab": [
+        {
+          "word": "allocate",
+          "definition": "分配，拨出"
+        },
+        {
+          "word": "gradually",
+          "definition": "逐渐地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_32",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 32,
+      "english": "Take an objective inventory of daily expenditures: cancel forgotten gym memberships, brew morning coffee at home, and avoid purchasing expensive branded apparel on momentary impulse.",
+      "chinese": "对日常消费做一次客观清点：取消早已遗忘的健身房会员，早上在家里自己煮咖啡，避免一时冲动购买昂贵的大牌服饰。",
+      "start_time": 310.666,
+      "end_time": 322.009,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_32.mp3",
+      "key_vocab": [
+        {
+          "word": "inventory",
+          "definition": "清单，清点"
+        },
+        {
+          "word": "momentary",
+          "definition": "瞬间的，暂时的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_33",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 33,
+      "english": "Always keep that ultimate 20% savings target clearly in mind to prevent yourself from becoming complacent as your professional experience grows and your annual salary climbs.",
+      "chinese": "始终将最终20%的储蓄目标清晰地铭记在心，防止随着工作经验增长和年薪上涨而萌生盲目的自满懈怠。",
+      "start_time": 322.359,
+      "end_time": 332.866,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_33.mp3",
+      "key_vocab": [
+        {
+          "word": "complacent",
+          "definition": "自满的，得意的"
+        },
+        {
+          "word": "target",
+          "definition": "目标"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_34",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 34,
+      "english": "It can be challenging to stick to such a strict plan, but if you adopt the right mindset, you should be able to make it work for you.",
+      "chinese": "长期坚持这样严格的储蓄规划确实充满挑战，但如果你能够树立起正确积极的心态，你就完全有能力让它切实有效地为你服务。",
+      "start_time": 333.216,
+      "end_time": 340.275,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_34.mp3",
+      "key_vocab": [
+        {
+          "word": "mindset",
+          "definition": "心态，思维模式"
+        },
+        {
+          "word": "challenging",
+          "definition": "具有挑战性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_35",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 35,
+      "english": "Rather than viewing monthly savings as miserable self-deprivation, conceptualize every preserved dollar as an investment purchasing your future autonomy, security, and personal career choices.",
+      "chinese": "与其将每月的储蓄视为痛苦的自我剥夺，不如将积攒下的每一块钱都看作是在为购买你未来的个人自主权、安全感和自由职业选择进行投资。",
+      "start_time": 340.625,
+      "end_time": 352.769,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_35.mp3",
+      "key_vocab": [
+        {
+          "word": "self-deprivation",
+          "definition": "自我剥夺，克制"
+        },
+        {
+          "word": "autonomy",
+          "definition": "自主权，独立"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_36",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 36,
+      "english": "First, a dedicated portion must remain completely liquid and readily accessible in a separate high-yield emergency account to insulate you from unforeseen car repairs or sudden medical emergencies.",
+      "chinese": "首先，必须在一个单独的高收益应急账户中保留一部分完全具有流动性且随取随用的资金，以防备不可预见的车辆大修或突发医疗状况。",
+      "start_time": 353.119,
+      "end_time": 364.52,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_36.mp3",
+      "key_vocab": [
+        {
+          "word": "liquid",
+          "definition": "流动性的（资金）"
+        },
+        {
+          "word": "insulate",
+          "definition": "使隔离，提供保护"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_37",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "idx": 37,
+      "english": "By remaining faithful to this proven blueprint, you will be able to savor your present lifestyle with genuine peace of mind while securing unshakeable independence for the future.",
+      "chinese": "只要忠实履行这套经过时间检验的蓝图，你就能带着由衷的笃定踏实享受当下的生活，同时为未来筑牢不可动摇的独立基石。",
+      "start_time": 364.87,
+      "end_time": 374.762,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_37.mp3",
+      "key_vocab": [
+        {
+          "word": "blueprint",
+          "definition": "蓝图，行动方案"
+        },
+        {
+          "word": "unshakeable",
+          "definition": "不可动摇的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_38",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 38,
+      "english": "I work as an account director in advertising and I like to keep up with current trends, mainly because I'm aware that we live in an image-obsessed world.",
+      "chinese": "我是一家广告公司的客户总监，我喜欢跟紧时尚潮流，主要是因为我深刻意识到我们生活在一个过度痴迷外在形象的世界里。",
+      "start_time": 375.112,
+      "end_time": 383.088,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_38.mp3",
+      "key_vocab": [
+        {
+          "word": "account director",
+          "definition": "客户总监"
+        },
+        {
+          "word": "image-obsessed",
+          "definition": "痴迷形象的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_39",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 39,
+      "english": "In creative corporate environments, clients and executive stakeholders make rapid subconscious snap judgments about your organizational caliber within the first thirty seconds of meeting you.",
+      "chinese": "在创意企业环境中，客户和高管利益相关者在你与他们见面的前三十秒内，就会对你的专业水准做出迅速的下意识直觉评判。",
+      "start_time": 383.438,
+      "end_time": 393.875,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_39.mp3",
+      "key_vocab": [
+        {
+          "word": "stakeholders",
+          "definition": "利益相关者"
+        },
+        {
+          "word": "caliber",
+          "definition": "才干，水准"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_40",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 40,
+      "english": "However, when I first started my job several years ago, occasionally I'd catch a glimpse of myself in the reflective elevator doors, and find myself thinking that I looked a total mess.",
+      "chinese": "然而，几年前当我刚踏入职场时，偶尔在电梯反光的门上瞥见自己的倒影，会发现自己心里总在想自己看起来真是一团糟。",
+      "start_time": 394.225,
+      "end_time": 404.256,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_40.mp3",
+      "key_vocab": [
+        {
+          "word": "reflective",
+          "definition": "反光的"
+        },
+        {
+          "word": "catch a glimpse of",
+          "definition": "瞥见，看一眼"
+        },
+        {
+          "word": "total mess",
+          "definition": "一团糟"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_41",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 41,
+      "english": "My wardrobe back then was an uncoordinated mixture of casual university cotton hoodies, wrinkled trousers, and mismatched shoes that projected hesitation rather than strategic executive authority.",
+      "chinese": "我当年的衣橱完全是不协调的大杂烩：大学时代随意的纯棉连帽衫、皱巴巴的裤子和不相称的鞋子，展现出的尽是犹豫不决，而非高管所应有的战略威信。",
+      "start_time": 404.606,
+      "end_time": 416.297,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_41.mp3",
+      "key_vocab": [
+        {
+          "word": "wardrobe",
+          "definition": "衣橱，全部服装"
+        },
+        {
+          "word": "uncoordinated",
+          "definition": "不协调的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_42",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 42,
+      "english": "Was I being held back by my choice of clothing? The sure answer is yes, especially when demanding clients are quick to judge you on your style rather than your work.",
+      "chinese": "我是否因为自己的着装选择而遭受了职业发展的拖累？肯定的答案是肯定的，尤其是当挑剔的客户往往急于凭借你的个人风格而非实际工作成果来评判你时。",
+      "start_time": 416.647,
+      "end_time": 425.982,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_42.mp3",
+      "key_vocab": [
+        {
+          "word": "held back",
+          "definition": "阻碍，受拖累"
+        },
+        {
+          "word": "demanding",
+          "definition": "苛求的，挑剔的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_43",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 43,
+      "english": "But no one can be unique with their outfit every single day. I mean that's why uniforms were invented in the first place.",
+      "chinese": "但是没有人能够做到在每一天都穿得与众不同、别出心裁。我是说，这正是制服最初被发明出来的根本原因。",
+      "start_time": 426.332,
+      "end_time": 432.16,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_43.mp3",
+      "key_vocab": [
+        {
+          "word": "unique",
+          "definition": "独一无二的"
+        },
+        {
+          "word": "uniform",
+          "definition": "制服"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_44",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 44,
+      "english": "Spending forty anxious minutes every morning rifling through hangers trying to invent an artistic new ensemble generated terrible decision fatigue before my commute even started.",
+      "chinese": "每天早晨焦虑地花上40分钟翻箱倒柜、试图拼凑出一套全新的艺术感行头，在我还没开始通勤前就造成了极其严重的决策疲劳。",
+      "start_time": 432.51,
+      "end_time": 441.984,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_44.mp3",
+      "key_vocab": [
+        {
+          "word": "ensemble",
+          "definition": "全套服装，整套穿搭"
+        },
+        {
+          "word": "decision fatigue",
+          "definition": "决策疲劳"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_45",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 45,
+      "english": "So, here's what I did to resolve the dilemma once and for all: I designed my own minimalist professional workplace uniform.",
+      "chinese": "所以，为了彻底一劳永逸地解决这个困境，我采取了如下举措：我亲手设计了属于自己的极简主义职业职场制服。",
+      "start_time": 442.334,
+      "end_time": 448.87,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_45.mp3",
+      "key_vocab": [
+        {
+          "word": "dilemma",
+          "definition": "进退两难的困境"
+        },
+        {
+          "word": "once and for all",
+          "definition": "一劳永逸地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_46",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 46,
+      "english": "Then I bought multiple high-grade garments of the identical cut in a disciplined palette of versatile neutral tones: crisp white, tailored charcoal, matte black, and deep navy.",
+      "chinese": "接着，我购买了多件相同剪裁的高档衣物，颜色严格限制在一组百搭的中性色系中：利落的纯白、考究的炭灰、哑光黑和深邃的藏蓝。",
+      "start_time": 449.22,
+      "end_time": 460.122,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_46.mp3",
+      "key_vocab": [
+        {
+          "word": "garment",
+          "definition": "衣服，服装"
+        },
+        {
+          "word": "palette",
+          "definition": "调色板，色彩系列"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_47",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 47,
+      "english": "The mental clarity gained by eliminating wardrobe friction allows me to direct my creative energy toward strategic client pitches and campaign execution.",
+      "chinese": "消除穿衣纠结所换来的清晰头脑，使我能够把宝贵的创造性精力全部倾注到具有战略意义的客户提案和营销方案执行上。",
+      "start_time": 460.472,
+      "end_time": 468.796,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_47.mp3",
+      "key_vocab": [
+        {
+          "word": "friction",
+          "definition": "摩擦，阻碍"
+        },
+        {
+          "word": "clarity",
+          "definition": "清晰，明晰"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_48",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 48,
+      "english": "For software engineers or remote copywriters who rarely see colleagues or corporate clients face to face, visual dress codes may scarcely matter in daily routines.",
+      "chinese": "对于极少需要与同事或企业客户面对面打交道的软件工程师或远程文案写手而言，视觉上的着装规范在日常工作中可能微不足道。",
+      "start_time": 469.146,
+      "end_time": 479.642,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_48.mp3",
+      "key_vocab": [
+        {
+          "word": "copywriter",
+          "definition": "文案撰稿人"
+        },
+        {
+          "word": "scarcely",
+          "definition": "几乎不，简直不"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_49",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 49,
+      "english": "But if your job involves interacting with other people, the answer to this is often yes, because human beings are deeply visual communicators who equate tidiness with competence.",
+      "chinese": "但如果你的工作涉及频繁与人打交道，答案往往是肯定的，因为人类本质上是高度依赖视觉的沟通者，习惯于将利落整洁与专业胜任力直接划等号。",
+      "start_time": 479.992,
+      "end_time": 490.359,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_49.mp3",
+      "key_vocab": [
+        {
+          "word": "interacting",
+          "definition": "互动，交往"
+        },
+        {
+          "word": "competence",
+          "definition": "能力，胜任力"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_50",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "idx": 50,
+      "english": "So rather than finding a system to oppose, I think we should just do whatever helps us to achieve our goals that work; if that means playing it safe with your image, then let's face it, it's probably worth it.",
+      "chinese": "因此，与其费劲去对抗既有的体制规则，我认为我们倒不如采取任何有助于实现有效工作目标的方式；如果这意味着在个人形象上采取安全稳妥的做法，那么让我们坦然面对吧，这很可能是完全值得的。",
+      "start_time": 490.709,
+      "end_time": 502.203,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_50.mp3",
+      "key_vocab": [
+        {
+          "word": "playing it safe",
+          "definition": "采取稳妥做法"
+        },
+        {
+          "word": "worth it",
+          "definition": "值得的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_51",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 51,
+      "english": "Did you know that the average American household today possesses approximately three times the residential square footage that our grandparents enjoyed fifty years ago?",
+      "chinese": "你知道吗，如今美国家庭平均拥有的住宅建筑面积，大约是五十年前我们祖父母那一代人所享用面积的三倍？",
+      "start_time": 502.553,
+      "end_time": 511.11,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_51.mp3",
+      "key_vocab": [
+        {
+          "word": "household",
+          "definition": "家庭，户"
+        },
+        {
+          "word": "square footage",
+          "definition": "建筑面积（平方英尺）"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_52",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 52,
+      "english": "Over the last half-century, residential suburbs across the nation witnessed an explosion of enormous houses featuring cathedral ceilings, three-car garages, and extensive storage attics.",
+      "chinese": "在过去的半个世纪里，全国各地的郊区住宅见证了超大户型房屋的爆发式增长，挑高天花板、三车位车库和大容量储藏阁楼比比皆是。",
+      "start_time": 511.46,
+      "end_time": 523.615,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_52.mp3",
+      "key_vocab": [
+        {
+          "word": "suburbs",
+          "definition": "郊区"
+        },
+        {
+          "word": "attic",
+          "definition": "阁楼"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_53",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 53,
+      "english": "Therefore, under normal logic, you would naturally assume that we would have more than sufficient domestic room to comfortably house all of our personal possessions.",
+      "chinese": "因此，按照正常逻辑，你自然会认为我们会有绰绰有余的室内空间来舒舒服服地安放我们所有的个人物品和生活用品。",
+      "start_time": 523.965,
+      "end_time": 532.209,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_53.mp3",
+      "key_vocab": [
+        {
+          "word": "assume",
+          "definition": "假定，假设"
+        },
+        {
+          "word": "possessions",
+          "definition": "个人财产，物品"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_54",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 54,
+      "english": "On the contrary, the off-site personal self-storage facility sector has transformed into a massive, multi-billion-dollar commercial growth industry throughout the United States.",
+      "chinese": "恰恰相反，异地个人自助仓储设施行业已经转变为全美范围内规模高达数十亿美元的庞大商业朝阳产业。",
+      "start_time": 532.559,
+      "end_time": 544.633,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_54.mp3",
+      "key_vocab": [
+        {
+          "word": "on the contrary",
+          "definition": "正相反"
+        },
+        {
+          "word": "facility",
+          "definition": "设施，场所"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_55",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 55,
+      "english": "We've got triple the space, but we've become such enthusiastic consumers that we require even more extra space outside our homes to hoard our accumulating belongings.",
+      "chinese": "我们拥有的物理空间扩大了整整三倍，但我们却变成了如此狂热的消费主义者，以至于需要在家庭之外租用更多额外空间来囤积不断累积的物品。",
+      "start_time": 544.983,
+      "end_time": 554.062,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_55.mp3",
+      "key_vocab": [
+        {
+          "word": "enthusiastic",
+          "definition": "热狂的，热忱的"
+        },
+        {
+          "word": "hoard",
+          "definition": "囤积，积攒"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_56",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 56,
+      "english": "This rampant consumerist phenomenon has directly resulted in staggering nationwide credit card debt, colossal ecological carbon footprints, and widespread emotional exhaustion.",
+      "chinese": "这种猖獗的消费主义现象直接导致了令人咋舌的全国信用卡债务膨胀、庞大的生态碳足迹以及普遍的精神心理倦怠。",
+      "start_time": 554.412,
+      "end_time": 565.488,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_56.mp3",
+      "key_vocab": [
+        {
+          "word": "rampant",
+          "definition": "猖獗的，泛滥的"
+        },
+        {
+          "word": "staggering",
+          "definition": "令人惊愕的，巨大的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_57",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 57,
+      "english": "I am standing on this stage today to propose a radically different alternative: that deliberately choosing to possess less material stuff might actually be a far superior lifestyle choice.",
+      "chinese": "我今天站上这个讲台，是为了提出一种截然不同的替代方案：审慎主动地选择占有更少的物质财富，实际上可能是一个好得多的生活方式抉择。",
+      "start_time": 565.838,
+      "end_time": 577.192,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_57.mp3",
+      "key_vocab": [
+        {
+          "word": "radically",
+          "definition": "根本地，彻底地"
+        },
+        {
+          "word": "alternative",
+          "definition": "替代选择"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_58",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 58,
+      "english": "I firmly propose that paring down our possessions and downsizing our physical square footage can not only help us economize substantial financial capital, but also beautifully simplify our everyday mental lives.",
+      "chinese": "我坚定地认为，精简我们的物品并缩减物理居住面积，不仅能帮助我们省下巨额财务资本，还能奇妙地净化并简化我们每天的精神生活。",
+      "start_time": 577.542,
+      "end_time": 589.93,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_58.mp3",
+      "key_vocab": [
+        {
+          "word": "paring down",
+          "definition": "削减，精简"
+        },
+        {
+          "word": "economize",
+          "definition": "节约，节俭"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_59",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 59,
+      "english": "By intentionally purchasing a well-located flat measuring just 40 square meters instead of a standard 60-meter layout, I saved two hundred thousand dollars on the mortgage outright.",
+      "chinese": "通过特意购买一套面积仅为40平方米、地段优越的公寓，而不是标准60平方米的户型，我直接在房屋按揭贷款上省下了整整二十万美元。",
+      "start_time": 590.28,
+      "end_time": 601.066,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_59.mp3",
+      "key_vocab": [
+        {
+          "word": "outright",
+          "definition": "直接地，干脆地"
+        },
+        {
+          "word": "mortgage",
+          "definition": "按揭贷款"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_60",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 60,
+      "english": "Because the apartment was custom-tailored around a meticulously edited collection of belongings, limited strictly to my favorite stuff, I wake up feeling joyful and unburdened every day.",
+      "chinese": "因为这间公寓是完全围绕一套经过精心精简的物品收藏量身定制的，严格限制为我最心爱的东西，所以我每天醒来都感到无比愉悦且毫无负担。",
+      "start_time": 601.416,
+      "end_time": 611.865,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_60.mp3",
+      "key_vocab": [
+        {
+          "word": "custom-tailored",
+          "definition": "量身定制的"
+        },
+        {
+          "word": "unburdened",
+          "definition": "无负担的，轻松的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_61",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 61,
+      "english": "First and foremost, we must ruthlessly excise the accumulated unnecessary objects out of our closets, drawers, and garages that serve no genuine functional or emotional purpose.",
+      "chinese": "首先也是最重要的一点，我们必须毫不留情地从衣橱、抽屉和车库中清除掉那些在功能上或情感上没有任何实质作用的冗余杂物。",
+      "start_time": 612.215,
+      "end_time": 623.697,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_61.mp3",
+      "key_vocab": [
+        {
+          "word": "ruthlessly",
+          "definition": "坚决地，无情地"
+        },
+        {
+          "word": "excise",
+          "definition": "切除，删去"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_62",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 62,
+      "english": "Before acquiring any new shiny gadget or article of clothing, pause and query yourself rigorously: will this item genuinely amplify my long-term joy, or am I succumbing to fleeting marketing persuasion?",
+      "chinese": "在购买任何看似光鲜的新奇小玩意或新衣服之前，停下来严格审问自己：这件物品真的能提升我长久的幸福吗，还是我屈从于了短暂的市场营销蛊惑？",
+      "start_time": 624.047,
+      "end_time": 636.063,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_62.mp3",
+      "key_vocab": [
+        {
+          "word": "amplify",
+          "definition": "放大，增强"
+        },
+        {
+          "word": "succumb to",
+          "definition": "屈服于"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_63",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 63,
+      "english": "Obviously, we should possess some great stuff, but we want high-quality belongings that we are going to love and cherish for many years rather than disposable novelties.",
+      "chinese": "显而易见，我们理应拥有一些出色的物品，但我们想要的是那些能在往后岁月里被我们深爱并长久珍视的高品质器具，而不是转瞬即弃的时髦货。",
+      "start_time": 636.413,
+      "end_time": 646.503,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_63.mp3",
+      "key_vocab": [
+        {
+          "word": "cherish",
+          "definition": "珍爱，珍视"
+        },
+        {
+          "word": "disposable",
+          "definition": "一次性的，可扔掉的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_64",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 64,
+      "english": "Secondly, we need relentless space efficiency in modern domestic design; why install a massive commercial six-burner range when you rarely utilize even three burners simultaneously on a typical evening?",
+      "chinese": "其次，我们在现代家居设计中需要追求极致的空间效率；在一个普通的夜晚你连三个炉头都很少同时开启，为何偏偏要在厨房安装一个笨重的商用六眼燃气灶呢？",
+      "start_time": 646.853,
+      "end_time": 660.227,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_64.mp3",
+      "key_vocab": [
+        {
+          "word": "relentless",
+          "definition": "不懈的，极致的"
+        },
+        {
+          "word": "simultaneously",
+          "definition": "同时地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_65",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 65,
+      "english": "Finally, we need multifunctional spaces and dynamic smart housewares that effortlessly perform multiple distinct roles throughout the waking day.",
+      "chinese": "最后，我们需要能够充分发挥多功能特性的空间以及动态智能家居，它们可以在一天中毫不费力地兼顾多种截然不同的使用场景。",
+      "start_time": 660.577,
+      "end_time": 668.449,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_65.mp3",
+      "key_vocab": [
+        {
+          "word": "multifunctional",
+          "definition": "多功能的"
+        },
+        {
+          "word": "effortlessly",
+          "definition": "毫不费力地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_66",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "idx": 66,
+      "english": "My home office folds invisibly behind timber acoustic panels, while my comfortable queen-sized bed glides out from a recessed cabinet whenever evening arrives.",
+      "chinese": "我的家庭办公桌在不用时可以完全隐形地折叠在木质吸音板背后，而每当夜幕降临，我舒适的大双人床便会从壁柜暗格中平稳滑出。",
+      "start_time": 668.799,
+      "end_time": 678.737,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_66.mp3",
+      "key_vocab": [
+        {
+          "word": "acoustic",
+          "definition": "声学的，吸音的"
+        },
+        {
+          "word": "recessed",
+          "definition": "内嵌的，隐蔽的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_67",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 67,
+      "english": "Now, believe it or not, human beings sometimes choose to tell deliberate lies in order to maintain a good, honest reputation, even if it directly harms their own financial interests to do so.",
+      "chinese": "信不信由你，人类有时候竟然会故意撒谎以维护自己诚实善良的名誉，哪怕这么做会直接损害他们自身的经济利益。",
+      "start_time": 679.087,
+      "end_time": 689.733,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_67.mp3",
+      "key_vocab": [
+        {
+          "word": "reputation",
+          "definition": "声誉，名望"
+        },
+        {
+          "word": "financial interests",
+          "definition": "经济利益"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_68",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 68,
+      "english": "At least, this counter-intuitive psychological finding is what an international team of leading behavioral scientists is suggesting, accompanied by compelling statistical evidence.",
+      "chinese": "至少，这一看似反常识的心理学发现，是一支由顶尖行为科学家组成的国际团队在令人信服的统计学证据支持下所揭示的规律。",
+      "start_time": 690.083,
+      "end_time": 700.672,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_68.mp3",
+      "key_vocab": [
+        {
+          "word": "counter-intuitive",
+          "definition": "违背直觉的，反常识的"
+        },
+        {
+          "word": "compelling",
+          "definition": "令人信服的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_69",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 69,
+      "english": "Picture this hypothetical workplace scenario: you frequently travel by private automobile for work-related assignments and your employer policy reimburses your travel expenses up to a maximum cap of 400 miles per month.",
+      "chinese": "想象这样一个假设的职场场景：你经常因公务驾驶私家车出差，而雇主的公司政策允许你每月最高报销400英里的差旅里程费。",
+      "start_time": 701.022,
+      "end_time": 714.257,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_69.mp3",
+      "key_vocab": [
+        {
+          "word": "hypothetical",
+          "definition": "假设的"
+        },
+        {
+          "word": "cap",
+          "definition": "上限，限制"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_70",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 70,
+      "english": "Most employees in your division drive around 300 business miles every month, but during this past unusually demanding cycle, you legitimately logged exactly 400 miles on corporate duties.",
+      "chinese": "你所在部门的大多数员工每个月大约跑300英里的公干里程，但在刚刚过去的这个异常繁忙的工作周期中，你因公确实正正好好开满了400英里。",
+      "start_time": 714.607,
+      "end_time": 728.04,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_70.mp3",
+      "key_vocab": [
+        {
+          "word": "legitimately",
+          "definition": "正当合法地"
+        },
+        {
+          "word": "duties",
+          "definition": "职责，职务"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_71",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 71,
+      "english": "The behavioral scientists asked this precise question to a broad cross-section of working adults as part of the empirical research study we are examining today.",
+      "chinese": "行为科学家们向广泛的在职成年人群体提出了这个分毫不差的问题，以此作为我们今天所探讨的实证研究课题的一部分。",
+      "start_time": 728.39,
+      "end_time": 738.119,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_71.mp3",
+      "key_vocab": [
+        {
+          "word": "cross-section",
+          "definition": "代表性样本，横截面"
+        },
+        {
+          "word": "empirical",
+          "definition": "实证的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_72",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 72,
+      "english": "With surprising and unexpected results, they discovered that over 10% of the respondents lied about the distance they drove, deliberately under-reporting their legitimate mileage.",
+      "chinese": "在出人意料且令人吃惊的统计结果中，他们发现有超过10%的受访者在实际行驶里程上说了谎，故意低报了他们本应合法获得的里程。",
+      "start_time": 738.469,
+      "end_time": 748.442,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_72.mp3",
+      "key_vocab": [
+        {
+          "word": "respondents",
+          "definition": "受访者"
+        },
+        {
+          "word": "under-reporting",
+          "definition": "低报，少报"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_73",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 73,
+      "english": "Specifically, roughly 12 percent of the study participants recorded their vehicle travel as noticeably less than the actual figure, submitting an average fabricated claim of only 384 miles.",
+      "chinese": "具体而言，研究中大约有12%的参与者记录的行车里程明显低于实际数字，提交的平均虚报里程仅为384英里。",
+      "start_time": 748.792,
+      "end_time": 761.853,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_73.mp3",
+      "key_vocab": [
+        {
+          "word": "participants",
+          "definition": "参与者"
+        },
+        {
+          "word": "fabricated",
+          "definition": "捏造的，编造的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_74",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 74,
+      "english": "In other words, these individuals knowingly committed fraud against themselves, willingly surrendering financial compensation to which they were entirely entitled under law.",
+      "chinese": "换言之，这些人在知情的情况下自愿对自己进行“欺诈”，心甘情愿地放弃了依据法律和公司规定本完全属于他们的经济补偿金。",
+      "start_time": 762.203,
+      "end_time": 772.095,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_74.mp3",
+      "key_vocab": [
+        {
+          "word": "fraud",
+          "definition": "欺诈，骗局"
+        },
+        {
+          "word": "surrendering",
+          "definition": "放弃，交出"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_75",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 75,
+      "english": "Why would educated individuals systematically falsify documentation to their own measurable financial detriment?",
+      "chinese": "接受过良好教育的职场人士为什么会系统性地伪造单据，从而对自身可衡量的切实财务利益造成损害呢？",
+      "start_time": 772.445,
+      "end_time": 778.703,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_75.mp3",
+      "key_vocab": [
+        {
+          "word": "falsify",
+          "definition": "伪造，篡改"
+        },
+        {
+          "word": "detriment",
+          "definition": "损害，损伤"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_76",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 76,
+      "english": "The researchers explained that many people care a great deal about their reputation and how their moral character will be evaluated and judged by external peers.",
+      "chinese": "研究人员解释称，许多人极其看重自己的社会声誉，以及外界同僚对其道德品质的评价与评判。",
+      "start_time": 779.053,
+      "end_time": 787.597,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_76.mp3",
+      "key_vocab": [
+        {
+          "word": "reputation",
+          "definition": "声誉，名誉"
+        },
+        {
+          "word": "evaluated",
+          "definition": "评估，评价"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_77",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 77,
+      "english": "The published findings suggest that when workers achieve exceptionally advantageous or maximum legitimate rewards, they instinctively anticipate negative skepticism from supervisors.",
+      "chinese": "发表的研究结论表明，当员工获得极其有利或顶格的合法回报时，他们会在本能上预料到来自主管领导的负面怀疑。",
+      "start_time": 787.947,
+      "end_time": 798.954,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_77.mp3",
+      "key_vocab": [
+        {
+          "word": "advantageous",
+          "definition": "有利的"
+        },
+        {
+          "word": "skepticism",
+          "definition": "怀疑态度"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_78",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 78,
+      "english": "Historically, moral philosophers and social psychologists classified all forms of deception into two primary boxes: purely selfish lies and benevolent white lies.",
+      "chinese": "在历史上，道德哲学家与社会心理学家通常把所有形式的欺骗划入两大基本类别：纯粹利己的自私谎言和善意的白色谎言。",
+      "start_time": 799.304,
+      "end_time": 810.414,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_78.mp3",
+      "key_vocab": [
+        {
+          "word": "deception",
+          "definition": "欺骗，骗术"
+        },
+        {
+          "word": "benevolent",
+          "definition": "善意的，仁慈的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_79",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 79,
+      "english": "Conversely, benevolent white lies are deployed to comfort friends or preserve interpersonal harmony, such as complimenting an acquaintance on an unflattering new garment.",
+      "chinese": "相反，善意的白色谎言常用于安慰朋友或维护人际和谐，比如赞美熟人一件其实并不好看的新衣服。",
+      "start_time": 810.764,
+      "end_time": 819.902,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_79.mp3",
+      "key_vocab": [
+        {
+          "word": "unflattering",
+          "definition": "不讨好的，不好看的"
+        },
+        {
+          "word": "interpersonal",
+          "definition": "人际的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_80",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 80,
+      "english": "While academic purists might argue whether this represents an entirely fresh category, the core findings seem intuitive and profoundly true to everyday social dynamics.",
+      "chinese": "尽管学术界的理论学者可能会争论这是否代表着一个完全崭新的分类，但在我看来，核心研究结论显得极其符合直觉，并深刻揭示了日常社交的真实动态。",
+      "start_time": 820.252,
+      "end_time": 830.468,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_80.mp3",
+      "key_vocab": [
+        {
+          "word": "purist",
+          "definition": "纯粹主义者"
+        },
+        {
+          "word": "intuitive",
+          "definition": "直觉的，符合直觉的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_81",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 81,
+      "english": "After all, our deepest evolutionary motivation as social animals has always been to elevate our perceived moral trustworthiness in the watchful eyes of the community.",
+      "chinese": "归根结底，作为社会性动物，我们最深层的进化动机始终是在群落警惕注视的目光中，不断提升外界对我们道德可信度的评价。",
+      "start_time": 830.818,
+      "end_time": 839.944,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_81.mp3",
+      "key_vocab": [
+        {
+          "word": "trustworthiness",
+          "definition": "可信度，值得信赖"
+        },
+        {
+          "word": "evolutionary",
+          "definition": "进化的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_82",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "idx": 82,
+      "english": "Corporate leaders should absorb these psychological lessons to build supportive auditing cultures where transparent accuracy is celebrated rather than quietly penalized by peer cynicism.",
+      "chinese": "企业管理者应当充分吸取这些心理学教训，建立包容支持性的审计文化，让透明真实的申报受到鼓励，而不是在同僚的冷嘲热讽中遭受无形的惩戒。",
+      "start_time": 840.294,
+      "end_time": 850.72,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_82.mp3",
+      "key_vocab": [
+        {
+          "word": "transparent",
+          "definition": "透明的"
+        },
+        {
+          "word": "penalized",
+          "definition": "受惩戒的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_83",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 83,
+      "english": "Why do older people develop such a pronounced dislike toward newly released music? As I have grown older, I continually hear peers complain that modern tracks lack genuine soul.",
+      "chinese": "为什么上了年纪的人会对新发布的音乐产生如此明显的排斥感？随着我自己年岁渐长，我不断听到同龄人抱怨当代流行曲目缺乏真正的灵魂。",
+      "start_time": 851.07,
+      "end_time": 860.95,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_83.mp3",
+      "key_vocab": [
+        {
+          "word": "pronounced",
+          "definition": "显著的，明显的"
+        },
+        {
+          "word": "dislike",
+          "definition": "不喜欢，反感"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_84",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 84,
+      "english": "Older generations throughout recorded history have routinely lamented that modern songwriters just don't create magnificent, memorable melodies like they used to in the golden era.",
+      "chinese": "纵观有记载的历史，年长的一代人无一例外地习惯于感叹当代的词曲创作者再也写不出像他们当年黄金时代那样宏伟难忘的旋律了。",
+      "start_time": 861.3,
+      "end_time": 871.4,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_84.mp3",
+      "key_vocab": [
+        {
+          "word": "lament",
+          "definition": "感叹，悲叹"
+        },
+        {
+          "word": "magnificent",
+          "definition": "宏伟的，华丽的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_85",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 85,
+      "english": "Why does this intergenerational aesthetic aversion reliably repeat itself decade after decade across every culture? Luckily, developmental psychology and cognitive neuroscience offer intriguing explanations.",
+      "chinese": "为什么这种跨代际的审美排斥会在不同文化中历经数十年一再上演？幸运的是，发展心理学和认知神经科学为我们提供了极具启发性的原理解释。",
+      "start_time": 871.75,
+      "end_time": 884.324,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_85.mp3",
+      "key_vocab": [
+        {
+          "word": "intergenerational",
+          "definition": "代际的"
+        },
+        {
+          "word": "neuroscience",
+          "definition": "神经科学"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_86",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 86,
+      "english": "Extensive neurological research demonstrates that human musical taste begins to crystallize extraordinarily early during our adolescent development, typically between ages thirteen and fourteen.",
+      "chinese": "广泛深入的神经学研究表明，人类的音乐审美趣味在青春期发育阶段极早地就开始定型成形，通常发生在十三至十四岁之间。",
+      "start_time": 884.674,
+      "end_time": 895.39,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_86.mp3",
+      "key_vocab": [
+        {
+          "word": "crystallize",
+          "definition": "定型，成形"
+        },
+        {
+          "word": "adolescent",
+          "definition": "青春期的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_87",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 87,
+      "english": "In fact, empirical market research indicates that by the time typical adults reach thirty-three years old, the overwhelming majority have practically ceased acquiring or streaming unfamiliar new music.",
+      "chinese": "事实上，实证市场调查表明，当普通的成年人达到三十三岁时，绝大多数人实际上就已经停止购买或在线收听陌生的小众新音乐了。",
+      "start_time": 895.74,
+      "end_time": 908.557,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_87.mp3",
+      "key_vocab": [
+        {
+          "word": "overwhelming",
+          "definition": "压倒性的"
+        },
+        {
+          "word": "ceased",
+          "definition": "停止，终止"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_88",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 88,
+      "english": "From a strictly biological standpoint, clinical evidence suggests that the aging human auditory apparatus and auditory cortex experience subtle sensory degeneration over time.",
+      "chinese": "从纯粹的生物学视角来看，临床证据表明，衰老的人类听觉器官和听觉皮层会随着时光流逝经历细微的感官机能退化。",
+      "start_time": 908.907,
+      "end_time": 919.38,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_88.mp3",
+      "key_vocab": [
+        {
+          "word": "auditory cortex",
+          "definition": "听觉皮层"
+        },
+        {
+          "word": "degeneration",
+          "definition": "退化，衰退"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_89",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 89,
+      "english": "The brain's acute ability to distinguish delicate harmonic textures, intricate microtonal chord shifts, and syncopated production beats gradually diminishes as neural flexibility wanes.",
+      "chinese": "随着神经可塑性减弱，大脑敏锐辨别微妙和声织体、细微微分音和弦变换以及切分音节奏制作的能力会逐步减退。",
+      "start_time": 919.73,
+      "end_time": 931.398,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_89.mp3",
+      "key_vocab": [
+        {
+          "word": "harmonic",
+          "definition": "和声的"
+        },
+        {
+          "word": "syncopated",
+          "definition": "切分的"
+        },
+        {
+          "word": "wanes",
+          "definition": "衰减，减退"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_90",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 90,
+      "english": "Consequently, to older listeners who have lost fine acoustic frequency sensitivity, unfamiliar modern electronic and hip-hop compositions might all sound the same, resembling chaotic noise rather than structured songcraft.",
+      "chinese": "因此，对于丧失了精细声学频率敏感度的年长听众来说，陌生复杂的现代电子乐和嘻哈音乐听起来可能全都千篇一律，仿佛杂乱无章的噪音而非结构严谨的曲作。",
+      "start_time": 931.748,
+      "end_time": 945.761,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_90.mp3",
+      "key_vocab": [
+        {
+          "word": "acoustic",
+          "definition": "声学的，听觉的"
+        },
+        {
+          "word": "sound the same",
+          "definition": "听起来都一样"
+        },
+        {
+          "word": "songcraft",
+          "definition": "歌曲创作技艺"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_91",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 91,
+      "english": "However, biological deterioration only accounts for part of the story; social psychology presents even more influential behavioral dynamics governing adult musical rigidity.",
+      "chinese": "然而，生理层面的退化仅仅解释了问题的一部分；社会心理学揭示出了主导成年人音乐偏好僵化的更为深远的行为动态机制。",
+      "start_time": 946.111,
+      "end_time": 956.862,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_91.mp3",
+      "key_vocab": [
+        {
+          "word": "rigidity",
+          "definition": "僵化，刻板"
+        },
+        {
+          "word": "influential",
+          "definition": "有影响力的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_92",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 92,
+      "english": "This psychological principle establishes that the more frequently an individual is exposed to any given stimulus, the more favorably and warmly they instinctively come to judge it.",
+      "chinese": "这一心理学原理表明，个体接触任何给定刺激物的频率越高，其在直觉上对其做出好评和喜爱的倾向就会越强烈。",
+      "start_time": 957.212,
+      "end_time": 967.997,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_92.mp3",
+      "key_vocab": [
+        {
+          "word": "stimulus",
+          "definition": "刺激物"
+        },
+        {
+          "word": "favorably",
+          "definition": "赞许地，有好感地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_93",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 93,
+      "english": "In essence, this foundational phenomenon proves that the more you experience something, the better you'll appreciate and cherish it over prolonged contact.",
+      "chinese": "从本质上讲，这一基础现象证实了：你对某种事物的经历和体验越多，经过长期接触后你就越能懂得欣赏并珍惜它。",
+      "start_time": 968.347,
+      "end_time": 977.008,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_93.mp3",
+      "key_vocab": [
+        {
+          "word": "appreciate",
+          "definition": "欣赏，领会"
+        },
+        {
+          "word": "prolonged",
+          "definition": "长期的，持久的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_94",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 94,
+      "english": "Those tracks enjoyed hundreds of repeated radio exposures during pivotal social rituals like school dances, weekend drives, and first romances, embedding themselves into the fabric of your soul.",
+      "chinese": "那些曲目在学校舞会、周末兜风和初恋等关键的人生社交仪式中获得了数百次的重复播放，从而深深嵌刻进了你的灵魂肌理。",
+      "start_time": 977.358,
+      "end_time": 989.41,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_94.mp3",
+      "key_vocab": [
+        {
+          "word": "rituals",
+          "definition": "仪式，典礼"
+        },
+        {
+          "word": "embedding",
+          "definition": "嵌入，植入"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_95",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 95,
+      "english": "Tired workers returning from ten-hour shifts seek restorative comfort rather than taxing cognitive challenges, and so they reflexively play the golden oldies from their youth.",
+      "chinese": "结束了十小时轮班、疲惫不堪的上班族寻求的是抚慰心神的放松，而不是费力的认知挑战，因此他们会下意识地播放年轻时代的怀旧金曲。",
+      "start_time": 989.76,
+      "end_time": 999.756,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_95.mp3",
+      "key_vocab": [
+        {
+          "word": "restorative",
+          "definition": "恢复精力的，滋补的"
+        },
+        {
+          "word": "reflexively",
+          "definition": "反射性地，下意识地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_96",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 96,
+      "english": "Neuropsychological studies consistently affirm that teenagers' emotions are far more intense, volatile, and biochemically heightened than emotional states experienced during tranquil middle age.",
+      "chinese": "神经心理学研究持续证实，青少年的情绪波动比起平和的中年时期所体会到的情绪状态要强烈、剧烈且在生物化学层面上高涨得多。",
+      "start_time": 1000.106,
+      "end_time": 1010.88,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_96.mp3",
+      "key_vocab": [
+        {
+          "word": "volatile",
+          "definition": "易波动的，不稳定的"
+        },
+        {
+          "word": "tranquil",
+          "definition": "平静的，宁静的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_97",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 97,
+      "english": "The pop songs that played during your adolescent heartbreaks and triumphs became inextricably intertwined with your very sense of who you are as a human being.",
+      "chinese": "伴随着你青春期心碎与胜利而播放的流行歌曲，已经与你对‘我是谁’的自我认知不可分割地紧密交织在了一起。",
+      "start_time": 1011.23,
+      "end_time": 1019.299,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_97.mp3",
+      "key_vocab": [
+        {
+          "word": "inextricably",
+          "definition": "难解难分地"
+        },
+        {
+          "word": "intertwined",
+          "definition": "交织的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-12-1_s_98",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "idx": 98,
+      "english": "Rather than fighting over the car radio, different generations can appreciate that our musical allegiances are touching reflections of the intense youth we all once lived.",
+      "chinese": "与其在车载收音机频道上争执不下，不同代际的人倒不如理解并欣赏：我们对音乐的忠诚归宿，恰恰是我们每个人都曾热烈度过的那段青春岁月的动人倒影。",
+      "start_time": 1019.649,
+      "end_time": 1028.763,
+      "audio_path": "content/papers/cet6-2020-12-1/cet6-2020-12-1_s_98.mp3",
+      "key_vocab": [
+        {
+          "word": "allegiance",
+          "definition": "忠诚，拥护"
+        },
+        {
+          "word": "reflections",
+          "definition": "倒影，反映"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2020-12-1_q_1",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "sentence_id": "cet6-2020-12-1_s_4",
+      "idx": 1,
+      "question_text": "What is the woman complaining about?",
+      "options": [
+        "A) Her house has not been repaired in time.",
+        "B) Her claim has been completely disregarded.",
+        "C) The insurance policy has expired.",
+        "D) The damage assessment was unfair."
+      ],
+      "answer": "B",
+      "explanation": "女士在通话开始时明确指出：“I am getting extremely fed up with my repeated phone calls about my legitimate insurance claim being completely disregarded by your claims department”，即她对保险公司完全忽视她的理赔电话感到厌烦，故选B。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_2",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "sentence_id": "cet6-2020-12-1_s_6",
+      "idx": 2,
+      "question_text": "What is the problem the woman's family encountered?",
+      "options": [
+        "A) Their caravan was washed away by the flood.",
+        "B) The ground floor of their cottage was flooded.",
+        "C) They were unable to find temporary shelter.",
+        "D) Their village was completely destroyed."
+      ],
+      "answer": "B",
+      "explanation": "女士叙述具体受灾情况时说：“The entire ground floor of our cottage was completely submerged in muddy water, and five of us have been forced to live in a cramped caravan ever since”，即他们农舍的一楼被洪水淹没，全家只能住在房车里，故选B。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_3",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "sentence_id": "cet6-2020-12-1_s_8",
+      "idx": 3,
+      "question_text": "What has caused the so-called \"bizarre technical detail\" according to the man?",
+      "options": [
+        "A) The woman's failure to pay her house insurance in time.",
+        "B) An error in the insurance company's computer system.",
+        "C) The change in the insurance policy's terms and conditions.",
+        "D) The lack of necessary documentation from the local authorities."
+      ],
+      "answer": "A",
+      "explanation": "男士解释账户备注时说明，该技术细节是指女士在事故发生前一个月未能按时缴纳房屋保险费（hadn't paid house insurance the month before the incident），故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_4",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_1",
+      "sentence_id": "cet6-2020-12-1_s_12",
+      "idx": 4,
+      "question_text": "What did the woman say she would do at the end of the conversation?",
+      "options": [
+        "A) Demand an apology from the customer service manager.",
+        "B) Pay the overdue premium as soon as possible.",
+        "C) Cancel all her insurance policies with the company.",
+        "D) File a lawsuit against the insurance company."
+      ],
+      "answer": "D",
+      "explanation": "女士在通话最后愤怒地表示保险公司将面临法律诉讼，并且会收到她律师的正式信函（your company has a serious lawsuit on its hands; you will definitely be hearing from my lawyer），即起诉保险公司，故选D。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_5",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "sentence_id": "cet6-2020-12-1_s_14",
+      "idx": 5,
+      "question_text": "What do we learn about the speakers from the conversation?",
+      "options": [
+        "A) They work in the same artificial intelligence laboratory.",
+        "B) Both of them are worried about the loss of jobs to robots.",
+        "C) They disagree about the future of AI technology.",
+        "D) They have different opinions about science fiction movies."
+      ],
+      "answer": "C",
+      "explanation": "对话开篇女士对AI的前景持乐观态度，而男士则回应“AI? I am not so optimistic, actually. In fact, its unchecked expansion is something we should be very deeply concerned about”，表明两人对AI技术的未来观点明显不同，故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_6",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "sentence_id": "cet6-2020-12-1_s_16",
+      "idx": 6,
+      "question_text": "What will new kinds of jobs be like, according to the woman?",
+      "options": [
+        "A) More demanding and requiring advanced technical skills.",
+        "B) Better paid and offering flexible working hours.",
+        "C) Primarily focused on providing care for elderly people.",
+        "D) Less time-consuming and focusing on creation."
+      ],
+      "answer": "D",
+      "explanation": "女士认为AI会创造新岗位，这些工作“would require less of our time and allow us to be centered on creative tasks”（耗时更少且让人专注于创造性任务），故选D。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_7",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "sentence_id": "cet6-2020-12-1_s_20",
+      "idx": 7,
+      "question_text": "What is the risk the man anticipates?",
+      "options": [
+        "A) Humans will lose their ability to write software.",
+        "B) The economy will collapse due to massive unemployment.",
+        "C) Digital life could replace human civilization.",
+        "D) Computers will become toys without practical value."
+      ],
+      "answer": "C",
+      "explanation": "男士预测的严重风险是“human civilization could be replaced by a superior type of digital life”（人类文明可能被更高形态的数字生命所彻底取代），故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_8",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_2",
+      "sentence_id": "cet6-2020-12-1_s_23",
+      "idx": 8,
+      "question_text": "What is the man's concern about AI technology?",
+      "options": [
+        "A) It will be smarter than human beings.",
+        "B) It will stop communicating with other machines.",
+        "C) It will simulate human emotional flaws.",
+        "D) It will cause severe environmental issues."
+      ],
+      "answer": "A",
+      "explanation": "男士担忧超级AI一旦充分发展将对与人类交流失去耐心，“as we would be much slower thinkers in comparison”，即AI将比人类聪明得多、思维极快，故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_9",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "sentence_id": "cet6-2020-12-1_s_27",
+      "idx": 9,
+      "question_text": "What are people under 30 advised to do to achieve financial security?",
+      "options": [
+        "A) Invest most of their earnings in high-risk ventures.",
+        "B) Cut down recreational expenses by half.",
+        "C) Save one-fifth of their net monthly income.",
+        "D) Buy their own property as early as possible."
+      ],
+      "answer": "C",
+      "explanation": "讲话中明确建议30岁以下的人：“your goal should be to save 20% of your monthly income after tax deductions”，20%即五分之一（one-fifth of their net monthly income），故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_10",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "sentence_id": "cet6-2020-12-1_s_31",
+      "idx": 10,
+      "question_text": "What should people do if they find it difficult to follow the speaker's advice on their financial plan?",
+      "options": [
+        "A) Seek advice from a professional financial planner.",
+        "B) Look for additional part-time jobs to boost income.",
+        "C) Keep all their savings in cash for emergencies.",
+        "D) Start by doing something small."
+      ],
+      "answer": "D",
+      "explanation": "讲话者指出如果存钱困难，应当“start up by cutting all unnecessary spending, allocate a tiny amount of 1 or 2 percent for savings, and gradually increase that amount”（从小处做起，先存1-2%再逐步增加），故选D。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_11",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_3",
+      "sentence_id": "cet6-2020-12-1_s_34",
+      "idx": 11,
+      "question_text": "What does the speaker think is important for achieving financial security?",
+      "options": [
+        "A) A proper mindset.",
+        "B) An ambitious plan.",
+        "C) A lucrative investment.",
+        "D) A reliable pension fund."
+      ],
+      "answer": "A",
+      "explanation": "讲话者强调坚持严格储蓄的关键在于：“if you adopt the right mindset, you should be able to make it work for you”，即树立正确的心态，故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_12",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "sentence_id": "cet6-2020-12-1_s_40",
+      "idx": 12,
+      "question_text": "What do we learn about the speaker when she first started her job?",
+      "options": [
+        "A) She found her outfit inappropriate.",
+        "B) She struggled to meet her clients' demands.",
+        "C) She was often late for work due to commuting issues.",
+        "D) She felt overwhelmed by the fast pace of advertising."
+      ],
+      "answer": "A",
+      "explanation": "讲话者回忆刚踏入职场时，在电梯里看到自己常觉得“looked a total mess”，发现自己的穿着不合时宜，拖了职业发展的后腿，故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_13",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "sentence_id": "cet6-2020-12-1_s_43",
+      "idx": 13,
+      "question_text": "Why were uniforms invented according to the speaker?",
+      "options": [
+        "A) To create a sense of belonging and equality.",
+        "B) To make employees look disciplined and professional.",
+        "C) To reduce the expense of purchasing business clothes.",
+        "D) To save the trouble of choosing a unique outfit every day."
+      ],
+      "answer": "D",
+      "explanation": "讲话者指出：“no one can be unique with their outfit every single day. I mean that's why uniforms were invented in the first place”，制服的发明是为了免除每天搭配不同服装的麻烦，故选D。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_14",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "sentence_id": "cet6-2020-12-1_s_49",
+      "idx": 14,
+      "question_text": "What does the speaker say about looking smarter?",
+      "options": [
+        "A) It makes little difference in remote working environments.",
+        "B) It matters a lot in jobs involving interactions with others.",
+        "C) It helps build lasting confidence in young professionals.",
+        "D) It guarantees faster promotion and higher income."
+      ],
+      "answer": "B",
+      "explanation": "讲话者谈到外表干练对工作的影响时强调：“But if your job involves interacting with other people, the answer to this is often yes”，即在涉及与人打交道的工作中非常重要，故选B。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_15",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_4",
+      "sentence_id": "cet6-2020-12-1_s_50",
+      "idx": 15,
+      "question_text": "What does the speaker advise people do in an image-obsessed world?",
+      "options": [
+        "A) Express their unique personalities boldly through clothing.",
+        "B) Spend a fixed portion of their salary on branded clothes.",
+        "C) Do whatever is possible to look smart.",
+        "D) Focus entirely on work performance rather than appearance."
+      ],
+      "answer": "C",
+      "explanation": "讲话者总结建议：“I think we should just do whatever helps us to achieve our goals that work; if that means playing it safe with your image... it's probably worth it”，即尽量让自己看起来干练（look smart）以实现工作目标，故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_16",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "sentence_id": "cet6-2020-12-1_s_55",
+      "idx": 16,
+      "question_text": "What has prevented Americans' happiness levels from increasing?",
+      "options": [
+        "A) High housing prices in big cities.",
+        "B) Their obsession with consumption.",
+        "C) Heavy workloads and long working hours.",
+        "D) Lack of sufficient personal storage space."
+      ],
+      "answer": "B",
+      "explanation": "演讲者指出美国人虽然拥有三倍的居住空间，却沦为狂热的消费者（enthusiastic consumers / obsession with consumption），导致沉重债务和环境负担，因而幸福感半个世纪未见增加，故选B。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_17",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "sentence_id": "cet6-2020-12-1_s_63",
+      "idx": 17,
+      "question_text": "What things should we possess according to the speaker?",
+      "options": [
+        "A) Things that we cherish most.",
+        "B) Things that are stylish and fashionable.",
+        "C) Things that can be easily replaced.",
+        "D) Things that have great commercial value."
+      ],
+      "answer": "A",
+      "explanation": "演讲者强调我们应当拥有那些“we are going to love and cherish for many years”（能在漫长岁月中被我们深爱并珍视的物品，即things that we cherish most），故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_18",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_5",
+      "sentence_id": "cet6-2020-12-1_s_65",
+      "idx": 18,
+      "question_text": "What do we learn about the items in the speaker's home?",
+      "options": [
+        "A) They are custom-made by luxury designers.",
+        "B) They are mainly made of eco-friendly materials.",
+        "C) They serve multiple purposes.",
+        "D) They are arranged in chronological order."
+      ],
+      "answer": "C",
+      "explanation": "演讲者介绍自己家中采用了移动墙壁和变形家具，“multifunctional spaces and dynamic smart housewares”，一物多用，满足多种功能，故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_19",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "sentence_id": "cet6-2020-12-1_s_72",
+      "idx": 19,
+      "question_text": "What did the team of scientists find in their study?",
+      "options": [
+        "A) Most people exaggerate their mileage to claim higher reimbursements.",
+        "B) People are more honest when filling out expense reports online.",
+        "C) Over 30% of employees never check their travel expense records.",
+        "D) Over 10% of the respondents lied about the distance they drove."
+      ],
+      "answer": "D",
+      "explanation": "研究团队发现有超过10%的受访者少报了实际行驶里程（over 10% of the respondents lied about the distance they drove，具体约为12%），故选D。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_20",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "sentence_id": "cet6-2020-12-1_s_76",
+      "idx": 20,
+      "question_text": "Why would people fabricate numbers to their own detriment according to the researchers?",
+      "options": [
+        "A) They want to avoid troublesome audit procedures.",
+        "B) They want to protect their reputation.",
+        "C) They do not care about small amounts of money.",
+        "D) They are afraid of being penalized by management."
+      ],
+      "answer": "B",
+      "explanation": "研究人员解释说，人们这样做是因为“many people care a great deal about their reputation and how their moral character will be evaluated”（非常在乎自己的声誉与他人评价），宁愿蒙受金钱损失也要保护自身名誉，故选B。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_21",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_6",
+      "sentence_id": "cet6-2020-12-1_s_80",
+      "idx": 21,
+      "question_text": "What does the speaker think of the researchers' findings?",
+      "options": [
+        "A) They are somewhat exaggerated.",
+        "B) They contradict conventional wisdom.",
+        "C) They seem intuitive.",
+        "D) They require further verification."
+      ],
+      "answer": "C",
+      "explanation": "讲话者明确表达对该研究发现的认同：“the core findings seem intuitive and profoundly true”，即结论非常符合直觉，故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_22",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "sentence_id": "cet6-2020-12-1_s_83",
+      "idx": 22,
+      "question_text": "What does the speaker mainly discuss in this talk?",
+      "options": [
+        "A) Older people's aversion to new music.",
+        "B) The psychological benefits of listening to songs.",
+        "C) The evolution of popular musical genres.",
+        "D) The decline of memory capacity in senior citizens."
+      ],
+      "answer": "A",
+      "explanation": "讲座开宗明义：“Why do older people develop such a pronounced dislike toward newly released music?”，整篇围绕年长者排斥新音乐的心理学与生物学机制展开探讨，故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_23",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "sentence_id": "cet6-2020-12-1_s_90",
+      "idx": 23,
+      "question_text": "What have studies found about older listeners regarding newer music?",
+      "options": [
+        "A) Their musical taste begins to undergo drastic changes.",
+        "B) They spend more time exploring different music genres.",
+        "C) They find all music sounds the same.",
+        "D) They prefer complex instrumental tracks to pop songs."
+      ],
+      "answer": "C",
+      "explanation": "神经学分析表明随着年龄增长大脑辨别精细和声的能力减弱，“unfamiliar modern electronic and hip-hop compositions might all sound the same”，即他们感觉所有的现代音乐听起来都千篇一律，故选C。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_24",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "sentence_id": "cet6-2020-12-1_s_93",
+      "idx": 24,
+      "question_text": "What do we learn from one of the most researched laws of social psychology?",
+      "options": [
+        "A) The more you experience something, the better you'll appreciate it.",
+        "B) People tend to forget unpleasant teenage memories.",
+        "C) Early exposure to music accelerates cognitive development.",
+        "D) Social relationships determine personal entertainment choices."
+      ],
+      "answer": "A",
+      "explanation": "单纯暴露效应原理指出接触某样事物的频率越高就会越喜欢它，“the more you experience something, the better you'll appreciate and cherish it”（经历体验越多，越懂得欣赏与珍惜），故选A。"
+    },
+    {
+      "id": "cet6-2020-12-1_q_25",
+      "paper_id": "cet6-2020-12-1",
+      "section_id": "cet6-2020-12-1_sec_7",
+      "sentence_id": "cet6-2020-12-1_s_96",
+      "idx": 25,
+      "question_text": "What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
+      "options": [
+        "A) High school turmoil leaves permanent neurological traces.",
+        "B) Teenagers have more leisure time to memorize song lyrics.",
+        "C) Popular songs in that era were of higher musical quality.",
+        "D) Teenagers' emotions are more intense."
+      ],
+      "answer": "D",
+      "explanation": "神经心理学研究证实“teenagers' emotions are far more intense, volatile, and biochemically heightened”（青少年的情感体验更加强烈），因而相关的音乐记忆格外深刻难忘，故选D。"
+    }
+  ]
+}

@@ -1,0 +1,2773 @@
+{
+  "id": "cet6-2020-09-1",
+  "title": "2020年9月 六级听力真题（第1套）",
+  "year": 2020,
+  "month": 9,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 1052.839,
+  "sentence_count": 96,
+  "version": 1,
+  "audio_path": "content/papers/cet6-2020-09-1/full.mp3",
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2020-09-1_sec_1",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section A · 长对话一：科研探索与大众科普教育",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2020-09-1_sec_2",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section A · 长对话二：梦境机制与人类情感心理",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2020-09-1_sec_3",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section B · 篇章一：南极洲冰下沃斯托克湖的科学探测",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2020-09-1_sec_4",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section B · 篇章二：人类学家与墨西哥塔拉乌马拉原住民",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2020-09-1_sec_5",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section C · 讲座一：历史语境中的激进主义与社会变革",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2020-09-1_sec_6",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section C · 讲座二：同伴效应与外部社交环境的影响力",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2020-09-1_sec_7",
+      "paper_id": "cet6-2020-09-1",
+      "title": "Section C · 讲座三：一美元纸币的物质秘密与货币历史",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2020-09-1_s_1",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 1,
+      "english": "Professor Evans, you are a distinguished senior professor of physics at Oxford University, and you direct the famous international physics symposium held every summer in central London.",
+      "chinese": "埃文斯教授，您是牛津大学著名物理学教授，并且每年夏天都在伦敦市中心主持著名的国际物理学研讨会。",
+      "start_time": 0.0,
+      "end_time": 10.913,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_1.mp3",
+      "key_vocab": [
+        {
+          "word": "physics",
+          "definition": "物理学"
+        },
+        {
+          "word": "symposium",
+          "definition": "研讨会，座谈会"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_2",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 2,
+      "english": "You also travel around the world giving popular science lectures and writing bestselling books about quantum physics, astronomy, and modern cosmology for readers who truly love science.",
+      "chinese": "您还经常在世界各地旅行发表演讲，并为热爱科学的读者撰写关于量子物理、天文学和现代宇宙学的畅销科普书籍。",
+      "start_time": 11.263,
+      "end_time": 21.968,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_2.mp3",
+      "key_vocab": [
+        {
+          "word": "astronomy",
+          "definition": "天文学"
+        },
+        {
+          "word": "cosmology",
+          "definition": "宇宙学"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_3",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 3,
+      "english": "Oh, well, I just truly love the research work I do; I consider myself very fortunate because I can devote my whole life to pursuing my deepest scientific passion.",
+      "chinese": "哦，其实我只是真正热爱我的科研工作；我认为自己非常幸运，因为我能够把我的一生奉献给追求自己最深沉的科学激情。",
+      "start_time": 22.318,
+      "end_time": 31.374,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_3.mp3",
+      "key_vocab": [
+        {
+          "word": "fortunate",
+          "definition": "幸运的"
+        },
+        {
+          "word": "devote",
+          "definition": "奉献，投入"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_4",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 4,
+      "english": "Professor, what is your primary overarching career identity: do you see yourself foremost as a university researcher, a public speaker, or as a bestselling book author?",
+      "chinese": "教授，您的首要职业身份究竟是什么：您认为自己首先是一位大学学者、一位科学演讲者，还是一位畅销书作家？",
+      "start_time": 31.724,
+      "end_time": 42.219,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_4.mp3",
+      "key_vocab": [
+        {
+          "word": "identity",
+          "definition": "身份，特性"
+        },
+        {
+          "word": "foremost",
+          "definition": "最重要的，首先"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_5",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 5,
+      "english": "Well, as you observed, I have several projects, but primarily I am a dedicated university professor engaged in classroom teaching and original scientific research.",
+      "chinese": "嗯，正如你所观察到的，我确实有几个项目在进行，但我首先是一名全身心投入严谨本科课堂教学和前沿科学研究的大学教授。",
+      "start_time": 42.569,
+      "end_time": 52.484,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_5.mp3",
+      "key_vocab": [
+        {
+          "word": "engaged",
+          "definition": "从事的，忙于"
+        },
+        {
+          "word": "scientific research",
+          "definition": "科学研究"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_6",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 6,
+      "english": "What I mean is, does giving introductory physics lectures to young undergraduates take valuable time and focus away from your theoretical physics and complex laboratory experiments?",
+      "chinese": "我具体指的是，向年轻本科生讲授基础物理入门课程难道不会占用您在实验室进行尖端理论探讨和复杂实验研究所需的宝贵时间与专注力吗？",
+      "start_time": 52.834,
+      "end_time": 62.935,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_6.mp3",
+      "key_vocab": [
+        {
+          "word": "introductory",
+          "definition": "入门的，引导的"
+        },
+        {
+          "word": "theoretical",
+          "definition": "理论上的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_7",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 7,
+      "english": "Not really, no; I genuinely love classroom teaching because it helps me explain complicated abstract concepts using very simple and clear everyday words for curious students.",
+      "chinese": "其实不然；我发自内心地热爱课堂教学，因为它迫使我使用非常简单透明的日常语言向求知若渴的年轻学生解释复杂的抽象概念。",
+      "start_time": 63.285,
+      "end_time": 74.407,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_7.mp3",
+      "key_vocab": [
+        {
+          "word": "genuinely",
+          "definition": "真诚地，由衷地"
+        },
+        {
+          "word": "abstract",
+          "definition": "抽象的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_8",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 8,
+      "english": "Also, what I will emphasize is that teaching a subject to enthusiastic young students helps me achieve a much deeper and better understanding of that complex subject myself.",
+      "chinese": "此外，我要强调的是，向热情求知的学生讲授一门学科，实际上能极大地帮助我自己对该学科建立起更深入透彻的理解。",
+      "start_time": 74.757,
+      "end_time": 83.975,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_8.mp3",
+      "key_vocab": [
+        {
+          "word": "emphasize",
+          "definition": "强调"
+        },
+        {
+          "word": "enthusiastic",
+          "definition": "热情的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_9",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 9,
+      "english": "I find that it sharpens my own thinking whenever I am forced to explain hard equations using simple physical descriptions for curious young student minds in college class discussions.",
+      "chinese": "我发现在大学课堂研讨中，每当我必须使用直观物理描述向求知学子解释复杂方程式时，这都会极大地磨砺我自身的思维。",
+      "start_time": 84.325,
+      "end_time": 94.484,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_9.mp3",
+      "key_vocab": [
+        {
+          "word": "sharpen",
+          "definition": "使敏锐，磨快"
+        },
+        {
+          "word": "equation",
+          "definition": "方程式"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_10",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 10,
+      "english": "Teaching at a high university level can be very stimulating for faculty, helping advance original research in ways that quiet study in a laboratory never could achieve alone.",
+      "chinese": "在大学高层次进行教学对教师极具启发，以一种在实验室中独自钻研所无法达到的方式推进着原创科研。",
+      "start_time": 94.834,
+      "end_time": 104.505,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_10.mp3",
+      "key_vocab": [
+        {
+          "word": "stimulating",
+          "definition": "有启发性的"
+        },
+        {
+          "word": "solitary",
+          "definition": "孤独的，单独的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_11",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 11,
+      "english": "Furthermore, many scientific breakthroughs are made possible simply by making full, creative use of existing data sitting in archives rather than inventing new theories.",
+      "chinese": "此外，许多重大的科学突破之所以成为可能，纯粹是因为充分、创造性地利用了档案库中的现有数据，而并非凭空构想全新理论。",
+      "start_time": 104.855,
+      "end_time": 114.979,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_11.mp3",
+      "key_vocab": [
+        {
+          "word": "breakthrough",
+          "definition": "突破"
+        },
+        {
+          "word": "existing data",
+          "definition": "现有数据"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_12",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "idx": 12,
+      "english": "For example, we currently have millions of orbital satellite photos of Mars in scientific research archives that no single human eye has ever had the time to study.",
+      "chinese": "例如，我们目前在科研档案库中存储着数百万张火星轨道卫星照片，还从未有任何单个人类的肉眼有时间对其进行系统研究。",
+      "start_time": 115.329,
+      "end_time": 124.489,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_12.mp3",
+      "key_vocab": [
+        {
+          "word": "orbital",
+          "definition": "轨道的"
+        },
+        {
+          "word": "archives",
+          "definition": "档案库"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_13",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 13,
+      "english": "Do you believe that human dreams possess mysterious prophetic meanings, or do you view them merely as random brain noise generated during rapid eye movement sleep?",
+      "chinese": "你相信人类梦境拥有神秘的预示含义，还是仅仅将其看作是每晚快速眼动睡眠期间大脑产生的随机神经杂音？",
+      "start_time": 124.839,
+      "end_time": 134.116,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_13.mp3",
+      "key_vocab": [
+        {
+          "word": "prophetic",
+          "definition": "预言性的"
+        },
+        {
+          "word": "neurological",
+          "definition": "神经学上的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_14",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 14,
+      "english": "As an educated person grounded firmly in modern science, I certainly don't think they have supernatural significance; they are cognitive byproducts of nocturnal brain activity during deep sleep.",
+      "chinese": "作为一个坚信现代科学的有识之士，我绝对不认为梦境具有超自然意义；它们纯粹是睡眠期间夜间大脑神经认知活动的副产品罢了。",
+      "start_time": 134.466,
+      "end_time": 145.495,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_14.mp3",
+      "key_vocab": [
+        {
+          "word": "supernatural",
+          "definition": "超自然的"
+        },
+        {
+          "word": "byproduct",
+          "definition": "副产品"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_15",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 15,
+      "english": "I agree with your skepticism entirely; scientifically speaking, both of us think dreams have no special prophetic meaning or mystical foresight about upcoming future events.",
+      "chinese": "我完全同意你的怀疑态度；从科学角度来说，我们两人都认为梦境绝无任何特殊的预兆意义，更谈不上对未来事件有什么神秘预见。",
+      "start_time": 145.845,
+      "end_time": 156.584,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_15.mp3",
+      "key_vocab": [
+        {
+          "word": "skepticism",
+          "definition": "怀疑态度"
+        },
+        {
+          "word": "foresight",
+          "definition": "先见之明"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_16",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 16,
+      "english": "Still, ordinary people attach extraordinary significance to dreams; my grandmother, for instance, once cancelled her scheduled passenger flight after waking from a frightening nightmare.",
+      "chinese": "不过，普通人常常赋予梦境非同寻常的意义；例如我祖母有一次从一场关于即将发生灾难的惊险噩梦中惊醒后，果断退掉了已预订的客运航班。",
+      "start_time": 156.934,
+      "end_time": 167.743,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_16.mp3",
+      "key_vocab": [
+        {
+          "word": "extraordinary",
+          "definition": "非同寻常的"
+        },
+        {
+          "word": "nightmare",
+          "definition": "噩梦"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_17",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 17,
+      "english": "She dreamed of a catastrophic plane crash, and despite severe financial penalties and family objections, she stubbornly refused to board that scheduled morning passenger flight to New York.",
+      "chinese": "她梦见了一场灾难性的飞机坠毁，尽管面临高额退票罚金和家人的强烈反对，她依然固执地拒绝登上那趟飞往纽约的早班客运航班。",
+      "start_time": 168.093,
+      "end_time": 179.03,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_17.mp3",
+      "key_vocab": [
+        {
+          "word": "catastrophic",
+          "definition": "灾难性的"
+        },
+        {
+          "word": "stubbornly",
+          "definition": "固执地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_18",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 18,
+      "english": "Ironically, that airplane actually landed completely safely without incident, yet she remained firmly convinced that her superstitious dream had somehow saved her from impending disaster.",
+      "chinese": "具有讽刺意味的是，那架飞机实际上平安无事地安全降落了，但她依然坚信是自己迷信的梦境在冥冥之中拯救了她免于致命空难。",
+      "start_time": 179.38,
+      "end_time": 190.049,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_18.mp3",
+      "key_vocab": [
+        {
+          "word": "ironically",
+          "definition": "讽刺地"
+        },
+        {
+          "word": "superstitious",
+          "definition": "迷信的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_19",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 19,
+      "english": "Stories like that illustrate how human behavior is driven by powerful emotions, which can have an impact on critical real-world decisions as great as rational thinking.",
+      "chinese": "诸如此类的故事生动说明了，人类行为往往受到强烈情感的驱动，这些情感在现实关键决策中所产生的影响与理性思考同样巨大。",
+      "start_time": 190.399,
+      "end_time": 201.278,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_19.mp3",
+      "key_vocab": [
+        {
+          "word": "illustrate",
+          "definition": "说明，阐明"
+        },
+        {
+          "word": "rational",
+          "definition": "理性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_20",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 20,
+      "english": "Fear, anxiety, and dread provoke immediate visceral reactions, overriding our intellectual judgment and leading us to make choices that contradict objective statistical probability and real risk.",
+      "chinese": "恐惧、焦虑与畏缩会引发即刻的本能生理反应，压倒我们的理智判断，导致我们做出违背客观统计概率与真实风险的选择。",
+      "start_time": 201.628,
+      "end_time": 213.041,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_20.mp3",
+      "key_vocab": [
+        {
+          "word": "visceral",
+          "definition": "发自肺腑的，本能的"
+        },
+        {
+          "word": "contradict",
+          "definition": "与...相矛盾"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_21",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 21,
+      "english": "Indeed, psychologist Sigmund Freud argued that while dreams don't predict the future, adults' dreams reflect their complicated emotions, hidden anxieties, and suppressed desires.",
+      "chinese": "确实，心理学家西格蒙德·弗洛伊德指出：梦境虽不能预知未来，但成人的梦境真实反映了潜意识中复杂的情感、隐秘的焦虑与被压抑的欲望。",
+      "start_time": 213.391,
+      "end_time": 224.734,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_21.mp3",
+      "key_vocab": [
+        {
+          "word": "subconscious",
+          "definition": "潜意识的"
+        },
+        {
+          "word": "suppressed",
+          "definition": "被压抑的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_22",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 22,
+      "english": "Under classical psychoanalytic theory, the sleeping mind turns psychological conflicts into narrative dreams that help preserve restful sleep while venting emotional tension.",
+      "chinese": "根据经典精神分析理论，睡眠中的心智将心理冲突转化为叙事梦境，在释放情绪张力的同时维持安稳睡眠。",
+      "start_time": 225.084,
+      "end_time": 235.858,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_22.mp3",
+      "key_vocab": [
+        {
+          "word": "psychoanalytic",
+          "definition": "精神分析的"
+        },
+        {
+          "word": "narrative",
+          "definition": "叙述的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_23",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 23,
+      "english": "Modern cognitive neuroscience suggests that dreaming helps consolidate memories, process daily emotional stress, and organize neural pathways for creative thinking during waking hours.",
+      "chinese": "现代认知神经科学表明，做梦有助于巩固记忆、化解白天的情绪压力，并整理神经通路以提升清醒时的创造性思维。",
+      "start_time": 236.208,
+      "end_time": 247.388,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_23.mp3",
+      "key_vocab": [
+        {
+          "word": "consolidate",
+          "definition": "巩固"
+        },
+        {
+          "word": "pathway",
+          "definition": "通路，路径"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_24",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "idx": 24,
+      "english": "Whether one accepts Freudian ideas or contemporary neuroscience, nighttime dreams provide fascinating windows into the complexity of human emotion and our subconscious mental life.",
+      "chinese": "无论人们相信弗洛伊德理论还是当代神经科学，夜间的梦境都为我们窥视人类情感的复杂性及潜意识精神世界提供了迷人的窗口。",
+      "start_time": 247.738,
+      "end_time": 259.255,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_24.mp3",
+      "key_vocab": [
+        {
+          "word": "undeniably",
+          "definition": "无可否认地"
+        },
+        {
+          "word": "intricate",
+          "definition": "错综复杂的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_25",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 25,
+      "english": "While adventurous explorers traverse the frozen surface of Antarctica, a mysterious aquatic world lies buried beneath miles of solid polar ice sheets in total darkness and silence.",
+      "chinese": "当探险家们穿越南极大陆冰封表面时，一个神秘的水下世界正深埋在数英里厚的坚固极地冰盖之下，处于完全的黑暗与寂静之中。",
+      "start_time": 259.605,
+      "end_time": 270.751,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_25.mp3",
+      "key_vocab": [
+        {
+          "word": "traverse",
+          "definition": "横越，穿过"
+        },
+        {
+          "word": "aquatic",
+          "definition": "水生的，水中的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_26",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 26,
+      "english": "Lake Vostok is by far the largest of nearly four hundred known subglacial lakes hidden deep under the vast southern polar ice sheet near the remote Russian Vostok research station.",
+      "chinese": "在隐藏于广袤南极冰盖深处的近四百个已知冰下湖泊中，沃斯托克湖是迄今为止最大的一个，它坐落在偏远的俄罗斯沃斯托克科考站附近。",
+      "start_time": 271.101,
+      "end_time": 281.735,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_26.mp3",
+      "key_vocab": [
+        {
+          "word": "subglacial",
+          "definition": "冰下的"
+        },
+        {
+          "word": "polar",
+          "definition": "极地的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_27",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 27,
+      "english": "Scientists first discovered Lake Vostok in the 1970s by transmitting radio waves from survey aircraft, penetrating deep ice to reveal liquid water underneath.",
+      "chinese": "科学家们在二十世纪七十年代通过航空勘测飞机发射无线电波首次发现了沃斯托克湖，这些无线电波穿透深层冰体，揭示出下方存在液态水。",
+      "start_time": 282.085,
+      "end_time": 293.475,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_27.mp3",
+      "key_vocab": [
+        {
+          "word": "penetrate",
+          "definition": "穿透，渗透"
+        },
+        {
+          "word": "radio waves",
+          "definition": "无线电波"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_28",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 28,
+      "english": "Subsequent radar and satellite measurements revealed that the lake covers roughly fifteen thousand square kilometers, matching the immense surface area of North America's Lake Ontario.",
+      "chinese": "随后的雷达与卫星测量显示，该湖的面积约为一万五千平方公里，相当于北美安大略湖广阔的表面水域面积。",
+      "start_time": 293.825,
+      "end_time": 305.04,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_28.mp3",
+      "key_vocab": [
+        {
+          "word": "altimetry",
+          "definition": "测高术"
+        },
+        {
+          "word": "immense",
+          "definition": "巨大的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_29",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 29,
+      "english": "The lake water remains liquid because geothermal heat radiating from the Earth's continental crust warms the lake basin, while immense overlying ice pressure lowers the water freezing point.",
+      "chinese": "湖水之所以保持液态，是因为从地壳辐射出的地热能量温暖了湖盆，同时上方覆盖的巨大冰层压力降低了水的冰点。",
+      "start_time": 305.39,
+      "end_time": 316.222,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_29.mp3",
+      "key_vocab": [
+        {
+          "word": "geothermal",
+          "definition": "地热的"
+        },
+        {
+          "word": "freezing point",
+          "definition": "冰点"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_30",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 30,
+      "english": "Biologists believe Lake Vostok may have micro-organisms living in it, completely isolated from our modern atmosphere and surface sunlight for at least fifteen million continuous years.",
+      "chinese": "生物学家认为沃斯托克湖中可能生活着古老微生物，这些微生物至少在一千五百万年间与现代大气层及地表阳光完全隔绝。",
+      "start_time": 316.572,
+      "end_time": 327.613,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_30.mp3",
+      "key_vocab": [
+        {
+          "word": "micro-organism",
+          "definition": "微生物"
+        },
+        {
+          "word": "isolated",
+          "definition": "孤立的，隔离的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_31",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 31,
+      "english": "If microbial life thrives in this oxygen-rich environment under colossal pressures, they must rely on novel metabolic strategies unknown to modern terrestrial surface biology.",
+      "chinese": "如果微生物能在这种高压富氧的极端环境中繁衍，它们必然依赖于现代地表生物学此前未知的全新代谢策略。",
+      "start_time": 327.963,
+      "end_time": 339.596,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_31.mp3",
+      "key_vocab": [
+        {
+          "word": "microbial",
+          "definition": "微生物的"
+        },
+        {
+          "word": "colossal",
+          "definition": "巨大的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_32",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 32,
+      "english": "Drilling into this pristine aquatic sanctuary posed severe challenges, as researchers had to avoid contaminating the ancient water with drilling fluids and common surface bacteria.",
+      "chinese": "钻探进入这个原始的水下圣地构成了严峻挑战，因为科研人员必须极力避免钻探润滑液和地表细菌对古老湖水造成污染。",
+      "start_time": 339.946,
+      "end_time": 350.813,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_32.mp3",
+      "key_vocab": [
+        {
+          "word": "pristine",
+          "definition": "原始纯净的"
+        },
+        {
+          "word": "contaminate",
+          "definition": "污染"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_33",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 33,
+      "english": "Russian polar engineers designed specialized thermal drills equipped with sterile hot-water jets, allowing them to sample deep ice without contaminating the underlying pristine lake water.",
+      "chinese": "俄罗斯极地工程师设计了配备无菌热水喷射系统的专用热力钻机，使他们能够在不污染下层纯净湖水的前提下采集深层冰芯样本。",
+      "start_time": 351.163,
+      "end_time": 362.274,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_33.mp3",
+      "key_vocab": [
+        {
+          "word": "sterile",
+          "definition": "无菌的"
+        },
+        {
+          "word": "accretion",
+          "definition": "堆积，附着"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_34",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 34,
+      "english": "Scientists analyzed retrieved ice cores and detected genetic material from bacteria, fungi, and microscopic organisms capable of enduring extreme polar cold and darkness.",
+      "chinese": "科学家们分析了取出的冰芯样本，检测到了来自细菌、真菌和微型生物的基因物质，这些生物能够在极度严寒与黑暗下存活。",
+      "start_time": 362.624,
+      "end_time": 374.164,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_34.mp3",
+      "key_vocab": [
+        {
+          "word": "genetic",
+          "definition": "基因的"
+        },
+        {
+          "word": "microscopic",
+          "definition": "微小的，显微镜下的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_35",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 35,
+      "english": "Planetary scientists closely monitor this Antarctic research because extreme subglacial conditions closely mirror environments found on Jupiter's icy ocean moon Europa.",
+      "chinese": "行星科学家密切关注这项南极科研，因为极地冰下的极端环境与木卫二冰冻海洋下的生存条件高度相似。",
+      "start_time": 374.514,
+      "end_time": 385.08,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_35.mp3",
+      "key_vocab": [
+        {
+          "word": "planetary",
+          "definition": "行星的"
+        },
+        {
+          "word": "mirror",
+          "definition": "反映，镜像映照"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_36",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 36,
+      "english": "Similar subterranean oceans may exist on Saturn's moon Enceladus, where plumes of warm water erupt through cracks in its frozen outer crust into space.",
+      "chinese": "在土星的卫星土卫二上也可能存在类似的地下海洋，在那里，温热的羽状水汽通过冰封外壳的裂缝喷发到外太空之中。",
+      "start_time": 385.43,
+      "end_time": 395.519,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_36.mp3",
+      "key_vocab": [
+        {
+          "word": "subterranean",
+          "definition": "地下的"
+        },
+        {
+          "word": "crust",
+          "definition": "地壳，外壳"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_37",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "idx": 37,
+      "english": "The scientists hope their subglacial discoveries will shed light on possible life in outer space, demonstrating how organisms might survive inside oceans on frozen planets.",
+      "chinese": "科学家们希望他们的冰下重大发现能够为探索外太空可能存在的生命带来启示，展示有机体如何在冰冻星球的地下海洋中存活。",
+      "start_time": 395.869,
+      "end_time": 406.573,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_37.mp3",
+      "key_vocab": [
+        {
+          "word": "extraterrestrial",
+          "definition": "外星的，地球外的"
+        },
+        {
+          "word": "shed light on",
+          "definition": "阐明，照亮"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_38",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 38,
+      "english": "Deep within the rugged Copper Canyon region of northern Mexico resides an indigenous Native American population known as the Tarahumara tribe, famous for long-distance running.",
+      "chinese": "在墨西哥北部崎岖的铜峡谷深处，居住着一个美洲原住民群体，他们在国际上被称为塔拉乌马拉部落，以长跑耐力闻名。",
+      "start_time": 406.923,
+      "end_time": 417.546,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_38.mp3",
+      "key_vocab": [
+        {
+          "word": "rugged",
+          "definition": "崎岖的"
+        },
+        {
+          "word": "indigenous",
+          "definition": "本土的，原产的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_39",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 39,
+      "english": "Anthropologist James Copeland was motivated to study the American Indian Tarahumaras after discovering that there had been very little scholarly research on their language and culture.",
+      "chinese": "人类学语言学家詹姆斯·科普兰在发现学术界对塔拉乌马拉印第安人的语言和口述传统几乎没有任何系统性研究后，决心深入研究他们。",
+      "start_time": 417.896,
+      "end_time": 428.124,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_39.mp3",
+      "key_vocab": [
+        {
+          "word": "anthropologist",
+          "definition": "人类学家"
+        },
+        {
+          "word": "scholarly",
+          "definition": "学术性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_40",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 40,
+      "english": "Hoping to document their endangered dialect and cultural traditions, Copeland journeyed into the remote mountain highlands to establish initial contact with local community elders and village leaders.",
+      "chinese": "为了记录他们处于濒危状态的语言方言与文化传统，科普兰深入偏远的高山腹地，试图与当地部族长老及村落领袖建立联系。",
+      "start_time": 428.474,
+      "end_time": 439.864,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_40.mp3",
+      "key_vocab": [
+        {
+          "word": "endangered",
+          "definition": "濒危的"
+        },
+        {
+          "word": "highlands",
+          "definition": "高地，高原"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_41",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 41,
+      "english": "At first, the indigenous villagers were cautious and reserved, having suffered decades of exploitation by outside prospectors and commercial logging companies seeking their land.",
+      "chinese": "起初，村庄里的原住民十分警惕与保守，因为几十年来他们饱受外界采矿者和企图侵占土地的商业伐木公司的侵害。",
+      "start_time": 440.214,
+      "end_time": 451.011,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_41.mp3",
+      "key_vocab": [
+        {
+          "word": "cautious",
+          "definition": "谨慎的"
+        },
+        {
+          "word": "exploitation",
+          "definition": "剥削，利用"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_42",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 42,
+      "english": "Copeland demonstrated his sincere academic intentions, explaining that he sought solely to record and preserve their ancestral oral stories, folklore, and complex native grammar for posterity.",
+      "chinese": "科普兰展现了他真诚的学术初衷，解释说他仅仅希望为后代记录并保存他们祖先流传下来的口述故事、民间传说以及复杂的本族语法结构。",
+      "start_time": 451.361,
+      "end_time": 462.251,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_42.mp3",
+      "key_vocab": [
+        {
+          "word": "posterity",
+          "definition": "后代，后世"
+        },
+        {
+          "word": "folklore",
+          "definition": "民间传说"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_43",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 43,
+      "english": "An influential village representative named Gonzalez recognized Copeland's genuine respect and agreed to act as an intermediary between the American scholar and the cautious indigenous village community.",
+      "chinese": "村里一位名叫冈萨雷斯的德高望重代表感受到了科普兰的真诚尊重，同意担任这位美国学者与戒心重重的原住民村落社区之间的调解人。",
+      "start_time": 462.601,
+      "end_time": 473.956,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_43.mp3",
+      "key_vocab": [
+        {
+          "word": "intermediary",
+          "definition": "中间人，调解人"
+        },
+        {
+          "word": "influential",
+          "definition": "有影响力的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_44",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 44,
+      "english": "Copeland described his journey to the Tarahumaras village as truly laborious, requiring dangerous driving across steep mountain tracks, unpaved cliffs, and rocky riverbeds in an old utility truck.",
+      "chinese": "科普兰将前往塔拉乌马拉村落的旅程描述为极其艰难吃力，需要开着老旧卡车在陡峭山道、未铺路面的悬崖以及布满砾石的河床间危险颠簸穿行。",
+      "start_time": 474.306,
+      "end_time": 485.846,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_44.mp3",
+      "key_vocab": [
+        {
+          "word": "laborious",
+          "definition": "艰苦费力的"
+        },
+        {
+          "word": "unpaved",
+          "definition": "未铺沥青的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_45",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 45,
+      "english": "He had to repair flat tires, navigate treacherous mountain mudslides during rainstorms, and hike long distances carrying heavy audio recording equipment and field supplies.",
+      "chinese": "他不得不一路修补瘪胎，在暴雨中穿越危险的山体滑坡，并背负沉重的录音设备和野外生存补给徒步跋涉长途。",
+      "start_time": 486.196,
+      "end_time": 496.808,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_45.mp3",
+      "key_vocab": [
+        {
+          "word": "treacherous",
+          "definition": "危险的，险恶的"
+        },
+        {
+          "word": "provisions",
+          "definition": "物资，粮草"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_46",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 46,
+      "english": "In exchange for their linguistic assistance, Copeland provided villagers with useful supplies like cornmeal, salt, simple medicines, and warm blankets for freezing winter canyon nights.",
+      "chinese": "作为对他们提供语言协助的回报，科普兰为村民提供了玉米粉、食盐、常用药物和用于抵御峡谷严寒冬夜的保暖毛毯。",
+      "start_time": 497.158,
+      "end_time": 508.292,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_46.mp3",
+      "key_vocab": [
+        {
+          "word": "remedies",
+          "definition": "药品，补救措施"
+        },
+        {
+          "word": "endure",
+          "definition": "忍受"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_47",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 47,
+      "english": "Over several seasons of field research, Copeland documented thousands of unique vocabulary terms reflecting the tribe's deep familiarity with their canyon environment and traditions.",
+      "chinese": "经过几个季度的田野调查，科普兰记录了数千个独特的词汇，反映出该部落对其峡谷环境的深刻理解与传统。",
+      "start_time": 508.642,
+      "end_time": 519.079,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_47.mp3",
+      "key_vocab": [
+        {
+          "word": "immersive",
+          "definition": "沉浸式的"
+        },
+        {
+          "word": "fieldwork",
+          "definition": "田野调查"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_48",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 48,
+      "english": "The Tarahumara language possesses rich terms describing subtle rock formations, seasonal plant life, and delicate wind patterns that have no equivalent in modern European languages.",
+      "chinese": "塔拉乌马拉语言拥有描述微妙岩石形态、季节性植物演化以及细微山谷风向的极为丰富的词汇，这些词在现代欧洲语言中完全找不到对应翻译。",
+      "start_time": 519.429,
+      "end_time": 530.412,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_48.mp3",
+      "key_vocab": [
+        {
+          "word": "equivalent",
+          "definition": "等同物，对应的"
+        },
+        {
+          "word": "delicate",
+          "definition": "微妙的，精致的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_49",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 49,
+      "english": "What impresses James Copeland most profoundly about the Tarahumara tribe is their remarkable sense of sharing and caring for every single member of their close-knit communal society.",
+      "chinese": "最令詹姆斯·科普兰感到深深震撼与钦佩的，是塔拉乌马拉部落对社群中每一个成员所展现出的那种无私分享与关爱互助精神。",
+      "start_time": 530.762,
+      "end_time": 541.211,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_49.mp3",
+      "key_vocab": [
+        {
+          "word": "profoundly",
+          "definition": "深刻地"
+        },
+        {
+          "word": "close-knit",
+          "definition": "紧密相连的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_50",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "idx": 50,
+      "english": "They earn social respect through sharing resources and helping neighbors rather than accumulating personal wealth or private property during hard seasons of drought.",
+      "chinese": "他们通过共享资源和救济邻里来赢得社会声望，而不是在干旱艰难岁月里一味聚敛个人财富或私有财产。",
+      "start_time": 541.561,
+      "end_time": 550.094,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_50.mp3",
+      "key_vocab": [
+        {
+          "word": "prestige",
+          "definition": "声望，声誉"
+        },
+        {
+          "word": "hospitality",
+          "definition": "好客，殷勤"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_51",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 51,
+      "english": "In contemporary political discourse and public debate, few labels carry as much immediate emotional charge and widespread suspicion as the controversial term radical.",
+      "chinese": "在当代的政治舆论与公共辩论中，很少有哪个标签能像‘激进分子’这一充满争议的词汇那样，激起如此直接的情感冲击与广泛的戒备怀疑。",
+      "start_time": 550.444,
+      "end_time": 559.57,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_51.mp3",
+      "key_vocab": [
+        {
+          "word": "discourse",
+          "definition": "话语，辩论"
+        },
+        {
+          "word": "radical",
+          "definition": "激进的，根本的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_52",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 52,
+      "english": "When prominent public figures or civil activists are accused of being radical, they tend to be silenced into submission by aggressive political opponents and hostile mainstream commentators.",
+      "chinese": "当杰出公众人物或民权活动家被扣上激进分子的帽子时，他们往往会被咄咄逼人的政治对手和主流评论员打压至屈服噤声。",
+      "start_time": 559.92,
+      "end_time": 570.973,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_52.mp3",
+      "key_vocab": [
+        {
+          "word": "prominent",
+          "definition": "杰出的，著名的"
+        },
+        {
+          "word": "submission",
+          "definition": "顺从，投降"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_53",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 53,
+      "english": "Accusing an advocate of radicalism functions as a convenient political weapon designed to discredit their proposals without engaging thoughtfully with the underlying merits of their intellectual arguments.",
+      "chinese": "将改革倡导者斥为激进主义，通常被用作一种极为顺手的政治武器，其目的在于直接贬损其改革提案，而不必深究其思想观点背后的合理价值。",
+      "start_time": 571.323,
+      "end_time": 582.131,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_53.mp3",
+      "key_vocab": [
+        {
+          "word": "advocate",
+          "definition": "倡导者"
+        },
+        {
+          "word": "discredit",
+          "definition": "使丧失信誉"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_54",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 54,
+      "english": "Yet history reveals that many progressive ideas once dismissed as dangerously radical are now accepted as fundamental human rights and self-evident democratic truths across modern society.",
+      "chinese": "然而历史表明，许多曾被斥为危险激进的进步思想，如今已被现代社会公认为基本人权和不言而喻的民主真理。",
+      "start_time": 582.481,
+      "end_time": 593.569,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_54.mp3",
+      "key_vocab": [
+        {
+          "word": "progressive",
+          "definition": "进步的"
+        },
+        {
+          "word": "self-evident",
+          "definition": "不言自明的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_55",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 55,
+      "english": "Why then is deviation from the existing political status quo routinely treated with such intense fear, hostility, and institutional resistance by established governing authorities and elites?",
+      "chinese": "那么，为何偏离既有政治现状的主张，总是会遭到当权统治当局与既得利益精英如此强烈的恐惧、敌意与体制性抵制？",
+      "start_time": 593.919,
+      "end_time": 605.157,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_55.mp3",
+      "key_vocab": [
+        {
+          "word": "deviation",
+          "definition": "背离，偏离"
+        },
+        {
+          "word": "status quo",
+          "definition": "现状"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_56",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 56,
+      "english": "To understand this recurring political phenomenon, we must examine the original linguistic and historical definition of what it truly means to be a radical thinker and social reformer.",
+      "chinese": "为了理解这种反复出现的政治现象，我们必须深入考察究竟什么才是一个激进思想家与社会改革者的真正语言学与历史学定义。",
+      "start_time": 605.507,
+      "end_time": 616.676,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_56.mp3",
+      "key_vocab": [
+        {
+          "word": "recurring",
+          "definition": "反复出现的"
+        },
+        {
+          "word": "reformer",
+          "definition": "改革者"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_57",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 57,
+      "english": "The speaker defines a genuine radical as someone who rebels against the existing social order by addressing problems directly at their deepest structural and institutional roots.",
+      "chinese": "演讲者将真正意义上的激进者定义为：敢于反抗既有不公社会秩序、致力于直面并铲除各种体制结构与制度根源问题的勇者。",
+      "start_time": 617.026,
+      "end_time": 627.197,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_57.mp3",
+      "key_vocab": [
+        {
+          "word": "rebel",
+          "definition": "反叛，反抗"
+        },
+        {
+          "word": "structural",
+          "definition": "结构性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_58",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 58,
+      "english": "Rather than offering surface fixes to flawed institutions, radical thinkers investigate the underlying economic, legal, and moral causes that produce systemic injustice and human suffering.",
+      "chinese": "激进思想家并不满足于对有缺陷的体制进行表面修补，而是深入探讨导致社会不公与人类苦难的深层经济、法律和道德根源。",
+      "start_time": 627.547,
+      "end_time": 639.54,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_58.mp3",
+      "key_vocab": [
+        {
+          "word": "superficial",
+          "definition": "肤浅的，表面的"
+        },
+        {
+          "word": "systemic",
+          "definition": "系统性的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_59",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 59,
+      "english": "Consider the American revolutionary patriots of 1776, who were denounced by the British Crown as dangerous radicals for demanding democratic self-determination.",
+      "chinese": "想想1776年美国独立战争时期的爱国先驱，他们曾因要求民主自决权而被英国王室斥为危险的激进分子。",
+      "start_time": 639.89,
+      "end_time": 650.977,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_59.mp3",
+      "key_vocab": [
+        {
+          "word": "patriot",
+          "definition": "爱国者"
+        },
+        {
+          "word": "treasonous",
+          "definition": "叛逆的，叛国的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_60",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 60,
+      "english": "The brave suffragettes who marched through national capitals demanding voting rights for women were routinely condemned, beaten, and imprisoned as dangerous societal agitators threatening the family institution.",
+      "chinese": "当年在首都街头游行争取女性选举权的勇敢女权运动者，同样曾被保守派主流报纸痛斥为破坏家庭传统伦理的危险煽动者，屡遭逮捕与牢狱之灾。",
+      "start_time": 651.327,
+      "end_time": 662.484,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_60.mp3",
+      "key_vocab": [
+        {
+          "word": "suffragette",
+          "definition": "争取女性选举权者"
+        },
+        {
+          "word": "agitator",
+          "definition": "煽动者"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_61",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 61,
+      "english": "Early labor activists who campaigned for the eight-hour workday, weekend rest, and basic workplace safety regulations faced armed state militia and hostile corporate opposition.",
+      "chinese": "早期为争取八小时工作制、周末休息和基本职场安全条例而奔走的劳工活动家，曾直面武装民兵与敌意企业资本的残酷压制。",
+      "start_time": 662.834,
+      "end_time": 673.759,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_61.mp3",
+      "key_vocab": [
+        {
+          "word": "militia",
+          "definition": "民兵，军警"
+        },
+        {
+          "word": "workday",
+          "definition": "工作日"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_62",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 62,
+      "english": "Looking back with historical distance, the speaker argues that most radicals throughout American history actually served as a vital driving force for human and democratic progress.",
+      "chinese": "若以历史的从容目光回首往事，演讲者令人信服地指出，美国历史上绝大多数所谓的激进分子，实际上才是推动文明与民主迈步向前的核心原动力。",
+      "start_time": 674.109,
+      "end_time": 683.978,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_62.mp3",
+      "key_vocab": [
+        {
+          "word": "driving force",
+          "definition": "推动力"
+        },
+        {
+          "word": "progress",
+          "definition": "进步"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_63",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 63,
+      "english": "They possessed the rare moral courage to challenge traditions, insisting that democracy must fulfill its promises of equal dignity, economic fairness, and justice for all citizens.",
+      "chinese": "他们拥有挑战陈腐传统的非凡道德勇气，坚持民主制度必须兑现其人人享有平等尊严、经济公正与司法正义的庄严承诺。",
+      "start_time": 684.328,
+      "end_time": 695.903,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_63.mp3",
+      "key_vocab": [
+        {
+          "word": "orthodoxy",
+          "definition": "正统观念"
+        },
+        {
+          "word": "dignity",
+          "definition": "尊严"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_64",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 64,
+      "english": "When citizens dismiss critics without listening to their core arguments, they risk silencing the very visionaries whose moral insights could rescue democratic society from serious decline.",
+      "chinese": "当公众不听取核心论据便轻易否定批评者时，他们很可能会使那些有远见卓识之士被迫噤声，而这些人的道德洞见本可拯救民主社会免于严重衰退。",
+      "start_time": 696.253,
+      "end_time": 707.05,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_64.mp3",
+      "key_vocab": [
+        {
+          "word": "visionary",
+          "definition": "有远见者"
+        },
+        {
+          "word": "rescue",
+          "definition": "援救，解救"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_65",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 65,
+      "english": "Democracy thrives only when open debate flourishes and unorthodox opinions are examined with intellectual honesty rather than blind ideological condemnation.",
+      "chinese": "民主制度只有在公开辩论蔚然成风、异端独到见解受到知识真诚检验而非遭到盲目意识形态谴责时，才能够充满活力地蓬勃生发。",
+      "start_time": 707.4,
+      "end_time": 717.246,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_65.mp3",
+      "key_vocab": [
+        {
+          "word": "unorthodox",
+          "definition": "非正统的"
+        },
+        {
+          "word": "ideological",
+          "definition": "意识形态的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_66",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "idx": 66,
+      "english": "History demonstrates that today's so-called radical proposals often establish the vital ethical and legal foundation upon which future generations build a more humane and enlightened society.",
+      "chinese": "历史一再证明，当今所谓的激进方案，往往正是未来世代构建更加人道与开明社会的至关重要的伦理与法治基石。",
+      "start_time": 717.596,
+      "end_time": 728.439,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_66.mp3",
+      "key_vocab": [
+        {
+          "word": "consistently",
+          "definition": "一贯地"
+        },
+        {
+          "word": "enlightened",
+          "definition": "开明的，开化的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_67",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 67,
+      "english": "Most adults take great pride in their personal independence, believing their daily habits, career values, and lifestyle choices are entirely self-determined and autonomous.",
+      "chinese": "大多数成年人都对自己的独立自主深感自豪，坚信自己的日常习惯、职业价值观和生活决策完全由自己做主。",
+      "start_time": 728.789,
+      "end_time": 740.063,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_67.mp3",
+      "key_vocab": [
+        {
+          "word": "perceived",
+          "definition": "感知到的"
+        },
+        {
+          "word": "autonomous",
+          "definition": "自主的，自治的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_68",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 68,
+      "english": "However, behavioral psychologists reveal that this cherished belief in personal autonomy is largely a comforting cognitive illusion that ignores powerful outside social forces.",
+      "chinese": "然而行为心理学家指出，这种对个人自主性的坚信很大程度上只是一种心理安慰幻觉，忽视了外界强大的社会力量。",
+      "start_time": 740.413,
+      "end_time": 750.664,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_68.mp3",
+      "key_vocab": [
+        {
+          "word": "epidemiologist",
+          "definition": "流行病学家"
+        },
+        {
+          "word": "illusion",
+          "definition": "幻觉，错觉"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_69",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 69,
+      "english": "The speaker emphasizes that as human beings, it is completely impossible for us to be immune from outside environmental and social influence in our daily lives.",
+      "chinese": "演讲者明确强调指出，作为群居人类的一员，我们在日常生活中要想彻底免受周围外部环境与同伴社交圈子的耳濡目染与深刻影响，是根本不可能的。",
+      "start_time": 751.014,
+      "end_time": 761.986,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_69.mp3",
+      "key_vocab": [
+        {
+          "word": "immune",
+          "definition": "免疫的，不受影响的"
+        },
+        {
+          "word": "environmental",
+          "definition": "环境的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_70",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 70,
+      "english": "Our neural architecture is deeply hardwired for subconscious mimicry and social alignment with the behaviors, expectations, and attitudes of our immediate social peer group and coworkers.",
+      "chinese": "从神经生物学机制来看，我们的大脑天生具备无意识模仿与趋同本能，时刻在潜移默化中与最亲近身边的同事或同辈群体的行为期望保持步调一致。",
+      "start_time": 762.336,
+      "end_time": 773.528,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_70.mp3",
+      "key_vocab": [
+        {
+          "word": "mimicry",
+          "definition": "模仿"
+        },
+        {
+          "word": "alignment",
+          "definition": "结盟，趋同一致"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_71",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 71,
+      "english": "Consider a compelling real-world case study: when an energetic professional named Fred joined an investment firm, he was fit, exercised daily, and ate nutritious home-cooked meals.",
+      "chinese": "不妨考察一个引人入胜的真实案例：当一位精力充沛的年轻职场人弗雷德初入一家投资银行时，他身材匀称，坚持每日健身锻炼并保持健康的家庭膳食。",
+      "start_time": 773.878,
+      "end_time": 785.755,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_71.mp3",
+      "key_vocab": [
+        {
+          "word": "compelling",
+          "definition": "令人信服的"
+        },
+        {
+          "word": "nutritious",
+          "definition": "有营养的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_72",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 72,
+      "english": "Within just eight months, Fred gained twenty pounds, stopped visiting the gym, began smoking during afternoon breaks, and adopted a cynical outlook on his career.",
+      "chinese": "短短八个月内，弗雷德体重增加了二十磅，不再去健身房，开始在下午茶歇时吸烟，并对自己的职业生涯抱持愤世嫉俗的态度。",
+      "start_time": 786.105,
+      "end_time": 795.184,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_72.mp3",
+      "key_vocab": [
+        {
+          "word": "cynical",
+          "definition": "愤世嫉俗的"
+        },
+        {
+          "word": "demotivated",
+          "definition": "丧失动力的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_73",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 73,
+      "english": "Fred blamed his physical decline on generic workplace fatigue, unaware that he had unconsciously adopted the sedentary habits and unhealthy coping patterns of his daily cubicle companions.",
+      "chinese": "弗雷德把身体状况的恶化归咎于普通的工作疲劳，丝毫没有意识到自己已经下意识地吸收了隔间同事久坐不动的习惯和不健康的应对模式。",
+      "start_time": 795.534,
+      "end_time": 806.644,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_73.mp3",
+      "key_vocab": [
+        {
+          "word": "sedentary",
+          "definition": "久坐的"
+        },
+        {
+          "word": "coping mechanism",
+          "definition": "应对机制"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_74",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 74,
+      "english": "The speaker suggests that to improve his quality of life, Fred should first recognize the negative impact of his coworkers on his daily personal habits and choices.",
+      "chinese": "演讲者给出中肯建议：弗雷德要想真正扭转这一局面、提升个人生活质量，第一步必须清醒认识到身旁同事对其日常行为习惯所产生的消极负面影响。",
+      "start_time": 806.994,
+      "end_time": 816.665,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_74.mp3",
+      "key_vocab": [
+        {
+          "word": "recognize",
+          "definition": "认识到"
+        },
+        {
+          "word": "negative impact",
+          "definition": "负面影响"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_75",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 75,
+      "english": "Sociological research shows that unhealthy lifestyle habits spread across social networks just like infectious diseases and biological viruses pass between human beings.",
+      "chinese": "社会学研究表明，不健康的生活习惯在紧密社交网络中的传播方式，正如传染病和病毒在人际间的扩散一样。",
+      "start_time": 817.015,
+      "end_time": 828.266,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_75.mp3",
+      "key_vocab": [
+        {
+          "word": "sociological",
+          "definition": "社会学的"
+        },
+        {
+          "word": "transmission",
+          "definition": "传播，传递"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_76",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 76,
+      "english": "Long-term epidemiological studies reveal that if an individual's close mutual friend becomes obese, their own statistical risk of becoming obese triples within a two-year period.",
+      "chinese": "长期的流行病学追踪研究表明，如果一个人的亲密密友变得肥胖，那么此人自身在接下来两年内出现肥胖的统计学风险就会飙升整整三倍。",
+      "start_time": 828.616,
+      "end_time": 839.355,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_76.mp3",
+      "key_vocab": [
+        {
+          "word": "obese",
+          "definition": "肥胖的"
+        },
+        {
+          "word": "statistical",
+          "definition": "统计学的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_77",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 77,
+      "english": "Conversely, when individuals join active running clubs or make health-conscious friends, their own fitness habits and mental stamina improve rapidly without extra willpower strain.",
+      "chinese": "反之，当人们加入活跃的跑步俱乐部或结交注重健康的朋友时，其自身的健身习惯和精神耐力便能在不知不觉中迅速提升。",
+      "start_time": 839.705,
+      "end_time": 851.245,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_77.mp3",
+      "key_vocab": [
+        {
+          "word": "conversely",
+          "definition": "相反地"
+        },
+        {
+          "word": "willpower",
+          "definition": "意志力"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_78",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 78,
+      "english": "This behavioral contagion principle applies equally to psychological stress and emotional exhaustion across demanding medical professions where workers constantly encounter trauma.",
+      "chinese": "这种行为传染法则同样适用于高强度医疗行业的心理压力与情绪衰竭，那里的从业人员每天都要面对极度痛苦与心理创伤。",
+      "start_time": 851.595,
+      "end_time": 861.185,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_78.mp3",
+      "key_vocab": [
+        {
+          "word": "contagion",
+          "definition": "传染，蔓延"
+        },
+        {
+          "word": "exhaustion",
+          "definition": "精疲力竭"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_79",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 79,
+      "english": "For related sociological and occupational reasons, clinical psychiatrists are quite susceptible to suicide and chronic depressive illness compared to physicians in other medical specialties.",
+      "chinese": "出于相关的社会学和职业原因，与其他医学领域的医生相比，临床精神科医生更容易发生自杀和罹患慢性抑郁症。",
+      "start_time": 861.535,
+      "end_time": 872.704,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_79.mp3",
+      "key_vocab": [
+        {
+          "word": "psychiatrist",
+          "definition": "精神科医生"
+        },
+        {
+          "word": "susceptible",
+          "definition": "易受影响的，脆弱的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_80",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 80,
+      "english": "Constantly absorbing patients' agonizing psychological trauma creates profound emotional fatigue that can damage a practicing clinician's own mental balance and personal well-being.",
+      "chinese": "持续不断地吸收患者痛苦的心理创伤会导致严重的心理耗竭，进而损害临床医生自身的精神平衡与生活幸福感。",
+      "start_time": 873.054,
+      "end_time": 883.421,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_80.mp3",
+      "key_vocab": [
+        {
+          "word": "agonizing",
+          "definition": "令人痛苦的"
+        },
+        {
+          "word": "stability",
+          "definition": "稳定性"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_81",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "idx": 81,
+      "english": "By auditing our friendships and workplace environments honestly, we can deliberately surround ourselves with positive peers who inspire our growth and reinforce healthy daily habits.",
+      "chinese": "通过诚实地审视自己的社交圈与工作环境，我们可以自觉地让自己置身于积极向上的同伴之中，激励自我成长并巩固健康的日常习惯。",
+      "start_time": 883.771,
+      "end_time": 895.126,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_81.mp3",
+      "key_vocab": [
+        {
+          "word": "disciplined",
+          "definition": "自律的"
+        },
+        {
+          "word": "reinforce",
+          "definition": "加强，巩固"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_82",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 82,
+      "english": "Despite handling the iconic American currency note every day, the speaker observes that astonishingly few everyday people can describe the American dollar bill with complete precision.",
+      "chinese": "尽管每天都在接触具有代表性的美国纸币，演讲者注意到，令人惊讶的是，几乎没有普通人能够十分准确地描述出一美元纸币的样子。",
+      "start_time": 895.476,
+      "end_time": 906.134,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_82.mp3",
+      "key_vocab": [
+        {
+          "word": "iconic",
+          "definition": "标志性的"
+        },
+        {
+          "word": "precision",
+          "definition": "精确，精准"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_83",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 83,
+      "english": "Most people recognize the famous portrait of George Washington on the front, but they know remarkably little about the paper, ink, and sophisticated protective security features.",
+      "chinese": "大多数人都认识正面的乔治·华盛顿著名肖像，但对纸张材质、油墨以及精密防伪安全技术却知之甚少。",
+      "start_time": 906.484,
+      "end_time": 916.643,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_83.mp3",
+      "key_vocab": [
+        {
+          "word": "motto",
+          "definition": "格言，座右铭"
+        },
+        {
+          "word": "pyramid",
+          "definition": "金字塔"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_84",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 84,
+      "english": "In reality, American currency paper is not made from wood pulp, but is a durable cloth consisting of seventy-five percent cotton and twenty-five percent linen fibers.",
+      "chinese": "实际上，美国印钞纸并非由木浆制成，而是一种经久耐用的织物，由百分之七十五的棉和百分之二十五的亚麻纤维混合制成。",
+      "start_time": 916.993,
+      "end_time": 927.059,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_84.mp3",
+      "key_vocab": [
+        {
+          "word": "textile",
+          "definition": "纺织品，织物"
+        },
+        {
+          "word": "linen",
+          "definition": "亚麻"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_85",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 85,
+      "english": "These woven plant fibers create a resilient, flexible material that withstands repeated folding, handling, and laundering without tearing or deteriorating like ordinary cheap paper.",
+      "chinese": "这些编织植物纤维形成了一种坚韧柔韧的材料，能够经受反复折叠、摩擦和洗涤，而不会像普通劣质纸张那样轻易撕裂破损。",
+      "start_time": 927.409,
+      "end_time": 937.811,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_85.mp3",
+      "key_vocab": [
+        {
+          "word": "synthetic",
+          "definition": "合成的"
+        },
+        {
+          "word": "counterfeiter",
+          "definition": "伪造者"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_86",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 86,
+      "english": "Furthermore, the speaker reveals that the exact composition and manufacturing process of the American dollar bill remain a strictly guarded, well-protected official government trade secret.",
+      "chinese": "此外，演讲者透露，一美元纸币的确切材质构成与防伪制造工艺至今仍是一项受到极其严密保护的官方机密。",
+      "start_time": 938.161,
+      "end_time": 948.146,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_86.mp3",
+      "key_vocab": [
+        {
+          "word": "composition",
+          "definition": "成分，构成"
+        },
+        {
+          "word": "strictly",
+          "definition": "严格地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_87",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 87,
+      "english": "The dark green magnetic ink used on the reverse side is custom-blended using secret formulas to ensure electronic scanners can authenticate genuine bills instantaneously.",
+      "chinese": "钞票背面使用的深绿色磁性油墨采用机密配方专门调制，以确保电子验钞扫描仪能够瞬间辨别真伪。",
+      "start_time": 948.496,
+      "end_time": 958.91,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_87.mp3",
+      "key_vocab": [
+        {
+          "word": "proprietary",
+          "definition": "专有的，专利的"
+        },
+        {
+          "word": "authenticate",
+          "definition": "鉴定，验证"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_88",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 88,
+      "english": "Intricate geometric lathe work and raised intaglio borders give notes a distinct tactile texture that cashier fingers instinctively recognize during rapid cash transactions.",
+      "chinese": "错综复杂的几何雕刻与凸起凹印边框赋予纸币独特的凹凸手感，让收银员在柜台快速结账时仅凭手指触觉便能本能地识别。",
+      "start_time": 959.26,
+      "end_time": 969.929,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_88.mp3",
+      "key_vocab": [
+        {
+          "word": "intaglio",
+          "definition": "凹版印刷"
+        },
+        {
+          "word": "tactile",
+          "definition": "触觉的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_89",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 89,
+      "english": "Why did the newly formed United States government originally decide against issuing official national paper money during the late eighteenth century following the American Revolutionary War?",
+      "chinese": "在独立战争结束后的十八世纪末，新成立的美国联邦政府究竟为何最初决定不发行官方全国性纸币？",
+      "start_time": 970.279,
+      "end_time": 980.02,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_89.mp3",
+      "key_vocab": [
+        {
+          "word": "issue",
+          "definition": "发行"
+        },
+        {
+          "word": "revolutionary",
+          "definition": "革命的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_90",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 90,
+      "english": "During the war, paper notes lost value quickly, so citizens lost faith in paper money and strongly preferred metal coins instead.",
+      "chinese": "在战争期间，纸币迅速贬值，导致民众对纸币失去信心，转而强烈偏好使用金属硬币。",
+      "start_time": 980.37,
+      "end_time": 988.683,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_90.mp3",
+      "key_vocab": [
+        {
+          "word": "hyperinflation",
+          "definition": "恶性通货膨胀"
+        },
+        {
+          "word": "metallic",
+          "definition": "金属的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_91",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 91,
+      "english": "Instead, the federal government chose to establish the United States Mint in 1792 to produce dependable official gold and silver coins.",
+      "chinese": "相反，联邦政府选择于1792年成立美国造币厂，专门铸造质量可靠的官方金银硬币。",
+      "start_time": 989.033,
+      "end_time": 999.401,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_91.mp3",
+      "key_vocab": [
+        {
+          "word": "idiom",
+          "definition": "成语，习语"
+        },
+        {
+          "word": "purchasing power",
+          "definition": "购买力"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_92",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 92,
+      "english": "Gold and silver coins provided tangible weight and intrinsic physical value that merchants and farmers could trust during daily commercial transactions.",
+      "chinese": "金银硬币具备扎实的物理重量与内在实在价值，是精明商人与务实农夫在日常商品贸易交易中完全信赖的流通硬通货。",
+      "start_time": 999.751,
+      "end_time": 1008.888,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_92.mp3",
+      "key_vocab": [
+        {
+          "word": "tangible",
+          "definition": "有形的，切实的"
+        },
+        {
+          "word": "intrinsic",
+          "definition": "内在的，固有的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_93",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 93,
+      "english": "It required the financial emergency of the Civil War in 1861 to force the federal government to reintroduce national paper greenbacks for military expenditure.",
+      "chinese": "直到1861年美国内战爆发引发空前财政危机，联邦政府才被迫重新发行全国性的纸币美钞以支付庞大的军费开支。",
+      "start_time": 1009.238,
+      "end_time": 1019.768,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_93.mp3",
+      "key_vocab": [
+        {
+          "word": "unprecedented",
+          "definition": "史无前例的"
+        },
+        {
+          "word": "expenditure",
+          "definition": "开支，支出"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_94",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 94,
+      "english": "Ever since that tumultuous wartime resurrection of national currency, prominent American politicians and economists have vigorously argued for the stabilization of the dollar bill.",
+      "chinese": "自那次在战乱风暴中重生全国统一法定货币以来，历代杰出的美国政治家与经济学家都曾为捍卫美元纸币币值稳定奔走疾呼。",
+      "start_time": 1020.118,
+      "end_time": 1030.358,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_94.mp3",
+      "key_vocab": [
+        {
+          "word": "tumultuous",
+          "definition": "动荡的"
+        },
+        {
+          "word": "stabilization",
+          "definition": "稳定，稳定化"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_95",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 95,
+      "english": "A stable currency provides dependable predictability for investments, business planning, commercial contracts, and household savings across the entire national economy.",
+      "chinese": "稳定的国家货币能够为长远资本投资、企业商业规划、合同履约以及全社会的家庭储蓄提供可靠的确定性与安全保障。",
+      "start_time": 1030.708,
+      "end_time": 1041.482,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_95.mp3",
+      "key_vocab": [
+        {
+          "word": "predictability",
+          "definition": "可预见性"
+        },
+        {
+          "word": "dependable",
+          "definition": "可靠的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2020-09-1_s_96",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "idx": 96,
+      "english": "Preserving price predictability and preventing monetary inflation remain essential priorities for ensuring economic prosperity and protecting the purchasing power of working families everywhere.",
+      "chinese": "维持物价稳定与抑制通货膨胀，始终是确保长远经济繁荣和捍卫普通家庭实际购买力的至关重要的优先任务。",
+      "start_time": 1041.832,
+      "end_time": 1052.769,
+      "audio_path": "content/papers/cet6-2020-09-1/cet6-2020-09-1_s_96.mp3",
+      "key_vocab": [
+        {
+          "word": "safeguarding",
+          "definition": "保护，捍卫"
+        },
+        {
+          "word": "prosperity",
+          "definition": "繁荣"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2020-09-1_q_1",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "sentence_id": "cet6-2020-09-1_s_3",
+      "idx": 1,
+      "question_text": "Why does the woman say she can be so energetic?",
+      "options": [
+        "A) She can devote all her life to pursuing her passion.",
+        "B) She exercises regularly with professional personal trainers.",
+        "C) She takes extended vacations between demanding academic semesters.",
+        "D) She receives substantial administrative support from the university."
+      ],
+      "answer": "A",
+      "explanation": "面对主持人关于精力充沛的提问，女士明确回答：“I consider myself extremely fortunate because I can devote all my life to pursuing my passion”（能把毕生精力奉献给追求自己的热爱），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_2",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "sentence_id": "cet6-2020-09-1_s_5",
+      "idx": 2,
+      "question_text": "What has the woman been engaged in?",
+      "options": [
+        "A) Commercial patent licensing and industrial consulting.",
+        "B) Science education and scientific research.",
+        "C) Organizing international television documentary awards.",
+        "D) Managing experimental particle physics laboratories in Geneva."
+      ],
+      "answer": "B",
+      "explanation": "女士在阐述自己多元事业的核心目标时总结道，所有项目主要归为两大相互关联的领域：“science education and scientific research”（科学教育与科学研究），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_3",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "sentence_id": "cet6-2020-09-1_s_8",
+      "idx": 3,
+      "question_text": "What does the woman say about the benefit teaching brings to her?",
+      "options": [
+        "A) Greater popularity among international student audiences.",
+        "B) Financial bonuses that fund her cutting-edge experiments.",
+        "C) A better understanding of a subject.",
+        "D) Opportunities to recruit talented research assistants."
+      ],
+      "answer": "C",
+      "explanation": "女士特别强调课堂教学对自身的莫大助益：“teaching a subject to enthusiastic students helps me achieve a much better understanding of that subject myself”（对一门学科获得更好的自我理解），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_4",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_1",
+      "sentence_id": "cet6-2020-09-1_s_11",
+      "idx": 4,
+      "question_text": "How does the woman say new scientific breakthroughs can be made possible?",
+      "options": [
+        "A) By designing more powerful astronomical telescopes.",
+        "B) By substantially increasing government research funding.",
+        "C) By training more artificial intelligence specialists.",
+        "D) By making full use of the existing data."
+      ],
+      "answer": "D",
+      "explanation": "女士在谈及未来的科学突破时指出：“our greatest breakthroughs will likely come by making full use of the existing data sitting in computers”（充分利用静置在计算机当中的现有海量数据），故选D。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_5",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "sentence_id": "cet6-2020-09-1_s_15",
+      "idx": 5,
+      "question_text": "What do both speakers think of dreams?",
+      "options": [
+        "A) They have no special meaning.",
+        "B) They always foretell future catastrophic events.",
+        "C) They are purely caused by digestive indigestion.",
+        "D) They reflect superior psychic intelligence."
+      ],
+      "answer": "A",
+      "explanation": "对话双方均表达了对梦境超自然含义的否定：“scientifically speaking, both of us think dreams have no special meaning or mystical foresight whatsoever”（都认为梦境没有任何特殊含义），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_6",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "sentence_id": "cet6-2020-09-1_s_17",
+      "idx": 6,
+      "question_text": "Why didn't the woman's grandmother take her scheduled flight?",
+      "options": [
+        "A) Her airport transfer was delayed by severe weather.",
+        "B) She dreamed of a plane crash.",
+        "C) The airline cancelled the flight due to technical problems.",
+        "D) She suddenly suffered an acute cardiac episode."
+      ],
+      "answer": "B",
+      "explanation": "女士在举例说明人类非理性决策时提到：“My own grandmother... refused to board her scheduled commercial flight... simply because she dreamed of a catastrophic plane crash”（梦见了灾难性空难），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_7",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "sentence_id": "cet6-2020-09-1_s_19",
+      "idx": 7,
+      "question_text": "What does the woman say about people's emotions?",
+      "options": [
+        "A) They become increasingly unpredictable during full moons.",
+        "B) They are easily suppressed by rigorous mental discipline.",
+        "C) They can have an impact as great as rational thinking.",
+        "D) They prevent people from dreaming about real-life problems."
+      ],
+      "answer": "C",
+      "explanation": "女士指出在现实决策与风险评估中：“people's emotions can have an impact as great as rational thinking”（人们的情感产生的影响力丝毫不逊于理性思维），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_8",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_2",
+      "sentence_id": "cet6-2020-09-1_s_21",
+      "idx": 8,
+      "question_text": "What did psychologist Sigmund Freud say about adults' dreams?",
+      "options": [
+        "A) They are identical in structure to children's daydreams.",
+        "B) They serve exclusively to reset daily metabolic cycles.",
+        "C) They can cure deep psychological disorders overnight.",
+        "D) They reflect their complicated emotions."
+      ],
+      "answer": "D",
+      "explanation": "对话中引用弗洛伊德的经典理论指出：“adults' dreams reflect their complicated subconscious emotions and repressed desires”（反映成年人复杂的潜意识情感与欲望），故选D。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_9",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "sentence_id": "cet6-2020-09-1_s_27",
+      "idx": 9,
+      "question_text": "What did scientists first use to discover Lake Vostok in the 1970s?",
+      "options": [
+        "A) Radio waves.",
+        "B) Deep thermal drilling cores.",
+        "C) Underwater sonar hydrophones.",
+        "D) Infrared orbital satellite photography."
+      ],
+      "answer": "A",
+      "explanation": "文章明确说明：“scientists first used penetrating radio waves in the 1970s airborne radar surveys to accidentally detect this hidden subglacial reservoir”（利用无线电波雷达勘测首次探测到该湖泊），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_10",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "sentence_id": "cet6-2020-09-1_s_30",
+      "idx": 10,
+      "question_text": "What do scientists think about Lake Vostok?",
+      "options": [
+        "A) It is completely devoid of all organic biological materials.",
+        "B) It may have micro-organisms living in it.",
+        "C) Its water is heavily contaminated by toxic industrial pollutants.",
+        "D) It formed only recently due to accelerated global warming."
+      ],
+      "answer": "B",
+      "explanation": "科学家推测尽管面临极寒和高压，该湖泊依然极有可能孕育生命：“scientists strongly hypothesize that Lake Vostok may have resilient micro-organisms living in it”（可能有微生物生存于其中），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_11",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_3",
+      "sentence_id": "cet6-2020-09-1_s_37",
+      "idx": 11,
+      "question_text": "What do the scientists hope their discoveries will do?",
+      "options": [
+        "A) Provide abundant clean drinking water for southern polar stations.",
+        "B) Develop revolutionary antimicrobial antibiotics from polar algae.",
+        "C) Shed light on possible life in outer space.",
+        "D) Disprove modern geological continental drift theories."
+      ],
+      "answer": "C",
+      "explanation": "文章最后揭示该科研探索的深远意义：“scientists hope their discoveries will shed light on possible life in outer space”（为外太空可能存在的生命形态揭示曙光），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_12",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "sentence_id": "cet6-2020-09-1_s_39",
+      "idx": 12,
+      "question_text": "Why did James Copeland want to study the American Indian Tarahumaras?",
+      "options": [
+        "A) He found there had been little research on their language.",
+        "B) He wanted to record their traditional agricultural techniques.",
+        "C) He was hired to establish a bilingual school in the canyon.",
+        "D) He sought to write a travel adventure novel about their rituals."
+      ],
+      "answer": "A",
+      "explanation": "文章指出科普兰之所以立志研究该部落：“precisely because he found there had been little research on their language by Western scholars”（发现此前西方学者极少对其语言进行过深入研究），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_13",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "sentence_id": "cet6-2020-09-1_s_43",
+      "idx": 13,
+      "question_text": "How did Gonzalez help James Copeland?",
+      "options": [
+        "A) He funded the entire field expedition out of his own pocket.",
+        "B) He acted as an intermediary between Copeland and the villagers.",
+        "C) He translated English novels into the indigenous language.",
+        "D) He drove the utility truck across treacherous mountain boulders."
+      ],
+      "answer": "B",
+      "explanation": "冈萨雷斯在科普兰的工作中起到了关键纽带作用：“took Copeland directly to his isolated mountain settlement and acted as an indispensable intermediary between Copeland and the villagers”（在科普兰与村民之间充当中间人和沟通桥梁），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_14",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "sentence_id": "cet6-2020-09-1_s_44",
+      "idx": 14,
+      "question_text": "What does the speaker say about James Copeland's trip to the Tarahumaras village?",
+      "options": [
+        "A) Luxurious.",
+        "B) Inexpensive.",
+        "C) Laborious.",
+        "D) Hazardous."
+      ],
+      "answer": "C",
+      "explanation": "讲述者在描述前往该偏远村落的艰难旅程时明确评价：“embarking upon regular expeditions into the rugged Copper Canyon region proved to be an immensely laborious and grueling undertaking”（极为艰难劳顿的旅程，laborious），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_15",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_4",
+      "sentence_id": "cet6-2020-09-1_s_49",
+      "idx": 15,
+      "question_text": "What impresses James Copeland about the Tarahumaras tribe?",
+      "options": [
+        "A) Their complex written legal system.",
+        "B) Their exceptional long-distance pottery trade.",
+        "C) Their advanced stone architectural techniques.",
+        "D) Their sense of sharing and caring."
+      ],
+      "answer": "D",
+      "explanation": "科普兰对该原住民部落最受震撼和感动的品质是：“their remarkable sense of sharing, harmony, and mutual caring for each other”（他们无私分享与相互关爱的崇高风尚），故选D。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_16",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "sentence_id": "cet6-2020-09-1_s_52",
+      "idx": 16,
+      "question_text": "What usually happens when people are accused of being radical?",
+      "options": [
+        "A) They tend to be silenced into submission.",
+        "B) They receive immediate widespread public financial donations.",
+        "C) They are automatically elected to high political office.",
+        "D) They establish armed guerrilla movements in the mountains."
+      ],
+      "answer": "A",
+      "explanation": "讲座指出当改革者或异见人士被扣上激进分子帽子时：“What usually happens... is that they tend to be silenced into submission by mainstream social pressure”（往往在社会舆论重压下被迫噤声屈服），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_17",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "sentence_id": "cet6-2020-09-1_s_57",
+      "idx": 17,
+      "question_text": "What is the speaker's definition of a radical?",
+      "options": [
+        "A) Someone who exploits social unrest for personal financial gain.",
+        "B) One who rebels against the existing social order.",
+        "C) A politician who strictly adheres to orthodox conservative traditions.",
+        "D) An intellectual who refuses to participate in democratic elections."
+      ],
+      "answer": "B",
+      "explanation": "从拉丁语词源深度剖析后，演讲者给出了激进分子的本质定义：“a genuine radical is simply one who rebels against the existing social order to address problems at their root cause”（反抗既有社会秩序从根源解决问题的人），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_18",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_5",
+      "sentence_id": "cet6-2020-09-1_s_62",
+      "idx": 18,
+      "question_text": "What does the speaker think of most radicals in American history?",
+      "options": [
+        "A) They caused irreparable economic destruction to the nation.",
+        "B) They were secretly manipulated by hostile foreign empires.",
+        "C) They served as a driving force for progress.",
+        "D) They lacked a coherent long-term philosophical vision."
+      ],
+      "answer": "C",
+      "explanation": "演讲者回顾美国废奴、女权和民权斗争历史后鲜明指出：“most radicals throughout American history actually served as the driving force for human progress”（充当了推动人类历史进步的核心原动力），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_19",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "sentence_id": "cet6-2020-09-1_s_69",
+      "idx": 19,
+      "question_text": "What does the speaker say about us as human beings?",
+      "options": [
+        "A) It is impossible for us to be immune from outside influence.",
+        "B) Our ethical principles remain totally unaffected by our companions.",
+        "C) We always make completely autonomous rational financial choices.",
+        "D) We are biologically incapable of developing empathy for strangers."
+      ],
+      "answer": "A",
+      "explanation": "演讲者打破人类自以为完全独立的幻象指出：“it is completely impossible for us as human beings to be immune from outside environmental and social influence”（人类要想完全免受外部环境影响是绝不可能的），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_20",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "sentence_id": "cet6-2020-09-1_s_74",
+      "idx": 20,
+      "question_text": "What does the speaker say Fred should do first to improve his quality of life?",
+      "options": [
+        "A) Borrow a bank loan to purchase an expensive luxury car.",
+        "B) Recognize the negative impact of his coworkers.",
+        "C) Enroll in an intensive evening master's degree program.",
+        "D) Complain directly to the board of directors about salaries."
+      ],
+      "answer": "B",
+      "explanation": "针对弗雷德身心堕落的案例，演讲者提出摆脱颓唐的首要举措：“what Fred should urgently do first to improve his quality of life is to recognize the negative impact of his coworkers”（认清身边同事带来的负面恶劣影响），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_21",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_6",
+      "sentence_id": "cet6-2020-09-1_s_79",
+      "idx": 21,
+      "question_text": "What does the speaker say about psychiatrists?",
+      "options": [
+        "A) They earn the highest average income among all medical doctors.",
+        "B) They are naturally resistant to chronic workplace depression.",
+        "C) They are quite susceptible to suicide.",
+        "D) They rarely interact with other hospital colleagues outside work."
+      ],
+      "answer": "C",
+      "explanation": "作为环境影响与情绪传染的严峻例证，演讲者指出精神科医生在自杀问题上具有极高的脆弱性：“clinical psychiatrists are quite susceptible to suicide, suffering tragically elevated rates”（相当容易受自杀倾向影响），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_22",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "sentence_id": "cet6-2020-09-1_s_82",
+      "idx": 22,
+      "question_text": "What does the speaker say about the American dollar bill?",
+      "options": [
+        "A) Few people can describe it precisely.",
+        "B) It was fully replaced by electronic transactions last year.",
+        "C) It costs more to print than its actual face purchasing value.",
+        "D) It features the portraits of all fifty state governors."
+      ],
+      "answer": "A",
+      "explanation": "演讲者开篇即指出虽然大家天天使用纸币：“astonishingly few people can describe the American dollar bill precisely”（几乎极少有人能精确分毫不差地描述出一美元纸币的具体细节），故选A。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_23",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "sentence_id": "cet6-2020-09-1_s_86",
+      "idx": 23,
+      "question_text": "What does the speaker say about the exact composition of the American dollar bill?",
+      "options": [
+        "A) It is made of ordinary recycled domestic wood pulp.",
+        "B) It is a well-protected government secret.",
+        "C) It was designed and patented by European paper mills.",
+        "D) It dissolves completely within six months if discarded outdoors."
+      ],
+      "answer": "B",
+      "explanation": "关于一美元纸币特殊纸质的化学配方，演讲者揭秘指出：“What the speaker reveals about the exact chemical composition... is that it is a closely guarded, well-protected government secret”（受到严密保护的政府核心机密），故选B。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_24",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "sentence_id": "cet6-2020-09-1_s_90",
+      "idx": 24,
+      "question_text": "Why did the new American government mint only coins for common currency?",
+      "options": [
+        "A) Copper and silver mines in California were producing enormous surpluses.",
+        "B) British merchant ships refused to transport paper supplies across the ocean.",
+        "C) People had little faith in paper money.",
+        "D) The Continental Army had burned down all paper printing presses."
+      ],
+      "answer": "C",
+      "explanation": "由于独立战争时期纸币严重贬值，建国之初大众心存恐惧：“ordinary people had little faith in paper money whatsoever... the young American government minted only gold and silver coins”（民众对纸币毫无信任），故选C。"
+    },
+    {
+      "id": "cet6-2020-09-1_q_25",
+      "paper_id": "cet6-2020-09-1",
+      "section_id": "cet6-2020-09-1_sec_7",
+      "sentence_id": "cet6-2020-09-1_s_94",
+      "idx": 25,
+      "question_text": "What have generations of American politicians argued for?",
+      "options": [
+        "A) The stabilization of the dollar bill.",
+        "B) Abolishing the Federal Reserve Banking System entirely.",
+        "C) Replacing all paper notes with gold certificates.",
+        "D) Adopting a unified North American currency union with Canada."
+      ],
+      "answer": "A",
+      "explanation": "讲座指出在南北战争重新发行纸币之后：“generations of American politicians have vigorously argued for the stabilization of the dollar bill”（一代代政治家始终在为一美元纸币购买力的稳定而激烈争论），故选A。"
+    }
+  ]
+}
