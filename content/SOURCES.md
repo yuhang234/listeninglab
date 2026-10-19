@@ -4,6 +4,9 @@
 
 | Paper ID | Title | Verified | Provenance |
 |---|---|---|---|
+| cet6-2021-06-1 | 2021年6月 六级听力真题（第1套） | No | model-reconstructed |
+| cet6-2021-12-1 | 2021年12月 六级听力真题（第1套） | No | model-reconstructed |
+| cet6-2022-06-1 | 2022年6月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2022-12-1 | 2022年12月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2023-06-1 | 2023年6月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2023-12-1 | 2023年12月 六级听力真题（第1套） | No | model-reconstructed |
