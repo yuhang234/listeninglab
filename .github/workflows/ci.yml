@@ -1,0 +1,32 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install ffmpeg (provides ffprobe, required by content/validate.py)
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Validate content
+        run: python3 content/validate.py
+
+      - name: Check SOURCES.md is up to date
+        run: git diff --exit-code content/SOURCES.md
+
+      - name: Run unit tests
+        run: python3 -m unittest discover -s tests -v
