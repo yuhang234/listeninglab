@@ -1,42 +1,86 @@
 {
   "id": "cet6-2024-06-1",
-  "title": "2024年6月 六级听力真题 (第1套)",
+  "title": "2024年6月 六级听力真题（第1套）",
   "year": 2024,
   "month": 6,
   "set_number": 1,
   "category": "cet6-real",
-  "total_duration_sec": 1560,
-  "sentence_count": 5,
+  "total_duration_sec": 283.913,
+  "sentence_count": 40,
   "version": 1,
-  "audio_path": "content/papers/placeholder.mp3",
+  "audio_path": "content/papers/cet6-2024-06-1/full.mp3",
+  "provenance": "model-reconstructed",
+  "verified": false,
   "sections": [
     {
-      "id": "cet6-2024-06-1_sec_0",
+      "id": "cet6-2024-06-1_sec_1",
       "paper_id": "cet6-2024-06-1",
-      "title": "Section A · 长对话 1",
+      "title": "Section A · 长对话一：职场沟通",
       "section_type": "Section A",
-      "sort_order": 0
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2024-06-1_sec_2",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section A · 长对话二：科技与生活",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2024-06-1_sec_3",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section B · 讲座一：气候变化与粮食安全",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2024-06-1_sec_4",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section B · 讲座二：人工智能的伦理挑战",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2024-06-1_sec_5",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section C · 报道一：太空探索新进展",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2024-06-1_sec_6",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section C · 报道二：城市交通变革",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2024-06-1_sec_7",
+      "paper_id": "cet6-2024-06-1",
+      "title": "Section C · 报道三：海洋保护新政策",
+      "section_type": "Section C",
+      "sort_order": 7
     }
   ],
   "sentences": [
     {
       "id": "cet6-2024-06-1_s_1",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
+      "section_id": "cet6-2024-06-1_sec_1",
       "idx": 1,
-      "english": "Good morning, everyone. Today we'll discuss urban planning and sustainable development.",
-      "chinese": "大家早上好。今天我们将讨论城市规划和可持续发展。",
-      "start_time": 0,
-      "end_time": 8,
-      "audio_path": null,
+      "english": "Hi Sarah, do you have a moment? I wanted to talk about the team project presentation scheduled for next Friday.",
+      "chinese": "嗨，莎拉，你有空吗？我想谈谈下周五安排的团队项目演示。",
+      "start_time": 0.0,
+      "end_time": 4.859,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_1.mp3",
       "key_vocab": [
         {
-          "word": "urban planning",
-          "definition": "城市规划"
+          "word": "presentation",
+          "definition": "演示，汇报"
         },
         {
-          "word": "sustainable",
-          "definition": "可持续的"
+          "word": "scheduled",
+          "definition": "已安排的，预定的"
         }
       ],
       "status": "unread",
@@ -46,21 +90,21 @@
     {
       "id": "cet6-2024-06-1_s_2",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
+      "section_id": "cet6-2024-06-1_sec_1",
       "idx": 2,
-      "english": "Cities around the world are facing unprecedented challenges from climate change and rapid urbanization.",
-      "chinese": "世界各地的城市正面临来自气候变化和快速城市化前所未有的挑战。",
-      "start_time": 8,
-      "end_time": 16,
-      "audio_path": null,
+      "english": "Sure, Mike. I was actually hoping we could discuss that. I'm a bit concerned about the data analysis section.",
+      "chinese": "当然，迈克。我其实也希望我们能讨论一下。我对数据分析部分有点担心。",
+      "start_time": 5.209,
+      "end_time": 10.224,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_2.mp3",
       "key_vocab": [
         {
-          "word": "unprecedented",
-          "definition": "前所未有的"
+          "word": "concerned",
+          "definition": "担心的，担忧的"
         },
         {
-          "word": "urbanization",
-          "definition": "城市化"
+          "word": "data analysis",
+          "definition": "数据分析"
         }
       ],
       "status": "unread",
@@ -70,21 +114,21 @@
     {
       "id": "cet6-2024-06-1_s_3",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
+      "section_id": "cet6-2024-06-1_sec_1",
       "idx": 3,
-      "english": "Green roofs and permeable pavements can absorb significant amounts of precipitation.",
-      "chinese": "绿色屋顶和透水路面可以吸收大量的降水。",
-      "start_time": 16,
-      "end_time": 23,
-      "audio_path": null,
+      "english": "I share your concern. The raw data we collected from the surveys has some inconsistencies that we haven't resolved yet.",
+      "chinese": "我和你有同样的担心。我们从调查中收集的原始数据存在一些我们尚未解决的不一致之处。",
+      "start_time": 10.574,
+      "end_time": 15.982,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_3.mp3",
       "key_vocab": [
         {
-          "word": "permeable",
-          "definition": "可渗透的"
+          "word": "inconsistencies",
+          "definition": "不一致之处"
         },
         {
-          "word": "precipitation",
-          "definition": "降水"
+          "word": "resolved",
+          "definition": "解决了的"
         }
       ],
       "status": "unread",
@@ -94,21 +138,21 @@
     {
       "id": "cet6-2024-06-1_s_4",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
+      "section_id": "cet6-2024-06-1_sec_1",
       "idx": 4,
-      "english": "However, modern urban designers are increasingly advocating for nature-based solutions and green architecture.",
-      "chinese": "然而，现代城市设计师越来越提倡基于自然的解决方案和绿色建筑。",
-      "start_time": 23,
-      "end_time": 32,
-      "audio_path": null,
+      "english": "Maybe we should ask Professor Chen to review our methodology before we finalize the presentation.",
+      "chinese": "也许我们应该在最终确定演示之前请陈教授审查我们的方法论。",
+      "start_time": 16.332,
+      "end_time": 20.72,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_4.mp3",
       "key_vocab": [
         {
-          "word": "advocate for",
-          "definition": "提倡支持"
+          "word": "methodology",
+          "definition": "方法论"
         },
         {
-          "word": "architecture",
-          "definition": "建筑设计"
+          "word": "finalize",
+          "definition": "最终确定"
         }
       ],
       "status": "unread",
@@ -118,21 +162,861 @@
     {
       "id": "cet6-2024-06-1_s_5",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
+      "section_id": "cet6-2024-06-1_sec_1",
       "idx": 5,
-      "english": "These innovative approaches not only reduce environmental impact but also improve residents' quality of life.",
-      "chinese": "这些创新方法不仅减少环境影响，还提高了居民的生活质量。",
-      "start_time": 32,
-      "end_time": 40,
-      "audio_path": null,
+      "english": "That's a good idea. She's an expert in quantitative research methods and could spot any flaws we might have missed.",
+      "chinese": "这是个好主意。她是定量研究方法的专家，能发现我们可能遗漏的任何缺陷。",
+      "start_time": 21.07,
+      "end_time": 25.877,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_5.mp3",
       "key_vocab": [
         {
-          "word": "innovative",
-          "definition": "创新的"
+          "word": "quantitative",
+          "definition": "定量的"
         },
         {
-          "word": "residents",
-          "definition": "居民"
+          "word": "flaws",
+          "definition": "缺陷，瑕疵"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_6",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_1",
+      "idx": 6,
+      "english": "I'll email her right away to set up a meeting. Meanwhile, can you handle the visual design of the slides?",
+      "chinese": "我马上给她发邮件安排会议。同时，你能负责幻灯片的视觉设计吗？",
+      "start_time": 26.227,
+      "end_time": 30.563,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_6.mp3",
+      "key_vocab": [
+        {
+          "word": "meanwhile",
+          "definition": "与此同时"
+        },
+        {
+          "word": "visual design",
+          "definition": "视觉设计"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_7",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_1",
+      "idx": 7,
+      "english": "No problem. I'll create some clear charts and graphs to illustrate our key findings.",
+      "chinese": "没问题。我会制作一些清晰的图表来说明我们的主要发现。",
+      "start_time": 30.913,
+      "end_time": 34.831,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_7.mp3",
+      "key_vocab": [
+        {
+          "word": "illustrate",
+          "definition": "说明，阐述"
+        },
+        {
+          "word": "findings",
+          "definition": "研究发现"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_8",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_1",
+      "idx": 8,
+      "english": "Great. Let's plan to meet again on Wednesday afternoon to review everything together before the big day.",
+      "chinese": "太好了。我们计划在周三下午再次见面，在大日子之前一起复查所有内容。",
+      "start_time": 35.181,
+      "end_time": 39.492,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_8.mp3",
+      "key_vocab": [
+        {
+          "word": "review",
+          "definition": "复查，审查"
+        },
+        {
+          "word": "plan to",
+          "definition": "计划做某事"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_9",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 9,
+      "english": "Have you seen the latest smartphone model released by that tech company? The battery life is supposed to last three days.",
+      "chinese": "你看到那家科技公司发布的最新智能手机型号了吗？据说电池续航能持续三天。",
+      "start_time": 39.842,
+      "end_time": 45.197,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_9.mp3",
+      "key_vocab": [
+        {
+          "word": "battery life",
+          "definition": "电池续航时间"
+        },
+        {
+          "word": "released",
+          "definition": "发布的，推出的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_10",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 10,
+      "english": "Yes, I read about it online. But I'm more impressed by its new artificial intelligence features that personalize user experience.",
+      "chinese": "是的，我在网上看到了。但我更对其个性化用户体验的新人工智能功能印象深刻。",
+      "start_time": 45.547,
+      "end_time": 51.45,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_10.mp3",
+      "key_vocab": [
+        {
+          "word": "personalize",
+          "definition": "个性化"
+        },
+        {
+          "word": "user experience",
+          "definition": "用户体验"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_11",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 11,
+      "english": "That sounds fascinating. Though I worry that excessive reliance on AI might actually reduce our cognitive abilities over time.",
+      "chinese": "听起来很吸引人。不过我担心过度依赖人工智能实际上可能会随着时间的推移降低我们的认知能力。",
+      "start_time": 51.8,
+      "end_time": 57.547,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_11.mp3",
+      "key_vocab": [
+        {
+          "word": "excessive reliance",
+          "definition": "过度依赖"
+        },
+        {
+          "word": "cognitive abilities",
+          "definition": "认知能力"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_12",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 12,
+      "english": "That's a valid point. Some researchers argue that technology should augment human intelligence rather than replace it.",
+      "chinese": "这是一个有效的观点。一些研究人员认为，技术应该增强人类智能，而不是取代它。",
+      "start_time": 57.897,
+      "end_time": 63.252,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_12.mp3",
+      "key_vocab": [
+        {
+          "word": "augment",
+          "definition": "增强，扩大"
+        },
+        {
+          "word": "valid",
+          "definition": "有效的，合理的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_13",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 13,
+      "english": "I agree. I think the key is finding the right balance between using technology as a tool and maintaining our own critical thinking skills.",
+      "chinese": "我同意。我认为关键是找到将技术作为工具使用与保持我们自身批判性思维技能之间的适当平衡。",
+      "start_time": 63.602,
+      "end_time": 70.107,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_13.mp3",
+      "key_vocab": [
+        {
+          "word": "critical thinking",
+          "definition": "批判性思维"
+        },
+        {
+          "word": "balance",
+          "definition": "平衡"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_14",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 14,
+      "english": "Well said. Anyway, are you planning to buy the new phone? The price is quite steep at over six thousand yuan.",
+      "chinese": "说得好。不管怎样，你计划买这款新手机吗？价格相当高，超过六千元。",
+      "start_time": 70.457,
+      "end_time": 75.499,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_14.mp3",
+      "key_vocab": [
+        {
+          "word": "steep",
+          "definition": "（价格）高得离谱的"
+        },
+        {
+          "word": "planning to",
+          "definition": "打算"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_15",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 15,
+      "english": "I'll probably wait for the price to drop before considering it. My current phone still works perfectly fine.",
+      "chinese": "我可能会等价格下降后再考虑。我现在的手机还好用得很。",
+      "start_time": 75.849,
+      "end_time": 80.524,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_15.mp3",
+      "key_vocab": [
+        {
+          "word": "considering",
+          "definition": "考虑"
+        },
+        {
+          "word": "perfectly fine",
+          "definition": "完全没问题"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_16",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "idx": 16,
+      "english": "That's very practical of you. Smart consumers always evaluate whether a new product truly meets their needs before purchasing.",
+      "chinese": "你真的很务实。聪明的消费者在购买之前总是评估新产品是否真正满足他们的需求。",
+      "start_time": 80.874,
+      "end_time": 86.517,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_16.mp3",
+      "key_vocab": [
+        {
+          "word": "practical",
+          "definition": "务实的，实际的"
+        },
+        {
+          "word": "evaluate",
+          "definition": "评估"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_17",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 17,
+      "english": "Good afternoon, everyone. Today's lecture focuses on one of the most pressing global challenges: the intersection of climate change and food security.",
+      "chinese": "大家下午好。今天的讲座聚焦于最紧迫的全球挑战之一：气候变化与粮食安全的交汇。",
+      "start_time": 86.867,
+      "end_time": 94.181,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_17.mp3",
+      "key_vocab": [
+        {
+          "word": "pressing",
+          "definition": "紧迫的"
+        },
+        {
+          "word": "intersection",
+          "definition": "交汇，交叉点"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_18",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 18,
+      "english": "Rising global temperatures are significantly altering precipitation patterns, leading to more frequent droughts and floods across agricultural regions.",
+      "chinese": "全球气温上升正在显著改变降水模式，导致农业地区更频繁的干旱和洪涝。",
+      "start_time": 94.531,
+      "end_time": 101.898,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_18.mp3",
+      "key_vocab": [
+        {
+          "word": "precipitation patterns",
+          "definition": "降水模式"
+        },
+        {
+          "word": "agricultural regions",
+          "definition": "农业地区"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_19",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 19,
+      "english": "Research indicates that by 2050, climate change could reduce global crop yields by up to twenty-five percent in some vulnerable regions.",
+      "chinese": "研究表明，到2050年，气候变化可能使某些脆弱地区的全球作物产量减少多达25%。",
+      "start_time": 102.248,
+      "end_time": 109.64,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_19.mp3",
+      "key_vocab": [
+        {
+          "word": "crop yields",
+          "definition": "作物产量"
+        },
+        {
+          "word": "vulnerable regions",
+          "definition": "脆弱地区"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_20",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 20,
+      "english": "However, advances in drought-resistant crop varieties and precision agriculture technologies offer promising solutions.",
+      "chinese": "然而，抗旱作物品种和精准农业技术的进步提供了有前景的解决方案。",
+      "start_time": 109.99,
+      "end_time": 115.92,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_20.mp3",
+      "key_vocab": [
+        {
+          "word": "drought-resistant",
+          "definition": "抗旱的"
+        },
+        {
+          "word": "precision agriculture",
+          "definition": "精准农业"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_21",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 21,
+      "english": "International cooperation is essential, as developing nations often lack the resources and technology to adapt their agricultural systems independently.",
+      "chinese": "国际合作至关重要，因为发展中国家往往缺乏独立调整其农业系统的资源和技术。",
+      "start_time": 116.27,
+      "end_time": 124.603,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_21.mp3",
+      "key_vocab": [
+        {
+          "word": "international cooperation",
+          "definition": "国际合作"
+        },
+        {
+          "word": "adapt",
+          "definition": "适应，调整"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_22",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "idx": 22,
+      "english": "Reducing food waste is another critical strategy, since approximately one third of all food produced globally is lost or wasted before consumption.",
+      "chinese": "减少食物浪费是另一个关键策略，因为全球生产的大约三分之一的食物在消费前就损失或浪费了。",
+      "start_time": 124.953,
+      "end_time": 132.529,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_22.mp3",
+      "key_vocab": [
+        {
+          "word": "food waste",
+          "definition": "食物浪费"
+        },
+        {
+          "word": "approximately",
+          "definition": "大约，近似地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_23",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 23,
+      "english": "Welcome back. In this second lecture, I want to explore the ethical dimensions of artificial intelligence development.",
+      "chinese": "欢迎回来。在第二讲中，我想探讨人工智能发展的伦理维度。",
+      "start_time": 132.879,
+      "end_time": 138.521,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_23.mp3",
+      "key_vocab": [
+        {
+          "word": "ethical dimensions",
+          "definition": "伦理维度"
+        },
+        {
+          "word": "explore",
+          "definition": "探讨，探索"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_24",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 24,
+      "english": "As AI systems become increasingly integrated into decision-making processes, questions of fairness, transparency, and accountability become paramount.",
+      "chinese": "随着人工智能系统越来越多地融入决策过程，公平、透明和问责的问题变得至关重要。",
+      "start_time": 138.871,
+      "end_time": 146.238,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_24.mp3",
+      "key_vocab": [
+        {
+          "word": "paramount",
+          "definition": "至关重要的"
+        },
+        {
+          "word": "accountability",
+          "definition": "问责制"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_25",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 25,
+      "english": "Algorithmic bias is a particularly concerning issue. AI systems trained on biased data can perpetuate and even amplify existing social inequalities.",
+      "chinese": "算法偏见是一个特别令人担忧的问题。在有偏见的数据上训练的人工智能系统可能会延续甚至放大现有的社会不平等。",
+      "start_time": 146.588,
+      "end_time": 154.372,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_25.mp3",
+      "key_vocab": [
+        {
+          "word": "algorithmic bias",
+          "definition": "算法偏见"
+        },
+        {
+          "word": "perpetuate",
+          "definition": "延续，使永久化"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_26",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 26,
+      "english": "For example, facial recognition systems have been shown to have significantly higher error rates for women and people of darker skin tones.",
+      "chinese": "例如，面部识别系统对女性和肤色较深的人的错误率明显更高。",
+      "start_time": 154.722,
+      "end_time": 161.41,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_26.mp3",
+      "key_vocab": [
+        {
+          "word": "facial recognition",
+          "definition": "面部识别"
+        },
+        {
+          "word": "error rates",
+          "definition": "错误率"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_27",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 27,
+      "english": "To address these challenges, many countries are now developing regulatory frameworks for AI governance, though international coordination remains limited.",
+      "chinese": "为了应对这些挑战，许多国家正在开发人工智能治理的监管框架，尽管国际协调仍然有限。",
+      "start_time": 161.76,
+      "end_time": 169.753,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_27.mp3",
+      "key_vocab": [
+        {
+          "word": "regulatory frameworks",
+          "definition": "监管框架"
+        },
+        {
+          "word": "governance",
+          "definition": "治理"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_28",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "idx": 28,
+      "english": "Ultimately, responsible AI development requires collaboration among technologists, ethicists, policymakers, and the communities most affected by these systems.",
+      "chinese": "归根结底，负责任的人工智能开发需要技术专家、伦理学家、政策制定者以及受这些系统影响最深的社区之间的合作。",
+      "start_time": 170.103,
+      "end_time": 178.619,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_28.mp3",
+      "key_vocab": [
+        {
+          "word": "ethicists",
+          "definition": "伦理学家"
+        },
+        {
+          "word": "policymakers",
+          "definition": "政策制定者"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_29",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "idx": 29,
+      "english": "Scientists announced a major breakthrough this week as the Artemis program successfully deployed a new lunar orbiter capable of mapping the Moon's south pole region in unprecedented detail.",
+      "chinese": "科学家们本周宣布了一项重大突破，阿尔忒弥斯计划成功部署了一个新的月球轨道飞行器，能够以前所未有的细节绘制月球南极地区的地图。",
+      "start_time": 178.969,
+      "end_time": 188.086,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_29.mp3",
+      "key_vocab": [
+        {
+          "word": "breakthrough",
+          "definition": "突破"
+        },
+        {
+          "word": "lunar orbiter",
+          "definition": "月球轨道飞行器"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_30",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "idx": 30,
+      "english": "The spacecraft carries advanced instruments that can detect water ice deposits, which would be crucial for future crewed missions and potential lunar settlements.",
+      "chinese": "这艘航天器携带了先进仪器，可以探测水冰沉积物，这对未来的载人任务和潜在的月球定居点至关重要。",
+      "start_time": 188.436,
+      "end_time": 195.959,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_30.mp3",
+      "key_vocab": [
+        {
+          "word": "water ice deposits",
+          "definition": "水冰沉积物"
+        },
+        {
+          "word": "crewed missions",
+          "definition": "载人任务"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_31",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "idx": 31,
+      "english": "Mission control reported that all systems are functioning normally, and the first detailed images are expected to be transmitted back to Earth within the next two weeks.",
+      "chinese": "任务控制中心报告所有系统运行正常，预计在未来两周内将第一批详细图像传回地球。",
+      "start_time": 196.309,
+      "end_time": 204.015,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_31.mp3",
+      "key_vocab": [
+        {
+          "word": "mission control",
+          "definition": "任务控制中心"
+        },
+        {
+          "word": "transmitted",
+          "definition": "传输的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_32",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "idx": 32,
+      "english": "This mission represents a significant step toward NASA's long-term goal of establishing a permanent human presence on the Moon by the early 2030s.",
+      "chinese": "这次任务代表了NASA实现21世纪30年代初在月球建立永久人类存在这一长期目标的重要一步。",
+      "start_time": 204.365,
+      "end_time": 212.724,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_32.mp3",
+      "key_vocab": [
+        {
+          "word": "permanent presence",
+          "definition": "永久存在"
+        },
+        {
+          "word": "long-term goal",
+          "definition": "长期目标"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_33",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "idx": 33,
+      "english": "Several major Chinese cities announced plans this week to dramatically expand their electric vehicle charging infrastructure, aiming to install over one million new charging stations by 2026.",
+      "chinese": "本周，中国多个主要城市宣布计划大幅扩展电动汽车充电基础设施，目标是到2026年新增超过100万个充电站。",
+      "start_time": 213.074,
+      "end_time": 223.471,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_33.mp3",
+      "key_vocab": [
+        {
+          "word": "charging infrastructure",
+          "definition": "充电基础设施"
+        },
+        {
+          "word": "dramatically",
+          "definition": "大幅地，显著地"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_34",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "idx": 34,
+      "english": "The initiative is part of a broader strategy to reduce urban air pollution and meet carbon neutrality targets ahead of the 2060 deadline.",
+      "chinese": "这一举措是减少城市空气污染、提前实现2060年碳中和目标这一更广泛战略的一部分。",
+      "start_time": 223.821,
+      "end_time": 230.77,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_34.mp3",
+      "key_vocab": [
+        {
+          "word": "carbon neutrality",
+          "definition": "碳中和"
+        },
+        {
+          "word": "initiative",
+          "definition": "举措，倡议"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_35",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "idx": 35,
+      "english": "Transportation experts note that adequate charging infrastructure is one of the most critical factors in accelerating consumer adoption of electric vehicles.",
+      "chinese": "交通专家指出，充足的充电基础设施是加速消费者采用电动汽车的最关键因素之一。",
+      "start_time": 231.12,
+      "end_time": 238.408,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_35.mp3",
+      "key_vocab": [
+        {
+          "word": "adequate",
+          "definition": "充足的，适当的"
+        },
+        {
+          "word": "adoption",
+          "definition": "采用，接受"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_36",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "idx": 36,
+      "english": "The government has pledged five billion yuan in subsidies to support private investment in the charging network, expecting to create over eighty thousand new jobs in the process.",
+      "chinese": "政府承诺提供50亿元补贴，支持对充电网络的私人投资，预计在此过程中创造超过8万个新工作岗位。",
+      "start_time": 238.758,
+      "end_time": 247.404,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_36.mp3",
+      "key_vocab": [
+        {
+          "word": "subsidies",
+          "definition": "补贴，资助"
+        },
+        {
+          "word": "pledged",
+          "definition": "承诺，保证"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_37",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "idx": 37,
+      "english": "The United Nations Environment Programme released a landmark report calling for immediate action to protect the world's oceans from plastic pollution and overfishing.",
+      "chinese": "联合国环境规划署发布了一份具有里程碑意义的报告，呼吁立即采取行动，保护世界海洋免受塑料污染和过度捕捞的危害。",
+      "start_time": 247.754,
+      "end_time": 254.964,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_37.mp3",
+      "key_vocab": [
+        {
+          "word": "landmark report",
+          "definition": "里程碑式报告"
+        },
+        {
+          "word": "overfishing",
+          "definition": "过度捕捞"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_38",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "idx": 38,
+      "english": "The report warns that without significant policy changes, approximately eighty percent of coral reef ecosystems could be severely degraded within thirty years.",
+      "chinese": "报告警告称，如果没有重大政策变化，大约80%的珊瑚礁生态系统可能在三十年内严重退化。",
+      "start_time": 255.314,
+      "end_time": 263.386,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_38.mp3",
+      "key_vocab": [
+        {
+          "word": "coral reef",
+          "definition": "珊瑚礁"
+        },
+        {
+          "word": "degraded",
+          "definition": "退化的，恶化的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_39",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "idx": 39,
+      "english": "Proposed measures include establishing vast marine protected areas covering thirty percent of the world's oceans by 2030, a target endorsed by over one hundred nations.",
+      "chinese": "提议的措施包括到2030年建立覆盖全球30%海洋的广大海洋保护区，这一目标已获得100多个国家的支持。",
+      "start_time": 263.736,
+      "end_time": 273.14,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_39.mp3",
+      "key_vocab": [
+        {
+          "word": "marine protected areas",
+          "definition": "海洋保护区"
+        },
+        {
+          "word": "endorsed",
+          "definition": "认可的，支持的"
+        }
+      ],
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2024-06-1_s_40",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "idx": 40,
+      "english": "Environmental advocates stress that protecting ocean biodiversity is not merely an ecological imperative but also an economic one, as fisheries support the livelihoods of hundreds of millions of people worldwide.",
+      "chinese": "环境倡导者强调，保护海洋生物多样性不仅是一种生态命令，也是一种经济命令，因为渔业支撑着全球数亿人的生计。",
+      "start_time": 273.49,
+      "end_time": 283.913,
+      "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_40.mp3",
+      "key_vocab": [
+        {
+          "word": "biodiversity",
+          "definition": "生物多样性"
+        },
+        {
+          "word": "livelihoods",
+          "definition": "生计，谋生手段"
         }
       ],
       "status": "unread",
@@ -144,24 +1028,277 @@
     {
       "id": "cet6-2024-06-1_q_1",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
-      "sentence_id": null,
+      "section_id": "cet6-2024-06-1_sec_1",
+      "sentence_id": "cet6-2024-06-1_s_2",
       "idx": 1,
-      "question_text": "What is the main topic of this conversation?",
-      "options": "[\"A) Climate change\",\"B) Urban planning and sustainability\",\"C) Green architecture\",\"D) Population growth\"]",
+      "question_text": "What is Sarah concerned about?",
+      "options": "[\"A) The timing of the presentation\",\"B) The data analysis section\",\"C) The visual design of slides\",\"D) The team's communication\"]",
       "answer": "B",
-      "explanation": "The speaker introduces urban planning and sustainable development at the beginning."
+      "explanation": "莎拉在对话中明确表示她对数据分析部分（the data analysis section）有些担心，故选B。"
     },
     {
       "id": "cet6-2024-06-1_q_2",
       "paper_id": "cet6-2024-06-1",
-      "section_id": "cet6-2024-06-1_sec_0",
-      "sentence_id": null,
+      "section_id": "cet6-2024-06-1_sec_1",
+      "sentence_id": "cet6-2024-06-1_s_3",
       "idx": 2,
-      "question_text": "According to the speaker, what can green roofs do?",
-      "options": "[\"A) Reduce noise\",\"B) Absorb precipitation\",\"C) Generate electricity\",\"D) Cool buildings\"]",
+      "question_text": "What problem does Mike mention about the survey data?",
+      "options": "[\"A) The sample size is too small\",\"B) The data has some inconsistencies\",\"C) The surveys were not completed\",\"D) The data was lost\"]",
       "answer": "B",
-      "explanation": "The speaker explicitly mentions that green roofs can absorb significant amounts of precipitation."
+      "explanation": "迈克提到原始数据存在一些尚未解决的不一致之处（inconsistencies），故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_3",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_1",
+      "sentence_id": "cet6-2024-06-1_s_4",
+      "idx": 3,
+      "question_text": "What do Mike and Sarah decide to do about the methodology?",
+      "options": "[\"A) Redo all the research\",\"B) Ask Professor Chen to review it\",\"C) Hire a professional consultant\",\"D) Submit it without changes\"]",
+      "answer": "B",
+      "explanation": "迈克建议在最终确定演示前请陈教授审查他们的方法论，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_4",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_1",
+      "sentence_id": "cet6-2024-06-1_s_8",
+      "idx": 4,
+      "question_text": "When do Mike and Sarah plan to meet again to review their work?",
+      "options": "[\"A) Monday morning\",\"B) Tuesday evening\",\"C) Wednesday afternoon\",\"D) Thursday morning\"]",
+      "answer": "C",
+      "explanation": "对话结尾迈克说计划在周三下午（Wednesday afternoon）再次见面复查所有内容，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_5",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "sentence_id": "cet6-2024-06-1_s_11",
+      "idx": 5,
+      "question_text": "What concern does the woman raise about AI features in smartphones?",
+      "options": "[\"A) They are too expensive to develop\",\"B) They compromise user privacy\",\"C) They may reduce cognitive abilities\",\"D) They consume too much battery\"]",
+      "answer": "C",
+      "explanation": "女方担心过度依赖人工智能可能随时间降低人们的认知能力（cognitive abilities），故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_6",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "sentence_id": "cet6-2024-06-1_s_12",
+      "idx": 6,
+      "question_text": "According to some researchers mentioned in the conversation, what should technology do?",
+      "options": "[\"A) Replace human intelligence entirely\",\"B) Augment rather than replace human intelligence\",\"C) Focus only on entertainment\",\"D) Be restricted to professional use\"]",
+      "answer": "B",
+      "explanation": "男方引用研究人员的观点：技术应该增强（augment）而非取代人类智能，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_7",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "sentence_id": "cet6-2024-06-1_s_14",
+      "idx": 7,
+      "question_text": "How much does the new smartphone cost?",
+      "options": "[\"A) Over three thousand yuan\",\"B) Over four thousand yuan\",\"C) Over five thousand yuan\",\"D) Over six thousand yuan\"]",
+      "answer": "D",
+      "explanation": "对话中提到该新手机价格超过六千元（over six thousand yuan），故选D。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_8",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_2",
+      "sentence_id": "cet6-2024-06-1_s_15",
+      "idx": 8,
+      "question_text": "Why does the woman decide not to buy the new phone immediately?",
+      "options": "[\"A) She does not like its design\",\"B) She prefers another brand\",\"C) She will wait for the price to drop\",\"D) She already ordered it online\"]",
+      "answer": "C",
+      "explanation": "女方说她可能会等价格下降后再考虑购买，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_9",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "sentence_id": "cet6-2024-06-1_s_19",
+      "idx": 9,
+      "question_text": "By how much could climate change reduce global crop yields by 2050 in vulnerable regions?",
+      "options": "[\"A) Up to ten percent\",\"B) Up to fifteen percent\",\"C) Up to twenty percent\",\"D) Up to twenty-five percent\"]",
+      "answer": "D",
+      "explanation": "讲座指出到2050年，气候变化可能使某些脆弱地区作物产量减少多达25%，故选D。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_10",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "sentence_id": "cet6-2024-06-1_s_22",
+      "idx": 10,
+      "question_text": "What fraction of food produced globally is lost or wasted?",
+      "options": "[\"A) One quarter\",\"B) One third\",\"C) One half\",\"D) Two thirds\"]",
+      "answer": "B",
+      "explanation": "讲座中提到全球生产的大约三分之一（one third）的食物在消费前就损失或浪费了，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_11",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "sentence_id": "cet6-2024-06-1_s_21",
+      "idx": 11,
+      "question_text": "Why is international cooperation emphasized in addressing climate change and food security?",
+      "options": "[\"A) Because climate change only affects developed nations\",\"B) Because developing nations lack resources to adapt independently\",\"C) Because food production is controlled by rich countries\",\"D) Because crop varieties cannot be shared across borders\"]",
+      "answer": "B",
+      "explanation": "讲座指出发展中国家往往缺乏独立调整农业系统的资源和技术，因此需要国际合作，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_12",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "sentence_id": "cet6-2024-06-1_s_25",
+      "idx": 12,
+      "question_text": "What is described as a particularly concerning issue in AI development?",
+      "options": "[\"A) High energy consumption\",\"B) Algorithmic bias\",\"C) Slow processing speed\",\"D) Lack of creativity\"]",
+      "answer": "B",
+      "explanation": "讲座明确指出算法偏见（algorithmic bias）是一个特别令人担忧的问题，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_13",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "sentence_id": "cet6-2024-06-1_s_26",
+      "idx": 13,
+      "question_text": "Facial recognition systems have been shown to have higher error rates for which groups?",
+      "options": "[\"A) Elderly men and children\",\"B) Women and people of darker skin tones\",\"C) People with glasses\",\"D) People in rural areas\"]",
+      "answer": "B",
+      "explanation": "讲座中举例说明面部识别系统对女性和肤色较深的人（women and people of darker skin tones）错误率更高，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_14",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "sentence_id": "cet6-2024-06-1_s_28",
+      "idx": 14,
+      "question_text": "What does the lecturer say is required for responsible AI development?",
+      "options": "[\"A) More computing power and resources\",\"B) Fewer government regulations\",\"C) Collaboration among technologists, ethicists, policymakers, and communities\",\"D) Exclusive control by technology companies\"]",
+      "answer": "C",
+      "explanation": "讲座最后强调负责任的AI开发需要技术专家、伦理学家、政策制定者以及受影响社区之间的合作，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_15",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "sentence_id": "cet6-2024-06-1_s_29",
+      "idx": 15,
+      "question_text": "What did the Artemis program's new lunar orbiter achieve?",
+      "options": "[\"A) It landed on the Moon's surface\",\"B) It mapped the Moon's south pole in unprecedented detail\",\"C) It brought back Moon rock samples\",\"D) It established a communication relay station\"]",
+      "answer": "B",
+      "explanation": "报道指出新月球轨道飞行器能够以前所未有的细节绘制月球南极地区地图，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_16",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "sentence_id": "cet6-2024-06-1_s_30",
+      "idx": 16,
+      "question_text": "Why is detecting water ice deposits on the Moon considered crucial?",
+      "options": "[\"A) It provides a source of drinking water for current astronauts\",\"B) It is crucial for future crewed missions and lunar settlements\",\"C) It proves there was once life on the Moon\",\"D) It can be used to generate electricity on Earth\"]",
+      "answer": "B",
+      "explanation": "报道说水冰沉积物对未来的载人任务和潜在的月球定居点至关重要，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_17",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_5",
+      "sentence_id": "cet6-2024-06-1_s_32",
+      "idx": 17,
+      "question_text": "What is NASA's long-term goal regarding the Moon?",
+      "options": "[\"A) Establishing a permanent human presence by the early 2030s\",\"B) Bringing Moon rocks back to Earth for study\",\"C) Building a telescope on the lunar surface\",\"D) Creating a space tourism destination\"]",
+      "answer": "A",
+      "explanation": "报道提到NASA的长期目标是在21世纪30年代初在月球建立永久人类存在，故选A。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_18",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "sentence_id": "cet6-2024-06-1_s_33",
+      "idx": 18,
+      "question_text": "How many new charging stations do Chinese cities aim to install by 2026?",
+      "options": "[\"A) Over one hundred thousand\",\"B) Over five hundred thousand\",\"C) Over one million\",\"D) Over two million\"]",
+      "answer": "C",
+      "explanation": "报道指出目标是到2026年新增超过100万个充电站（over one million），故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_19",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "sentence_id": "cet6-2024-06-1_s_36",
+      "idx": 19,
+      "question_text": "How much has the government pledged in subsidies for the charging network?",
+      "options": "[\"A) One billion yuan\",\"B) Two billion yuan\",\"C) Three billion yuan\",\"D) Five billion yuan\"]",
+      "answer": "D",
+      "explanation": "报道中政府承诺提供五十亿元（five billion yuan）补贴，故选D。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_20",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_6",
+      "sentence_id": "cet6-2024-06-1_s_35",
+      "idx": 20,
+      "question_text": "According to transportation experts, what is critical for accelerating consumer adoption of electric vehicles?",
+      "options": "[\"A) Lower vehicle prices\",\"B) Government mandates\",\"C) Adequate charging infrastructure\",\"D) Better battery technology\"]",
+      "answer": "C",
+      "explanation": "专家指出充足的充电基础设施（adequate charging infrastructure）是加速消费者采用电动汽车的最关键因素，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_21",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "sentence_id": "cet6-2024-06-1_s_38",
+      "idx": 21,
+      "question_text": "What percentage of coral reef ecosystems could be severely degraded within thirty years without policy changes?",
+      "options": "[\"A) About forty percent\",\"B) About sixty percent\",\"C) About eighty percent\",\"D) Almost one hundred percent\"]",
+      "answer": "C",
+      "explanation": "报道警告约80%的珊瑚礁生态系统可能在三十年内严重退化，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_22",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "sentence_id": "cet6-2024-06-1_s_39",
+      "idx": 22,
+      "question_text": "What percentage of the world's oceans should be covered by marine protected areas by 2030?",
+      "options": "[\"A) Ten percent\",\"B) Twenty percent\",\"C) Thirty percent\",\"D) Fifty percent\"]",
+      "answer": "C",
+      "explanation": "报道提到建立覆盖全球30%（thirty percent）海洋的海洋保护区这一目标，故选C。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_23",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_7",
+      "sentence_id": "cet6-2024-06-1_s_40",
+      "idx": 23,
+      "question_text": "Why do environmental advocates say protecting ocean biodiversity is also an economic imperative?",
+      "options": "[\"A) Because ocean tourism generates billions of dollars\",\"B) Because fisheries support the livelihoods of hundreds of millions of people\",\"C) Because oceans contain vast mineral reserves\",\"D) Because shipping routes depend on healthy oceans\"]",
+      "answer": "B",
+      "explanation": "倡导者指出渔业支撑着全球数亿人的生计（livelihoods of hundreds of millions），因此这也是经济命令，故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_24",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_3",
+      "sentence_id": "cet6-2024-06-1_s_20",
+      "idx": 24,
+      "question_text": "What technological solutions does the lecture mention for adapting agriculture to climate change?",
+      "options": "[\"A) Solar-powered irrigation and vertical farming\",\"B) Drought-resistant crop varieties and precision agriculture\",\"C) Genetic modification of all staple crops\",\"D) Large-scale desalination projects\"]",
+      "answer": "B",
+      "explanation": "讲座提到抗旱作物品种（drought-resistant crop varieties）和精准农业技术（precision agriculture），故选B。"
+    },
+    {
+      "id": "cet6-2024-06-1_q_25",
+      "paper_id": "cet6-2024-06-1",
+      "section_id": "cet6-2024-06-1_sec_4",
+      "sentence_id": "cet6-2024-06-1_s_24",
+      "idx": 25,
+      "question_text": "As AI systems become integrated into decision-making, what three things become paramount according to the lecture?",
+      "options": "[\"A) Speed, accuracy, and cost-efficiency\",\"B) Fairness, transparency, and accountability\",\"C) Innovation, scalability, and profitability\",\"D) Security, reliability, and simplicity\"]",
+      "answer": "B",
+      "explanation": "讲座指出随着AI融入决策，公平（fairness）、透明（transparency）和问责（accountability）变得至关重要，故选B。"
     }
   ]
 }

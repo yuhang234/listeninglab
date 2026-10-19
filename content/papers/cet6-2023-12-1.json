@@ -1,167 +1,904 @@
 {
   "id": "cet6-2023-12-1",
-  "title": "2023年12月 六级听力真题 (第1套)",
+  "title": "2023年12月 六级听力真题（第1套）",
   "year": 2023,
   "month": 12,
   "set_number": 1,
   "category": "cet6-real",
-  "total_duration_sec": 1500,
-  "sentence_count": 5,
+  "total_duration_sec": 0,
+  "sentence_count": 0,
   "version": 1,
-  "audio_path": "content/papers/placeholder.mp3",
+  "audio_path": null,
+  "provenance": "model-reconstructed",
+  "verified": false,
   "sections": [
     {
-      "id": "cet6-2023-12-1_sec_0",
+      "id": "cet6-2023-12-1_sec_1",
       "paper_id": "cet6-2023-12-1",
-      "title": "Section B · 听力篇章 1",
+      "title": "Section A · 长对话一：职业发展规划",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2023-12-1_sec_2",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section A · 长对话二：学术研究讨论",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2023-12-1_sec_3",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section B · 讲座一：可再生能源发展",
       "section_type": "Section B",
-      "sort_order": 0
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2023-12-1_sec_4",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section B · 讲座二：心理健康与社会支持",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2023-12-1_sec_5",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section C · 报道一：全球经济合作新动态",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2023-12-1_sec_6",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section C · 报道二：医疗技术突破",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2023-12-1_sec_7",
+      "paper_id": "cet6-2023-12-1",
+      "title": "Section C · 报道三：教育公平问题",
+      "section_type": "Section C",
+      "sort_order": 7
     }
   ],
   "sentences": [
     {
       "id": "cet6-2023-12-1_s_1",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
+      "section_id": "cet6-2023-12-1_sec_1",
       "idx": 1,
-      "english": "In recent years, artificial intelligence has transformed numerous industries from healthcare to transportation.",
-      "chinese": "近年来，人工智能已从医疗保健到交通运输改变了众多行业。",
-      "start_time": 0,
-      "end_time": 9,
-      "audio_path": null,
+      "english": "Dr. Wang, I've been thinking about my career path after graduation. I'm torn between staying in academia and going into industry.",
+      "chinese": "王博士，我一直在思考毕业后的职业道路。我在留在学术界和进入工业界之间举棋不定。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
       "key_vocab": [
-        {
-          "word": "artificial intelligence",
-          "definition": "人工智能"
-        },
-        {
-          "word": "transform",
-          "definition": "改变"
-        }
+        {"word": "career path", "definition": "职业道路"},
+        {"word": "torn between", "definition": "在……之间犹豫不决"}
       ],
-      "status": "unread",
-      "is_bookmarked": 0,
-      "dictation_accuracy": null
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
     },
     {
       "id": "cet6-2023-12-1_s_2",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
+      "section_id": "cet6-2023-12-1_sec_1",
       "idx": 2,
-      "english": "Machine learning algorithms can now diagnose diseases with accuracy comparable to experienced physicians.",
-      "chinese": "机器学习算法现在能够以与经验丰富的医生相当的准确度诊断疾病。",
-      "start_time": 9,
-      "end_time": 17,
-      "audio_path": null,
+      "english": "That's a common dilemma for PhD students. What are your research interests, and how marketable are those skills in the private sector?",
+      "chinese": "这是博士生常见的困境。你的研究兴趣是什么？这些技能在私营部门有多大市场价值？",
+      "start_time": 0, "end_time": 0, "audio_path": null,
       "key_vocab": [
-        {
-          "word": "algorithms",
-          "definition": "算法"
-        },
-        {
-          "word": "diagnose",
-          "definition": "诊断"
-        }
+        {"word": "dilemma", "definition": "两难困境"},
+        {"word": "marketable", "definition": "有市场价值的"}
       ],
-      "status": "unread",
-      "is_bookmarked": 0,
-      "dictation_accuracy": null
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
     },
     {
       "id": "cet6-2023-12-1_s_3",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
+      "section_id": "cet6-2023-12-1_sec_1",
       "idx": 3,
-      "english": "Despite these advances, ethical concerns regarding privacy and job displacement remain significant.",
-      "chinese": "尽管取得了这些进步，关于隐私和就业岗位流失的伦理担忧仍然重大。",
-      "start_time": 17,
-      "end_time": 25,
-      "audio_path": null,
+      "english": "My research is in computational biology. Tech companies and pharmaceutical firms seem quite interested in people with my background.",
+      "chinese": "我的研究是在计算生物学领域。科技公司和制药公司似乎对有我这种背景的人很感兴趣。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
       "key_vocab": [
-        {
-          "word": "ethical",
-          "definition": "伦理的"
-        },
-        {
-          "word": "displacement",
-          "definition": "流失/取代"
-        }
+        {"word": "computational biology", "definition": "计算生物学"},
+        {"word": "pharmaceutical", "definition": "制药的"}
       ],
-      "status": "unread",
-      "is_bookmarked": 0,
-      "dictation_accuracy": null
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
     },
     {
       "id": "cet6-2023-12-1_s_4",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
+      "section_id": "cet6-2023-12-1_sec_1",
       "idx": 4,
-      "english": "Researchers emphasize the importance of developing transparent and accountable AI systems.",
-      "chinese": "研究人员强调开发透明和负责任的人工智能系统的重要性。",
-      "start_time": 25,
-      "end_time": 33,
-      "audio_path": null,
+      "english": "Industry positions typically offer higher salaries and faster career progression. However, academia offers greater intellectual freedom and the chance to mentor future scientists.",
+      "chinese": "行业职位通常提供更高的薪资和更快的职业晋升。然而，学术界提供更大的知识自由和指导未来科学家的机会。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
       "key_vocab": [
-        {
-          "word": "transparent",
-          "definition": "透明的"
-        },
-        {
-          "word": "accountable",
-          "definition": "负责任的"
-        }
+        {"word": "intellectual freedom", "definition": "知识自由，学术自由"},
+        {"word": "career progression", "definition": "职业晋升"}
       ],
-      "status": "unread",
-      "is_bookmarked": 0,
-      "dictation_accuracy": null
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
     },
     {
       "id": "cet6-2023-12-1_s_5",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
+      "section_id": "cet6-2023-12-1_sec_1",
       "idx": 5,
-      "english": "The future of AI depends on balancing technological innovation with social responsibility.",
-      "chinese": "人工智能的未来取决于平衡技术创新与社会责任。",
-      "start_time": 33,
-      "end_time": 40,
-      "audio_path": null,
+      "english": "I'm also concerned about work-life balance. I've heard that industry roles can be extremely demanding, especially in startups.",
+      "chinese": "我也担心工作与生活的平衡。我听说行业职位要求极高，尤其是在初创公司。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
       "key_vocab": [
-        {
-          "word": "innovation",
-          "definition": "创新"
-        },
-        {
-          "word": "responsibility",
-          "definition": "责任"
-        }
+        {"word": "work-life balance", "definition": "工作与生活的平衡"},
+        {"word": "demanding", "definition": "要求高的"}
       ],
-      "status": "unread",
-      "is_bookmarked": 0,
-      "dictation_accuracy": null
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_6",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_1",
+      "idx": 6,
+      "english": "That depends heavily on the specific company and role. I'd recommend doing internships at two or three different organizations before deciding.",
+      "chinese": "这很大程度上取决于具体的公司和职位。我建议在做决定之前先在两三个不同的组织实习。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "internships", "definition": "实习"},
+        {"word": "specific", "definition": "具体的，特定的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_7",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_1",
+      "idx": 7,
+      "english": "That's excellent advice. Can you help me identify which professors have strong industry connections for possible referrals?",
+      "chinese": "这是极好的建议。您能帮我找出哪些教授与业界有强联系，可以推荐吗？",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "referrals", "definition": "推荐，转介"},
+        {"word": "connections", "definition": "人脉，联系"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_8",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_1",
+      "idx": 8,
+      "english": "Of course. Professor Li and Professor Zhang both have close ties with leading biotech firms. I'll arrange introductions for you next week.",
+      "chinese": "当然。李教授和张教授都与领先的生物技术公司有密切联系。我下周会为你安排介绍。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "biotech firms", "definition": "生物技术公司"},
+        {"word": "arrange", "definition": "安排"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_9",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 9,
+      "english": "Professor Davis, I'm having trouble with my literature review. There seems to be conflicting evidence in the studies I've been reading.",
+      "chinese": "戴维斯教授，我的文献综述遇到了麻烦。我阅读的研究中似乎存在相互冲突的证据。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "literature review", "definition": "文献综述"},
+        {"word": "conflicting evidence", "definition": "相互冲突的证据"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_10",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 10,
+      "english": "Conflicting findings are quite common in social science research. The key is to understand why they differ and what methodological factors might explain the discrepancies.",
+      "chinese": "在社会科学研究中，相互冲突的发现是很常见的。关键是要理解它们为何不同，以及哪些方法论因素可能解释这些差异。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "discrepancies", "definition": "差异，不一致"},
+        {"word": "methodological", "definition": "方法论的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_11",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 11,
+      "english": "I see. Some studies use longitudinal data while others use cross-sectional designs, which might account for the different conclusions.",
+      "chinese": "我明白了。一些研究使用纵向数据，而另一些使用横截面设计，这可能解释了不同的结论。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "longitudinal data", "definition": "纵向数据"},
+        {"word": "cross-sectional", "definition": "横截面的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_12",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 12,
+      "english": "Exactly. You should also consider sample size, cultural context, and publication bias when synthesizing the literature.",
+      "chinese": "正是。在综合文献时，你还应该考虑样本大小、文化背景和发表偏倚。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "publication bias", "definition": "发表偏倚"},
+        {"word": "synthesizing", "definition": "综合，整合"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_13",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 13,
+      "english": "Would a meta-analysis be appropriate for my topic? I want to draw more definitive conclusions from the existing research.",
+      "chinese": "元分析适合我的主题吗？我想从现有研究中得出更明确的结论。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "meta-analysis", "definition": "元分析"},
+        {"word": "definitive", "definition": "明确的，确定性的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_14",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 14,
+      "english": "A meta-analysis could work well if you have enough studies with comparable measures. I suggest we schedule a meeting to go through your reading list together.",
+      "chinese": "如果你有足够多使用可比较测量标准的研究，元分析可以很好地运用。我建议我们安排一次会面，一起检查你的阅读清单。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "comparable measures", "definition": "可比较的测量标准"},
+        {"word": "reading list", "definition": "阅读清单"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_15",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 15,
+      "english": "Thank you, Professor. I'll compile a preliminary list and send it to you by tomorrow morning.",
+      "chinese": "谢谢您，教授。我会整理一份初步清单，明天早上发给您。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "compile", "definition": "整理，汇编"},
+        {"word": "preliminary", "definition": "初步的，预备的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_16",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "idx": 16,
+      "english": "Perfect. Once we review it together, you should have a much clearer direction for structuring your theoretical framework.",
+      "chinese": "很好。一旦我们一起审查，你应该对构建理论框架有更清晰的方向。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "theoretical framework", "definition": "理论框架"},
+        {"word": "structuring", "definition": "构建，组织"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_17",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 17,
+      "english": "Today I'd like to discuss the remarkable transformation happening in the global energy sector, specifically the rapid growth of renewable energy technologies.",
+      "chinese": "今天我想讨论全球能源领域正在发生的显著变革，特别是可再生能源技术的快速增长。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "remarkable transformation", "definition": "显著变革"},
+        {"word": "renewable energy", "definition": "可再生能源"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_18",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 18,
+      "english": "Solar and wind power have seen their costs drop by over eighty percent in the past decade, making them now cheaper than coal in most parts of the world.",
+      "chinese": "在过去十年里，太阳能和风能的成本下降了超过80%，使其在世界大多数地区现在比煤炭更便宜。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "solar power", "definition": "太阳能"},
+        {"word": "wind power", "definition": "风能"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_19",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 19,
+      "english": "The intermittency problem—the fact that solar and wind don't generate power continuously—remains the primary technical challenge for grid integration.",
+      "chinese": "间歇性问题——太阳能和风能不能持续发电的事实——仍然是电网整合的主要技术挑战。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "intermittency", "definition": "间歇性"},
+        {"word": "grid integration", "definition": "电网整合"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_20",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 20,
+      "english": "Advanced battery storage systems are helping to overcome this limitation, with lithium-ion and solid-state batteries showing particular promise for grid-scale applications.",
+      "chinese": "先进的电池储能系统正在帮助克服这一局限性，锂离子和固态电池在电网规模应用中显示出特别的前景。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "solid-state batteries", "definition": "固态电池"},
+        {"word": "grid-scale", "definition": "电网规模的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_21",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 21,
+      "english": "China currently leads the world in both solar panel manufacturing and installed wind capacity, accounting for roughly forty percent of global renewable energy investment.",
+      "chinese": "中国目前在太阳能电池板制造和已安装风能容量方面均领先全球，占全球可再生能源投资的约40%。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "installed capacity", "definition": "已安装容量"},
+        {"word": "accounting for", "definition": "占（比例）"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_22",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "idx": 22,
+      "english": "To achieve the Paris Agreement's goals, global renewable energy capacity needs to triple by 2030, requiring an annual investment of approximately three trillion dollars.",
+      "chinese": "为实现《巴黎协定》的目标，全球可再生能源容量需要到2030年增加两倍，这需要每年约3万亿美元的投资。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "Paris Agreement", "definition": "《巴黎协定》"},
+        {"word": "triple", "definition": "增加两倍，达到三倍"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_23",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 23,
+      "english": "Mental health has emerged as a critical public health concern in recent decades, particularly following the profound disruptions caused by the global pandemic.",
+      "chinese": "近几十年来，心理健康已成为一个关键的公共卫生问题，尤其是在全球大流行病造成深刻破坏之后。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "mental health", "definition": "心理健康"},
+        {"word": "profound disruptions", "definition": "深刻的破坏"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_24",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 24,
+      "english": "Research consistently shows that strong social support networks are among the most powerful protective factors against depression and anxiety disorders.",
+      "chinese": "研究一致表明，强大的社会支持网络是抵御抑郁和焦虑障碍最有力的保护因素之一。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "protective factors", "definition": "保护因素"},
+        {"word": "anxiety disorders", "definition": "焦虑障碍"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_25",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 25,
+      "english": "However, social isolation has increased significantly in modern societies, driven by urbanization, changing family structures, and excessive use of digital communication.",
+      "chinese": "然而，在城镇化、家庭结构变化以及过度使用数字通信的驱动下，现代社会的社会孤立现象显著增加。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "social isolation", "definition": "社会孤立"},
+        {"word": "urbanization", "definition": "城镇化"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_26",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 26,
+      "english": "Community-based mental health programs, which provide accessible counseling services and peer support groups, have shown impressive results in reducing treatment gaps.",
+      "chinese": "提供易于获得的咨询服务和同伴支持团体的社区心理健康项目在减少治疗缺口方面已显示出令人印象深刻的效果。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "counseling services", "definition": "咨询服务"},
+        {"word": "treatment gaps", "definition": "治疗缺口"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_27",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 27,
+      "english": "Workplace mental health initiatives, including flexible working arrangements and employee assistance programs, are increasingly recognized as essential investments rather than optional benefits.",
+      "chinese": "工作场所心理健康举措，包括灵活的工作安排和员工援助计划，越来越被认为是必要的投资而非可选福利。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "employee assistance programs", "definition": "员工援助计划"},
+        {"word": "flexible working", "definition": "灵活工作"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_28",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "idx": 28,
+      "english": "Destigmatizing mental health conditions through public education campaigns is crucial for encouraging individuals to seek help without fear of discrimination or judgment.",
+      "chinese": "通过公众教育活动去除心理健康状况的污名化，对于鼓励人们在没有歧视或评判恐惧的情况下寻求帮助至关重要。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "destigmatizing", "definition": "消除污名化"},
+        {"word": "discrimination", "definition": "歧视"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_29",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "idx": 29,
+      "english": "Finance ministers from the Group of Twenty nations concluded a two-day summit in Rio de Janeiro, reaching agreement on a framework for taxing multinational corporations operating across multiple jurisdictions.",
+      "chinese": "二十国集团财政部长在里约热内卢结束了为期两天的峰会，就对跨越多个司法管辖区经营的跨国公司征税框架达成协议。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "multinational corporations", "definition": "跨国公司"},
+        {"word": "jurisdictions", "definition": "司法管辖区"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_30",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "idx": 30,
+      "english": "The proposed global minimum corporate tax rate of fifteen percent aims to prevent tax avoidance strategies that cost governments an estimated two hundred billion dollars annually.",
+      "chinese": "拟议中的15%全球最低企业税率旨在防止每年使各国政府损失估计2000亿美元的避税策略。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "minimum corporate tax", "definition": "最低企业税"},
+        {"word": "tax avoidance", "definition": "避税"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_31",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "idx": 31,
+      "english": "Critics argue that the agreement does not go far enough, calling for higher minimum rates and stronger enforcement mechanisms to close existing loopholes.",
+      "chinese": "批评人士认为，该协议力度不够，呼吁更高的最低税率和更强的执法机制来堵塞现有漏洞。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "enforcement mechanisms", "definition": "执法机制"},
+        {"word": "loopholes", "definition": "漏洞，空子"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_32",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "idx": 32,
+      "english": "Developing countries welcomed the inclusion of provisions requiring wealthy nations to provide technical assistance to help them implement the new tax rules effectively.",
+      "chinese": "发展中国家欢迎纳入要求富裕国家提供技术援助以帮助它们有效实施新税规的条款。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "provisions", "definition": "条款，规定"},
+        {"word": "technical assistance", "definition": "技术援助"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_33",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "idx": 33,
+      "english": "Researchers at a leading biomedical institute have developed a revolutionary gene therapy technique that shows remarkable promise in treating previously incurable inherited diseases.",
+      "chinese": "一家领先生物医学研究所的研究人员开发了一种革命性的基因治疗技术，在治疗以前无法治愈的遗传疾病方面显示出显著前景。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "gene therapy", "definition": "基因治疗"},
+        {"word": "inherited diseases", "definition": "遗传疾病"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_34",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "idx": 34,
+      "english": "The technique uses a modified viral vector to deliver corrective genetic material directly into affected cells, showing ninety percent efficacy in early clinical trials.",
+      "chinese": "该技术使用改良的病毒载体将校正基因物质直接递送到受影响的细胞，在早期临床试验中显示出90%的疗效。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "viral vector", "definition": "病毒载体"},
+        {"word": "efficacy", "definition": "疗效，效力"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_35",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "idx": 35,
+      "english": "While the results are encouraging, scientists caution that larger randomized controlled trials are needed to confirm long-term safety and effectiveness before regulatory approval.",
+      "chinese": "虽然结果令人鼓舞，但科学家们警告说，在获得监管批准之前，需要进行更大规模的随机对照试验来确认长期安全性和有效性。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "randomized controlled trials", "definition": "随机对照试验"},
+        {"word": "regulatory approval", "definition": "监管批准"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_36",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "idx": 36,
+      "english": "The cost of the treatment is currently estimated at over one million dollars per patient, raising serious concerns about accessibility and equitable distribution of the technology.",
+      "chinese": "该治疗目前的成本估计超过每位患者100万美元，引发了对技术可及性和公平分配的严重担忧。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "accessibility", "definition": "可及性，可获得性"},
+        {"word": "equitable distribution", "definition": "公平分配"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_37",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "idx": 37,
+      "english": "A new international report on education equity reveals that children from low-income families are nearly three times less likely to complete higher education than their wealthier peers.",
+      "chinese": "一份新的关于教育公平的国际报告显示，来自低收入家庭的儿童完成高等教育的可能性比富裕同龄人低近三倍。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "education equity", "definition": "教育公平"},
+        {"word": "low-income families", "definition": "低收入家庭"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_38",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "idx": 38,
+      "english": "The report identifies inadequate early childhood education, insufficient school resources in disadvantaged areas, and high tuition fees as the primary barriers to educational equity.",
+      "chinese": "报告将不足的早期儿童教育、弱势地区学校资源不足以及高额学费确定为教育公平的主要障碍。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "early childhood education", "definition": "早期儿童教育"},
+        {"word": "tuition fees", "definition": "学费"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_39",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "idx": 39,
+      "english": "Several countries have achieved notable success by implementing universal pre-school programs and conditional cash transfers that support families in keeping children enrolled through secondary school.",
+      "chinese": "一些国家通过实施全民学前教育项目和条件性现金转移支付取得了显著成功，帮助家庭让孩子坚持读完中学。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "conditional cash transfers", "definition": "条件性现金转移支付"},
+        {"word": "universal pre-school", "definition": "全民学前教育"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-12-1_s_40",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "idx": 40,
+      "english": "The report urges governments worldwide to increase public spending on education to at least six percent of GDP, arguing that the long-term economic returns far outweigh the short-term costs.",
+      "chinese": "报告敦促全球各国政府将教育公共支出增加到至少占GDP的6%，认为长期经济回报远远超过短期成本。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "GDP", "definition": "国内生产总值"},
+        {"word": "economic returns", "definition": "经济回报"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
     }
   ],
   "questions": [
     {
       "id": "cet6-2023-12-1_q_1",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
-      "sentence_id": null,
+      "section_id": "cet6-2023-12-1_sec_1",
+      "sentence_id": "cet6-2023-12-1_s_1",
       "idx": 1,
-      "question_text": "What is the passage mainly about?",
-      "options": "[\"A) Healthcare reform\",\"B) AI and its impact\",\"C) Transportation technology\",\"D) Medical education\"]",
+      "question_text": "What career dilemma is the student facing?",
+      "options": "[\"A) Whether to study abroad or stay in China\",\"B) Whether to stay in academia or go into industry\",\"C) Whether to continue PhD studies or get a job\",\"D) Whether to change research fields\"]",
       "answer": "B",
-      "explanation": "The passage focuses on how AI has transformed industries and the ethical concerns involved."
+      "explanation": "学生明确表示在留在学术界（academia）和进入工业界（industry）之间举棋不定，故选B。"
     },
     {
       "id": "cet6-2023-12-1_q_2",
       "paper_id": "cet6-2023-12-1",
-      "section_id": "cet6-2023-12-1_sec_0",
-      "sentence_id": null,
+      "section_id": "cet6-2023-12-1_sec_1",
+      "sentence_id": "cet6-2023-12-1_s_3",
       "idx": 2,
-      "question_text": "What ethical concern is mentioned in the passage?",
-      "options": "[\"A) Data security\",\"B) Privacy and job displacement\",\"C) Environmental damage\",\"D) High costs\"]",
+      "question_text": "What is the student's research field?",
+      "options": "[\"A) Environmental science\",\"B) Computational biology\",\"C) Biomedical engineering\",\"D) Data science\"]",
       "answer": "B",
-      "explanation": "The speaker mentions ethical concerns regarding privacy and job displacement."
+      "explanation": "学生说自己的研究是在计算生物学（computational biology）领域，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_3",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_1",
+      "sentence_id": "cet6-2023-12-1_s_6",
+      "idx": 3,
+      "question_text": "What does Dr. Wang recommend the student do before making a decision?",
+      "options": "[\"A) Complete additional courses\",\"B) Talk to current industry professionals\",\"C) Do internships at two or three different organizations\",\"D) Apply for research grants\"]",
+      "answer": "C",
+      "explanation": "王博士建议在做决定之前先在两三个不同的组织实习（internships at two or three different organizations），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_4",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_1",
+      "sentence_id": "cet6-2023-12-1_s_8",
+      "idx": 4,
+      "question_text": "Which professors does Dr. Wang say have close ties with biotech firms?",
+      "options": "[\"A) Professor Li and Professor Zhang\",\"B) Professor Wang and Professor Liu\",\"C) Professor Chen and Professor Wu\",\"D) Professor He and Professor Zhou\"]",
+      "answer": "A",
+      "explanation": "王博士提到李教授（Professor Li）和张教授（Professor Zhang）都与领先的生物技术公司有密切联系，故选A。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_5",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "sentence_id": "cet6-2023-12-1_s_11",
+      "idx": 5,
+      "question_text": "What methodological difference does the student identify that might explain the conflicting findings?",
+      "options": "[\"A) Some studies used larger sample sizes\",\"B) Some studies used longitudinal while others used cross-sectional designs\",\"C) Studies were conducted in different countries\",\"D) Different statistical methods were used\"]",
+      "answer": "B",
+      "explanation": "学生指出一些研究使用纵向数据（longitudinal data）而另一些使用横截面设计（cross-sectional designs），故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_6",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "sentence_id": "cet6-2023-12-1_s_12",
+      "idx": 6,
+      "question_text": "What three factors does Professor Davis say should be considered when synthesizing literature?",
+      "options": "[\"A) Author credibility, journal ranking, and citation count\",\"B) Sample size, cultural context, and publication bias\",\"C) Research funding, institutional affiliation, and year of publication\",\"D) Data collection method, analysis software, and sample diversity\"]",
+      "answer": "B",
+      "explanation": "戴维斯教授提到在综合文献时应考虑样本大小（sample size）、文化背景（cultural context）和发表偏倚（publication bias），故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_7",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "sentence_id": "cet6-2023-12-1_s_15",
+      "idx": 7,
+      "question_text": "What will the student send to Professor Davis by tomorrow morning?",
+      "options": "[\"A) A completed literature review\",\"B) A draft research proposal\",\"C) A preliminary reading list\",\"D) A research timeline\"]",
+      "answer": "C",
+      "explanation": "学生说会在明天早上发给教授一份初步阅读清单（preliminary list），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_8",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_2",
+      "sentence_id": "cet6-2023-12-1_s_16",
+      "idx": 8,
+      "question_text": "What will reviewing the reading list together help the student develop?",
+      "options": "[\"A) A clearer direction for structuring the theoretical framework\",\"B) A better understanding of statistical methods\",\"C) More confidence in writing academic papers\",\"D) A stronger argument for a specific hypothesis\"]",
+      "answer": "A",
+      "explanation": "教授说一起审查后，学生应该对构建理论框架（theoretical framework）有更清晰的方向，故选A。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_9",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "sentence_id": "cet6-2023-12-1_s_18",
+      "idx": 9,
+      "question_text": "By how much have solar and wind power costs dropped in the past decade?",
+      "options": "[\"A) Over forty percent\",\"B) Over sixty percent\",\"C) Over eighty percent\",\"D) Over ninety percent\"]",
+      "answer": "C",
+      "explanation": "讲座指出太阳能和风能成本在过去十年里下降了超过80%，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_10",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "sentence_id": "cet6-2023-12-1_s_21",
+      "idx": 10,
+      "question_text": "What share of global renewable energy investment does China account for?",
+      "options": "[\"A) About twenty percent\",\"B) About thirty percent\",\"C) About forty percent\",\"D) About fifty percent\"]",
+      "answer": "C",
+      "explanation": "讲座说中国占全球可再生能源投资的约40%（roughly forty percent），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_11",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "sentence_id": "cet6-2023-12-1_s_22",
+      "idx": 11,
+      "question_text": "What annual investment is needed to achieve the Paris Agreement's renewable energy goals?",
+      "options": "[\"A) Approximately one trillion dollars\",\"B) Approximately two trillion dollars\",\"C) Approximately three trillion dollars\",\"D) Approximately five trillion dollars\"]",
+      "answer": "C",
+      "explanation": "讲座提到需要每年约3万亿美元（three trillion dollars）的投资，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_12",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "sentence_id": "cet6-2023-12-1_s_24",
+      "idx": 12,
+      "question_text": "What does research show are among the most powerful protective factors against depression and anxiety?",
+      "options": "[\"A) Regular physical exercise\",\"B) Strong social support networks\",\"C) Healthy diet and sleep habits\",\"D) Professional therapy sessions\"]",
+      "answer": "B",
+      "explanation": "研究表明，强大的社会支持网络（social support networks）是最有力的保护因素之一，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_13",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "sentence_id": "cet6-2023-12-1_s_25",
+      "idx": 13,
+      "question_text": "What three factors have driven increased social isolation in modern society?",
+      "options": "[\"A) Technology, globalization, and economic inequality\",\"B) Urbanization, changing family structures, and excessive digital communication\",\"C) Work pressures, pollution, and poor urban planning\",\"D) Migration, cultural differences, and language barriers\"]",
+      "answer": "B",
+      "explanation": "讲座指出社会孤立由城镇化（urbanization）、家庭结构变化（changing family structures）和过度数字通信（excessive digital communication）驱动，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_14",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "sentence_id": "cet6-2023-12-1_s_28",
+      "idx": 14,
+      "question_text": "Why is destigmatizing mental health conditions important according to the lecture?",
+      "options": "[\"A) It reduces healthcare costs significantly\",\"B) It encourages individuals to seek help without fear of discrimination\",\"C) It increases funding for mental health research\",\"D) It improves workplace productivity\"]",
+      "answer": "B",
+      "explanation": "讲座指出消除污名化对于鼓励人们在没有歧视（discrimination）或评判恐惧的情况下寻求帮助至关重要，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_15",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "sentence_id": "cet6-2023-12-1_s_30",
+      "idx": 15,
+      "question_text": "What is the proposed global minimum corporate tax rate?",
+      "options": "[\"A) Ten percent\",\"B) Twelve percent\",\"C) Fifteen percent\",\"D) Twenty percent\"]",
+      "answer": "C",
+      "explanation": "报道提到拟议中的全球最低企业税率为15%（fifteen percent），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_16",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "sentence_id": "cet6-2023-12-1_s_30",
+      "idx": 16,
+      "question_text": "How much do tax avoidance strategies cost governments annually?",
+      "options": "[\"A) An estimated fifty billion dollars\",\"B) An estimated one hundred billion dollars\",\"C) An estimated two hundred billion dollars\",\"D) An estimated five hundred billion dollars\"]",
+      "answer": "C",
+      "explanation": "报道说避税策略每年使各国政府损失估计2000亿美元（two hundred billion dollars），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_17",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_5",
+      "sentence_id": "cet6-2023-12-1_s_32",
+      "idx": 17,
+      "question_text": "What did developing countries welcome in the agreement?",
+      "options": "[\"A) Exemptions from the minimum tax rate\",\"B) Technical assistance from wealthy nations to implement the new rules\",\"C) Access to developed country markets for their products\",\"D) A ten-year grace period before the rules apply\"]",
+      "answer": "B",
+      "explanation": "发展中国家欢迎要求富裕国家提供技术援助（technical assistance）帮助实施新税规的条款，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_18",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "sentence_id": "cet6-2023-12-1_s_34",
+      "idx": 18,
+      "question_text": "What efficacy rate did the gene therapy show in early clinical trials?",
+      "options": "[\"A) Seventy percent\",\"B) Eighty percent\",\"C) Ninety percent\",\"D) Ninety-five percent\"]",
+      "answer": "C",
+      "explanation": "报道说该技术在早期临床试验中显示出90%（ninety percent）的疗效，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_19",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "sentence_id": "cet6-2023-12-1_s_36",
+      "idx": 19,
+      "question_text": "What serious concern does the high cost of the gene therapy raise?",
+      "options": "[\"A) That insurance companies will refuse to cover it\",\"B) That hospitals lack the equipment to administer it\",\"C) Accessibility and equitable distribution of the technology\",\"D) That it may only be available in developed countries\"]",
+      "answer": "C",
+      "explanation": "报道指出该高额成本引发了对技术可及性和公平分配（accessibility and equitable distribution）的严重担忧，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_20",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_6",
+      "sentence_id": "cet6-2023-12-1_s_35",
+      "idx": 20,
+      "question_text": "What do scientists say is still needed before regulatory approval of the gene therapy?",
+      "options": "[\"A) More investment in research facilities\",\"B) Larger randomized controlled trials\",\"C) International medical consensus\",\"D) Government subsidies for production\"]",
+      "answer": "B",
+      "explanation": "科学家警告需要更大规模的随机对照试验（randomized controlled trials）来确认安全性才能获得监管批准，故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_21",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "sentence_id": "cet6-2023-12-1_s_37",
+      "idx": 21,
+      "question_text": "How much less likely are children from low-income families to complete higher education?",
+      "options": "[\"A) Twice as unlikely\",\"B) Three times as unlikely\",\"C) Four times as unlikely\",\"D) Five times as unlikely\"]",
+      "answer": "B",
+      "explanation": "报道指出低收入家庭儿童完成高等教育的可能性比富裕同龄人低近三倍（nearly three times less likely），故选B。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_22",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "sentence_id": "cet6-2023-12-1_s_38",
+      "idx": 22,
+      "question_text": "What does the report identify as primary barriers to educational equity?",
+      "options": "[\"A) Language barriers and cultural differences\",\"B) Lack of qualified teachers and outdated curricula\",\"C) Inadequate early education, insufficient school resources, and high tuition fees\",\"D) Urban-rural divide and digital divide\"]",
+      "answer": "C",
+      "explanation": "报告将不足的早期儿童教育、弱势地区学校资源不足以及高额学费确定为主要障碍，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_23",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_7",
+      "sentence_id": "cet6-2023-12-1_s_40",
+      "idx": 23,
+      "question_text": "What level of public spending on education does the report urge governments to achieve?",
+      "options": "[\"A) At least four percent of GDP\",\"B) At least five percent of GDP\",\"C) At least six percent of GDP\",\"D) At least eight percent of GDP\"]",
+      "answer": "C",
+      "explanation": "报告敦促各国政府将教育支出增加到至少占GDP的6%（six percent），故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_24",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_3",
+      "sentence_id": "cet6-2023-12-1_s_19",
+      "idx": 24,
+      "question_text": "What is described as the primary technical challenge for renewable energy grid integration?",
+      "options": "[\"A) High initial installation costs\",\"B) Shortage of skilled engineers\",\"C) Intermittency of solar and wind power\",\"D) Environmental impact of solar panels\"]",
+      "answer": "C",
+      "explanation": "讲座指出间歇性问题（intermittency problem）是电网整合的主要技术挑战，故选C。"
+    },
+    {
+      "id": "cet6-2023-12-1_q_25",
+      "paper_id": "cet6-2023-12-1",
+      "section_id": "cet6-2023-12-1_sec_4",
+      "sentence_id": "cet6-2023-12-1_s_27",
+      "idx": 25,
+      "question_text": "How are workplace mental health initiatives now viewed according to the lecture?",
+      "options": "[\"A) As optional perks for attracting talent\",\"B) As essential investments rather than optional benefits\",\"C) As costly burdens on company budgets\",\"D) As primarily the responsibility of government\"]",
+      "answer": "B",
+      "explanation": "讲座说这些举措越来越被认为是必要的投资（essential investments）而非可选福利（optional benefits），故选B。"
     }
   ]
 }

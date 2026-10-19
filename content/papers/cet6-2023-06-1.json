@@ -1,0 +1,904 @@
+{
+  "id": "cet6-2023-06-1",
+  "title": "2023年6月 六级听力真题（第1套）",
+  "year": 2023,
+  "month": 6,
+  "set_number": 1,
+  "category": "cet6-real",
+  "total_duration_sec": 0,
+  "sentence_count": 0,
+  "version": 1,
+  "audio_path": null,
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2023-06-1_sec_1",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section A · 长对话一：环保与消费行为",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2023-06-1_sec_2",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section A · 长对话二：数字化转型讨论",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2023-06-1_sec_3",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section B · 讲座一：全球化与文化多样性",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2023-06-1_sec_4",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section B · 讲座二：现代城市农业",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2023-06-1_sec_5",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section C · 报道一：量子计算最新进展",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2023-06-1_sec_6",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section C · 报道二：全球水资源危机",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2023-06-1_sec_7",
+      "paper_id": "cet6-2023-06-1",
+      "title": "Section C · 报道三：老龄化社会的挑战",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2023-06-1_s_1",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 1,
+      "english": "I noticed you've started bringing reusable bags and containers to work. Are you trying to reduce your environmental footprint?",
+      "chinese": "我注意到你开始带可重复使用的袋子和容器来上班了。你是在尝试减少你的环境足迹吗？",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "reusable", "definition": "可重复使用的"},
+        {"word": "environmental footprint", "definition": "环境足迹"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_2",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 2,
+      "english": "Yes, after watching that documentary on plastic pollution in the ocean, I felt compelled to make changes. Single-use plastics are devastating marine ecosystems.",
+      "chinese": "是的，看了那部关于海洋塑料污染的纪录片后，我感到必须做出改变。一次性塑料正在破坏海洋生态系统。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "compelled", "definition": "被迫的，感到必须的"},
+        {"word": "single-use plastics", "definition": "一次性塑料"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_3",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 3,
+      "english": "I understand the intention, but I've read that individual actions alone are insufficient. Systemic change at the corporate and governmental level is what's truly needed.",
+      "chinese": "我理解这个意图，但我看到个人行动本身是不够的。企业和政府层面的系统性变革才是真正需要的。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "systemic change", "definition": "系统性变革"},
+        {"word": "insufficient", "definition": "不够的，不足的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_4",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 4,
+      "english": "Both matter, I think. Consumer choices create market signals that influence corporate behavior. When millions of people choose sustainable products, companies respond.",
+      "chinese": "我认为两者都很重要。消费者选择会产生影响企业行为的市场信号。当数百万人选择可持续产品时，企业会做出回应。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "market signals", "definition": "市场信号"},
+        {"word": "sustainable products", "definition": "可持续产品"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_5",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 5,
+      "english": "That's true. Have you considered switching to an electric vehicle? The government is offering substantial subsidies right now.",
+      "chinese": "说得对。你有没有考虑过换一辆电动汽车？政府现在正在提供大量补贴。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "electric vehicle", "definition": "电动汽车"},
+        {"word": "substantial subsidies", "definition": "大量补贴"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_6",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 6,
+      "english": "I've been looking into it. The upfront cost is still significant, but with the subsidies and lower running costs, it actually becomes economical over five years.",
+      "chinese": "我一直在研究这个问题。前期成本仍然很高，但有了补贴和较低的运行成本，实际上五年后就变得划算了。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "upfront cost", "definition": "前期成本"},
+        {"word": "economical", "definition": "划算的，经济的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_7",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 7,
+      "english": "What about the charging infrastructure in your neighborhood? That's often the biggest obstacle for people considering the switch.",
+      "chinese": "你所在地区的充电基础设施怎么样？这往往是人们考虑换车时最大的障碍。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "obstacle", "definition": "障碍"},
+        {"word": "neighborhood", "definition": "附近地区，社区"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_8",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "idx": 8,
+      "english": "Our apartment complex just installed twenty new charging stations last month, so that problem is largely solved for me.",
+      "chinese": "我们的公寓楼上个月刚安装了20个新的充电站，所以这个问题对我来说基本上解决了。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "apartment complex", "definition": "公寓楼"},
+        {"word": "largely solved", "definition": "基本上解决了"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_9",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 9,
+      "english": "Our company is planning a major digital transformation initiative. How do you think we should approach the change management aspect?",
+      "chinese": "我们公司正在计划一项重大的数字化转型举措。你认为我们应该如何处理变革管理方面？",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "digital transformation", "definition": "数字化转型"},
+        {"word": "change management", "definition": "变革管理"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_10",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 10,
+      "english": "The key is getting employee buy-in early. Resistance to digital change is often rooted in fear of job displacement or concerns about learning new skills.",
+      "chinese": "关键是要尽早获得员工的认可。对数字化变革的抵制往往源于对工作岗位流失的恐惧或对学习新技能的担忧。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "employee buy-in", "definition": "员工认可"},
+        {"word": "job displacement", "definition": "工作岗位流失"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_11",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 11,
+      "english": "We're planning extensive training programs. But I'm worried about productivity losses during the transition period, which could last up to eighteen months.",
+      "chinese": "我们正在计划广泛的培训项目。但我担心过渡期间的生产力损失，这可能持续长达18个月。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "productivity losses", "definition": "生产力损失"},
+        {"word": "transition period", "definition": "过渡期"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_12",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 12,
+      "english": "That's a valid concern. A phased rollout approach, starting with pilot teams, typically minimizes disruption while allowing the organization to learn and adapt.",
+      "chinese": "这是一个合理的担忧。从试点团队开始的分阶段推出方法通常能最大限度地减少干扰，同时让组织学习和适应。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "phased rollout", "definition": "分阶段推出"},
+        {"word": "pilot teams", "definition": "试点团队"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_13",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 13,
+      "english": "We should also identify internal champions—employees who are enthusiastic early adopters and can serve as peer mentors during the transformation.",
+      "chinese": "我们还应该确定内部倡导者——那些热情的早期采用者，可以在转型期间担任同伴导师。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "internal champions", "definition": "内部倡导者"},
+        {"word": "early adopters", "definition": "早期采用者"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_14",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 14,
+      "english": "Excellent idea. We should also establish clear metrics to measure the transformation's progress and communicate results transparently to all stakeholders.",
+      "chinese": "好主意。我们还应该建立明确的指标来衡量转型进展，并向所有利益相关者透明地传达结果。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "metrics", "definition": "指标，衡量标准"},
+        {"word": "stakeholders", "definition": "利益相关者"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_15",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 15,
+      "english": "Agreed. Regular feedback loops will also be essential so we can course-correct quickly if specific aspects of the transformation aren't working as intended.",
+      "chinese": "同意。定期的反馈循环也将是必不可少的，这样如果转型的某些方面没有按预期运作，我们就能迅速纠正。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "feedback loops", "definition": "反馈循环"},
+        {"word": "course-correct", "definition": "纠正方向"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_16",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "idx": 16,
+      "english": "Let's set up a steering committee with representatives from every department to oversee the whole process. That way no team feels left out of the decision-making.",
+      "chinese": "让我们成立一个由每个部门代表组成的指导委员会来监督整个过程。这样没有团队会感到被排除在决策之外。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "steering committee", "definition": "指导委员会"},
+        {"word": "representatives", "definition": "代表"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_17",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 17,
+      "english": "Globalization has created unprecedented levels of cultural exchange, but it has also sparked intense debates about the preservation of local identities and traditions.",
+      "chinese": "全球化创造了前所未有的文化交流水平，但也引发了关于保护地方身份和传统的激烈辩论。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "cultural exchange", "definition": "文化交流"},
+        {"word": "local identities", "definition": "地方身份"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_18",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 18,
+      "english": "Proponents of cultural globalization argue that exposure to diverse cultures fosters greater tolerance and understanding, reducing the likelihood of conflict.",
+      "chinese": "文化全球化的支持者认为，接触多元文化能够促进更大的宽容和理解，降低冲突的可能性。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "proponents", "definition": "支持者，提倡者"},
+        {"word": "fosters", "definition": "促进，培养"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_19",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 19,
+      "english": "Critics, however, warn of cultural homogenization—the process by which dominant cultures, particularly Western ones, overshadow and gradually replace local cultural expressions.",
+      "chinese": "然而，批评者警告文化同质化——主导文化，尤其是西方文化，遮蔽并逐渐取代地方文化表达的过程。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "homogenization", "definition": "同质化"},
+        {"word": "overshadow", "definition": "遮蔽，使相形见绌"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_20",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 20,
+      "english": "Linguists estimate that nearly half of the world's seven thousand languages are currently endangered, with one language disappearing on average every two weeks.",
+      "chinese": "语言学家估计，世界上七千种语言中近一半目前处于濒危状态，平均每两周就有一种语言消失。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "endangered languages", "definition": "濒危语言"},
+        {"word": "linguists", "definition": "语言学家"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_21",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 21,
+      "english": "Digital technology offers new tools for cultural preservation, including online archives, virtual reality reconstructions, and social media platforms that connect diaspora communities.",
+      "chinese": "数字技术为文化保护提供了新工具，包括在线档案、虚拟现实重建以及连接海外侨民社区的社交媒体平台。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "cultural preservation", "definition": "文化保护"},
+        {"word": "diaspora communities", "definition": "海外侨民社区"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_22",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "idx": 22,
+      "english": "The most successful approach appears to be embracing a model of cultural pluralism that celebrates diversity while actively supporting threatened cultural practices through education and policy.",
+      "chinese": "最成功的方法似乎是采用文化多元主义模式，在庆祝多样性的同时，通过教育和政策积极支持受威胁的文化实践。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "cultural pluralism", "definition": "文化多元主义"},
+        {"word": "threatened cultural practices", "definition": "受威胁的文化实践"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_23",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 23,
+      "english": "Urban agriculture—growing food within cities—is rapidly transitioning from a niche hobby to a serious component of sustainable urban planning strategies worldwide.",
+      "chinese": "城市农业——在城市内种植食物——正在迅速从一种小众爱好转变为全球可持续城市规划战略的重要组成部分。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "urban agriculture", "definition": "城市农业"},
+        {"word": "niche hobby", "definition": "小众爱好"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_24",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 24,
+      "english": "Vertical farms, which stack growing layers in climate-controlled buildings, can produce up to ninety times more food per square meter than traditional farming methods.",
+      "chinese": "垂直农场将种植层叠放在气候控制的建筑物中，每平方米的食物产量可达传统农业的90倍。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "vertical farms", "definition": "垂直农场"},
+        {"word": "climate-controlled", "definition": "气候控制的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_25",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 25,
+      "english": "Urban farms significantly reduce food miles—the distance food travels from production to consumption—thereby cutting transportation-related greenhouse gas emissions.",
+      "chinese": "城市农场显著减少了食物里程——食物从生产到消费所经过的距离——从而减少了与运输相关的温室气体排放。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "food miles", "definition": "食物里程"},
+        {"word": "greenhouse gas emissions", "definition": "温室气体排放"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_26",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 26,
+      "english": "Challenges include high energy costs for artificial lighting in indoor farms, the need for substantial initial capital investment, and difficulties in scaling operations profitably.",
+      "chinese": "挑战包括室内农场人工照明的高能耗成本、需要大量初始资本投入，以及盈利规模化运营的困难。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "capital investment", "definition": "资本投入"},
+        {"word": "scaling operations", "definition": "规模化运营"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_27",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 27,
+      "english": "Community gardens, while less technologically intensive, provide important social benefits by bringing residents together, improving neighborhood cohesion, and offering fresh produce to food deserts.",
+      "chinese": "社区花园虽然技术密集程度较低，但通过将居民聚集在一起、改善邻里凝聚力以及向食物荒漠提供新鲜农产品，提供了重要的社会效益。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "community gardens", "definition": "社区花园"},
+        {"word": "food deserts", "definition": "食物荒漠（缺乏新鲜食物的地区）"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_28",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "idx": 28,
+      "english": "Singapore has emerged as a global leader in urban farming, with an ambitious goal of producing thirty percent of its nutritional needs domestically by 2030 under its thirty-thirty vision.",
+      "chinese": "新加坡已成为城市农业的全球领导者，在其三十三十愿景下，雄心勃勃地目标是到2030年在国内生产30%的营养需求。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "thirty-thirty vision", "definition": "30-30愿景（新加坡农业政策目标）"},
+        {"word": "nutritional needs", "definition": "营养需求"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_29",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "idx": 29,
+      "english": "A consortium of technology companies and research universities announced a landmark achievement in quantum computing, successfully maintaining a stable one thousand qubit processor for over ten minutes.",
+      "chinese": "一个科技公司和研究型大学联合体宣布了量子计算领域的里程碑式成就，成功维持了一个稳定的千量子比特处理器运行超过10分钟。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "quantum computing", "definition": "量子计算"},
+        {"word": "qubit processor", "definition": "量子比特处理器"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_30",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "idx": 30,
+      "english": "This breakthrough is significant because quantum computers could solve complex problems in hours that would take conventional supercomputers millions of years.",
+      "chinese": "这一突破意义重大，因为量子计算机可以在数小时内解决传统超级计算机需要数百万年才能解决的复杂问题。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "supercomputers", "definition": "超级计算机"},
+        {"word": "conventional", "definition": "传统的，常规的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_31",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "idx": 31,
+      "english": "Potential applications include drug discovery, climate modeling, financial optimization, and most significantly, the ability to break current encryption standards.",
+      "chinese": "潜在应用包括药物发现、气候建模、金融优化，以及最重要的是打破当前加密标准的能力。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "drug discovery", "definition": "药物发现"},
+        {"word": "encryption standards", "definition": "加密标准"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_32",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "idx": 32,
+      "english": "Cybersecurity experts warn that governments and corporations must urgently upgrade their encryption infrastructure to quantum-resistant standards before quantum computers become widely accessible.",
+      "chinese": "网络安全专家警告，在量子计算机变得广泛可用之前，政府和企业必须紧急将其加密基础设施升级为量子抗性标准。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "cybersecurity", "definition": "网络安全"},
+        {"word": "quantum-resistant", "definition": "量子抗性的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_33",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "idx": 33,
+      "english": "The United Nations issued an urgent warning this week, stating that over two billion people currently lack access to safe drinking water, a figure expected to rise to three billion by 2040.",
+      "chinese": "联合国本周发出紧急警告，称目前超过20亿人缺乏安全饮用水，预计到2040年这一数字将上升到30亿。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "safe drinking water", "definition": "安全饮用水"},
+        {"word": "access to", "definition": "获得，使用"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_34",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "idx": 34,
+      "english": "Agriculture accounts for approximately seventy percent of all freshwater withdrawals globally, making improved irrigation efficiency the most impactful lever for addressing the water crisis.",
+      "chinese": "农业约占全球淡水取用量的70%，使改善灌溉效率成为应对水危机最具影响力的杠杆。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "freshwater withdrawals", "definition": "淡水取用量"},
+        {"word": "irrigation efficiency", "definition": "灌溉效率"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_35",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "idx": 35,
+      "english": "Innovative approaches such as fog collection systems, atmospheric water generation, and advanced desalination plants powered by renewable energy are providing new solutions in water-scarce regions.",
+      "chinese": "雾水收集系统、大气取水和以可再生能源驱动的先进海水淡化装置等创新方法在水资源匮乏地区提供了新的解决方案。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "fog collection systems", "definition": "雾水收集系统"},
+        {"word": "desalination", "definition": "海水淡化"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_36",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "idx": 36,
+      "english": "Water experts call for a paradigm shift in how societies value and price water, arguing that current water pricing in most countries dramatically underestimates its true economic and ecological value.",
+      "chinese": "水资源专家呼吁在社会如何评价和定价水资源方面进行范式转变，认为大多数国家目前的水价大大低估了其真正的经济和生态价值。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "paradigm shift", "definition": "范式转变"},
+        {"word": "ecological value", "definition": "生态价值"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_37",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "idx": 37,
+      "english": "A new demographic report projects that the global population aged sixty-five and over will double from seven hundred million today to one point four billion by 2050, posing unprecedented challenges for healthcare and pension systems.",
+      "chinese": "一份新的人口报告预测，65岁及以上的全球人口将从今天的7亿翻倍到2050年的14亿，给医疗保健和养老金系统带来前所未有的挑战。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "demographic report", "definition": "人口报告"},
+        {"word": "pension systems", "definition": "养老金系统"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_38",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "idx": 38,
+      "english": "Countries like Japan and South Korea, where the elderly already comprise over twenty percent of the population, are pioneering innovative approaches including robot-assisted care and intergenerational housing programs.",
+      "chinese": "日本和韩国等老年人已占人口20%以上的国家，正在开创创新方法，包括机器人辅助护理和代际住房计划。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "robot-assisted care", "definition": "机器人辅助护理"},
+        {"word": "intergenerational", "definition": "代际的，跨代的"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_39",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "idx": 39,
+      "english": "The economic impact of aging populations extends beyond healthcare, affecting labor markets as the working-age population shrinks and dependency ratios increase.",
+      "chinese": "人口老龄化的经济影响超出了医疗保健范畴，随着劳动年龄人口缩减和抚养比增加，影响到劳动力市场。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "dependency ratios", "definition": "抚养比"},
+        {"word": "working-age population", "definition": "劳动年龄人口"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    },
+    {
+      "id": "cet6-2023-06-1_s_40",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "idx": 40,
+      "english": "Policy responses must balance encouraging higher birth rates through family support programs, attracting skilled immigrants, and redesigning retirement systems to incentivize longer working lives.",
+      "chinese": "政策回应必须平衡通过家庭支持计划鼓励更高的出生率、吸引技术移民以及重新设计退休系统以激励更长的工作年限。",
+      "start_time": 0, "end_time": 0, "audio_path": null,
+      "key_vocab": [
+        {"word": "birth rates", "definition": "出生率"},
+        {"word": "incentivize", "definition": "激励，给予动力"}
+      ],
+      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2023-06-1_q_1",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "sentence_id": "cet6-2023-06-1_s_2",
+      "idx": 1,
+      "question_text": "What motivated the woman to start using reusable containers?",
+      "options": "[\"A) A government regulation requiring it\",\"B) A documentary about plastic pollution in the ocean\",\"C) Her friend's recommendation\",\"D) A company policy change\"]",
+      "answer": "B",
+      "explanation": "女方说看了一部关于海洋塑料污染的纪录片（documentary on plastic pollution in the ocean）后，感到必须做出改变，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_2",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "sentence_id": "cet6-2023-06-1_s_3",
+      "idx": 2,
+      "question_text": "What does the man say is truly needed to address environmental problems?",
+      "options": "[\"A) More individual consumer action\",\"B) Better public education campaigns\",\"C) Systemic change at corporate and governmental level\",\"D) International environmental agreements\"]",
+      "answer": "C",
+      "explanation": "男方认为企业和政府层面的系统性变革（systemic change at the corporate and governmental level）才是真正需要的，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_3",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "sentence_id": "cet6-2023-06-1_s_6",
+      "idx": 3,
+      "question_text": "Over what period does the woman say an electric vehicle becomes economical?",
+      "options": "[\"A) Three years\",\"B) Four years\",\"C) Five years\",\"D) Seven years\"]",
+      "answer": "C",
+      "explanation": "女方说有了补贴和较低的运行成本，实际上五年（five years）后就变得划算，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_4",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_1",
+      "sentence_id": "cet6-2023-06-1_s_8",
+      "idx": 4,
+      "question_text": "How many charging stations were recently installed in the woman's apartment complex?",
+      "options": "[\"A) Five\",\"B) Ten\",\"C) Fifteen\",\"D) Twenty\"]",
+      "answer": "D",
+      "explanation": "女方说公寓楼上个月刚安装了20个（twenty）新的充电站，故选D。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_5",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "sentence_id": "cet6-2023-06-1_s_10",
+      "idx": 5,
+      "question_text": "What does the man say resistance to digital change is often rooted in?",
+      "options": "[\"A) Distrust of technology companies\",\"B) Fear of job displacement and concerns about learning new skills\",\"C) Concerns about data privacy\",\"D) Preference for traditional working methods\"]",
+      "answer": "B",
+      "explanation": "男方说对数字化变革的抵制往往源于对工作岗位流失（job displacement）的恐惧或对学习新技能的担忧，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_6",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "sentence_id": "cet6-2023-06-1_s_11",
+      "idx": 6,
+      "question_text": "How long could the digital transformation transition period last?",
+      "options": "[\"A) Up to six months\",\"B) Up to twelve months\",\"C) Up to eighteen months\",\"D) Up to twenty-four months\"]",
+      "answer": "C",
+      "explanation": "女方担心过渡期间的生产力损失，这可能持续长达18个月（eighteen months），故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_7",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "sentence_id": "cet6-2023-06-1_s_13",
+      "idx": 7,
+      "question_text": "What role do internal champions play in digital transformation?",
+      "options": "[\"A) They manage the overall transformation project\",\"B) They negotiate with technology vendors\",\"C) They serve as peer mentors for other employees\",\"D) They handle data migration tasks\"]",
+      "answer": "C",
+      "explanation": "内部倡导者（internal champions）被描述为能在转型期间担任同伴导师（peer mentors）的早期采用者，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_8",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_2",
+      "sentence_id": "cet6-2023-06-1_s_16",
+      "idx": 8,
+      "question_text": "What is the purpose of the steering committee they plan to establish?",
+      "options": "[\"A) To handle customer complaints during the transition\",\"B) To oversee the transformation with representatives from every department\",\"C) To manage the company's technology budget\",\"D) To evaluate external technology vendors\"]",
+      "answer": "B",
+      "explanation": "对话说要成立由每个部门代表组成的指导委员会来监督整个过程，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_9",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "sentence_id": "cet6-2023-06-1_s_20",
+      "idx": 9,
+      "question_text": "How frequently does a language disappear according to linguists?",
+      "options": "[\"A) Every week\",\"B) Every two weeks\",\"C) Every month\",\"D) Every two months\"]",
+      "answer": "B",
+      "explanation": "讲座说平均每两周（every two weeks）就有一种语言消失，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_10",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "sentence_id": "cet6-2023-06-1_s_19",
+      "idx": 10,
+      "question_text": "What do critics of cultural globalization warn about?",
+      "options": "[\"A) Increased political tensions between nations\",\"B) Economic inequality due to trade imbalances\",\"C) Cultural homogenization where dominant cultures replace local ones\",\"D) Environmental damage caused by global tourism\"]",
+      "answer": "C",
+      "explanation": "批评者警告文化同质化（cultural homogenization）——主导文化遮蔽并取代地方文化表达，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_11",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "sentence_id": "cet6-2023-06-1_s_22",
+      "idx": 11,
+      "question_text": "What approach does the lecture describe as the most successful for dealing with globalization and cultural diversity?",
+      "options": "[\"A) Strict cultural protectionism\",\"B) Complete cultural integration\",\"C) Cultural pluralism that celebrates diversity while supporting threatened practices\",\"D) Limiting international cultural exchange\"]",
+      "answer": "C",
+      "explanation": "讲座说最成功的方法是文化多元主义（cultural pluralism），在庆祝多样性的同时通过教育和政策支持受威胁的文化实践，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_12",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "sentence_id": "cet6-2023-06-1_s_24",
+      "idx": 12,
+      "question_text": "How much more food per square meter can vertical farms produce compared to traditional farming?",
+      "options": "[\"A) Up to thirty times more\",\"B) Up to fifty times more\",\"C) Up to seventy times more\",\"D) Up to ninety times more\"]",
+      "answer": "D",
+      "explanation": "讲座说垂直农场每平方米的食物产量可达传统农业的90倍（ninety times more），故选D。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_13",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "sentence_id": "cet6-2023-06-1_s_28",
+      "idx": 13,
+      "question_text": "What is Singapore's thirty-thirty vision goal?",
+      "options": "[\"A) Reduce carbon emissions by thirty percent by 2030\",\"B) Produce thirty percent of nutritional needs domestically by 2030\",\"C) Have thirty percent of farms using vertical methods by 2030\",\"D) Dedicate thirty percent of urban space to agriculture by 2030\"]",
+      "answer": "B",
+      "explanation": "讲座说新加坡在三十三十愿景下，目标是到2030年在国内生产30%的营养需求，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_14",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "sentence_id": "cet6-2023-06-1_s_27",
+      "idx": 14,
+      "question_text": "What social benefit do community gardens provide?",
+      "options": "[\"A) They generate significant income for local governments\",\"B) They bring residents together and improve neighborhood cohesion\",\"C) They replace supermarkets in wealthy neighborhoods\",\"D) They reduce crime rates in urban areas\"]",
+      "answer": "B",
+      "explanation": "讲座说社区花园通过将居民聚集在一起、改善邻里凝聚力（neighborhood cohesion）提供重要社会效益，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_15",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "sentence_id": "cet6-2023-06-1_s_29",
+      "idx": 15,
+      "question_text": "How long was the stable one-thousand-qubit processor maintained?",
+      "options": "[\"A) Over five minutes\",\"B) Over ten minutes\",\"C) Over thirty minutes\",\"D) Over sixty minutes\"]",
+      "answer": "B",
+      "explanation": "报道说成功维持了一个稳定的千量子比特处理器运行超过10分钟（over ten minutes），故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_16",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "sentence_id": "cet6-2023-06-1_s_31",
+      "idx": 16,
+      "question_text": "Which of the following is NOT mentioned as a potential application of quantum computing?",
+      "options": "[\"A) Drug discovery\",\"B) Climate modeling\",\"C) Social media management\",\"D) Breaking current encryption standards\"]",
+      "answer": "C",
+      "explanation": "报道提到的应用包括药物发现、气候建模、金融优化和破解加密标准，未提及社交媒体管理，故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_17",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_5",
+      "sentence_id": "cet6-2023-06-1_s_32",
+      "idx": 17,
+      "question_text": "What do cybersecurity experts urge governments and corporations to do?",
+      "options": "[\"A) Develop their own quantum computers\",\"B) Ban quantum computing research\",\"C) Upgrade encryption infrastructure to quantum-resistant standards\",\"D) Establish international quantum computing treaties\"]",
+      "answer": "C",
+      "explanation": "网络安全专家警告政府和企业必须将加密基础设施升级为量子抗性标准（quantum-resistant standards），故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_18",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "sentence_id": "cet6-2023-06-1_s_33",
+      "idx": 18,
+      "question_text": "How many people are expected to lack access to safe drinking water by 2040?",
+      "options": "[\"A) One billion\",\"B) Two billion\",\"C) Three billion\",\"D) Four billion\"]",
+      "answer": "C",
+      "explanation": "报道预计到2040年这一数字将上升到30亿（three billion），故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_19",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "sentence_id": "cet6-2023-06-1_s_34",
+      "idx": 19,
+      "question_text": "What percentage of all freshwater withdrawals globally does agriculture account for?",
+      "options": "[\"A) About fifty percent\",\"B) About sixty percent\",\"C) About seventy percent\",\"D) About eighty percent\"]",
+      "answer": "C",
+      "explanation": "报道说农业约占全球淡水取用量的70%（approximately seventy percent），故选C。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_20",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_6",
+      "sentence_id": "cet6-2023-06-1_s_36",
+      "idx": 20,
+      "question_text": "What do water experts argue about current water pricing in most countries?",
+      "options": "[\"A) It is too high, discouraging agricultural use\",\"B) It dramatically underestimates water's true economic and ecological value\",\"C) It does not account for industrial water usage\",\"D) It should be eliminated entirely\"]",
+      "answer": "B",
+      "explanation": "水资源专家认为大多数国家目前的水价大大低估了（underestimates）其真正的经济和生态价值，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_21",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "sentence_id": "cet6-2023-06-1_s_37",
+      "idx": 21,
+      "question_text": "What is the projected global population aged 65 and over by 2050?",
+      "options": "[\"A) Seven hundred million\",\"B) Nine hundred million\",\"C) One point two billion\",\"D) One point four billion\"]",
+      "answer": "D",
+      "explanation": "报道预测65岁及以上人口将从今天的7亿翻倍到2050年的14亿（one point four billion），故选D。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_22",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "sentence_id": "cet6-2023-06-1_s_38",
+      "idx": 22,
+      "question_text": "What innovative approaches are Japan and South Korea pioneering for elderly care?",
+      "options": "[\"A) AI-powered hospitals and telemedicine\",\"B) Robot-assisted care and intergenerational housing programs\",\"C) State-funded retirement villages\",\"D) Mandatory family care obligations\"]",
+      "answer": "B",
+      "explanation": "报道说日本和韩国正在开创机器人辅助护理（robot-assisted care）和代际住房计划（intergenerational housing programs），故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_23",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_7",
+      "sentence_id": "cet6-2023-06-1_s_40",
+      "idx": 23,
+      "question_text": "According to the report, what three approaches must policy responses balance?",
+      "options": "[\"A) Higher taxes, pension reform, and healthcare expansion\",\"B) Encouraging higher birth rates, attracting skilled immigrants, and redesigning retirement systems\",\"C) Reducing immigration, raising retirement age, and expanding childcare\",\"D) Building more care homes, training more nurses, and reducing healthcare costs\"]",
+      "answer": "B",
+      "explanation": "报道说政策回应必须平衡鼓励更高出生率、吸引技术移民（skilled immigrants）以及重新设计退休系统，故选B。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_24",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_3",
+      "sentence_id": "cet6-2023-06-1_s_21",
+      "idx": 24,
+      "question_text": "What digital tools does the lecture mention for cultural preservation?",
+      "options": "[\"A) Online archives, virtual reality reconstructions, and social media\",\"B) Television broadcasts, radio programs, and digital books\",\"C) Video games, streaming services, and online courses\",\"D) Satellite communication, AI translation, and digital museums\"]",
+      "answer": "A",
+      "explanation": "讲座提到在线档案（online archives）、虚拟现实重建（virtual reality reconstructions）和社交媒体平台，故选A。"
+    },
+    {
+      "id": "cet6-2023-06-1_q_25",
+      "paper_id": "cet6-2023-06-1",
+      "section_id": "cet6-2023-06-1_sec_4",
+      "sentence_id": "cet6-2023-06-1_s_26",
+      "idx": 25,
+      "question_text": "What challenges does urban farming face according to the lecture?",
+      "options": "[\"A) Lack of consumer interest and poor taste of produce\",\"B) High energy costs, substantial capital investment, and difficulty scaling profitably\",\"C) Regulatory restrictions and zoning laws\",\"D) Water scarcity and soil contamination\"]",
+      "answer": "B",
+      "explanation": "讲座提到室内农场人工照明的高能耗成本、大量初始资本投入以及盈利规模化的困难，故选B。"
+    }
+  ]
+}
