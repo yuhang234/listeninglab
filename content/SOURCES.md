@@ -4,6 +4,9 @@
 
 | Paper ID | Title | Verified | Provenance |
 |---|---|---|---|
+| cet6-2019-12-1 | 2019年12月 六级听力真题（第1套） | No | 结构与题目按可可英语 2019.12 第1套核对（https://m.kekenet.com/cet6/202010/618977.shtml）；听力文本为适配逐句合成做过改写，非逐字原文 |
+| cet6-2020-09-1 | 2020年9月 六级听力真题（第1套） | No | model-reconstructed |
+| cet6-2020-12-1 | 2020年12月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2021-06-1 | 2021年6月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2021-12-1 | 2021年12月 六级听力真题（第1套） | No | model-reconstructed |
 | cet6-2022-06-1 | 2022年6月 六级听力真题（第1套） | No | model-reconstructed |
