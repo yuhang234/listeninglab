@@ -28,7 +28,7 @@ exe 由 GitHub Actions（`.github/workflows/windows-exe.yml`）在推送到 GitH
 
     ./run.sh --port 8080
 
-也可执行 `python3 launcher.py`，自动选择空闲端口并打开浏览器。启动后打开浏览器访问 http://127.0.0.1:8765
+也可执行 `python3 launcher.py`，自动选择空闲端口并打开系统默认浏览器；`./run.sh` 默认监听 8765，启动后访问 http://127.0.0.1:8765 即可。
 
 ## 使用流程
 
