@@ -5,7 +5,7 @@
   "month": 6,
   "set_number": 1,
   "category": "cet6-real",
-  "total_duration_sec": 281.469,
+  "total_duration_sec": 342.622,
   "sentence_count": 40,
   "version": 1,
   "audio_path": "content/papers/cet6-2024-06-1/full.mp3",
@@ -71,7 +71,7 @@
       "english": "Hi Sarah, do you have a moment? I wanted to talk about the team project presentation scheduled for next Friday.",
       "chinese": "嗨，莎拉，你有空吗？我想谈谈下周五安排的团队项目演示。",
       "start_time": 0.0,
-      "end_time": 4.807,
+      "end_time": 5.619,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_1.mp3",
       "key_vocab": [
         {
@@ -94,8 +94,8 @@
       "idx": 2,
       "english": "Sure, Mike. I was actually hoping we could discuss that. I'm a bit concerned about the data analysis section.",
       "chinese": "当然，迈克。我其实也希望我们能讨论一下。我对数据分析部分有点担心。",
-      "start_time": 5.157,
-      "end_time": 10.114,
+      "start_time": 5.969,
+      "end_time": 12.099,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_2.mp3",
       "key_vocab": [
         {
@@ -118,8 +118,8 @@
       "idx": 3,
       "english": "I share your concern. The raw data we collected from the surveys has some inconsistencies that we haven't resolved yet.",
       "chinese": "我和你有同样的担心。我们从调查中收集的原始数据存在一些我们尚未解决的不一致之处。",
-      "start_time": 10.464,
-      "end_time": 15.816,
+      "start_time": 12.449,
+      "end_time": 19.079,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_3.mp3",
       "key_vocab": [
         {
@@ -142,8 +142,8 @@
       "idx": 4,
       "english": "Maybe we should ask Professor Chen to review our methodology before we finalize the presentation.",
       "chinese": "也许我们应该在最终确定演示之前请陈教授审查我们的方法论。",
-      "start_time": 16.166,
-      "end_time": 20.485,
+      "start_time": 19.429,
+      "end_time": 24.653,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_4.mp3",
       "key_vocab": [
         {
@@ -166,8 +166,8 @@
       "idx": 5,
       "english": "That's a good idea. She's an expert in quantitative research methods and could spot any flaws we might have missed.",
       "chinese": "这是个好主意。她是定量研究方法的专家，能发现我们可能遗漏的任何缺陷。",
-      "start_time": 20.835,
-      "end_time": 25.584,
+      "start_time": 25.003,
+      "end_time": 30.831,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_5.mp3",
       "key_vocab": [
         {
@@ -190,8 +190,8 @@
       "idx": 6,
       "english": "I'll email her right away to set up a meeting. Meanwhile, can you handle the visual design of the slides?",
       "chinese": "我马上给她发邮件安排会议。同时，你能负责幻灯片的视觉设计吗？",
-      "start_time": 25.934,
-      "end_time": 30.206,
+      "start_time": 31.181,
+      "end_time": 36.15,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_6.mp3",
       "key_vocab": [
         {
@@ -214,8 +214,8 @@
       "idx": 7,
       "english": "No problem. I'll create some clear charts and graphs to illustrate our key findings.",
       "chinese": "没问题。我会制作一些清晰的图表来说明我们的主要发现。",
-      "start_time": 30.556,
-      "end_time": 34.411,
+      "start_time": 36.5,
+      "end_time": 41.237,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_7.mp3",
       "key_vocab": [
         {
@@ -238,8 +238,8 @@
       "idx": 8,
       "english": "Great. Let's plan to meet again on Wednesday afternoon to review everything together before the big day.",
       "chinese": "太好了。我们计划在周三下午再次见面，在大日子之前一起复查所有内容。",
-      "start_time": 34.761,
-      "end_time": 38.998,
+      "start_time": 41.587,
+      "end_time": 46.754,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_8.mp3",
       "key_vocab": [
         {
@@ -262,8 +262,8 @@
       "idx": 9,
       "english": "Have you seen the latest smartphone model released by that tech company? The battery life is supposed to last three days.",
       "chinese": "你看到那家科技公司发布的最新智能手机型号了吗？据说电池续航能持续三天。",
-      "start_time": 39.348,
-      "end_time": 44.631,
+      "start_time": 47.104,
+      "end_time": 53.536,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_9.mp3",
       "key_vocab": [
         {
@@ -286,8 +286,8 @@
       "idx": 10,
       "english": "Yes, I read about it online. But I'm more impressed by its new artificial intelligence features that personalize user experience.",
       "chinese": "是的，我在网上看到了。但我更对其个性化用户体验的新人工智能功能印象深刻。",
-      "start_time": 44.981,
-      "end_time": 50.809,
+      "start_time": 53.886,
+      "end_time": 60.91,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_10.mp3",
       "key_vocab": [
         {
@@ -310,8 +310,8 @@
       "idx": 11,
       "english": "That sounds fascinating. Though I worry that excessive reliance on AI might actually reduce our cognitive abilities over time.",
       "chinese": "听起来很吸引人。不过我担心过度依赖人工智能实际上可能会随着时间的推移降低我们的认知能力。",
-      "start_time": 51.159,
-      "end_time": 56.848,
+      "start_time": 61.26,
+      "end_time": 68.144,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_11.mp3",
       "key_vocab": [
         {
@@ -334,8 +334,8 @@
       "idx": 12,
       "english": "That's a valid point. Some researchers argue that technology should augment human intelligence rather than replace it.",
       "chinese": "这是一个有效的观点。一些研究人员认为，技术应该增强人类智能，而不是取代它。",
-      "start_time": 57.198,
-      "end_time": 62.48,
+      "start_time": 68.494,
+      "end_time": 75.228,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_12.mp3",
       "key_vocab": [
         {
@@ -358,8 +358,8 @@
       "idx": 13,
       "english": "I agree. I think the key is finding the right balance between using technology as a tool and maintaining our own critical thinking skills.",
       "chinese": "我同意。我认为关键是找到将技术作为工具使用与保持我们自身批判性思维技能之间的适当平衡。",
-      "start_time": 62.83,
-      "end_time": 69.262,
+      "start_time": 75.578,
+      "end_time": 83.101,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_13.mp3",
       "key_vocab": [
         {
@@ -382,8 +382,8 @@
       "idx": 14,
       "english": "Well said. Anyway, are you planning to buy the new phone? The price is quite steep at over six thousand yuan.",
       "chinese": "说得好。不管怎样，你计划买这款新手机吗？价格相当高，超过六千元。",
-      "start_time": 69.612,
-      "end_time": 74.581,
+      "start_time": 83.451,
+      "end_time": 89.431,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_14.mp3",
       "key_vocab": [
         {
@@ -406,8 +406,8 @@
       "idx": 15,
       "english": "I'll probably wait for the price to drop before considering it. My current phone still works perfectly fine.",
       "chinese": "我可能会等价格下降后再考虑。我现在的手机还好用得很。",
-      "start_time": 74.931,
-      "end_time": 79.541,
+      "start_time": 89.781,
+      "end_time": 95.62,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_15.mp3",
       "key_vocab": [
         {
@@ -430,8 +430,8 @@
       "idx": 16,
       "english": "That's very practical of you. Smart consumers always evaluate whether a new product truly meets their needs before purchasing.",
       "chinese": "你真的很务实。聪明的消费者在购买之前总是评估新产品是否真正满足他们的需求。",
-      "start_time": 79.891,
-      "end_time": 85.475,
+      "start_time": 95.97,
+      "end_time": 102.832,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_16.mp3",
       "key_vocab": [
         {
@@ -454,8 +454,8 @@
       "idx": 17,
       "english": "Good afternoon, everyone. Today's lecture focuses on one of the most pressing global challenges: the intersection of climate change and food security.",
       "chinese": "大家下午好。今天的讲座聚焦于最紧迫的全球挑战之一：气候变化与粮食安全的交汇。",
-      "start_time": 85.825,
-      "end_time": 93.07,
+      "start_time": 103.182,
+      "end_time": 112.4,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_17.mp3",
       "key_vocab": [
         {
@@ -478,8 +478,8 @@
       "idx": 18,
       "english": "Rising global temperatures are significantly altering precipitation patterns, leading to more frequent droughts and floods across agricultural regions.",
       "chinese": "全球气温上升正在显著改变降水模式，导致农业地区更频繁的干旱和洪涝。",
-      "start_time": 93.42,
-      "end_time": 100.711,
+      "start_time": 112.75,
+      "end_time": 122.085,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_18.mp3",
       "key_vocab": [
         {
@@ -502,8 +502,8 @@
       "idx": 19,
       "english": "Research indicates that by 2050, climate change could reduce global crop yields by up to twenty-five percent in some vulnerable regions.",
       "chinese": "研究表明，到2050年，气候变化可能使某些脆弱地区的全球作物产量减少多达25%。",
-      "start_time": 101.061,
-      "end_time": 108.398,
+      "start_time": 122.435,
+      "end_time": 131.386,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_19.mp3",
       "key_vocab": [
         {
@@ -526,8 +526,8 @@
       "idx": 20,
       "english": "However, advances in drought-resistant crop varieties and precision agriculture technologies offer promising solutions.",
       "chinese": "然而，抗旱作物品种和精准农业技术的进步提供了有前景的解决方案。",
-      "start_time": 108.748,
-      "end_time": 114.623,
+      "start_time": 131.736,
+      "end_time": 139.306,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_20.mp3",
       "key_vocab": [
         {
@@ -550,8 +550,8 @@
       "idx": 21,
       "english": "International cooperation is essential, as developing nations often lack the resources and technology to adapt their agricultural systems independently.",
       "chinese": "国际合作至关重要，因为发展中国家往往缺乏独立调整其农业系统的资源和技术。",
-      "start_time": 114.973,
-      "end_time": 123.239,
+      "start_time": 139.656,
+      "end_time": 149.756,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_21.mp3",
       "key_vocab": [
         {
@@ -574,8 +574,8 @@
       "idx": 22,
       "english": "Reducing food waste is another critical strategy, since approximately one third of all food produced globally is lost or wasted before consumption.",
       "chinese": "减少食物浪费是另一个关键策略，因为全球生产的大约三分之一的食物在消费前就损失或浪费了。",
-      "start_time": 123.589,
-      "end_time": 131.101,
+      "start_time": 150.106,
+      "end_time": 158.93,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_22.mp3",
       "key_vocab": [
         {
@@ -598,8 +598,8 @@
       "idx": 23,
       "english": "Welcome back. In this second lecture, I want to explore the ethical dimensions of artificial intelligence development.",
       "chinese": "欢迎回来。在第二讲中，我想探讨人工智能发展的伦理维度。",
-      "start_time": 131.451,
-      "end_time": 137.035,
+      "start_time": 159.28,
+      "end_time": 166.048,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_23.mp3",
       "key_vocab": [
         {
@@ -622,8 +622,8 @@
       "idx": 24,
       "english": "As AI systems become increasingly integrated into decision-making processes, questions of fairness, transparency, and accountability become paramount.",
       "chinese": "随着人工智能系统越来越多地融入决策过程，公平、透明和问责的问题变得至关重要。",
-      "start_time": 137.385,
-      "end_time": 144.676,
+      "start_time": 166.398,
+      "end_time": 175.849,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_24.mp3",
       "key_vocab": [
         {
@@ -646,8 +646,8 @@
       "idx": 25,
       "english": "Algorithmic bias is a particularly concerning issue. AI systems trained on biased data can perpetuate and even amplify existing social inequalities.",
       "chinese": "算法偏见是一个特别令人担忧的问题。在有偏见的数据上训练的人工智能系统可能会延续甚至放大现有的社会不平等。",
-      "start_time": 145.026,
-      "end_time": 152.758,
+      "start_time": 176.199,
+      "end_time": 186.056,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_25.mp3",
       "key_vocab": [
         {
@@ -670,8 +670,8 @@
       "idx": 26,
       "english": "For example, facial recognition systems have been shown to have significantly higher error rates for women and people of darker skin tones.",
       "chinese": "例如，面部识别系统对女性和肤色较深的人的错误率明显更高。",
-      "start_time": 153.108,
-      "end_time": 159.738,
+      "start_time": 186.406,
+      "end_time": 194.568,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_26.mp3",
       "key_vocab": [
         {
@@ -694,8 +694,8 @@
       "idx": 27,
       "english": "To address these challenges, many countries are now developing regulatory frameworks for AI governance, though international coordination remains limited.",
       "chinese": "为了应对这些挑战，许多国家正在开发人工智能治理的监管框架，尽管国际协调仍然有限。",
-      "start_time": 160.088,
-      "end_time": 168.017,
+      "start_time": 194.918,
+      "end_time": 204.554,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_27.mp3",
       "key_vocab": [
         {
@@ -718,8 +718,8 @@
       "idx": 28,
       "english": "Ultimately, responsible AI development requires collaboration among technologists, ethicists, policymakers, and the communities most affected by these systems.",
       "chinese": "归根结底，负责任的人工智能开发需要技术专家、伦理学家、政策制定者以及受这些系统影响最深的社区之间的合作。",
-      "start_time": 168.367,
-      "end_time": 176.819,
+      "start_time": 204.904,
+      "end_time": 214.865,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_28.mp3",
       "key_vocab": [
         {
@@ -742,8 +742,8 @@
       "idx": 29,
       "english": "Scientists announced a major breakthrough this week as the Artemis program successfully deployed a new lunar orbiter capable of mapping the Moon's south pole region in unprecedented detail.",
       "chinese": "科学家们本周宣布了一项重大突破，阿尔忒弥斯计划成功部署了一个新的月球轨道飞行器，能够以前所未有的细节绘制月球南极地区的地图。",
-      "start_time": 177.169,
-      "end_time": 186.225,
+      "start_time": 215.215,
+      "end_time": 226.21,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_29.mp3",
       "key_vocab": [
         {
@@ -766,8 +766,8 @@
       "idx": 30,
       "english": "The spacecraft carries advanced instruments that can detect water ice deposits, which would be crucial for future crewed missions and potential lunar settlements.",
       "chinese": "这艘航天器携带了先进仪器，可以探测水冰沉积物，这对未来的载人任务和潜在的月球定居点至关重要。",
-      "start_time": 186.575,
-      "end_time": 194.04,
+      "start_time": 226.56,
+      "end_time": 235.871,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_30.mp3",
       "key_vocab": [
         {
@@ -790,8 +790,8 @@
       "idx": 31,
       "english": "Mission control reported that all systems are functioning normally, and the first detailed images are expected to be transmitted back to Earth within the next two weeks.",
       "chinese": "任务控制中心报告所有系统运行正常，预计在未来两周内将第一批详细图像传回地球。",
-      "start_time": 194.39,
-      "end_time": 202.041,
+      "start_time": 236.221,
+      "end_time": 245.637,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_31.mp3",
       "key_vocab": [
         {
@@ -814,8 +814,8 @@
       "idx": 32,
       "english": "This mission represents a significant step toward NASA's long-term goal of establishing a permanent human presence on the Moon by the early 2030s.",
       "chinese": "这次任务代表了NASA实现21世纪30年代初在月球建立永久人类存在这一长期目标的重要一步。",
-      "start_time": 202.391,
-      "end_time": 210.693,
+      "start_time": 245.987,
+      "end_time": 256.308,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_32.mp3",
       "key_vocab": [
         {
@@ -838,8 +838,8 @@
       "idx": 33,
       "english": "Several major Chinese cities announced plans this week to dramatically expand their electric vehicle charging infrastructure, aiming to install over one million new charging stations by 2026.",
       "chinese": "本周，中国多个主要城市宣布计划大幅扩展电动汽车充电基础设施，目标是到2026年新增超过100万个充电站。",
-      "start_time": 211.043,
-      "end_time": 221.387,
+      "start_time": 256.658,
+      "end_time": 269.452,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_33.mp3",
       "key_vocab": [
         {
@@ -862,8 +862,8 @@
       "idx": 34,
       "english": "The initiative is part of a broader strategy to reduce urban air pollution and meet carbon neutrality targets ahead of the 2060 deadline.",
       "chinese": "这一举措是减少城市空气污染、提前实现2060年碳中和目标这一更广泛战略的一部分。",
-      "start_time": 221.737,
-      "end_time": 228.633,
+      "start_time": 269.802,
+      "end_time": 278.301,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_34.mp3",
       "key_vocab": [
         {
@@ -886,8 +886,8 @@
       "idx": 35,
       "english": "Transportation experts note that adequate charging infrastructure is one of the most critical factors in accelerating consumer adoption of electric vehicles.",
       "chinese": "交通专家指出，充足的充电基础设施是加速消费者采用电动汽车的最关键因素之一。",
-      "start_time": 228.983,
-      "end_time": 236.205,
+      "start_time": 278.651,
+      "end_time": 287.207,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_35.mp3",
       "key_vocab": [
         {
@@ -910,8 +910,8 @@
       "idx": 36,
       "english": "The government has pledged five billion yuan in subsidies to support private investment in the charging network, expecting to create over eighty thousand new jobs in the process.",
       "chinese": "政府承诺提供50亿元补贴，支持对充电网络的私人投资，预计在此过程中创造超过8万个新工作岗位。",
-      "start_time": 236.555,
-      "end_time": 245.135,
+      "start_time": 287.557,
+      "end_time": 297.774,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_36.mp3",
       "key_vocab": [
         {
@@ -934,8 +934,8 @@
       "idx": 37,
       "english": "The United Nations Environment Programme released a landmark report calling for immediate action to protect the world's oceans from plastic pollution and overfishing.",
       "chinese": "联合国环境规划署发布了一份具有里程碑意义的报告，呼吁立即采取行动，保护世界海洋免受塑料污染和过度捕捞的危害。",
-      "start_time": 245.485,
-      "end_time": 252.636,
+      "start_time": 298.124,
+      "end_time": 306.994,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_37.mp3",
       "key_vocab": [
         {
@@ -958,8 +958,8 @@
       "idx": 38,
       "english": "The report warns that without significant policy changes, approximately eighty percent of coral reef ecosystems could be severely degraded within thirty years.",
       "chinese": "报告警告称，如果没有重大政策变化，大约80%的珊瑚礁生态系统可能在三十年内严重退化。",
-      "start_time": 252.986,
-      "end_time": 260.986,
+      "start_time": 307.344,
+      "end_time": 316.737,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_38.mp3",
       "key_vocab": [
         {
@@ -982,8 +982,8 @@
       "idx": 39,
       "english": "Proposed measures include establishing vast marine protected areas covering thirty percent of the world's oceans by 2030, a target endorsed by over one hundred nations.",
       "chinese": "提议的措施包括到2030年建立覆盖全球30%海洋的广大海洋保护区，这一目标已获得100多个国家的支持。",
-      "start_time": 261.336,
-      "end_time": 270.682,
+      "start_time": 317.087,
+      "end_time": 329.312,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_39.mp3",
       "key_vocab": [
         {
@@ -1006,8 +1006,8 @@
       "idx": 40,
       "english": "Environmental advocates stress that protecting ocean biodiversity is not merely an ecological imperative but also an economic one, as fisheries support the livelihoods of hundreds of millions of people worldwide.",
       "chinese": "环境倡导者强调，保护海洋生物多样性不仅是一种生态命令，也是一种经济命令，因为渔业支撑着全球数亿人的生计。",
-      "start_time": 271.032,
-      "end_time": 281.399,
+      "start_time": 329.662,
+      "end_time": 342.561,
       "audio_path": "content/papers/cet6-2024-06-1/cet6-2024-06-1_s_40.mp3",
       "key_vocab": [
         {

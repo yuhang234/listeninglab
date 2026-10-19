@@ -11,6 +11,8 @@ PAPERS_DIR = "content/papers"
 SOURCES_MD = "content/SOURCES.md"
 MAX_AUDIO_MB = 12.0
 MAX_DURATION_ERR = 0.3
+MIN_WPM = 120.0
+MAX_WPM = 170.0
 
 
 def get_media_duration(path: str) -> float:
@@ -188,6 +190,17 @@ def validate_paper(json_path: str) -> list:
         )
         if total_size > MAX_AUDIO_MB * 1024 * 1024:
             errors.append(f"Total audio size {total_size/1024/1024:.2f}MB exceeds {MAX_AUDIO_MB}MB")
+
+    # Speech rate (WPM) check
+    total_words = sum(len(s.get("english", "").split()) for s in data.get("sentences", []))
+    total_dur = data.get("total_duration_sec", 0)
+    if total_dur > 0:
+        wpm = (total_words / total_dur) * 60.0
+        if wpm < MIN_WPM or wpm > MAX_WPM:
+            errors.append(
+                f"Paper {paper_id} estimated speech rate {wpm:.1f} WPM ({total_words} words / {total_dur:.1f}s) "
+                f"out of allowed range [{MIN_WPM:.0f}, {MAX_WPM:.0f}] WPM"
+            )
 
     return errors
 
