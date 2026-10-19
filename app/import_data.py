@@ -36,65 +36,130 @@ def import_paper_data(data: Dict[str, Any]) -> bool:
         "set_number": data.get("set_number"),
         "category": data.get("category", "cet6-real"),
         "total_duration_sec": data.get("total_duration_sec", 0),
-        "sentence_count": data.get("sentence_count", 0),
+        "sentence_count": len(data.get("sentences", [])),
         "version": data.get("version", 1),
         "audio_path": data.get("audio_path"),
     }
     if not paper["id"]:
         return False
-    updated = db.upsert_paper(paper)
-    if not updated:
-        return False
 
-    # Delete old child records to allow re-import
+    paper_id = paper["id"]
     conn = db.get_conn()
     try:
-        conn.execute("DELETE FROM sections WHERE paper_id = ?", (paper["id"],))
-        conn.execute("DELETE FROM sentences WHERE paper_id = ?", (paper["id"],))
-        conn.execute("DELETE FROM questions WHERE paper_id = ?", (paper["id"],))
+        # 1. Upsert paper row (metadata always updated from JSON truth)
+        conn.execute(
+            """
+            INSERT INTO papers (id, title, year, month, set_number, category, total_duration_sec, sentence_count, version, audio_path)
+            VALUES (:id, :title, :year, :month, :set_number, :category, :total_duration_sec, :sentence_count, :version, :audio_path)
+            ON CONFLICT(id) DO UPDATE SET
+                title=excluded.title,
+                year=excluded.year,
+                month=excluded.month,
+                set_number=excluded.set_number,
+                category=excluded.category,
+                total_duration_sec=excluded.total_duration_sec,
+                sentence_count=excluded.sentence_count,
+                version=excluded.version,
+                audio_path=excluded.audio_path
+            """,
+            paper,
+        )
+
+        # 2. Upsert sections first so new section IDs exist for sentences
+        sections = data.get("sections", [])
+        new_sec_ids = []
+        for sec in sections:
+            sec_id = sec.get("id", f"{paper_id}_sec_{sec.get('sort_order', 0)}")
+            new_sec_ids.append(sec_id)
+            conn.execute(
+                """
+                INSERT INTO sections (id, paper_id, title, section_type, sort_order)
+                VALUES (?, ?, ?, ?, ?)
+                ON CONFLICT(id) DO UPDATE SET
+                    title=excluded.title,
+                    section_type=excluded.section_type,
+                    sort_order=excluded.sort_order
+                """,
+                (sec_id, paper_id, sec.get("title", ""), sec.get("section_type", ""), sec.get("sort_order", 0)),
+            )
+
+        # 3. Upsert sentences (updating fields while preserving user bookmark/accuracy/status)
+        sentences = data.get("sentences", [])
+        new_sent_ids = []
+        for sent in sentences:
+            sent_id = sent.get("id", f"{paper_id}_s_{sent.get('idx', 0)}")
+            new_sent_ids.append(sent_id)
+
+        # Invert existing idx temporarily to avoid unique(paper_id, idx) conflict during reordering
+        conn.execute("UPDATE sentences SET idx = -idx WHERE paper_id = ?", (paper_id,))
+
+        for sent in sentences:
+            sent_id = sent.get("id", f"{paper_id}_s_{sent.get('idx', 0)}")
+            kv = json.dumps(sent.get("key_vocab", []), ensure_ascii=False) if isinstance(sent.get("key_vocab"), list) else sent.get("key_vocab")
+            conn.execute(
+                """
+                INSERT INTO sentences (id, paper_id, section_id, idx, english, chinese, start_time, end_time, audio_path, key_vocab, status, is_bookmarked, dictation_accuracy)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(id) DO UPDATE SET
+                    section_id=excluded.section_id,
+                    idx=excluded.idx,
+                    english=excluded.english,
+                    chinese=excluded.chinese,
+                    start_time=excluded.start_time,
+                    end_time=excluded.end_time,
+                    audio_path=excluded.audio_path,
+                    key_vocab=excluded.key_vocab
+                """,
+                (
+                    sent_id, paper_id, sent.get("section_id"), sent.get("idx", 0),
+                    sent.get("english", ""), sent.get("chinese", ""),
+                    sent.get("start_time", 0), sent.get("end_time", 0),
+                    sent.get("audio_path"), kv,
+                    sent.get("status", "unread"),
+                    1 if sent.get("is_bookmarked") else 0,
+                    sent.get("dictation_accuracy"),
+                ),
+            )
+
+        # 4. Clean up obsolete sections and sentences that no longer exist in new data
+        if new_sec_ids:
+            placeholders_sec = ",".join("?" for _ in new_sec_ids)
+            conn.execute(f"DELETE FROM sections WHERE paper_id = ? AND id NOT IN ({placeholders_sec})", [paper_id] + new_sec_ids)
+        else:
+            conn.execute("DELETE FROM sections WHERE paper_id = ?", (paper_id,))
+
+        if new_sent_ids:
+            placeholders_sent = ",".join("?" for _ in new_sent_ids)
+            conn.execute(f"DELETE FROM sentences WHERE paper_id = ? AND id NOT IN ({placeholders_sent})", [paper_id] + new_sent_ids)
+        else:
+            conn.execute("DELETE FROM sentences WHERE paper_id = ?", (paper_id,))
+
+        # 5. Recreate questions for this paper
+        conn.execute("DELETE FROM questions WHERE paper_id = ?", (paper_id,))
+        for q in data.get("questions", []):
+            opts = json.dumps(q.get("options", []), ensure_ascii=False) if isinstance(q.get("options"), list) else q.get("options")
+            conn.execute(
+                """
+                INSERT INTO questions (id, paper_id, section_id, sentence_id, idx, question_text, options, answer, explanation)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                """,
+                (
+                    q.get("id", f"{paper_id}_q_{q.get('idx', 0)}"),
+                    paper_id,
+                    q.get("section_id"),
+                    q.get("sentence_id"),
+                    q.get("idx", 0),
+                    q.get("question_text", ""),
+                    opts,
+                    q.get("answer", ""),
+                    q.get("explanation", ""),
+                ),
+            )
+
         conn.commit()
+        return True
     finally:
         conn.close()
-
-    for sec in data.get("sections", []):
-        db.insert_section({
-            "id": sec.get("id", f"{paper['id']}_sec_{sec.get('sort_order', 0)}"),
-            "paper_id": paper["id"],
-            "title": sec.get("title", ""),
-            "section_type": sec.get("section_type", ""),
-            "sort_order": sec.get("sort_order", 0),
-        })
-
-    for sent in data.get("sentences", []):
-        db.insert_sentence({
-            "id": sent.get("id", f"{paper['id']}_s_{sent.get('idx', 0)}"),
-            "paper_id": paper["id"],
-            "section_id": sent.get("section_id"),
-            "idx": sent.get("idx", 0),
-            "english": sent.get("english", ""),
-            "chinese": sent.get("chinese", ""),
-            "start_time": sent.get("start_time", 0),
-            "end_time": sent.get("end_time", 0),
-            "audio_path": sent.get("audio_path"),
-            "key_vocab": json.dumps(sent.get("key_vocab", []), ensure_ascii=False) if isinstance(sent.get("key_vocab"), list) else sent.get("key_vocab"),
-            "status": sent.get("status", "unread"),
-            "is_bookmarked": 1 if sent.get("is_bookmarked") else 0,
-            "dictation_accuracy": sent.get("dictation_accuracy"),
-        })
-
-    for q in data.get("questions", []):
-        db.insert_question({
-            "id": q.get("id", f"{paper['id']}_q_{q.get('idx', 0)}"),
-            "paper_id": paper["id"],
-            "section_id": q.get("section_id"),
-            "sentence_id": q.get("sentence_id"),
-            "idx": q.get("idx", 0),
-            "question_text": q.get("question_text", ""),
-            "options": json.dumps(q.get("options", []), ensure_ascii=False) if isinstance(q.get("options"), list) else q.get("options"),
-            "answer": q.get("answer", ""),
-            "explanation": q.get("explanation", ""),
-        })
-    return True
 
 
 def parse_subtitle(text: str, fmt: str) -> List[Dict[str, Any]]:

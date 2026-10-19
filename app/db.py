@@ -8,9 +8,16 @@ DB_PATH = os.environ.get("LISTENINGLAB_DB", "data/listeninglab.db")
 SCHEMA_VERSION = 1
 
 
+def get_db_path() -> str:
+    return os.environ.get("LISTENINGLAB_DB", DB_PATH)
+
+
 def get_conn() -> sqlite3.Connection:
-    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
-    conn = sqlite3.connect(DB_PATH)
+    db_path = get_db_path()
+    dirname = os.path.dirname(db_path)
+    if dirname:
+        os.makedirs(dirname, exist_ok=True)
+    conn = sqlite3.connect(db_path)
     conn.row_factory = sqlite3.Row
     conn.execute("PRAGMA foreign_keys = ON")
     return conn
@@ -135,10 +142,6 @@ CREATE TABLE IF NOT EXISTS settings (
 def upsert_paper(paper: Dict[str, Any]) -> bool:
     conn = get_conn()
     try:
-        cur = conn.execute("SELECT version FROM papers WHERE id = ?", (paper["id"],))
-        row = cur.fetchone()
-        if row and row["version"] >= paper.get("version", 1):
-            return False
         conn.execute(
             """
             INSERT INTO papers (id, title, year, month, set_number, category, total_duration_sec, sentence_count, version, audio_path)
