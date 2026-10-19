@@ -1,0 +1,2483 @@
+{
+  "id": "cet6-2021-06-1",
+  "title": "2021年6月 六级听力真题（第1套）",
+  "year": 2021,
+  "month": 6,
+  "audio_path": "content/papers/cet6-2021-06-1/full.mp3",
+  "total_duration_sec": 1053.1,
+  "sentence_count": 102,
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2021-06-1_sec_1",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section A · 长对话一：跨学科科研合作与大数据分析",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2021-06-1_sec_2",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section A · 长对话二：算法推荐时代的消费者决策",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2021-06-1_sec_3",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section B · 讲座一：人工智能伦理与可解释性机器学习",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2021-06-1_sec_4",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section B · 讲座二：垂直农业技术与全球粮食安全",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2021-06-1_sec_5",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section C · 报道一：电网级物理储能技术与清洁能源消纳",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2021-06-1_sec_6",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section C · 报道二：睡眠生理周期与突触稳态调控",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2021-06-1_sec_7",
+      "paper_id": "cet6-2021-06-1",
+      "title": "Section C · 报道三：微塑料污染与海洋生态营养级富集",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2021-06-1_s_1",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 1,
+      "english": "Good morning, Professor Jenkins; thank you for inviting our computing research group to discuss this exciting interdisciplinary partnership analyzing meteorological climate trends across global scientific domains.",
+      "chinese": "早上好，詹金斯教授；感谢您邀请我们的计算科学研究团队共同探讨这项令人振奋的跨学科合作，共同分析气象气候演变趋势。",
+      "start_time": 0.0,
+      "end_time": 9.961,
+      "key_vocab": [
+        {
+          "word": "interdisciplinary partnership",
+          "definition": "跨学科合作关系"
+        },
+        {
+          "word": "meteorological trends",
+          "definition": "气象演变趋势"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_1.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_2",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 2,
+      "english": "Our core genomics research laboratory is practically drowning under massive petabyte-scale whole-genome sequencing outputs produced by next-generation high-throughput biological sequencing machines across global scientific domains.",
+      "chinese": "我们的核心基因组学研究实验室目前几乎快被下一代高通量生物测序仪产生的千万亿字节级海量全基因组测序数据给彻底淹没了。",
+      "start_time": 10.311,
+      "end_time": 22.072,
+      "key_vocab": [
+        {
+          "word": "inflection point",
+          "definition": "拐点，转折点"
+        },
+        {
+          "word": "observational data",
+          "definition": "实测观测数据"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_2.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_3",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 3,
+      "english": "However, traditional deterministic physics advanced computational algorithms require dozens of supercomputing days simply to simulate a single high-resolution continental weather forecast across changing seasons across global scientific domains.",
+      "chinese": "然而，传统的确定性物理数值算法仅仅为了模拟不同季节变换下的单次高分辨率大陆天气预报，就需要耗费数十个超级计算日的时间。",
+      "start_time": 22.422,
+      "end_time": 33.579,
+      "key_vocab": [
+        {
+          "word": "deterministic algorithms",
+          "definition": "确定性算法"
+        },
+        {
+          "word": "supercomputing days",
+          "definition": "超级计算天数"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_3.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_4",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 4,
+      "english": "By training our specialized neural architectures on forty continuous years of historical global satellite reanalysis data, the model internalizes planetary fluid dynamics across global scientific domains.",
+      "chinese": "通过让我们特化的神经网络架构在连续四十年的历史全球卫星再分析数据上进行深度训练，该模型能够深刻领会并内化全球地球流体动力学规律。",
+      "start_time": 33.929,
+      "end_time": 43.972,
+      "key_vocab": [
+        {
+          "word": "neural architectures",
+          "definition": "神经网络架构"
+        },
+        {
+          "word": "fluid dynamics",
+          "definition": "流体动力学"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_4.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_5",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 5,
+      "english": "Once fully trained, our artificial intelligence model generates accurate ten-day global weather projections in less than sixty seconds on a standard desktop workstation across global scientific domains.",
+      "chinese": "一旦深度训练全部完成，我们的人工智能模型在普通台式工作站上仅需不到六十秒的时间，便能生成精准的未来十天全球天气预测分析。",
+      "start_time": 44.322,
+      "end_time": 54.4,
+      "key_vocab": [
+        {
+          "word": "trained model",
+          "definition": "训练完成的模型"
+        },
+        {
+          "word": "desktop workstation",
+          "definition": "台式工作站"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_5.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_6",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 6,
+      "english": "That extraordinary speed enhancement sounds virtually miraculous, but how robust is the model when confronting unprecedented extreme meteorological anomalies caused by climate disruption?",
+      "chinese": "那种非凡的计算速度提升听起来简直近乎神迹，但在面对因气候破坏引发的前所未有的极端气象异常灾害时，该模型的稳健性究竟如何？",
+      "start_time": 54.75,
+      "end_time": 63.666,
+      "key_vocab": [
+        {
+          "word": "speed enhancement",
+          "definition": "速度提升"
+        },
+        {
+          "word": "meteorological anomalies",
+          "definition": "气象异常灾害"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_6.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_7",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 7,
+      "english": "Our deep learning convolutional neural network models analyze and accurately interpret complex genetic mutation profiles across thousands of samples in merely six minutes across global scientific domains.",
+      "chinese": "我们的深度学习卷积神经网络模型可以在短短六分钟内，对数千份生物样本中极其复杂的基因突变图谱完成全面分析与高精度解读。",
+      "start_time": 64.016,
+      "end_time": 73.884,
+      "key_vocab": [
+        {
+          "word": "loss function",
+          "definition": "损失函数"
+        },
+        {
+          "word": "conservation of energy",
+          "definition": "能量守恒定律"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_7.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_8",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 8,
+      "english": "This physics-informed artificial intelligence hybrid guarantees that simulated storms and atmospheric pressure fronts never violate immutable thermodynamic planetary laws across global scientific domains.",
+      "chinese": "这种融入物理机理的人工智能混合架构能够确保：模拟的风暴气旋与气压锋面绝不会违背恒定不变的地球热力学基本自然法则。",
+      "start_time": 74.234,
+      "end_time": 84.347,
+      "key_vocab": [
+        {
+          "word": "physics-informed AI",
+          "definition": "融入物理机理的AI"
+        },
+        {
+          "word": "thermodynamic laws",
+          "definition": "热力学定律"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_8.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_9",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 9,
+      "english": "That interdisciplinary integration addresses our atmospheric department's primary theoretical concern regarding black-box neural networks in scientific forecasting across global scientific domains.",
+      "chinese": "这种跨学科的有机融合，极其圆满地化解了我们大气科学系关于在严谨科学预测中使用“黑箱”神经网络的最核心理论顾虑。",
+      "start_time": 84.697,
+      "end_time": 93.741,
+      "key_vocab": [
+        {
+          "word": "theoretical concern",
+          "definition": "理论顾虑"
+        },
+        {
+          "word": "black-box networks",
+          "definition": "黑箱神经网络"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_9.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_10",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 10,
+      "english": "We instituted strict automated data sanitization and synthetic noise perturbation routines that completely obscure private personal identifying attributes before training algorithmic models across global scientific domains.",
+      "chinese": "我们在训练算法模型之前，引入了极其严格的自动化数据脱敏与合成噪声扰动机制，能够彻底隐匿个人的私密身份标识属性。",
+      "start_time": 94.091,
+      "end_time": 104.296,
+      "key_vocab": [
+        {
+          "word": "cryosphere models",
+          "definition": "冰冻圈模型"
+        },
+        {
+          "word": "computationally tractable",
+          "definition": "在计算上可处理的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_10.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_11",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 11,
+      "english": "Our joint cross-departmental initiative will empower vulnerable developing nations with accessible, high-precision localized early-warning infrastructure for extreme typhoons and floods across global scientific domains.",
+      "chinese": "我们的跨院系联合攻关计划将赋能脆弱的发展中国家，使其获得经济普惠、高精度的超强台风与洪涝灾害本地化早期预警基础设施。",
+      "start_time": 104.646,
+      "end_time": 115.455,
+      "key_vocab": [
+        {
+          "word": "joint initiative",
+          "definition": "联合倡议攻关"
+        },
+        {
+          "word": "early-warning infrastructure",
+          "definition": "早期预警基础设施"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_11.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_12",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "idx": 12,
+      "english": "Our collaborative research findings could drastically compress the standard diagnostic timeline for rare pediatric genetic disorders from several exhausting months down to under twenty-four hours.",
+      "chinese": "我们的联合研究成果有望将罕见儿童遗传性疾病的标准临床确诊周期，从长达数月令人心力交瘁的漫长等待大幅压缩至二十四小时以内。",
+      "start_time": 115.805,
+      "end_time": 124.362,
+      "key_vocab": [
+        {
+          "word": "collaborative innovation",
+          "definition": "协作创新"
+        },
+        {
+          "word": "safeguarding planetary future",
+          "definition": "守护地球未来"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_12.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_13",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 13,
+      "english": "It is a pleasure, Elena; digital commercial platforms have fundamentally reorganized how modern individuals discover information, evaluate products, and formulate purchasing determinations across global scientific domains.",
+      "chinese": "很高兴参加交流，埃琳娜；数字商业互联网平台已经从根本上彻底重塑了现代个体发现信息、评估甄选商品以及做出最终购买决断的方式。",
+      "start_time": 124.712,
+      "end_time": 135.869,
+      "key_vocab": [
+        {
+          "word": "digital platforms",
+          "definition": "数字平台"
+        },
+        {
+          "word": "purchasing determinations",
+          "definition": "购买决断"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_13.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_14",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 14,
+      "english": "In the early era of electronic commerce, recommendation engines operated as rudimentary collaborative filters matching customers with broadly similar historical browsing patterns across global scientific domains.",
+      "chinese": "在电子商务发展的早期时代，推荐引擎仅仅作为粗糙的协同过滤算法运行，机械地将消费者与具有大体相似历史浏览轨迹的用户进行匹配。",
+      "start_time": 136.219,
+      "end_time": 146.366,
+      "key_vocab": [
+        {
+          "word": "electronic commerce",
+          "definition": "电子商务"
+        },
+        {
+          "word": "collaborative filters",
+          "definition": "协同过滤器"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_14.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_15",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 15,
+      "english": "They capture subconscious behavioral signals like micro-pauses while scrolling, mouse cursor hesitation trajectories, and precisely timed intervals spent reviewing user reviews across global scientific domains.",
+      "chinese": "它们能够精准捕捉潜意识层面的微观行为信号，例如用户在滑动屏幕时的微小停顿、鼠标光标犹豫不决的滑动轨迹，以及查看评论时所停留的具体秒数。",
+      "start_time": 146.716,
+      "end_time": 157.06,
+      "key_vocab": [
+        {
+          "word": "behavioral micro-signals",
+          "definition": "行为微信号"
+        },
+        {
+          "word": "cursor scrolling",
+          "definition": "光标滚动"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_15.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_16",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 16,
+      "english": "While platform operators champion this seamless personalization as supreme consumer convenience, critical behavioral economists warn of insidious psychological manipulation across global scientific domains.",
+      "chinese": "虽然互联网平台运营商极力赞美这种无缝个性化服务是至高无上的消费者便利，但敏锐的行为经济学家却严正警告这背后不易察觉的心理操纵。",
+      "start_time": 157.41,
+      "end_time": 167.163,
+      "key_vocab": [
+        {
+          "word": "seamless personalization",
+          "definition": "无缝个性化"
+        },
+        {
+          "word": "psychological manipulation",
+          "definition": "心理操纵"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_16.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_17",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 17,
+      "english": "When proprietary advanced computational algorithms detect emotional fatigue, cognitive vulnerability, or indecisiveness, they inject artificial urgency cues like countdown clocks to provoke rash impulsive purchases.",
+      "chinese": "一旦专有算法监测到用户出现情绪疲劳、心理防线薄弱或犹豫不决时，便会趁虚而入植入倒计时时钟等人为制造紧迫感的提示，诱导非理性冲动消费。",
+      "start_time": 167.513,
+      "end_time": 179.088,
+      "key_vocab": [
+        {
+          "word": "filter bubbles",
+          "definition": "过滤气泡，信息茧房"
+        },
+        {
+          "word": "cognitive curiosity",
+          "definition": "认知好奇心"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_17.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_18",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 18,
+      "english": "Furthermore, predatory commercial advanced computational algorithms exploit predictable biological vulnerabilities, prompting impulse purchases during late-night hours when executive self-control is exhausted across global scientific domains.",
+      "chinese": "此外，具有掠夺性的商业算法还会狡黠地利用人类可预测的生物弱点，在人们深夜自控力处于极度疲惫耗竭的状态下，诱发非理性冲动消费。",
+      "start_time": 179.438,
+      "end_time": 191.268,
+      "key_vocab": [
+        {
+          "word": "predatory algorithms",
+          "definition": "掠夺性算法"
+        },
+        {
+          "word": "impulse purchases",
+          "definition": "冲动购买"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_18.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_19",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 19,
+      "english": "Beyond individual household budgets, what systemic threats do these hyper-targeted algorithmic recommendation architectures pose to healthy market competition?",
+      "chinese": "除了对普通家庭日常财务预算造成冲击，这些高度定向的算法推荐架构对健康的市场竞争秩序构成了哪些系统性的潜在威胁？",
+      "start_time": 191.618,
+      "end_time": 199.13,
+      "key_vocab": [
+        {
+          "word": "household budgets",
+          "definition": "家庭预算"
+        },
+        {
+          "word": "market competition",
+          "definition": "市场竞争"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_19.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_20",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 20,
+      "english": "Major dominant commercial monopoly platforms systematically distort open market competition by covertly boosting self-preferenced in-house brands while penalizing independent third-party merchant search rankings across global scientific domains.",
+      "chinese": "占据主导地位的大型商业垄断平台通过隐秘提升自营自产品牌的曝光权重，同时刻意打压独立第三方商家的搜索排名，系统性扭曲了自由开放的市场公平竞争。",
+      "start_time": 199.48,
+      "end_time": 211.543,
+      "key_vocab": [
+        {
+          "word": "recommendation rankings",
+          "definition": "推荐排名"
+        },
+        {
+          "word": "private-label goods",
+          "definition": "自有品牌商品"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_20.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_21",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 21,
+      "english": "This algorithmic self-preferencing distorts open free-market mechanisms, extinguishing entrepreneurial competition and stifling technological product innovation across the economy across global scientific domains.",
+      "chinese": "这种算法上的自我优待与偏袒行为严重扭曲了开放公平的自由市场机制，抹杀了中小企业的创业竞争活力，并扼杀了整个经济体内部的科技产品创新。",
+      "start_time": 211.893,
+      "end_time": 222.353,
+      "key_vocab": [
+        {
+          "word": "algorithmic self-preferencing",
+          "definition": "算法自我优待"
+        },
+        {
+          "word": "stifling innovation",
+          "definition": "扼杀创新"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_21.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_22",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 22,
+      "english": "Under pioneering consumer protection statutes, buyers are guaranteed the unalienable legal right to complete algorithmic transparency, clear auditability, and immediate human dispute intervention across global scientific domains.",
+      "chinese": "根据具有先驱意义的消费者权益保护新法规，消费者依法享有完全知情算法推荐透明度、要求清晰审计追踪，以及在遭遇不公时立即申请人工介入争议仲裁的不可剥夺的法定权利。",
+      "start_time": 222.703,
+      "end_time": 234.94,
+      "key_vocab": [
+        {
+          "word": "legislative mandates",
+          "definition": "立法授权指令"
+        },
+        {
+          "word": "behavioral surveillance",
+          "definition": "行为监控"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_22.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_23",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 23,
+      "english": "Additionally, digital antitrust authorities are investigating algorithmic self-preferencing practices, demanding regular independent third-party bias and audit verifications across global scientific domains.",
+      "chinese": "此外，数字反垄断执法权威机构正在对算法自我优待行为展开深入调查，硬性要求平台定期接受独立的第三方偏见审查与代码审计验证。",
+      "start_time": 235.29,
+      "end_time": 245.24,
+      "key_vocab": [
+        {
+          "word": "antitrust authorities",
+          "definition": "反垄断机构"
+        },
+        {
+          "word": "audit verifications",
+          "definition": "审计验证"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_23.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_24",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "idx": 24,
+      "english": "Empowering consumers with digital agency and algorithmic transparency ensures that electronic technology serves human liberty rather than corporate commercial exploitation across global scientific domains.",
+      "chinese": "赋予消费者充足的数字自主掌控权与算法透明知情权，才能真正确保电子信息科技服务于人类的自由发展，而非沦为垄断企业商业剥削的工具。",
+      "start_time": 245.59,
+      "end_time": 257.281,
+      "key_vocab": [
+        {
+          "word": "digital agency",
+          "definition": "数字自主权"
+        },
+        {
+          "word": "commercial exploitation",
+          "definition": "商业剥削"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_24.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_25",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 25,
+      "english": "Over the past decade, deep neural network advanced computational algorithms have transcended theoretical research laboratories to command vital decision-making nodes across human civilization across global scientific domains.",
+      "chinese": "在过去十年中，深度神经网络算法早已跨越了理论实验室的藩篱，广泛掌控了贯穿人类现代文明运转的各个关键决策枢纽节点。",
+      "start_time": 257.631,
+      "end_time": 268.429,
+      "key_vocab": [
+        {
+          "word": "decision-making nodes",
+          "definition": "决策节点"
+        },
+        {
+          "word": "transcended",
+          "definition": "跨越，超越"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_25.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_26",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 26,
+      "english": "However, the seductive promise of pure mathematical objectivity frequently masks a deeply insidious sociotechnical reality: systemic algorithmic bias and historical discrimination across global scientific domains.",
+      "chinese": "然而，纯粹数学客观性那诱人光鲜的表面承诺，往往掩盖着一个极易被忽视且深具危害的社会技术现实：系统性的算法偏见与历史歧视。",
+      "start_time": 268.779,
+      "end_time": 280.017,
+      "key_vocab": [
+        {
+          "word": "mathematical objectivity",
+          "definition": "数学客观性"
+        },
+        {
+          "word": "algorithmic bias",
+          "definition": "算法偏见"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_26.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_27",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 27,
+      "english": "Because commercial machine learning recommendation advanced computational algorithms are engineered to optimize user engagement metrics, they routinely amplify sensationalist, polarizing, and unverified viral content across global scientific domains.",
+      "chinese": "由于商业机器学习推荐算法的底层逻辑被设计为片面追求用户参与互动率等商业指标，它们往往在客观上大肆助推骇人听闻、挑动情绪对立以及未经核实的病毒式虚假爆点内容。",
+      "start_time": 280.367,
+      "end_time": 292.198,
+      "key_vocab": [
+        {
+          "word": "moral vacuum",
+          "definition": "道德真空"
+        },
+        {
+          "word": "historical datasets",
+          "definition": "历史数据集"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_27.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_28",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 28,
+      "english": "When an algorithm ingests historical employment hiring records that favored male candidates over qualified females, it dutifully replicates that injustice under mathematical guise across global scientific domains.",
+      "chinese": "当一套算法深度学习吞吐了历史上偏好男性求职者而歧视合格女性的招聘记录时，它便会在看似客观公正的数学外衣下，忠实复制这种历史不公。",
+      "start_time": 292.548,
+      "end_time": 302.683,
+      "key_vocab": [
+        {
+          "word": "hiring records",
+          "definition": "招聘记录"
+        },
+        {
+          "word": "mathematical guise",
+          "definition": "数学伪装外衣"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_28.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_29",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 29,
+      "english": "Studies revealed that advanced computational algorithms incorrectly classified minority defendants as high risk twice as frequently as white defendants with identical criminal records across global scientific domains.",
+      "chinese": "多项独立严谨的研究揭示：在具有完全相同前科记录的情况下，算法错误地将少数族裔被告人归类为高危再犯人群的频率高达白人被告人的两倍之多。",
+      "start_time": 303.033,
+      "end_time": 312.728,
+      "key_vocab": [
+        {
+          "word": "minority defendants",
+          "definition": "少数族裔被告"
+        },
+        {
+          "word": "criminal records",
+          "definition": "犯罪记录"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_29.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_30",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 30,
+      "english": "When opaque neural network advanced computational algorithms deny credit mortgage applications, predict criminal recidivism risks, or triage emergency medical candidates, their decision-making pathways remain completely impenetrable to human comprehension.",
+      "chinese": "当不透明的深层神经网络算法被用于驳回房贷申请、评估刑事犯人再犯风险，或是对急诊医疗救治患者进行分诊排队时，其内部决策推理路径对人类理解而言完全是一团无法穿透的黑箱。",
+      "start_time": 313.078,
+      "end_time": 325.431,
+      "key_vocab": [
+        {
+          "word": "societal danger",
+          "definition": "社会危害"
+        },
+        {
+          "word": "black-box dilemma",
+          "definition": "黑箱困境"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_30.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_31",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 31,
+      "english": "While modern advanced computational algorithms can achieve breathtaking predictive accuracy across millions of mathematical weights, human computer scientists cannot explain why a specific decision was reached.",
+      "chinese": "尽管现代算法凭借数以亿计的微观数学权重能够在预测准确率上达到惊人水准，但人类计算机科学家却根本无法解释为何算法会做出某一特定决策。",
+      "start_time": 325.781,
+      "end_time": 335.208,
+      "key_vocab": [
+        {
+          "word": "predictive accuracy",
+          "definition": "预测准确率"
+        },
+        {
+          "word": "mathematical weights",
+          "definition": "数学权重"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_31.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_32",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 32,
+      "english": "When an automated diagnostic tool recommends denying medical care to a patient, that impenetrable lack of interpretability violates fundamental medical ethics across global scientific domains.",
+      "chinese": "当一套自动化医疗诊断工具建议拒绝对某位危重患者施予某种救治时，那种无法看透的解释性缺失，直接违背了根本性的医学伦理信条。",
+      "start_time": 335.558,
+      "end_time": 344.672,
+      "key_vocab": [
+        {
+          "word": "interpretability",
+          "definition": "可解释性"
+        },
+        {
+          "word": "medical ethics",
+          "definition": "医学伦理"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_32.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_33",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 33,
+      "english": "To address this pressing accountability deficit, computer scientists and ethicists are aggressively pioneering the burgeoning field of explainable artificial intelligence across global scientific domains.",
+      "chinese": "为了化解这一迫在眉睫的问责责任缺失危机，计算机科学家与伦理学家正在全力开辟蓬勃发展的“可解释性人工智能”前沿学科领域。",
+      "start_time": 345.022,
+      "end_time": 354.136,
+      "key_vocab": [
+        {
+          "word": "accountability deficit",
+          "definition": "问责缺失"
+        },
+        {
+          "word": "explainable AI",
+          "definition": "可解释性AI"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_33.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_34",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 34,
+      "english": "Techniques like local interpretable model-agnostic explanations extract surrogate interpretable rules that reveal which input variables drove a specific automated algorithmic determination across global scientific domains.",
+      "chinese": "诸如“局部可解释模型无关解释”等前沿算法技术，能够提炼出代理性的可解释规则，精准揭示究竟是哪些关键输入变量主导了某一特定算法判定。",
+      "start_time": 354.486,
+      "end_time": 364.888,
+      "key_vocab": [
+        {
+          "word": "model-agnostic",
+          "definition": "模型无关的"
+        },
+        {
+          "word": "input variables",
+          "definition": "输入变量"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_34.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_35",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 35,
+      "english": "Simultaneously, algorithmic fairness researchers are creating mathematical fairness constraints that audit and neutralize demographic disparities during neural network training epochs across global scientific domains.",
+      "chinese": "与此同时，算法公平性研究人员正在构建数学层面的公平约束方程式，在神经网络的每个训练周期中对人口统计学偏倚进行主动审计与中和消除。",
+      "start_time": 365.238,
+      "end_time": 375.234,
+      "key_vocab": [
+        {
+          "word": "fairness constraints",
+          "definition": "公平性约束"
+        },
+        {
+          "word": "demographic disparities",
+          "definition": "人口统计学差异"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_35.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_36",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 36,
+      "english": "However, mathematical fairness constraints alone cannot resolve deep structural inequalities that originate in broader economic and political institutions across global scientific domains.",
+      "chinese": "然而，仅仅依靠数学算法层面的公平性约束，根本无法从根源上彻底解决植根于更广泛经济体制与政治制度之中的深层结构性不平等。",
+      "start_time": 375.584,
+      "end_time": 384.164,
+      "key_vocab": [
+        {
+          "word": "structural inequalities",
+          "definition": "结构性不平等"
+        },
+        {
+          "word": "political institutions",
+          "definition": "政治制度机构"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_36.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_37",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 37,
+      "english": "Technical interventions must be matched by robust human-in-the-loop oversight mechanisms that empower human specialists to review and override automated decisions across global scientific domains.",
+      "chinese": "纯技术层面的算法干预必须与强有力的“人在回路”监管机制相配套，赋予人类专业人士全面复核并随时否决自动化决策的最终决定权。",
+      "start_time": 384.514,
+      "end_time": 394.069,
+      "key_vocab": [
+        {
+          "word": "human-in-the-loop",
+          "definition": "人在回路监管"
+        },
+        {
+          "word": "override decisions",
+          "definition": "否决推翻决定"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_37.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_38",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 38,
+      "english": "Rigorous independent external algorithmic audits and mandatory algorithmic impact assessments must accompany the societal deployment of artificial intelligence in high-stakes public domains across global scientific domains.",
+      "chinese": "在事关重大人身权益的高风险公共领域推广部署人工智能时，必须强制配套推行严谨的独立第三方外部算法审计机制与算法社会影响综合评估。",
+      "start_time": 394.419,
+      "end_time": 404.891,
+      "key_vocab": [
+        {
+          "word": "human liberty",
+          "definition": "人身自由"
+        },
+        {
+          "word": "delegated exclusively",
+          "definition": "排他性委托"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_38.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_39",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 39,
+      "english": "International legislative bodies are currently drafting strict regulatory frameworks mandating comprehensive algorithmic audits and fundamental human rights impact assessments across global scientific domains.",
+      "chinese": "国际立法机构目前正在起草严格的监管框架法案，强制要求所有高风险商业算法必须接受全面的代码审计以及基本人权影响评估。",
+      "start_time": 405.241,
+      "end_time": 415.098,
+      "key_vocab": [
+        {
+          "word": "legislative bodies",
+          "definition": "立法机构"
+        },
+        {
+          "word": "impact assessments",
+          "definition": "影响评估"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_39.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_40",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 40,
+      "english": "Companies deploying high-risk artificial intelligence must demonstrate verifiable compliance with transparent accountability, bias elimination, and robust security protocols across global scientific domains.",
+      "chinese": "部署高风险人工智能系统的科技企业，必须拿出切实可验证的履约证据，证明其符合透明问责、消除偏见以及坚固的安全防护协议要求。",
+      "start_time": 415.448,
+      "end_time": 426.338,
+      "key_vocab": [
+        {
+          "word": "verifiable compliance",
+          "definition": "可验证的合规性"
+        },
+        {
+          "word": "security protocols",
+          "definition": "安全协议"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_40.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_41",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 41,
+      "english": "We must instill the conviction that software code is not ethically neutral, but represents an active crystallization of human values and societal priorities across global scientific domains.",
+      "chinese": "我们必须在青年学子心中深植这一坚定信念：软件代码绝不是伦理中立的，它正是人类价值观念与社会优先事项的主动结晶与制度化载体。",
+      "start_time": 426.688,
+      "end_time": 435.535,
+      "key_vocab": [
+        {
+          "word": "ethically neutral",
+          "definition": "伦理中立的"
+        },
+        {
+          "word": "active crystallization",
+          "definition": "主动的结晶体现"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_41.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_42",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "idx": 42,
+      "english": "Only through vigorous democratic governance, multidisciplinary auditing, and ethical intentionality can we harness artificial intelligence to build a more just human world across global scientific domains.",
+      "chinese": "唯有依靠强有力的民主治理、多学科交叉审计以及自觉的伦理初心，我们才能真正驾驭人工智能技术，共同构建一个更加公正美好的天下大同世界。",
+      "start_time": 435.885,
+      "end_time": 445.87,
+      "key_vocab": [
+        {
+          "word": "democratic governance",
+          "definition": "民主化治理"
+        },
+        {
+          "word": "ethical intentionality",
+          "definition": "自觉的伦理初心"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_42.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_43",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 43,
+      "english": "For roughly ten thousand years since the dawn of the Neolithic revolution, human civilization has relied almost exclusively on horizontal field modern sustainable agriculture across global scientific domains.",
+      "chinese": "自大约一万年前新石器时代农业革命破晓以来，人类文明几乎完全依赖平铺展开的地表大田农业来繁衍生息。",
+      "start_time": 446.22,
+      "end_time": 456.425,
+      "key_vocab": [
+        {
+          "word": "Neolithic revolution",
+          "definition": "新石器时代农业革命"
+        },
+        {
+          "word": "horizontal agriculture",
+          "definition": "地表水平农业"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_43.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_44",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 44,
+      "english": "Today, conventional open-field cultivation occupies nearly half of Earth's habitable land, consuming seventy percent of planetary freshwater and generating one-third of greenhouse emissions across global scientific domains.",
+      "chinese": "而如今，传统大田露天种植占据了地球近半数的可居住土地面积，消耗着全球百分之七十的可利用淡水，并产生了全球三分之一的温室气体排放。",
+      "start_time": 456.775,
+      "end_time": 468.304,
+      "key_vocab": [
+        {
+          "word": "habitable land",
+          "definition": "适宜居住土地"
+        },
+        {
+          "word": "greenhouse emissions",
+          "definition": "温室气体排放"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_44.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_45",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 45,
+      "english": "Furthermore, industrial farming methods have precipitated catastrophic environmental devastation, including accelerating topsoil erosion, widespread nitrogen fertilizer runoff, and devastating global deforestation across global scientific domains.",
+      "chinese": "更有甚者，工业化大田农业生产方式引发了灾难性的生态环境破坏，包括表土层加速流失侵蚀、大范围氮肥流失富营养化，以及灾难性的全球森林砍伐砍伐。",
+      "start_time": 468.654,
+      "end_time": 482.063,
+      "key_vocab": [
+        {
+          "word": "topsoil erosion",
+          "definition": "表土侵蚀"
+        },
+        {
+          "word": "nitrogen runoff",
+          "definition": "氮素地表径流污染"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_45.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_46",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 46,
+      "english": "According to United Nations Food and Agriculture Organization projections, humanity must expand global agricultural food production by sixty percent to nourish nearly ten billion people by 2050.",
+      "chinese": "根据联合国粮食及农业组织权威预测，到2050年全球人口将逼近一百亿大关，全人类必须将全球农业粮食综合产出能力提升足足百分之六十，才能免于普遍饥荒。",
+      "start_time": 482.413,
+      "end_time": 492.932,
+      "key_vocab": [
+        {
+          "word": "acute liabilities",
+          "definition": "严峻的负债"
+        },
+        {
+          "word": "anthropogenic disruption",
+          "definition": "人为破坏"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_46.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_47",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 47,
+      "english": "Producing sixty percent more food through conventional soil farming is physically impossible without destroying the remaining biodiverse tropical rainforests across our planet across global scientific domains.",
+      "chinese": "如果继续依靠传统的开荒泥土耕作方式来实现粮食增产60%，在物理空间上根本绝无可能，除非将地球上仅存的生物多样性热带雨林彻底砍伐破坏殆尽。",
+      "start_time": 493.282,
+      "end_time": 502.964,
+      "key_vocab": [
+        {
+          "word": "soil farming",
+          "definition": "土壤农耕"
+        },
+        {
+          "word": "tropical rainforests",
+          "definition": "热带雨林"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_47.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_48",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 48,
+      "english": "Faced with this existential ecological bottleneck, innovative agricultural engineers are pioneering controlled-environment vertical modern sustainable agriculture inside multi-story repurposed urban warehouses across global scientific domains.",
+      "chinese": "面对这一生死攸关的生态瓶颈绝境，富有创新精神的农业工程师正在多层废弃改造的城市工业仓库内部，先锋开辟受控环境垂直农业新天地。",
+      "start_time": 503.314,
+      "end_time": 515.319,
+      "key_vocab": [
+        {
+          "word": "existential bottleneck",
+          "definition": "生死攸关的瓶颈"
+        },
+        {
+          "word": "controlled-environment",
+          "definition": "受控环境"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_48.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_49",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 49,
+      "english": "Within these sealed, bioclimatically regulated facilities, plants grow entirely without natural soil, suspended in sterile hydroponic nutrient baths or fine aeroponic mist sprays across global scientific domains.",
+      "chinese": "在这些全密闭、生物气候精准调控的现代化设施内部，作物完全脱离天然泥土生长，悬挂在无菌水培营养液水槽或超细气雾培微雾喷雾之中。",
+      "start_time": 515.669,
+      "end_time": 527.082,
+      "key_vocab": [
+        {
+          "word": "hydroponic nutrient",
+          "definition": "水培营养液"
+        },
+        {
+          "word": "aeroponic mist",
+          "definition": "气雾培微雾"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_49.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_50",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 50,
+      "english": "Aeroponic misting systems deliver precise, oxygen-saturated micro-droplets of nitrogen, phosphorus, and potassium directly to bare plant roots at scheduled algorithmic intervals across global scientific domains.",
+      "chinese": "气雾喷雾系统能够按照预设的计算机算法时间间隔，将富含氧气、按比例调配的氮磷钾等营养微滴直接精准喷射滋养裸露的植物根系。",
+      "start_time": 527.432,
+      "end_time": 537.846,
+      "key_vocab": [
+        {
+          "word": "oxygen-saturated",
+          "definition": "富含氧气饱和的"
+        },
+        {
+          "word": "algorithmic intervals",
+          "definition": "算法控制的时间间隔"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_50.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_51",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 51,
+      "english": "Because all runoff moisture is systematically condensed and recirculated through closed-loop filtration, vertical hydroponic facilities consume ninety-five percent less water than conventional outdoor farms across global scientific domains.",
+      "chinese": "由于所有循环滴落的多余水分都会被系统化冷凝回收并通过闭环过滤系统再利用，垂直水培设施的耗水量比传统露天农场足足减少了百分之九十五之多。",
+      "start_time": 538.196,
+      "end_time": 549.632,
+      "key_vocab": [
+        {
+          "word": "closed-loop filtration",
+          "definition": "闭环过滤"
+        },
+        {
+          "word": "outdoor farms",
+          "definition": "露天农场"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_51.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_52",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 52,
+      "english": "Advanced aeroponic indoor vertical farming atomizes mineral nutrient solutions into micro-droplets, spraying exposed roots in dark growth chambers and slashing water consumption by ninety-five percent.",
+      "chinese": "先进的气雾培室内垂直农业将富含矿物质的营养液雾化为微观细雾，在避光生长舱内直接喷洒裸露的植物根系，能够将农业用水消耗惊人地缩减百分之九十五。",
+      "start_time": 549.982,
+      "end_time": 559.769,
+      "key_vocab": [
+        {
+          "word": "growing chambers",
+          "definition": "种植生长舱"
+        },
+        {
+          "word": "chemical pesticides",
+          "definition": "化学农药杀虫剂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_52.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_53",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 53,
+      "english": "By delivering optimized photon recipes around the clock, vertical growers accelerate plant metabolic growth cycles, harvesting high-yield leafy vegetables in twenty days instead of sixty.",
+      "chinese": "通过全天候不间断输送最优化的光子光照配方，垂直农场种植者大幅加速了植物的新陈代谢生长周期，仅需二十天便能采收高产绿叶蔬菜，而非传统的大田六十天。",
+      "start_time": 560.119,
+      "end_time": 568.792,
+      "key_vocab": [
+        {
+          "word": "optimized photon recipes",
+          "definition": "优化的光子配方"
+        },
+        {
+          "word": "accelerate growth cycles",
+          "definition": "加速生长周期"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_53.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_54",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 54,
+      "english": "Situated directly inside or adjacent to major metropolitan consumption hubs, vertical farms eliminate thousands of fossil-fueled transport miles from farm to consumer tables across global scientific domains.",
+      "chinese": "直接坐落在大都市消费腹地内部或其紧邻区域，垂直立体农场彻底免去了从偏远产地到千家万户餐桌之间长达数千英里的高碳冷链运输里程。",
+      "start_time": 569.142,
+      "end_time": 579.66,
+      "key_vocab": [
+        {
+          "word": "metropolitan hubs",
+          "definition": "大都市核心枢纽"
+        },
+        {
+          "word": "fossil-fueled transport",
+          "definition": "化石燃料交通运输"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_54.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_55",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 55,
+      "english": "High initial capital procurement costs for precision LED grow fixtures and climate control automation create substantial economic risks for vertical agricultural operators across global scientific domains.",
+      "chinese": "用于高精度LED植物补光灯具以及全自动恒温恒湿环境控制系统的昂贵初始设备采购成本，给垂直农业项目的商业运营带来了巨大的初期资金压力与投资风险。",
+      "start_time": 580.01,
+      "end_time": 589.763,
+      "key_vocab": [
+        {
+          "word": "commercial expansion",
+          "definition": "商业规模化扩张"
+        },
+        {
+          "word": "electrical power consumption",
+          "definition": "电力能源消耗"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_55.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_56",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 56,
+      "english": "Powering thousands of high-intensity LED light fixtures and industrial dehumidification cooling fans twenty-four hours daily renders vertical produce financially uncompetitive against cheap outdoor modern sustainable agriculture.",
+      "chinese": "二十四小时不间断点亮数以万计的大功率高亮度LED灯具以及运转工业除湿散热风机，使得室内蔬菜的成本目前在廉价露天蔬菜面前缺乏价格竞争力。",
+      "start_time": 590.113,
+      "end_time": 601.734,
+      "key_vocab": [
+        {
+          "word": "light fixtures",
+          "definition": "照明灯具装置"
+        },
+        {
+          "word": "dehumidification cooling",
+          "definition": "除湿降温"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_56.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_57",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 57,
+      "english": "Currently, the vast majority of commercial vertical indoor facilities remain economically confined to cultivating short-cycle leafy greens, salad herbs, and premium gourmet microgreens.",
+      "chinese": "目前在商业实践中，绝大多数室内垂直农场由于成本考量，在种植品种上依然局限于生长周期短的绿叶蔬菜、沙拉香草以及高附加值的精品高端微型蔬菜。",
+      "start_time": 602.084,
+      "end_time": 611.407,
+      "key_vocab": [
+        {
+          "word": "calorie-dense grains",
+          "definition": "高热量粮食谷物"
+        },
+        {
+          "word": "caloric sustenance",
+          "definition": "卡路里生存维系"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_57.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_58",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 58,
+      "english": "To overcome this energetic constraint, research consortia are pairing vertical modern sustainable agriculture with dedicated on-site geothermal clean renewable energy tapings and co-located industrial waste heat capture.",
+      "chinese": "为了彻底跨越这一高能耗瓶颈，前沿科研财团正在将垂直农业与专用的现场地热能开发开采以及相邻工业余热捕集回收系统进行紧密耦合。",
+      "start_time": 611.757,
+      "end_time": 623.146,
+      "key_vocab": [
+        {
+          "word": "geothermal energy",
+          "definition": "地热能"
+        },
+        {
+          "word": "waste heat capture",
+          "definition": "余热捕集回收"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_58.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_59",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 59,
+      "english": "Simultaneously, plant geneticists are breeding dwarfed staple crop varieties specifically optimized for compact vertical growth, early maturity, and elevated photosynthetic conversion efficiency.",
+      "chinese": "与此同时，植物遗传育种学家正在培育专门针对紧凑立体空间垂直生长、早熟且具备超高光能转化效率的矮化主粮作物品种。",
+      "start_time": 623.496,
+      "end_time": 632.842,
+      "key_vocab": [
+        {
+          "word": "plant geneticists",
+          "definition": "植物遗传学家"
+        },
+        {
+          "word": "dwarfed varieties",
+          "definition": "矮化作物品种"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_59.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_60",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "idx": 60,
+      "english": "Vertical farming represents not an abandonment of nature, but an intelligent technological adaptation that frees wild terrestrial landscapes to heal and rewild naturally.",
+      "chinese": "垂直立体农业绝不代表着对大自然的背叛与遗弃，而是一种高度智慧的科技适应与反哺，它能将广袤的陆地自然荒野重新释放出来，让自然自由修复野化。",
+      "start_time": 633.192,
+      "end_time": 641.227,
+      "key_vocab": [
+        {
+          "word": "technological adaptation",
+          "definition": "技术适应升级"
+        },
+        {
+          "word": "rewild naturally",
+          "definition": "自然野化修复"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_60.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_61",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 61,
+      "english": "As nations across the globe accelerate the decommissioning of carbon-emitting thermal power plants, electricity grids confront a profound operational challenge: renewable intermittency.",
+      "chinese": "随着全球各国加速退役淘汰排放温室气体的燃煤火电厂，现代国家电力电网正遭遇一个极其严峻的电网级运营挑战：可再生能源的间歇性波动难题。",
+      "start_time": 641.577,
+      "end_time": 650.365,
+      "key_vocab": [
+        {
+          "word": "decommissioning",
+          "definition": "退役，停运"
+        },
+        {
+          "word": "renewable intermittency",
+          "definition": "可再生能源间歇性"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_61.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_62",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 62,
+      "english": "Intermittent weather fluctuations cause volatile supply drops or disruptive oversupply surges, threatening electrical distribution stability across regional transmission deep neural networks.",
+      "chinese": "间歇性多变的气象波动会导致发电侧出现断崖式突发下滑或破坏性的过剩冲击，对区域输电管网系统的供需平衡与运行稳定性构成了极其严峻的威胁。",
+      "start_time": 650.715,
+      "end_time": 659.759,
+      "key_vocab": [
+        {
+          "word": "turbines",
+          "definition": "涡轮发电机"
+        },
+        {
+          "word": "meteorological conditions",
+          "definition": "气象条件"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_62.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_63",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 63,
+      "english": "Conversely, during prolonged winter lulls when wind dies down and solar capture plummets, utilities must rely on polluting peaker plants to prevent catastrophic blackouts.",
+      "chinese": "相反，在无风少阳的漫长严冬静稳天气下，风电与光伏出力呈断崖式归零，公用事业电网不得不启动高污染的应急调峰机组，以防止发生大面积停电灾难。",
+      "start_time": 660.109,
+      "end_time": 667.83,
+      "key_vocab": [
+        {
+          "word": "winter lulls",
+          "definition": "冬季静风少光期"
+        },
+        {
+          "word": "peaker plants",
+          "definition": "调峰电厂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_63.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_64",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 64,
+      "english": "While chemical lithium-ion batteries serve admirably for two-hour urban smoothing, their scarce mineral materials and prohibitive costs make them economically unviable for long-duration grid-scale physical storage.",
+      "chinese": "虽然化学锂离子电池在应对一至两小时的城市短时电网平滑调峰方面表现优异，但其稀缺的矿物原材料与昂贵成本使其在长时储能领域缺乏经济可行性。",
+      "start_time": 668.18,
+      "end_time": 678.931,
+      "key_vocab": [
+        {
+          "word": "scarce minerals",
+          "definition": "稀缺矿物"
+        },
+        {
+          "word": "long-duration storage",
+          "definition": "长时储能"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_64.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_65",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 65,
+      "english": "The most mature and thermodynamically promising bulk technology is advanced compressed air clean renewable energy grid-scale physical storage, constructed within colossal subterranean geological formations.",
+      "chinese": "其中技术最为成熟、在热力学上最富前景的大宗储能路线，当属构建在深层地下庞大优质地质构造内部的先进压缩空气储能系统。",
+      "start_time": 679.281,
+      "end_time": 690.171,
+      "key_vocab": [
+        {
+          "word": "compressed air energy",
+          "definition": "压缩空气储能"
+        },
+        {
+          "word": "geological formations",
+          "definition": "地质构造"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_65.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_66",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 66,
+      "english": "During daytime periods of surplus renewable generation, massive electric compressors pump atmospheric air under immense pressure into sealed underground salt caverns or depleted aquifers.",
+      "chinese": "在白天绿电出力过剩的时间段里，大型大功率电动压缩机将周围的大气空气加压至极高压状态，强力注入密闭的深层地下盐穴或枯竭含水层中封存蓄能。",
+      "start_time": 690.521,
+      "end_time": 699.623,
+      "key_vocab": [
+        {
+          "word": "electric compressors",
+          "definition": "电动压缩机"
+        },
+        {
+          "word": "salt caverns",
+          "definition": "地下盐穴"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_66.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_67",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 67,
+      "english": "Advanced adiabatic compressed air clean renewable energy grid-scale physical storage facilities capture and store the intense heat generated during air compression, utilizing that thermal clean renewable energy during expansion.",
+      "chinese": "先进的绝热压缩空气物理储能设施能够在气体压缩过程中精确捕获并储存产生的高温压缩热，并在后续排气驱动涡轮发电时将这些热能重新利用。",
+      "start_time": 699.973,
+      "end_time": 711.293,
+      "key_vocab": [
+        {
+          "word": "atmospheric pressure",
+          "definition": "大气压"
+        },
+        {
+          "word": "geological battery",
+          "definition": "地质电池"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_67.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_68",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 68,
+      "english": "When national electricity demand surges in the evening, the compressed air is released through high-efficiency expansion turbines that spin generators to deliver power immediately.",
+      "chinese": "而当傍晚全社会用电负荷急剧飙升时，高压压缩空气被有序释放，冲过高效率的膨胀做功透平轮机，带动发电机组瞬间向电网大规模反向供电。",
+      "start_time": 711.643,
+      "end_time": 719.677,
+      "key_vocab": [
+        {
+          "word": "expansion turbines",
+          "definition": "膨胀透平机"
+        },
+        {
+          "word": "demand surges",
+          "definition": "用电负荷激增"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_68.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_69",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 69,
+      "english": "Historically, early compressed air facilities in Germany and the United States wasted the heat generated during compression, requiring supplemental natural gas firing during air expansion.",
+      "chinese": "在历史上，早期在德国和美国建设的传统压缩空气储能电站白白浪费了空气压缩过程中产生的巨大热能，导致在空气膨胀发电时不得不额外燃烧天然气补热。",
+      "start_time": 720.027,
+      "end_time": 728.363,
+      "key_vocab": [
+        {
+          "word": "supplemental natural gas",
+          "definition": "补充天然气燃烧"
+        },
+        {
+          "word": "air expansion",
+          "definition": "空气膨胀做功"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_69.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_70",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 70,
+      "english": "High-speed magnetic-levitation flywheels rotating inside vacuum chambers provide instantaneous millisecond grid frequency stabilization, absorbing sudden electrical transient disturbances effortlessly.",
+      "chinese": "在真空舱内超高速旋转的磁悬浮飞轮储能系统能够提供毫秒级的瞬时电网调频响应，轻松平抑电网瞬态扰动，为新型电力系统提供至关重要的转动惯量支撑。",
+      "start_time": 728.713,
+      "end_time": 738.872,
+      "key_vocab": [
+        {
+          "word": "adiabatic",
+          "definition": "绝热的，无补燃的"
+        },
+        {
+          "word": "molten salt reservoirs",
+          "definition": "熔盐蓄热罐"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_70.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_71",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 71,
+      "english": "Constructed from high-tensile carbon-fiber composite rotors spinning in magnetic-levitation vacuum enclosures, these flywheels store rotational kinetic clean renewable energy without experiencing chemical wear.",
+      "chinese": "这种飞轮由高抗拉强度的碳纤维复合材料转子精工打造，悬浮在全磁悬浮的真空密封外壳中以极高转速自转，能够在不产生任何化学损耗的情况下储存巨额旋转动能。",
+      "start_time": 739.222,
+      "end_time": 749.624,
+      "key_vocab": [
+        {
+          "word": "carbon-fiber composite",
+          "definition": "碳纤维复合材料"
+        },
+        {
+          "word": "magnetic-levitation",
+          "definition": "磁悬浮"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_71.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_72",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 72,
+      "english": "Flywheel arrays stabilize electrical grid frequency during sudden generation drops, bridging the critical seconds required for bulk compressed air or pumped hydro stations to ramp up.",
+      "chinese": "大型飞轮储能阵列能在电源突发故障跳闸跌落的瞬间稳稳托住电网频率，为大宗压缩空气或抽水蓄能电站从冷态爬坡启动争取至关重要的数十秒缓冲黄金时间。",
+      "start_time": 749.974,
+      "end_time": 758.403,
+      "key_vocab": [
+        {
+          "word": "stabilize frequency",
+          "definition": "稳定电网频率"
+        },
+        {
+          "word": "pumped hydro",
+          "definition": "抽水蓄能"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_72.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_73",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 73,
+      "english": "By weaving together compressed air caverns, magnetic flywheels, and gravity towers into an integrated architectural framework, modern power grids overcome the fundamental vulnerability of weather dependency.",
+      "chinese": "通过将深地压缩空气地下盐穴、磁悬浮高速飞轮与高耸的重力储能塔有机编织成一体化的电网储能网络架构，现代清洁电网彻底战胜了受制于天气的致命软肋。",
+      "start_time": 758.753,
+      "end_time": 769.655,
+      "key_vocab": [
+        {
+          "word": "integrated framework",
+          "definition": "一体化架构网络"
+        },
+        {
+          "word": "weather dependency",
+          "definition": "天气依赖性软肋"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_73.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_74",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "idx": 74,
+      "english": "Clean renewable clean renewable energy becomes fully baseload-capable, supplying reliable, round-the-clock power to modern industrialized cities while healing our planet's fragile atmosphere.",
+      "chinese": "原本具有间歇波动的清洁绿电由此完全具备了担任电网稳定基荷的能力，在修复地球脆弱大气层的同时，为现代化工业城市源源不断输送全天候可靠电力保障。",
+      "start_time": 770.005,
+      "end_time": 779.467,
+      "key_vocab": [
+        {
+          "word": "baseload-capable",
+          "definition": "具备基荷供电能力的"
+        },
+        {
+          "word": "round-the-clock power",
+          "definition": "全天候电力"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_74.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_75",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 75,
+      "english": "Throughout history, human culture has celebrated conscious intellectual wakefulness while treating nocturnal restorative deep sleep as an unproductive, passive biological void.",
+      "chinese": "纵观漫长的人类历史长河，人类文化一直高度颂扬清醒状态下的智力觉醒，却将夜间的睡眠轻视为一段毫无生产力产出的、消极被动的生理空白虚度。",
+      "start_time": 779.817,
+      "end_time": 788.281,
+      "key_vocab": [
+        {
+          "word": "intellectual wakefulness",
+          "definition": "智力觉醒状态"
+        },
+        {
+          "word": "passive biological void",
+          "definition": "消极的生物学空白"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_75.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_76",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 76,
+      "english": "Prominent industrial icons and political leaders famously boasted of subsisting on four hours of restorative deep sleep, equating chronic restorative deep sleep deprivation with superior professional dedication.",
+      "chinese": "著名的工业商业巨头和政坛领袖甚至常常引以为傲地吹嘘自己每天只睡四个小时，错误地将长期的睡眠剥夺等同于卓越崇高的职业敬业奉献精神。",
+      "start_time": 788.631,
+      "end_time": 797.977,
+      "key_vocab": [
+        {
+          "word": "industrial icons",
+          "definition": "工业巨头"
+        },
+        {
+          "word": "sleep deprivation",
+          "definition": "睡眠剥夺"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_76.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_77",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 77,
+      "english": "Modern neuroscience and neurobiology have completely overturned that disastrous cultural misconception, proving that restorative deep sleep constitutes an extraordinarily active, essential physiological state.",
+      "chinese": "现代神经科学与神经生物学已经彻底推翻了这一带来灾难性后果的文化谬论，严密证实睡眠实际上构成了人体一种极其活跃、不可替代的关键生理生理机能状态。",
+      "start_time": 798.327,
+      "end_time": 808.335,
+      "key_vocab": [
+        {
+          "word": "cultural misconception",
+          "definition": "文化谬误"
+        },
+        {
+          "word": "essential state",
+          "definition": "必不可少的生理状态"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_77.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_78",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 78,
+      "english": "During deep stage-three non-REM restorative deep sleep, famously termed slow-wave restorative deep sleep, neuronal populations across the cerebral cortex synchronize their electrical firing into massive delta oscillations.",
+      "chinese": "在深度非REM睡眠第三阶段——即著名的慢波睡眠期中，遍布整个大脑皮层的海量神经元集群会将其电冲动放电完全同步为宏伟壮阔的低频德尔塔脑电震荡波。",
+      "start_time": 808.685,
+      "end_time": 820.19,
+      "key_vocab": [
+        {
+          "word": "slow-wave sleep",
+          "definition": "慢波睡眠"
+        },
+        {
+          "word": "delta oscillations",
+          "definition": "德尔塔低频脑电波震荡"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_78.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_79",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 79,
+      "english": "According to the synaptic homeostasis hypothesis, awake learning induces net synaptic potentiation across neural networks, consuming cellular clean renewable energy and saturating brain circuitry.",
+      "chinese": "根据突触稳态假说理论，清醒状态下的持续学习会导致整个大脑神经网络发生净突触连接效能的广泛增强，消耗大量细胞能量并导致脑回路逐渐走向信息饱和。",
+      "start_time": 820.54,
+      "end_time": 830.536,
+      "key_vocab": [
+        {
+          "word": "synchronized waves",
+          "definition": "同步脑电波"
+        },
+        {
+          "word": "memory transfer",
+          "definition": "记忆迁移转移"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_79.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_80",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 80,
+      "english": "Simultaneously, slow-wave restorative deep sleep regulates synaptic homeostasis according to the landmark hypothesis formulated by neuroscientists Giulio Tononi and Chiara Cirelli.",
+      "chinese": "与此同时，根据著名神经科学家朱利奥·托诺尼和基娅拉·奇雷利提出的里程碑式假说，慢波睡眠在调控人体神经突触稳态平衡方面发挥着决定性作用。",
+      "start_time": 830.886,
+      "end_time": 840.256,
+      "key_vocab": [
+        {
+          "word": "synaptic homeostasis",
+          "definition": "突触稳态"
+        },
+        {
+          "word": "landmark hypothesis",
+          "definition": "里程碑式假说"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_80.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_81",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 81,
+      "english": "If this continuous synaptic strengthening progressed unchecked across days, the brain's physical neural circuits would rapidly saturate, exhausting cerebral space, nutrients, and clean renewable energy.",
+      "chinese": "如果这种突触的持续盲目强化不受节制地连续进展数日，大脑内部的物理神经回路将瞬间陷入极度过载饱和，彻底耗尽大脑空间、生物养分以及能量储备。",
+      "start_time": 840.606,
+      "end_time": 850.497,
+      "key_vocab": [
+        {
+          "word": "circuits saturate",
+          "definition": "神经回路过载饱和"
+        },
+        {
+          "word": "exhausting nutrients",
+          "definition": "耗尽养分"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_81.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_82",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 82,
+      "english": "During restorative deep slow-wave non-rapid eye movement sleep, the brain systematically downscales baseline synaptic strength by roughly twenty percent while preserving memory traces.",
+      "chinese": "在具有深度修复功能的慢波非快速眼动睡眠期间，大脑会系统性地将全脑基础突触连接强度整体下调约百分之二十，同时巧妙保存下了新近学到的核心记忆痕迹。",
+      "start_time": 850.847,
+      "end_time": 859.531,
+      "key_vocab": [
+        {
+          "word": "pruning noise",
+          "definition": "修剪背景噪音"
+        },
+        {
+          "word": "recalibrating sensitivity",
+          "definition": "重新校准灵敏度"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_82.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_83",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 83,
+      "english": "Equally revolutionary was the 2012 discovery of the brain's specialized glymphatic filtration waste-clearance system by neurobiologist Dr. Maiken Nedergaard.",
+      "chinese": "与突触下调假说同样具有颠覆性意义的，是神经生物学家迈肯·内德加德博士于2012年首次在人类大脑中发现的特化类淋巴系统废物过滤清除机制。",
+      "start_time": 859.881,
+      "end_time": 867.591,
+      "key_vocab": [
+        {
+          "word": "glymphatic filtration",
+          "definition": "类淋巴过滤"
+        },
+        {
+          "word": "waste-clearance",
+          "definition": "废物清除系统"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_83.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_84",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 84,
+      "english": "Throughout daytime wakefulness, the dense cellular packing of neurons and glial cells restricts the physical interstitial space, severely limiting extracellular fluid flow.",
+      "chinese": "在白天的清醒状态下，神经元与胶质细胞之间紧密致密的物理排布极度压缩了细胞间质隙，使得细胞外液的宏观流动受到了极为严苛的物理阻碍与限制。",
+      "start_time": 867.941,
+      "end_time": 876.091,
+      "key_vocab": [
+        {
+          "word": "interstitial space",
+          "definition": "细胞间质间隙"
+        },
+        {
+          "word": "extracellular fluid",
+          "definition": "细胞外液"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_84.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_85",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 85,
+      "english": "Cerebrospinal fluid floods rhythmically through these open cerebral channels, washing through brain tissue like an automated biological dishwasher to cleanse toxic metabolic waste.",
+      "chinese": "清澈的脑脊液随之如同节律性的波浪般强力涌入这些敞开的脑组织通道，宛如一台全自动生物洗碗机，对脑组织进行彻底深度冲刷以清除有毒代谢副产物。",
+      "start_time": 876.441,
+      "end_time": 884.405,
+      "key_vocab": [
+        {
+          "word": "cerebrospinal fluid",
+          "definition": "脑脊液"
+        },
+        {
+          "word": "biological dishwasher",
+          "definition": "生物洗碗机"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_85.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_86",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 86,
+      "english": "Chronic nocturnal restorative deep sleep deprivation traps neural networks in an unsustainable hyper-connected state of cognitive overload, inducing cellular stress and precipitous intellectual decline.",
+      "chinese": "长期的夜间睡眠剥夺会将大脑神经网络死死困在一种不可持续的高负荷过度连接亢奋状态中，引发脑细胞应激反应并导致智力认知能力的断崖式衰退。",
+      "start_time": 884.755,
+      "end_time": 894.519,
+      "key_vocab": [
+        {
+          "word": "amyloid-beta plaques",
+          "definition": "淀粉样蛋白斑块"
+        },
+        {
+          "word": "tau proteins",
+          "definition": "Tau蛋白"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_86.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_87",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 87,
+      "english": "Furthermore, acute restorative deep sleep loss impairs emotional regulation, triggering excessive hyperactivity in the amygdala while decoupling inhibitory prefrontal cortex executive control.",
+      "chinese": "此外，哪怕仅仅是一两天的急性睡眠缺失，也会严重损害情绪调控机能，引发大脑杏仁核的过度异常亢奋，同时断开前额叶皮层对情绪冲动的抑制性理性控制回路。",
+      "start_time": 894.869,
+      "end_time": 903.995,
+      "key_vocab": [
+        {
+          "word": "emotional regulation",
+          "definition": "情绪调控"
+        },
+        {
+          "word": "hyperactivity in amygdala",
+          "definition": "杏仁核异常亢奋"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_87.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_88",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "idx": 88,
+      "english": "Prioritizing consistent eight-hour nocturnal restorative deep sleep schedules is not an indulgence of the lazy, but a biological prerequisite for cognitive resilience and neurological health.",
+      "chinese": "每天坚持保障规律充足的八小时夜间睡眠，绝不是懒惰者的放纵消遣，而是维持终身认知韧性与神经生理健康最根本的生物学绝对前提条件。",
+      "start_time": 904.345,
+      "end_time": 913.366,
+      "key_vocab": [
+        {
+          "word": "indulgence",
+          "definition": "放纵，嗜好"
+        },
+        {
+          "word": "biological prerequisite",
+          "definition": "生物学先决条件"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_88.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_89",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 89,
+      "english": "Since mass production commenced in the 1950s, humanity has manufactured over eight billion metric tons of plastic, the vast majority of which endures in terrestrial vulnerable marine ecosystems.",
+      "chinese": "自二十世纪五十年代大规模量产起步以来，人类已经累计生产了超过八十亿公吨的各类塑料制品，其中绝大多数至今仍永久残留在陆地与海洋生态系统之中。",
+      "start_time": 913.716,
+      "end_time": 924.78,
+      "key_vocab": [
+        {
+          "word": "mass production",
+          "definition": "大规模量产"
+        },
+        {
+          "word": "terrestrial ecosystems",
+          "definition": "陆地生态系统"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_89.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_90",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 90,
+      "english": "Marine environmental scientists classify synthetic polymer microscopic synthetic particles measuring less than five millimeters in diameter as microplastics, with microscopic synthetic particles below one micrometer designated as nanoplastics.",
+      "chinese": "海洋环境科学家将直径小于五毫米的人造聚合物塑料颗粒统称为微塑料，而将尺寸小于一微米的超细颗粒严格归类为纳米塑料。",
+      "start_time": 925.13,
+      "end_time": 937.378,
+      "key_vocab": [
+        {
+          "word": "synthetic polymer",
+          "definition": "合成聚合物"
+        },
+        {
+          "word": "nanoplastics",
+          "definition": "纳米塑料"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_90.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_91",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 91,
+      "english": "These pervasive synthetic contaminants originate from two primary pathways: primary manufactured industrial microbeads and secondary debris fragmented from discarded consumer packaging, clothing, and tires.",
+      "chinese": "这些无孔不入的合成污染物主要通过两条途径产生：一是工业专门生产制造的初级塑料微珠原料，二是丢弃的塑料消费包装、化纤纺织衣物以及磨损汽车轮胎风化剥落的次级碎片。",
+      "start_time": 937.728,
+      "end_time": 947.667,
+      "key_vocab": [
+        {
+          "word": "manufactured microbeads",
+          "definition": "人造塑料微珠"
+        },
+        {
+          "word": "secondary debris",
+          "definition": "次生碎片"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_91.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_92",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 92,
+      "english": "What makes microsynthetic commercial plastics particularly perilous to marine biological life is their dangerous capacity to mimic natural microscopic food sources across diverse trophic layers.",
+      "chinese": "让微塑料对海洋生物圈构成极其致命威胁的，是它们具有一种极其危险的特性：在各大食物链营养级中能够以假乱真地模拟天然微观食物源。",
+      "start_time": 948.017,
+      "end_time": 957.351,
+      "key_vocab": [
+        {
+          "word": "trophic layers",
+          "definition": "营养级阶层"
+        },
+        {
+          "word": "mimic natural food",
+          "definition": "模拟天然食物"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_92.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_93",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 93,
+      "english": "Microscopic zooplankton, the foundational photosynthetic grazing herbivores of open ocean pelagic food webs, mistake brightly colored microplastic specks for nutritious unicellular algae.",
+      "chinese": "作为开阔大洋远海食物网底层基石微观初级草食浮游动物，浮游动物经常将五颜六色的人造塑料微粒误当成富含营养的单细胞浮游植物藻类吞入腹中。",
+      "start_time": 957.701,
+      "end_time": 967.546,
+      "key_vocab": [
+        {
+          "word": "zooplankton",
+          "definition": "浮游动物"
+        },
+        {
+          "word": "unicellular algae",
+          "definition": "单细胞藻类"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_93.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_94",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 94,
+      "english": "Once ingested, jagged plastic microscopic synthetic particles cause severe mechanical lacerations within delicate digestive tracts, inducing false satiation that starves tiny organisms despite full stomachs.",
+      "chinese": "一旦吞咽下肚，锯齿状的坚硬塑料颗粒会在娇嫩的肠胃消化道内造成严重的机械划伤与黏膜撕裂，并产生虚假的饱腹信号，导致微小生物明明肚里塞满却活活饿死。",
+      "start_time": 967.896,
+      "end_time": 978.786,
+      "key_vocab": [
+        {
+          "word": "mechanical lacerations",
+          "definition": "机械划伤撕裂"
+        },
+        {
+          "word": "false satiation",
+          "definition": "虚假饱腹感"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_94.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_95",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 95,
+      "english": "Filter-feeding microscopic marine zooplankton routinely ingest synthetic microplastic particles because their physical dimensions and buoyant properties mirror natural diatom algae.",
+      "chinese": "采用滤食方式摄食的微观海洋浮游动物之所以经常误食合成微塑料颗粒，是因为微塑料的物理尺寸、悬浮浮力特性与天然硅藻饵料惊人地高度相似。",
+      "start_time": 979.136,
+      "end_time": 987.089,
+      "key_vocab": [
+        {
+          "word": "forage fish",
+          "definition": "饵料鱼类"
+        },
+        {
+          "word": "trophic bioaccumulation",
+          "definition": "营养级生物富集"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_95.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_96",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 96,
+      "english": "Furthermore, synthetic polymers act as toxic chemical sponges in seawater, absorbing hydrophobic industrial pollutants like polychlorinated biphenyls and DDT at million-fold concentrations.",
+      "chinese": "不仅如此，人造聚合物在海水中还宛如一块块有毒化学海绵，能够以高达百万倍的惊人浓缩倍率，强力吸附富集水体中的多氯联苯、滴滴涕等疏水性持久性有机污染物。",
+      "start_time": 987.439,
+      "end_time": 996.82,
+      "key_vocab": [
+        {
+          "word": "chemical sponges",
+          "definition": "化学吸附海绵"
+        },
+        {
+          "word": "hydrophobic pollutants",
+          "definition": "疏水性污染物"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_96.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_97",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 97,
+      "english": "Hydrophobic chemical environmental toxins like polychlorinated biphenyls and toxic pesticides adhere to the porous surfaces of microsynthetic commercial plastics, magnifying toxicity across marine food chains.",
+      "chinese": "多氯联苯以及有毒农药等强疏水性环境有毒化学污染物极易吸附在微塑料的多孔表面上，使其化身为高浓度毒素载体，在海洋食物网中逐级成倍放大毒性。",
+      "start_time": 997.17,
+      "end_time": 1007.967,
+      "key_vocab": [
+        {
+          "word": "microplastic contamination",
+          "definition": "微塑料污染"
+        },
+        {
+          "word": "commercial seafood",
+          "definition": "商业海鲜"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_97.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_98",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 98,
+      "english": "Human epidemiological assays confirm that synthetic microfibers cross intestinal epithelial barriers, entering the human circulatory bloodstream and accumulating in liver and kidney tissues.",
+      "chinese": "人类临床流行病学检验已明确证实：人造微纤维能够穿透人体小肠黏膜上皮物理屏障，径直潜入人体血液循环系统，并在肝脏、肾脏等实质性器官组织中长期蓄积沉积。",
+      "start_time": 1008.317,
+      "end_time": 1017.42,
+      "key_vocab": [
+        {
+          "word": "epithelial barriers",
+          "definition": "上皮组织屏障"
+        },
+        {
+          "word": "circulatory bloodstream",
+          "definition": "血液循环系统"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_98.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_99",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 99,
+      "english": "Disturbingly, rigorous human clinical studies detect synthetic microplastic fibers embedded within deep lung tissues, human bloodstream samples, and even placental tissue matrices.",
+      "chinese": "令人不寒而栗的是，严谨的人体临床医学病理研究已在深层肺部组织、健康人体循环血液样本，乃至新生儿胎盘组织基质中，频繁检测到了外源性微塑料合成纤维的存在。",
+      "start_time": 1017.77,
+      "end_time": 1026.593,
+      "key_vocab": [
+        {
+          "word": "acute toxicity",
+          "definition": "急性毒性"
+        },
+        {
+          "word": "oxidative stress",
+          "definition": "氧化应激"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_99.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_100",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 100,
+      "english": "The United Nations Environment Assembly is negotiating a legally binding global treaty mandating strict statutory caps on virgin single-use plastic production worldwide.",
+      "chinese": "联合国环境大会目前正在紧锣密鼓地谈判起草一项具有全面法律约束力的全球国际条约，硬性规定在全球范围内对原生一次性塑料的生产规模设定严格的法定上限。",
+      "start_time": 1026.943,
+      "end_time": 1034.559,
+      "key_vocab": [
+        {
+          "word": "legally binding treaty",
+          "definition": "具法律约束力的条约"
+        },
+        {
+          "word": "statutory caps",
+          "definition": "法定上限"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_100.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_101",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 101,
+      "english": "International marine scientists urge the immediate implementation of legally binding global plastic production caps and standardized mandatory extended producer responsibility frameworks.",
+      "chinese": "国际海洋科学家群体强烈呼吁国际社会必须刻不容缓地出台具有法律约束力的全球塑料源头生产总量上限管制，并强制推行标准化的生产者延伸责任法规制度。",
+      "start_time": 1034.909,
+      "end_time": 1043.942,
+      "key_vocab": [
+        {
+          "word": "marine-biodegradable",
+          "definition": "海洋可降解的"
+        },
+        {
+          "word": "bacterial fermentation",
+          "definition": "细菌发酵"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_101.mp3"
+    },
+    {
+      "id": "cet6-2021-06-1_s_102",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "idx": 102,
+      "english": "The global ocean is not an infinite industrial sewer; cleansing our marine waters demands courage, global solidarity, and an immediate halt to single-use convenience.",
+      "chinese": "浩瀚的大洋绝不是人类可以肆意排污的无限工业下水道；还蔚蓝海洋以纯净安宁，迫切需要全人类拿出真正的勇气、紧密的全球团结，以及对一次性塑料便利的决绝告别。",
+      "start_time": 1044.292,
+      "end_time": 1053.046,
+      "key_vocab": [
+        {
+          "word": "infinite sewer",
+          "definition": "无限的下水道"
+        },
+        {
+          "word": "global solidarity",
+          "definition": "全球团结"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-06-1/cet6-2021-06-1_s_102.mp3"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2021-06-1_q_1",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "sentence_id": "cet6-2021-06-1_s_2",
+      "idx": 1,
+      "question_text": "What current operational challenge did Professor Jenkins highlight regarding modern climate science?",
+      "options": "[\"A) Severe observational data overload overwhelming traditional computing models.\", \"B) A global shortage of qualified atmospheric physicists and meteorologists.\", \"C) Complete malfunction of international oceanic sensor buoy systems.\", \"D) Outdated satellite radar hardware unable to detect incoming cloud fronts.\"]",
+      "answer": "A",
+      "explanation": "录音第2句中詹金斯教授指出实测气象观测数据量呈爆炸式增长，彻底让传统的物理计算数值模型不堪重负，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_2",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "sentence_id": "cet6-2021-06-1_s_5",
+      "idx": 2,
+      "question_text": "How rapidly can the trained artificial intelligence model produce a ten-day global weather forecast?",
+      "options": "[\"A) In approximately twelve hours across a supercomputing cluster.\", \"B) In less than sixty seconds on a standard desktop workstation.\", \"C) In precisely five minutes using satellite communication links.\", \"D) In forty-eight hours through distributed cloud servers.\"]",
+      "answer": "B",
+      "explanation": "录音第7句明确提到，一旦训练完成，AI模型在普通台式工作站上仅需不到60秒的时间即可生成完整的未来十天全球天气预测，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_3",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "sentence_id": "cet6-2021-06-1_s_7",
+      "idx": 3,
+      "question_text": "How did the computing group prevent their machine learning model from predicting physically impossible weather?",
+      "options": "[\"A) By restricting forecasts strictly to regions with oceanic radar coverage.\", \"B) By embedding physical conservation of mass and energy laws into the loss function.\", \"C) By manually editing predicted atmospheric pressure fronts every evening.\", \"D) By programming the network to disregard all extreme temperature readings.\"]",
+      "answer": "B",
+      "explanation": "录音第10句指出研发团队将质量守恒与能量守恒的基础物理定律直接嵌入到了神经网络的损失函数之中，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_4",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_1",
+      "sentence_id": "cet6-2021-06-1_s_11",
+      "idx": 4,
+      "question_text": "What practical humanitarian benefit will the joint academic climate initiative deliver to developing nations?",
+      "options": "[\"A) Supplying free agricultural irrigation equipment to drought-stricken regions.\", \"B) Providing accessible high-precision early-warning systems for floods and typhoons.\", \"C) Relocating coastal communities threatened by rising oceanic tides.\", \"D) Constructing international weather radar stations along equatorial borders.\"]",
+      "answer": "B",
+      "explanation": "录音第15句说明该合作项目将赋能发展中国家，使其获得经济普惠、高精度的台风与洪涝早期灾害预警基础设施，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_5",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "sentence_id": "cet6-2021-06-1_s_15",
+      "idx": 5,
+      "question_text": "What subtle behavioral data do modern machine learning recommendation algorithms continuously ingest?",
+      "options": "[\"A) Microscopic biometric iris scans transmitted through smartphone cameras.\", \"B) Sub-second screen dwell times and cursor scrolling velocities.\", \"C) Acoustic background noises recorded from personal living rooms.\", \"D) Exact credit card account numbers and banking transaction history.\"]",
+      "answer": "B",
+      "explanation": "录音第20句指出算法正在持续分析用户的行为微信号，从以毫秒计算的屏幕视线停留时长到光标滑屏滚动速度无所不包，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_6",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "sentence_id": "cet6-2021-06-1_s_17",
+      "idx": 6,
+      "question_text": "What psychological trap do predatory e-commerce algorithms exploit to prompt impulse purchases?",
+      "options": "[\"A) Highlighting consumer credit score requirements in prominent red fonts.\", \"B) Weaponizing scarcity fears through flash sales with artificial countdown timers.\", \"C) Offering unconditional cash rebates for purchases completed before dawn.\", \"D) Generating artificial user reviews claiming that inventory is exhausted.\"]",
+      "answer": "B",
+      "explanation": "录音第25句说明辅以虚假倒计时的限时秒杀活动将消费者的认知稀缺恐慌彻底武器化，诱发冲动消费，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_7",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "sentence_id": "cet6-2021-06-1_s_20",
+      "idx": 7,
+      "question_text": "How do major retail monopoly platforms distort open market competition through algorithmic self-preferencing?",
+      "options": "[\"A) By banning all external payment processors from commercial platforms.\", \"B) By systematically demoting independent merchants to promote private-label goods.\", \"C) By charging exorbitant delivery fees exclusively to rural consumers.\", \"D) By forcing competing brands to sell their merchandise below manufacturing costs.\"]",
+      "answer": "B",
+      "explanation": "录音第27句提到零售科技巨头操纵内部推荐搜索排名，打压排挤独立中小商家以推广自家高利润率自营商品，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_8",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_2",
+      "sentence_id": "cet6-2021-06-1_s_22",
+      "idx": 8,
+      "question_text": "What critical consumer right is guaranteed under new progressive legislative mandates?",
+      "options": "[\"A) Mandatory opt-out switches allowing browsing free from algorithmic surveillance.\", \"B) Guaranteed full cash refunds for any purchase returned within one year.\", \"C) Free commercial internet connections supplied by platform operators.\", \"D) The legal right to rewrite software code on commercial retail websites.\"]",
+      "answer": "A",
+      "explanation": "录音第30句指出全新法规明确要求商业平台必须提供清晰易懂的一键关闭退出开关，允许消费者在不受监控下自由浏览，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_9",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "sentence_id": "cet6-2021-06-1_s_27",
+      "idx": 9,
+      "question_text": "Why do commercial artificial intelligence algorithms frequently replicate systemic human bias?",
+      "options": "[\"A) Software programmers intentionally code malicious racial discrimination.\", \"B) They are trained upon historical datasets reflecting centuries of societal prejudice.\", \"C) Computer hardware processors contain physical manufacturing flaws.\", \"D) International ethical guidelines encourage historical demographic stereotypes.\"]",
+      "answer": "B",
+      "explanation": "录音第37句指出机器学习模型全都是在反映了人类数百年历史偏见与不平等的历史数据集上训练出来的，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_10",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "sentence_id": "cet6-2021-06-1_s_30",
+      "idx": 10,
+      "question_text": "What moral dilemma arises from the notorious black-box problem of deep neural networks?",
+      "options": "[\"A) Algorithms consume more electrical energy than entire national power grids.\", \"B) Decisions lack interpretability, denying citizens understandable reasons for denials.\", \"C) Software neural networks frequently delete their own internal operating code.\", \"D) Commercial algorithms refuse to communicate with human medical professionals.\"]",
+      "answer": "B",
+      "explanation": "录音第43和44句说明黑箱算法决策缺乏可解释性，侵犯了公民获得关于为何被拒绝审批的合理解释的道德权利，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_11",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_3",
+      "sentence_id": "cet6-2021-06-1_s_37",
+      "idx": 11,
+      "question_text": "What vital governance safeguard must accompany mathematical fairness constraints in high-stakes fields?",
+      "options": "[\"A) Robust human-in-the-loop oversight mechanisms that empower human overrides.\", \"B) Banning the use of computer hardware in all courtrooms and hospitals.\", \"C) Entrusting all societal decisions strictly to autonomous robotic judges.\", \"D) Publishing all classified military algorithms on open public repositories.\"]",
+      "answer": "A",
+      "explanation": "录音第50句强调算法干预必须与强有力的“人在回路”监管机制相配套，赋予人类专家最终复核与否决裁定的权力，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_12",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "sentence_id": "cet6-2021-06-1_s_45",
+      "idx": 12,
+      "question_text": "According to the speaker, why is achieving a sixty percent increase in food through soil farming impossible?",
+      "options": "[\"A) Agricultural seeds have lost the genetic ability to germinate in open soil.\", \"B) It would require destroying the planet's remaining biodiverse tropical rainforests.\", \"C) Farm tractors produce more greenhouse gases than global manufacturing factories.\", \"D) All natural freshwater aquifers will be completely depleted within two years.\"]",
+      "answer": "B",
+      "explanation": "录音第63句指出若继续依靠大田泥土开荒种植实现增产60%，在物理空间上必须将地球上仅存的热带雨林彻底砍伐殆尽，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_13",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "sentence_id": "cet6-2021-06-1_s_51",
+      "idx": 13,
+      "question_text": "How do aeroponic vertical farming misting systems achieve a 95 percent reduction in water consumption?",
+      "options": "[\"A) By extracting moisture exclusively from passing nocturnal rainclouds.\", \"B) By delivering nutrient mist directly to roots and recycling condensed runoff.\", \"C) By genetically modifying crops so they never absorb any moisture droplets.\", \"D) By replacing liquid water with synthetic chemical plant hormones.\"]",
+      "answer": "B",
+      "explanation": "录音第67和68句说明气雾系统将富氧营养微滴直接精准喷射植物裸露根系，并通过闭环冷凝系统将多余水分系统化循环利用，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_14",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "sentence_id": "cet6-2021-06-1_s_55",
+      "idx": 14,
+      "question_text": "What severe financial and engineering hurdle currently limits commercial vertical indoor farming?",
+      "options": "[\"A) Widespread consumer refusal to purchase produce grown without soil.\", \"B) Colossal electrical power consumption from continuous LED lighting and cooling.\", \"C) Strict agricultural regulations prohibiting vertical structures in urban centers.\", \"D) The uncontrollable mutation of crop leaves under artificial photon wavelengths.\"]",
+      "answer": "B",
+      "explanation": "录音第73和74句指出全天候点亮大功率LED灯具以及运转除湿降温散热风机耗电极其庞大，导致运营成本高昂缺乏竞争力，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_15",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_4",
+      "sentence_id": "cet6-2021-06-1_s_57",
+      "idx": 15,
+      "question_text": "What commercial reality currently characterizes the crops cultivated in vertical facilities?",
+      "options": "[\"A) They are restricted primarily to high-margin specialty crops rather than staple grains.\", \"B) They are exported exclusively to luxury international resort hotels.\", \"C) They consist entirely of genetically modified animal feed crops.\", \"D) They yield only miniature ornamental flowers for urban landscaping.\"]",
+      "answer": "A",
+      "explanation": "录音第75和76句说明受成本限制，当前垂直农场主要种植高附加值的特色经济作物，尚无法经济实惠地种植小麦水稻等大宗主粮，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_16",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "sentence_id": "cet6-2021-06-1_s_61",
+      "idx": 16,
+      "question_text": "Why do expanding wind and solar farms create severe operational challenges for electrical power grids?",
+      "options": "[\"A) They emit electromagnetic radiation that damages nearby high-voltage power lines.\", \"B) Their generation is intermittent, causing surplus curtailment or power shortages.\", \"C) They require massive amounts of lubricating oil that frequently leak into soil.\", \"D) They consume more electrical energy from the grid than they produce.\"]",
+      "answer": "B",
+      "explanation": "录音第81和82句指出风能太阳能具有间歇性，天气多风时产生无法消纳的弃电，无风阴天时又骤降引发缺电风险，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_17",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "sentence_id": "cet6-2021-06-1_s_66",
+      "idx": 17,
+      "question_text": "How do modern adiabatic compressed air energy storage facilities eliminate the need for fossil fuels?",
+      "options": "[\"A) By capturing and storing compression heat to warm expanding air during discharge.\", \"B) By combining compressed air with liquid petroleum gas inside combustion turbines.\", \"C) By heating underground caverns using deep volcanic hydrothermal vents.\", \"D) By compressing atmospheric air to such high temperatures that it ignites naturally.\"]",
+      "answer": "A",
+      "explanation": "录音第89句说明先进的绝热压缩空气电站通过完整捕获并储存压缩产生的热能用于空气膨胀发电，彻底告别化石燃料，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_18",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_5",
+      "sentence_id": "cet6-2021-06-1_s_69",
+      "idx": 18,
+      "question_text": "What critical operational role do magnetic-levitation kinetic flywheel arrays perform on the electrical grid?",
+      "options": "[\"A) Storing gigawatt-hours of surplus power for several consecutive winter weeks.\", \"B) Delivering millisecond frequency stabilization during sudden power drops.\", \"C) Converting high-voltage direct currents into household alternating currents.\", \"D) Pumping underground groundwater back into hydroelectric reservoirs.\"]",
+      "answer": "B",
+      "explanation": "录音第92句指出磁悬浮高速飞轮阵列能在电源突发跳闸跌落的数毫秒之内提供即时大功率响应，稳住电网频率，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_19",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "sentence_id": "cet6-2021-06-1_s_76",
+      "idx": 19,
+      "question_text": "According to the synaptic homeostasis hypothesis, what primary problem arises from continuous waking learning?",
+      "options": "[\"A) Brain synapses shrink so dramatically that memories are erased entirely.\", \"B) Net synaptic potentiation saturates neural circuits, exhausting energy and space.\", \"C) Neurons permanently lose the biochemical ability to conduct electrical impulses.\", \"D) Glial cells expand uncontrollably, crushing delicate sensory receptor nerves.\"]",
+      "answer": "B",
+      "explanation": "录音第104句说明清醒白天的持续学习会引发全脑突触净增强与能量膨胀，若不受节制会导致神经回路过载饱和耗尽能量，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_20",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "sentence_id": "cet6-2021-06-1_s_79",
+      "idx": 20,
+      "question_text": "What dramatic physical change occurs in the brain during deep sleep to enable glymphatic waste clearance?",
+      "options": "[\"A) Brain temperature drops by ten degrees Celsius to freeze metabolic toxins.\", \"B) Glial cells contract by up to 60 percent, widening interstitial fluid pathways.\", \"C) Blood vessels completely close to allow lymphatic nodes to enter the cortex.\", \"D) Neurons temporarily disconnect from each other to allow manual scrubbing.\"]",
+      "answer": "B",
+      "explanation": "录音第110句指出深度睡眠时星形胶质细胞体积收缩多达60%，极大拓宽了神经元之间的间质通道以便脑脊液冲刷，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_21",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_6",
+      "sentence_id": "cet6-2021-06-1_s_83",
+      "idx": 21,
+      "question_text": "What severe neurological danger results from chronic sleep deprivation throttling the glymphatic system?",
+      "options": "[\"A) Rapid and permanent loss of all autonomic heart rate regulation.\", \"B) Progressive accumulation of toxic amyloid-beta plaques driving dementia.\", \"C) The immediate complete paralysis of all voluntary motor muscles.\", \"D) The uncontrollable overproduction of cerebral spinal fluid inside the skull.\"]",
+      "answer": "B",
+      "explanation": "录音第112和113句说明长期睡眠剥夺会扼杀夜间废物清除机制，导致诱发阿尔茨海默病等痴呆症的淀粉样蛋白持续积聚，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_22",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "sentence_id": "cet6-2021-06-1_s_90",
+      "idx": 22,
+      "question_text": "Why do microscopic marine zooplankton frequently ingest synthetic microplastic particles in the open ocean?",
+      "options": "[\"A) Microplastics emit magnetic vibrations that attract marine organisms.\", \"B) Zooplankton mistake brightly colored plastic specks for nutritious algae.\", \"C) Synthetic polymers dissolve into sugary compounds that fish crave.\", \"D) Microplastics contain essential mineral salts required for shell growth.\"]",
+      "answer": "B",
+      "explanation": "录音第124句指出浮游动物经常将五颜六色的人造塑料微粒误当成富含营养的单细胞藻类吞食，故选B。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_23",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "sentence_id": "cet6-2021-06-1_s_92",
+      "idx": 23,
+      "question_text": "What hazardous characteristic makes synthetic microplastics act as dangerous chemical sponges in seawater?",
+      "options": "[\"A) They absorb hydrophobic industrial toxins like PCBs at million-fold concentrations.\", \"B) They react violently with sea salt to release corrosive chlorine gases.\", \"C) They bind directly with dissolved oxygen, depleting water column aeration.\", \"D) They radiate dangerous radioactive isotopes that sterilize fish breeding grounds.\"]",
+      "answer": "A",
+      "explanation": "录音第127句说明人造聚合物塑料在海水中如同化学海绵，能够以百万倍的极高浓缩倍率吸附富集水体中的多氯联苯等疏水性有毒物质，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_24",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "sentence_id": "cet6-2021-06-1_s_95",
+      "idx": 24,
+      "question_text": "What disturbing finding have human clinical epidemiological assays confirmed regarding microplastics?",
+      "options": "[\"A) Synthetic microfibers cross intestinal barriers and enter human bloodstream.\", \"B) Plastic particles convert immediately into toxic lead ions inside stomach acid.\", \"C) Microplastics cause instant complete failure of the human immune system.\", \"D) Ingested plastics permanently alter human genetic DNA sequences within hours.\"]",
+      "answer": "A",
+      "explanation": "录音第130句明确证实人造微塑料纤维能够穿透小肠黏膜上皮物理屏障，进入人体血液循环系统并在肝肾等组织蓄积，故选A。"
+    },
+    {
+      "id": "cet6-2021-06-1_q_25",
+      "paper_id": "cet6-2021-06-1",
+      "section_id": "cet6-2021-06-1_sec_7",
+      "sentence_id": "cet6-2021-06-1_s_97",
+      "idx": 25,
+      "question_text": "What comprehensive statutory measure is currently being negotiated by the United Nations Environment Assembly?",
+      "options": "[\"A) A complete worldwide prohibition on the manufacturing of any synthetic clothing.\", \"B) A legally binding global treaty placing statutory caps on virgin single-use plastic production.\", \"C) Mandating that all commercial maritime shipping vessels collect ten tons of plastic daily.\", \"D) Subsidizing plastic incinerators across developing coastal nations.\"]",
+      "answer": "B",
+      "explanation": "录音第133句指出联合国环境大会正在谈判制定一项具有法律约束力的全球条约，对全球原生一次性塑料生产设定严格的法定上限，故选B。"
+    }
+  ]
+}

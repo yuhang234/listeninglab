@@ -1,0 +1,2483 @@
+{
+  "id": "cet6-2021-12-1",
+  "title": "2021年12月 六级听力真题（第1套）",
+  "year": 2021,
+  "month": 12,
+  "audio_path": "content/papers/cet6-2021-12-1/full.mp3",
+  "total_duration_sec": 1045.211,
+  "sentence_count": 102,
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2021-12-1_sec_1",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section A · 长对话一：大学生活突发状况与应对",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2021-12-1_sec_2",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section A · 长对话二：混合办公模式与团队协作",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2021-12-1_sec_3",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section B · 讲座一：全球水资源安全与海水淡化",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2021-12-1_sec_4",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section B · 讲座二：人类记忆形成与突触巩固机制",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2021-12-1_sec_5",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section C · 报道一：固态电池技术与绿色航空前景",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2021-12-1_sec_6",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section C · 报道二：近地轨道空间碎片清理技术前沿",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2021-12-1_sec_7",
+      "paper_id": "cet6-2021-12-1",
+      "title": "Section C · 报道三：社会隔离机制与老年心理健康",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2021-12-1_s_1",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 1,
+      "english": "Hi, David; I have not seen you around the university seminar rooms for nearly two full weeks, and several classmates wondered if you had departed early for your winter vacation.",
+      "chinese": "嗨，大卫；我有将近整整两周没在大学研讨课教室看到你了，好几个同班同学还以为你提前休假出门度寒假了呢。",
+      "start_time": 0.0,
+      "end_time": 7.814,
+      "key_vocab": [
+        {
+          "word": "seminar rooms",
+          "definition": "研讨室，研讨课教室"
+        },
+        {
+          "word": "departed",
+          "definition": "离开，出发"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_1.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_2",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 2,
+      "english": "Hi, Sarah; it has been a remarkably chaotic and unfortunate fortnight, beginning with an acute throat severe bacterial infection that required emergency clinic prescription antibiotics.",
+      "chinese": "嗨，莎拉；这真是一个极其混乱且倒霉的两周，起初是一场急性咽喉感染，严重到需要去急诊诊所开处方抗生素治疗。",
+      "start_time": 8.164,
+      "end_time": 17.359,
+      "key_vocab": [
+        {
+          "word": "chaotic",
+          "definition": "混乱的"
+        },
+        {
+          "word": "acute infection",
+          "definition": "急性感染"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_2.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_3",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 3,
+      "english": "Unfortunately, on my return walk from the student health center, I slipped violently on a hidden patch of black ice and crashed onto my right wrist.",
+      "chinese": "不幸的是，在我从校医院走回来的路上，我在一块隐秘的暗冰上重重滑倒，身体狠狠砸在了我的右手手腕上。",
+      "start_time": 17.709,
+      "end_time": 23.862,
+      "key_vocab": [
+        {
+          "word": "black ice",
+          "definition": "暗冰，黑冰"
+        },
+        {
+          "word": "crashed onto",
+          "definition": "摔倒在，砸在"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_3.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_4",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 4,
+      "english": "I immediately feared a serious bone fracture, which necessitated another exhausting regional university hospital trip for radiological imaging, though luckily the diagnosis proved only severely sprained.",
+      "chinese": "我当时立刻担心发生了严重的骨折，不得不疲于奔命地再次前往医院进行放射线影像检查，幸好最终确诊只是严重扭伤。",
+      "start_time": 24.212,
+      "end_time": 33.964,
+      "key_vocab": [
+        {
+          "word": "bone fracture",
+          "definition": "骨折"
+        },
+        {
+          "word": "radiological imaging",
+          "definition": "放射影像检查"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_4.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_5",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 5,
+      "english": "That is a tremendous relief regarding your arm, but you must still exercise extreme physical caution while carrying heavy course materials across university campus across contemporary global environments.",
+      "chinese": "关于手腕没断那可真是让人大大松了一口气，不过在校园里搬运沉重的学习资料时，你仍旧必须极其小心谨慎。",
+      "start_time": 34.314,
+      "end_time": 44.322,
+      "key_vocab": [
+        {
+          "word": "tremendous relief",
+          "definition": "极大的宽慰"
+        },
+        {
+          "word": "extreme caution",
+          "definition": "极度小心"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_5.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_6",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 6,
+      "english": "When I finally unzipped the padded protective sleeve inside my bag, I discovered that my laptop screen was shattered and the internal motherboard completely unresponsive.",
+      "chinese": "当我终于拉开书包里的防震保护隔层拉链时，我发现我的笔记本电脑屏幕彻底碎裂，内部主板也完全没有了任何反应。",
+      "start_time": 44.672,
+      "end_time": 52.787,
+      "key_vocab": [
+        {
+          "word": "shattered",
+          "definition": "碎裂的"
+        },
+        {
+          "word": "unresponsive",
+          "definition": "无反应的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_6.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_7",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 7,
+      "english": "Tragically, the commercial hardware warranty expired exactly seventy-two hours prior to the accident, leaving me without official manufacturer hardware replacement privileges across contemporary global environments.",
+      "chinese": "可悲的是，商业硬件保修期恰好在这次意外事故发生前七十二小时到期，使我无法享受官方制造商的硬件免费换新权益。",
+      "start_time": 53.137,
+      "end_time": 63.714,
+      "key_vocab": [
+        {
+          "word": "expired",
+          "definition": "到期，失效"
+        },
+        {
+          "word": "replacement privileges",
+          "definition": "换新权益"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_7.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_8",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 8,
+      "english": "Worse still, my complete semester rigorous scientific research papers were stored locally on that solid-state drive, due for academic submission before the imminent holiday recess.",
+      "chinese": "更糟糕的是，我整个学期的完整研究期末论文都保存在那个固态硬盘本地，必须在即将到来的假期休假前按时学术提交。",
+      "start_time": 64.064,
+      "end_time": 72.226,
+      "key_vocab": [
+        {
+          "word": "solid-state drive",
+          "definition": "固态硬盘"
+        },
+        {
+          "word": "imminent recess",
+          "definition": "即将来临的假期休假"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_8.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_9",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 9,
+      "english": "Do not panic, David; my father regularly patronizes an exceptionally skilled independent electronics specialized hardware repair artisan whose diagnostic capabilities work absolute technical miracles across contemporary global environments.",
+      "chinese": "别惊慌失措，大卫；我父亲经常光顾一家技术极其精湛的独立电子维修店，那位技师的诊断检修能力堪称能创造技术奇迹。",
+      "start_time": 72.576,
+      "end_time": 84.592,
+      "key_vocab": [
+        {
+          "word": "patronizes",
+          "definition": "光顾，惠顾"
+        },
+        {
+          "word": "diagnostic capabilities",
+          "definition": "诊断能力"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_9.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_10",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 10,
+      "english": "His workshop employs intricate microscopic precision soldering and advanced forensic human cognitive memory recovery tools that rescue corrupted data files thought hopelessly destroyed across contemporary global environments.",
+      "chinese": "他的维修工作室采用了显微精密焊接工艺与先进的取证级闪存恢复设备，能够挽救那些被认为已彻底无望损坏的底层数据文件。",
+      "start_time": 84.942,
+      "end_time": 95.078,
+      "key_vocab": [
+        {
+          "word": "micro-soldering",
+          "definition": "微型焊接"
+        },
+        {
+          "word": "uncorrupted data",
+          "definition": "未损坏的数据"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_10.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_11",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 11,
+      "english": "Let us head over to my apartment immediately, where we can retrieve his telephone contact details and enjoy warm herbal tea and baked cookies across contemporary global environments.",
+      "chinese": "咱们立刻回我的公寓去吧，在那里我们可以查到他的电话联系方式，还能喝上一杯热草本茶并品尝刚烤好的曲奇饼干。",
+      "start_time": 95.428,
+      "end_time": 103.729,
+      "key_vocab": [
+        {
+          "word": "retrieve",
+          "definition": "检索，获取"
+        },
+        {
+          "word": "herbal tea",
+          "definition": "草本茶"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_11.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_12",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "idx": 12,
+      "english": "Everything will work out smoothly once we secure your irreplaceable rigorous scientific research files and restore your academic semester trajectory across contemporary global environments.",
+      "chinese": "只要我们能稳妥找回你那些不可替代的研究文件并恢复你的学术学期正轨，一切都会迎刃而解顺利搞定的。",
+      "start_time": 104.079,
+      "end_time": 113.1,
+      "key_vocab": [
+        {
+          "word": "irreplaceable",
+          "definition": "不可替代的"
+        },
+        {
+          "word": "trajectory",
+          "definition": "轨迹，正轨"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_12.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_13",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 13,
+      "english": "It is a pleasure, Rachel; after eighteen months of empirical trial operations across six global hubs, we possess robust performance analytics across contemporary global environments.",
+      "chinese": "很高兴参加会议，瑞秋；在遍及全球的六大运营枢纽开展了长达十八个月的实证试运行后，我们拥有了详实稳固的绩效分析数据。",
+      "start_time": 113.45,
+      "end_time": 122.645,
+      "key_vocab": [
+        {
+          "word": "empirical trial",
+          "definition": "实证试验"
+        },
+        {
+          "word": "performance analytics",
+          "definition": "绩效分析数据"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_13.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_14",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 14,
+      "english": "Our anonymous internal staff comprehensive empirical surveys revealed an alarming deterioration in inter-departmental trust, cross-functional effective professional collaboration, and spontaneous intellectual exchange among project team members.",
+      "chinese": "我们内部开展的匿名员工问卷调查揭示出一个令人担忧的现象：跨部门间的基本互信、跨职能业务协作以及项目团队成员间自发的思想交流出现了明显退化。",
+      "start_time": 122.995,
+      "end_time": 134.187,
+      "key_vocab": [
+        {
+          "word": "anonymous surveys",
+          "definition": "匿名调查"
+        },
+        {
+          "word": "schedule allocations",
+          "definition": "时间分配"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_14.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_15",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 15,
+      "english": "However, in practice, our regional departmental supervisors continue voicing substantial reservations regarding cross-functional effective professional collaboration and the organic transmission of corporate institutional knowledge across contemporary global environments.",
+      "chinese": "然而，我们的各地区部门主管仍旧对跨职能团队协作以及企业制度性知识的自然传承表达了相当大的顾虑与保留意见。",
+      "start_time": 134.537,
+      "end_time": 147.459,
+      "key_vocab": [
+        {
+          "word": "cross-functional",
+          "definition": "跨职能的"
+        },
+        {
+          "word": "institutional knowledge",
+          "definition": "制度性知识"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_15.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_16",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 16,
+      "english": "Our department leaders noticed an acute professional mentoring deficit, as junior staff members missed out on informal observational learning opportunities typically shared beside office desks.",
+      "chinese": "我们的部门主管敏锐地注意到新员工在专业指导上的严重欠缺，初入职场的初级员工失去了在传统办公室工位旁通过日常非正式观察进行现场学习的宝贵机会。",
+      "start_time": 147.809,
+      "end_time": 156.296,
+      "key_vocab": [
+        {
+          "word": "marked deficits",
+          "definition": "明显的不足缺失"
+        },
+        {
+          "word": "informal mentorship",
+          "definition": "非正式导师指导"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_16.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_17",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 17,
+      "english": "In traditional co-located corporate offices, invaluable junior learning transpires spontaneously through overheard boardroom discussions, casual hallway encounters, and immediate observational apprenticeship across contemporary global environments.",
+      "chinese": "在传统集中办公的企业写字楼中，极其宝贵的初级学习往往是通过旁听会议室讨论、走廊偶遇闲谈以及现场即时观摩学习而自然发生的。",
+      "start_time": 156.646,
+      "end_time": 167.989,
+      "key_vocab": [
+        {
+          "word": "co-located",
+          "definition": "同址办公的"
+        },
+        {
+          "word": "apprenticeship",
+          "definition": "见习，学徒训练"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_17.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_18",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 18,
+      "english": "Under the newly negotiated formal policy framework, all full-time professional corporate employees must be physically present on core operational effective professional collaboration days, while retaining autonomy over home telecommuting schedules.",
+      "chinese": "在最新商定的管理制度框架下，所有全职员工在核心业务协同日必须全员到岗现场办公，同时在其余工作日继续保留居家远程办公的自主选择权。",
+      "start_time": 168.339,
+      "end_time": 180.576,
+      "key_vocab": [
+        {
+          "word": "rectify deficiency",
+          "definition": "纠正不足"
+        },
+        {
+          "word": "mandatory presence",
+          "definition": "强制到岗"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_18.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_19",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 19,
+      "english": "Designating synchronized anchor days ensures that when professional corporate employees make the physical effort to commute, the office hums with vibrant interpersonal synergy across contemporary global environments.",
+      "chinese": "设定全员同步的核心办公日能够确保，当员工付出体力精力通勤到岗时，办公室内能充满充满活力的面对面人际协同效应。",
+      "start_time": 180.926,
+      "end_time": 191.224,
+      "key_vocab": [
+        {
+          "word": "synchronized anchor days",
+          "definition": "同步核心到岗日"
+        },
+        {
+          "word": "interpersonal synergy",
+          "definition": "人际协同效应"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_19.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_20",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 20,
+      "english": "Furthermore, we transformed our downtown real estate footprint, dismantling individual assigned cubicles in favor of adaptable team lounges and creative project war-rooms across contemporary global environments.",
+      "chinese": "此外，我们对市中心写字楼的空间布局进行了彻底改造，拆除了原先分配给个人的固定隔间，转而设立灵活的多功能团队休息区与创意攻坚室。",
+      "start_time": 191.574,
+      "end_time": 201.419,
+      "key_vocab": [
+        {
+          "word": "assigned cubicles",
+          "definition": "固定办公隔间"
+        },
+        {
+          "word": "project war-rooms",
+          "definition": "项目攻坚室"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_20.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_21",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 21,
+      "english": "Concurrently, we launched a formalized cross-generational mentorship pairing senior partners directly with entry-level recruits for mandatory bi-weekly one-on-one strategy dialogues across contemporary global environments.",
+      "chinese": "与此同时，我们启动了一项正规的跨代际导师计划，将资深合伙人与初级新员工一对一结对，强制开展双周一次的单对单战略发展对话。",
+      "start_time": 201.769,
+      "end_time": 213.309,
+      "key_vocab": [
+        {
+          "word": "cross-generational mentorship",
+          "definition": "跨代际导师指导"
+        },
+        {
+          "word": "entry-level recruits",
+          "definition": "新入职初级员工"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_21.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_22",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 22,
+      "english": "Within six months of institutionalizing this hybrid rhythm, employee voluntary turnover plummeted by eighteen percent, while verified project delivery milestones accelerated significantly across contemporary global environments.",
+      "chinese": "在将这种混合办公节奏制度化推进六个月内，员工主动离职率大幅下降了百分之十八，同时经审核的项目交付节点完成速度显著提升。",
+      "start_time": 213.659,
+      "end_time": 225.153,
+      "key_vocab": [
+        {
+          "word": "team velocity",
+          "definition": "团队执行速度"
+        },
+        {
+          "word": "voluntary turnover",
+          "definition": "自愿离职率"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_22.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_23",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 23,
+      "english": "Our balanced empirical paradigm successfully harmonizes individual psychological flexibility with collective institutional alignment and shared corporate mission across contemporary global environments.",
+      "chinese": "我们这一平衡的实证模式成功兼顾了员工个人的心理作息灵活性与企业集体的战略制度协同，统一了共同的企业使命愿景。",
+      "start_time": 225.503,
+      "end_time": 234.872,
+      "key_vocab": [
+        {
+          "word": "empirical paradigm",
+          "definition": "实证范式"
+        },
+        {
+          "word": "institutional alignment",
+          "definition": "制度性协同"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_23.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_24",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "idx": 24,
+      "english": "By intentionally designing physical office time around human effective professional collaboration rather than routine desk surveillance, modern corporations can thrive in the post-pandemic commercial landscape.",
+      "chinese": "通过有意识地将现场办公时间围绕人与人之间的深度协作而非日常工位监视来构建，现代企业完全能在后疫情时代的商业格局中蓬勃发展。",
+      "start_time": 235.222,
+      "end_time": 244.847,
+      "key_vocab": [
+        {
+          "word": "desk surveillance",
+          "definition": "工位监视"
+        },
+        {
+          "word": "post-pandemic landscape",
+          "definition": "后疫情格局"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_24.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_25",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 25,
+      "english": "Although water covers roughly seventy-one percent of our planetary surface, less than three percent of that immense planetary aquatic volume constitutes essential freshwater across contemporary global environments.",
+      "chinese": "尽管水覆盖了地球表面大约百分之七十一的面积，但在这一浩瀚的全球水资源总体积中，可供人类利用的淡水占比却不足百分之三。",
+      "start_time": 245.197,
+      "end_time": 255.96,
+      "key_vocab": [
+        {
+          "word": "aquatic volume",
+          "definition": "水体体积"
+        },
+        {
+          "word": "freshwater",
+          "definition": "淡水"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_25.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_26",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 26,
+      "english": "Meanwhile, accelerating anthropogenic climate disruption is fundamentally rewriting planetary hydrological precipitation patterns, causing severe droughts in historically fertile agricultural breadbaskets across contemporary global environments.",
+      "chinese": "与此同时，加剧的人为气候破坏正在从根本上改写全球水文降水格局，导致历史上水源丰沛的传统农业粮仓地带频频爆发严重干旱。",
+      "start_time": 256.31,
+      "end_time": 267.885,
+      "key_vocab": [
+        {
+          "word": "anthropogenic disruption",
+          "definition": "人为破坏"
+        },
+        {
+          "word": "agricultural breadbaskets",
+          "definition": "农业粮仓"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_26.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_27",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 27,
+      "english": "Simultaneously, relentless industrialization and rapid global population expansion are driving aggregate municipal and commercial essential freshwater consumption toward mathematically unsustainable historical peaks across contemporary global environments.",
+      "chinese": "与此并行的无休止工业化进程与全球人口迅猛增长，正将全球市政与商业淡水综合消耗总量推向在数学模型上难以为继的历史最高峰。",
+      "start_time": 268.235,
+      "end_time": 281.319,
+      "key_vocab": [
+        {
+          "word": "relentless industrialization",
+          "definition": "无休止的工业化"
+        },
+        {
+          "word": "unsustainable peaks",
+          "definition": "不可持续的高峰"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_27.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_28",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 28,
+      "english": "According to the United Nations World Water Development projections, over forty percent of the global human population will experience structural essential freshwater severe structural deficits within two decades.",
+      "chinese": "根据联合国世界水资源发展报告权威预测，在未来二十年内，全球超过百分之四十的人口将面临结构性淡水严重短缺的严峻危机。",
+      "start_time": 281.669,
+      "end_time": 291.654,
+      "key_vocab": [
+        {
+          "word": "environmental projections",
+          "definition": "环境预测"
+        },
+        {
+          "word": "reliable supplies",
+          "definition": "可靠供应"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_28.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_29",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 29,
+      "english": "Faced with dwindling conventional rivers and rapidly depleting groundwater reservoirs, coastal sovereign nations are turning aggressively toward seawater desalination technologies across contemporary global environments.",
+      "chinese": "面对日益缩减的传统河流流量和加速枯竭的地下蓄水层，沿海主权国家正在全力将战略目光投向海水淡化技术。",
+      "start_time": 292.004,
+      "end_time": 302.604,
+      "key_vocab": [
+        {
+          "word": "dwindling rivers",
+          "definition": "缩减的河流"
+        },
+        {
+          "word": "seawater desalination",
+          "definition": "海水淡化"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_29.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_30",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 30,
+      "english": "For decades, thermal distillation dominated the global desalination industry, boiling seawater through multistage evaporation units consuming colossal amounts of fossil fuel energy across contemporary global environments.",
+      "chinese": "数十年来，热法蒸馏一直主导着全球海水淡化行业，该工艺通过多级蒸发装置将海水煮沸，但这一过程需要消耗极其庞大的化石燃料能源。",
+      "start_time": 302.954,
+      "end_time": 314.262,
+      "key_vocab": [
+        {
+          "word": "thermal distillation",
+          "definition": "热法蒸馏"
+        },
+        {
+          "word": "fossil fuel energy",
+          "definition": "化石燃料能源"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_30.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_31",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 31,
+      "english": "These advanced synthetic membranes feature atomic-scale pores that allow water molecules to permeate freely while blocking dissolved sodium, chloride, and heavy metal ions across contemporary global environments.",
+      "chinese": "这些尖端合成膜具有原子级的微观孔隙，既能让纯净的水分子自由渗透通过，同时完全拦截溶解的钠离子、氯离子及各种重金属离子。",
+      "start_time": 314.612,
+      "end_time": 324.608,
+      "key_vocab": [
+        {
+          "word": "atomic-scale pores",
+          "definition": "原子级孔隙"
+        },
+        {
+          "word": "permeate freely",
+          "definition": "自由渗透"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_31.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_32",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 32,
+      "english": "Modern reverse osmosis operational industrial facilities consume approximately three kilowatt-hours of electrical energy per cubic meter of purified water, representing a massive efficiency gain over thermal plants.",
+      "chinese": "现代反渗透淡化工厂生产一立方米纯净水仅需消耗大约三度电能，相比传统热法蒸馏工厂而言实现了巨大的能效提升飞跃。",
+      "start_time": 324.958,
+      "end_time": 336.15,
+      "key_vocab": [
+        {
+          "word": "electrical energy",
+          "definition": "电能"
+        },
+        {
+          "word": "efficiency gain",
+          "definition": "能效提升"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_32.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_33",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 33,
+      "english": "However, in practice, wide-scale municipal deployment of seawater desalination entails formidable ecological liabilities that environmental biologists warn cannot be responsibly ignored across contemporary global environments.",
+      "chinese": "然而，大规模市政级海水淡化设施的推广建设也伴随着严峻的生态环境负面代价，环境生物学家警告称这绝不能被轻视忽略。",
+      "start_time": 336.5,
+      "end_time": 347.936,
+      "key_vocab": [
+        {
+          "word": "municipal deployment",
+          "definition": "市政级部署"
+        },
+        {
+          "word": "ecological liabilities",
+          "definition": "生态负债，生态代价"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_33.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_34",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 34,
+      "english": "Discharging untreated hypersaline toxic concentrated brine effluents directly into shallow coastal lagoons causes localized ocean deoxygenation, severe osmotic shock, and rapid suffocation of fragile benthic invertebrates.",
+      "chinese": "将未经处理的高浓度浓盐水直接排放至浅海沿岸泻湖，会造成局部海水严重缺氧、剧烈的渗透压冲击，并导致脆弱底栖无脊椎动物迅速窒息死亡。",
+      "start_time": 348.286,
+      "end_time": 359.095,
+      "key_vocab": [
+        {
+          "word": "hyper-saline brine",
+          "definition": "高盐度卤水"
+        },
+        {
+          "word": "cleaning biocides",
+          "definition": "清洗杀菌剂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_34.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_35",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 35,
+      "english": "To eliminate these coastal ecological dead-zones, marine engineering innovators are designing specialized multi-port diffusers that dilute discharged toxic concentrated brine rapidly throughout oceanic currents across contemporary global environments.",
+      "chinese": "为了消除这些近海生态死亡地带，海洋工程创新人员正在设计专用的多孔扩散排放装置，使排出的浓盐水能够迅速在洋流中被快速稀释扩散。",
+      "start_time": 359.445,
+      "end_time": 371.357,
+      "key_vocab": [
+        {
+          "word": "multi-port diffusers",
+          "definition": "多孔扩散器"
+        },
+        {
+          "word": "oceanic currents",
+          "definition": "大洋洋流"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_35.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_36",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 36,
+      "english": "Simultaneously, materials chemists are developing mineral recovery methodologies to extract valuable commercial elements like lithium, magnesium, and rubidium directly from wastewater toxic concentrated brine across contemporary global environments.",
+      "chinese": "与此同时，材料化学家正在大力开发矿产回收技术，直接从淡化浓缩卤水中提取锂、镁、铷等高价值商业工业元素。",
+      "start_time": 371.707,
+      "end_time": 383.409,
+      "key_vocab": [
+        {
+          "word": "mineral recovery",
+          "definition": "矿产回收"
+        },
+        {
+          "word": "commercial elements",
+          "definition": "商业价值元素"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_36.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_37",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 37,
+      "english": "Transforming toxic membrane seawater desalination effluent from an environmental disposal crisis into an economic mineral harvest is known conceptually as zero liquid discharge cutting-edge technology.",
+      "chinese": "将有毒的淡化废水从一场环境处置危机转变成具有经济价值的矿物采收宝藏，在理念上被称为“全过程零液体排放技术”。",
+      "start_time": 383.759,
+      "end_time": 394.081,
+      "key_vocab": [
+        {
+          "word": "zero liquid discharge",
+          "definition": "零液体排放"
+        },
+        {
+          "word": "disposal crisis",
+          "definition": "处置危机"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_37.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_38",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 38,
+      "english": "In the arid Middle East, visionary zero-carbon operational industrial facilities run entirely on concentrated solar thermal collectors, producing green hydrogen and potable water simultaneously across contemporary global environments.",
+      "chinese": "在干旱少雨的中东地区，富有远见的零碳淡化工厂完全依靠聚焦式太阳能集热器驱动，能够同时制备出绿色氢能与洁净饮用水。",
+      "start_time": 394.431,
+      "end_time": 406.366,
+      "key_vocab": [
+        {
+          "word": "concentrated solar",
+          "definition": "聚光太阳能"
+        },
+        {
+          "word": "potable water",
+          "definition": "饮用水"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_38.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_39",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 39,
+      "english": "Nonetheless, technological membrane seawater desalination alone cannot salvage humanity from the catastrophic consequences of profligate agricultural and urban water waste across contemporary global environments.",
+      "chinese": "尽管如此，单凭技术层面的海水淡化手段，根本无法将人类从农业漫灌和城市用水挥霍所造成的灾难性恶果中彻底拯救出来。",
+      "start_time": 406.716,
+      "end_time": 416.84,
+      "key_vocab": [
+        {
+          "word": "profligate waste",
+          "definition": "挥霍浪费"
+        },
+        {
+          "word": "catastrophic consequences",
+          "definition": "灾难性后果"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_39.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_40",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 40,
+      "english": "Because municipal irrigation and agricultural livestock consume seventy percent of abstracted essential freshwater supplies, membrane seawater desalination must proceed in tandem with radical agricultural water-efficiency sustainable agricultural reforms.",
+      "chinese": "鉴于市政灌溉与农业畜牧消耗了人类开采淡水总量的百分之七十，海水淡化必须与大刀阔斧的农业节水增效改革紧密同步推进。",
+      "start_time": 417.19,
+      "end_time": 431.087,
+      "key_vocab": [
+        {
+          "word": "flood irrigation",
+          "definition": "大水漫灌"
+        },
+        {
+          "word": "evaporation",
+          "definition": "蒸发"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_40.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_41",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 41,
+      "english": "Adopting precision computer-controlled drip irrigation networks, cultivating genetically climate-resilient crops, and recharging degraded municipal aquifers must proceed in parallel with membrane seawater desalination infrastructure across contemporary global environments.",
+      "chinese": "推广计算机智能控制的精准滴灌管网、培育具有抗逆基因的气候适应型作物，以及人工回灌修复退化的城市地下含水层，必须与淡化基建同步并进。",
+      "start_time": 431.437,
+      "end_time": 444.73,
+      "key_vocab": [
+        {
+          "word": "drip irrigation",
+          "definition": "滴灌"
+        },
+        {
+          "word": "climate-resilient crops",
+          "definition": "抗气候逆境作物"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_41.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_42",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "idx": 42,
+      "english": "Water is the foundational medium of all terrestrial biology; securing its availability for future generations is our paramount moral and civilizational obligation across contemporary global environments.",
+      "chinese": "水是地球陆地所有生命形式生生不息的根本介质；确保后代拥有稳定充沛的水资源，是我们不可推卸的崇高道德与文明使命。",
+      "start_time": 445.08,
+      "end_time": 455.262,
+      "key_vocab": [
+        {
+          "word": "terrestrial biology",
+          "definition": "陆地生物圈"
+        },
+        {
+          "word": "civilizational obligation",
+          "definition": "文明责任义务"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_42.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_43",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 43,
+      "english": "Good morning, students; in today's neurobiology seminar, we shall investigate the molecular and architectural mechanisms of human memory formation and neuronal synaptic consolidation across contemporary global environments.",
+      "chinese": "同学们早上好；在今天的神经生物学研讨课上，我们将深入探讨人类记忆形成与突触巩固的分子生物学机制与神经生理架构。",
+      "start_time": 455.612,
+      "end_time": 467.06,
+      "key_vocab": [
+        {
+          "word": "neurobiology seminar",
+          "definition": "神经生物学研讨会"
+        },
+        {
+          "word": "synaptic consolidation",
+          "definition": "突触巩固"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_43.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_44",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 44,
+      "english": "Historically, philosophers viewed human memory as an immutable wax tablet or a static video repository storing passive, unalterable recordings of historical reality across contemporary global environments.",
+      "chinese": "在历史上，哲学家们常常将人类记忆想象成一块不可改变的蜡板，或是一座静态的影像资料库，被动且毫无改动地记录着历史事实。",
+      "start_time": 467.41,
+      "end_time": 478.776,
+      "key_vocab": [
+        {
+          "word": "immutable tablet",
+          "definition": "不可磨灭的蜡板"
+        },
+        {
+          "word": "unalterable recordings",
+          "definition": "不可更改的记录"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_44.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_45",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 45,
+      "english": "When you encounter a novel sensory experience, sensory processing cortices transmit coordinated electrical impulses directly into the seahorse-shaped bilateral hippouniversity campus across contemporary global environments.",
+      "chinese": "当你遭遇全新的感官体验时，初级感官处理大脑皮层会将协调一致的电冲动信号直接传递到呈海马形状的双侧海马体结构中。",
+      "start_time": 479.126,
+      "end_time": 490.26,
+      "key_vocab": [
+        {
+          "word": "sensory cortices",
+          "definition": "感官皮层"
+        },
+        {
+          "word": "bilateral hippocampus",
+          "definition": "双侧海马体"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_45.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_46",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 46,
+      "english": "The hippouniversity campus functions as an indispensable temporary central hub, rapidly binding disparate sensory inputs into a coherent, time-stamped episodic human cognitive memory index across contemporary global environments.",
+      "chinese": "海马体充当着一个不可或缺的临时中枢神经枢纽，能够迅速将分散零碎的感官输入拼接整合成一个连贯且带有时间戳的情景记忆索引。",
+      "start_time": 490.61,
+      "end_time": 502.313,
+      "key_vocab": [
+        {
+          "word": "episodic memory",
+          "definition": "情景记忆"
+        },
+        {
+          "word": "time-stamped",
+          "definition": "带有时间戳标记的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_46.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_47",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 47,
+      "english": "When high-frequency action potentials arrive repeatedly at preneuronal synaptic terminals, calcium influx triggers lasting functional enhancements known as long-term potentiation across contemporary global environments.",
+      "chinese": "当高频动作电位反复传导至突触前末梢时，钙离子大量内流会诱发突触传递效能的持久性增强，这在生理学上被称为长时程增强效应。",
+      "start_time": 502.663,
+      "end_time": 513.065,
+      "key_vocab": [
+        {
+          "word": "long-term potentiation",
+          "definition": "长时程增强"
+        },
+        {
+          "word": "strengthening synapses",
+          "definition": "强化突触"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_47.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_48",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 48,
+      "english": "When two interconnected neurons fire repeatedly in close temporal synchronization, molecular signaling cascades induce the insertion of additional neurotransmitter receptors into the postneuronal synaptic membrane.",
+      "chinese": "当两个相互连接的神经元在紧密的时间同步内反复放电时，细胞内分子信号级联反应会促使突触后膜镶嵌进更多的神经递质受体蛋白。",
+      "start_time": 513.415,
+      "end_time": 524.27,
+      "key_vocab": [
+        {
+          "word": "temporal synchronization",
+          "definition": "时间同步性"
+        },
+        {
+          "word": "postsynaptic membrane",
+          "definition": "突触后膜"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_48.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_49",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 49,
+      "english": "However, newly formed neuronal synaptic memories residing within the vulnerable hippouniversity campus remain extraordinarily fragile, susceptible to retrograde amnesia from head trauma or chemical disruption.",
+      "chinese": "然而，留存在脆弱海马体内部的新生突触记忆仍然极其脆弱不堪，极易因头部钝器外伤或化学药物干扰而发生逆行性遗忘症。",
+      "start_time": 524.62,
+      "end_time": 535.29,
+      "key_vocab": [
+        {
+          "word": "vulnerable hippocampus",
+          "definition": "脆弱的海马体"
+        },
+        {
+          "word": "retrograde amnesia",
+          "definition": "逆行性遗忘"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_49.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_50",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 50,
+      "english": "Transforming fragile short-term representations into permanent, robust long-term knowledge requires a prolonged systemic physiological process known as systems consolidation.",
+      "chinese": "将脆弱的短期表征转化为持久稳固的长效长期知识，需要经历一个被称为“系统级巩固”的漫长系统性神经生理转化过程。",
+      "start_time": 535.64,
+      "end_time": 544.591,
+      "key_vocab": [
+        {
+          "word": "systems consolidation",
+          "definition": "系统级巩固"
+        },
+        {
+          "word": "long-term knowledge",
+          "definition": "长期知识"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_50.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_51",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 51,
+      "english": "Over weeks, months, or even years, the hippouniversity campus gradually transfers the informational trace toward broad neocortical networks across the cerebral cortex.",
+      "chinese": "在数周、数月甚至长达数年的时间里，海马体会逐渐将这一信息痕迹逐步转运并分散嵌入至横跨整个大脑皮层的新皮质神经网络中。",
+      "start_time": 544.941,
+      "end_time": 553.161,
+      "key_vocab": [
+        {
+          "word": "informational trace",
+          "definition": "信息印痕，记忆痕迹"
+        },
+        {
+          "word": "neocortical networks",
+          "definition": "新皮层网络"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_51.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_52",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 52,
+      "english": "During quiet non-rapid eye movement slow-wave restorative nocturnal sleep, rhythmic neocortical oscillations coordinate hippocampal replay to transfer fragile human cognitive memory traces into permanent cerebral networks.",
+      "chinese": "在平静的非快速眼动深度慢波睡眠期间，节律性的大脑皮层慢波振荡协调海马体的神经重放，将脆弱的近期记忆痕迹稳固转移至永久的大脑皮质网络。",
+      "start_time": 553.511,
+      "end_time": 564.088,
+      "key_vocab": [
+        {
+          "word": "informational migration",
+          "definition": "信息迁移"
+        },
+        {
+          "word": "sharp-wave ripples",
+          "definition": "尖波涟漪"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_52.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_53",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 53,
+      "english": "During these restorative nocturnal sleep ripples, the hippouniversity campus replays waking neural firing patterns at tenfold speed, broadcasting the day's experiences to the receptive neocortex.",
+      "chinese": "在这些睡眠期间爆发的尖波涟漪中，海马体会以白天十倍的速度反复快速回放白天的神经元放电模式，将一天的经历广播给处于接受状态的新皮层。",
+      "start_time": 564.438,
+      "end_time": 573.842,
+      "key_vocab": [
+        {
+          "word": "replays firing patterns",
+          "definition": "回放放电模式"
+        },
+        {
+          "word": "receptive neocortex",
+          "definition": "处于接受状态的新皮层"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_53.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_54",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 54,
+      "english": "Yet, even fully consolidated memories do not sit quietly undisturbed in static neural vaults waiting to be dusted off.",
+      "chinese": "然而，即便完全巩固成型的记忆，也绝非静静地躺在静态的神经金库保险箱里等待被翻阅复读。",
+      "start_time": 574.192,
+      "end_time": 579.498,
+      "key_vocab": [
+        {
+          "word": "static vaults",
+          "definition": "静态金库"
+        },
+        {
+          "word": "undisturbed",
+          "definition": "未受打扰的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_54.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_55",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 55,
+      "english": "Whenever a consolidated long-term human cognitive memory is retrieved into conscious awareness, its underlying protein architecture destabilizes into a transiently labile, editable neurochemical state.",
+      "chinese": "每当一段已经巩固的长期记忆被重新提取至清醒意识中时，其底层的神经蛋白质构架会暂时失稳，转入一种具有高度可塑性、易受修改的短暂状态。",
+      "start_time": 579.848,
+      "end_time": 589.368,
+      "key_vocab": [
+        {
+          "word": "memory reconsolidation",
+          "definition": "记忆再巩固"
+        },
+        {
+          "word": "labile state",
+          "definition": "不稳定、易变的状态"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_55.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_56",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 56,
+      "english": "While in this malleable biochemical state, the human cognitive memory trace can be strengthened, updated with new contextual data, or even weakened by pharmacological holistic therapeutic interventions.",
+      "chinese": "在处于这种可塑的生化状态期间，该记忆印痕可以被强化加深、被新的情境数据更新补充，甚至能通过药理学干预手段予以削弱弱化。",
+      "start_time": 589.718,
+      "end_time": 599.25,
+      "key_vocab": [
+        {
+          "word": "malleable state",
+          "definition": "可塑状态"
+        },
+        {
+          "word": "pharmacological interventions",
+          "definition": "药理干预"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_56.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_57",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 57,
+      "english": "This reconsolidation window offers promising clinical avenues for treating post-traumatic stress disorder, allowing therapists to decouple traumatic memories from paralyzing emotional panic.",
+      "chinese": "这一宝贵的再巩固时间窗口为临床治疗创伤后应激障碍带来了极具前景的全新途径，使治疗师能够将创伤记忆与令人瘫痪的情绪恐慌解耦分离。",
+      "start_time": 599.6,
+      "end_time": 608.621,
+      "key_vocab": [
+        {
+          "word": "clinical avenues",
+          "definition": "临床途径"
+        },
+        {
+          "word": "post-traumatic stress",
+          "definition": "创伤后应激"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_57.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_58",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 58,
+      "english": "What, then, of the universal phenomenon of adaptive active forgetting? Is adaptive active forgetting merely a defect of biological human cognitive memory systems?",
+      "chinese": "那么，人尽皆知的普遍遗忘现象又是怎么回事呢？遗忘难道仅仅是生物记忆系统的一种缺陷漏洞吗？",
+      "start_time": 608.971,
+      "end_time": 616.714,
+      "key_vocab": [
+        {
+          "word": "universal phenomenon",
+          "definition": "普遍现象"
+        },
+        {
+          "word": "biological defect",
+          "definition": "生物学缺陷"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_58.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_59",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 59,
+      "english": "Neurobiologists emphasize that regulated active adaptive active forgetting prevents cognitive saturation, purging irrelevant situational details to extract broad conceptual schemas and semantic abstractions.",
+      "chinese": "神经生物学家强调，受控的主动遗忘能够有效防止认知信息过载饱和，通过清除无关的细枝末节，提炼出具有普遍指导意义的概念图式与语义抽象。",
+      "start_time": 617.064,
+      "end_time": 627.618,
+      "key_vocab": [
+        {
+          "word": "active forgetting",
+          "definition": "主动遗忘"
+        },
+        {
+          "word": "decision-making clarity",
+          "definition": "决策清晰度"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_59.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_60",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "idx": 60,
+      "english": "By clearing out trivial, obsolete idiosyncratic details, the brain prevents catastrophic cognitive interference and successfully abstracts general conceptual models applicable to novel situations.",
+      "chinese": "通过清除微不足道、过时且琐碎的非本质细节，大脑能有效防止灾难性的认知干扰，并成功提炼出适用于全新未遇情境的通用概念模型。",
+      "start_time": 627.968,
+      "end_time": 638.312,
+      "key_vocab": [
+        {
+          "word": "cognitive interference",
+          "definition": "认知干扰"
+        },
+        {
+          "word": "abstracts models",
+          "definition": "提炼概念模型"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_60.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_61",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 61,
+      "english": "Across the global transportation sector, the aggressive race to decarbonize commercial aviation has confronted a stubborn physical ceiling: chemical battery gravimetric energy density.",
+      "chinese": "在整个全球交通运输行业中，实现商业航空脱碳的激烈科技竞赛正遭遇一个顽固的物理天花板：化学电池的重量能量密度极限。",
+      "start_time": 638.662,
+      "end_time": 648.183,
+      "key_vocab": [
+        {
+          "word": "decarbonize aviation",
+          "definition": "航空脱碳"
+        },
+        {
+          "word": "energy density",
+          "definition": "能量密度"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_61.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_62",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 62,
+      "english": "By stark energetic comparison, conventional kerosene commercial passenger aviation jet fuel delivers nearly twelve thousand watt-hours of thermal energy per kilogram of mass.",
+      "chinese": "而形成极其鲜明能量对比的是，传统的航空煤油喷气燃料每公斤质量能够释放出将近一万二千瓦时的充沛热能。",
+      "start_time": 648.533,
+      "end_time": 658.703,
+      "key_vocab": [
+        {
+          "word": "aviation jet fuel",
+          "definition": "航空喷气燃料"
+        },
+        {
+          "word": "energetic comparison",
+          "definition": "能量对比"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_62.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_63",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 63,
+      "english": "However, in practice, recent laboratory breakthroughs in all-solid-state lithium-metal battery architecture are poised to fundamentally revolutionize this long-standing energetic calculation.",
+      "chinese": "然而，全固态锂金属电池架构在实验研发领域取得的最新重大突破，正有望从根本上颠覆改写这一长久以来的能量计算方程式。",
+      "start_time": 659.053,
+      "end_time": 669.56,
+      "key_vocab": [
+        {
+          "word": "solid-state battery",
+          "definition": "固态电池"
+        },
+        {
+          "word": "fundamental breakthrough",
+          "definition": "根本性突破"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_63.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_64",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 64,
+      "english": "Unlike conventional battery cells utilizing flammable organic liquid solvents, solid-state cells replace liquid electrolytes with dense inorganic ceramic or sulfide matrices.",
+      "chinese": "与采用易燃有机液体溶剂的传统电池电芯截然不同，固态电池电芯采用致密的无机固态陶瓷或硫化物结晶骨架彻底取代了液体电解液。",
+      "start_time": 669.91,
+      "end_time": 678.362,
+      "key_vocab": [
+        {
+          "word": "flammable solvents",
+          "definition": "易燃溶剂"
+        },
+        {
+          "word": "inorganic ceramic",
+          "definition": "无机陶瓷"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_64.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_65",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 65,
+      "english": "By substituting flammable volatile liquid organic electrolytes with rigid ceramic or crystalline sulfide compounds, solid-state advanced rechargeable batteries eliminate the fundamental risk of catastrophic thermal runaway.",
+      "chinese": "通过使用坚固的无机陶瓷或结晶硫化物化合物完全替代易燃易挥发的液态有机电解质，固态电池从物理根本上消除了发生灾难性热失控的火灾隐患。",
+      "start_time": 678.712,
+      "end_time": 689.242,
+      "key_vocab": [
+        {
+          "word": "physical barrier",
+          "definition": "物理屏障"
+        },
+        {
+          "word": "lithium spikes",
+          "definition": "锂枝晶"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_65.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_66",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 66,
+      "english": "Working prototype solid-state cells have already demonstrated verified energy densities exceeding five hundred watt-hours per kilogram in rigorous aerospace testing environments.",
+      "chinese": "工作级固态电池电芯样品在极其严苛的航空航天测试环境中，已经展现出经实测验证超过每公斤五百瓦时的超高重量能量密度。",
+      "start_time": 689.592,
+      "end_time": 698.52,
+      "key_vocab": [
+        {
+          "word": "prototype cells",
+          "definition": "原型电池电芯"
+        },
+        {
+          "word": "aerospace testing",
+          "definition": "航空航天测试"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_66.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_67",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 67,
+      "english": "Reaching commercial energy densities approaching five hundred watt-hours per kilogram finally enables regional passenger electric aviation for short-haul intercity transport routes.",
+      "chinese": "一旦商业级能量密度成功突破接近每公斤五百瓦时，将最终使支线载客纯电动客机在城际短途交通航线上的商业化常态运营成为现实。",
+      "start_time": 698.87,
+      "end_time": 708.216,
+      "key_vocab": [
+        {
+          "word": "passenger aviation",
+          "definition": "客运航空"
+        },
+        {
+          "word": "commercially viable",
+          "definition": "商业上可行的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_67.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_68",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 68,
+      "english": "Airlines could operate quiet commuter flights between regional cities at seventy percent lower operating costs due to eliminated fossil jet fuel procurement.",
+      "chinese": "由于彻底省去了昂贵的化石喷气燃料采购开销，各航空公司将能够以比以往低百分之七十的极低运营成本，在区域城市间开通超安静通勤航班。",
+      "start_time": 708.566,
+      "end_time": 715.695,
+      "key_vocab": [
+        {
+          "word": "commuter flights",
+          "definition": "通勤航班"
+        },
+        {
+          "word": "fossil fuel procurement",
+          "definition": "化石燃料采购"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_68.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_69",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 69,
+      "english": "Nevertheless, formidable industrialization bottlenecks must be resolved before commercial airlines can certify solid-state battery propulsion for regular passenger service.",
+      "chinese": "尽管如此，在商业航空公司能够正式认证固态电池推进系统并投入常规客运服务之前，必须彻底攻克一系列艰巨的工业化生产瓶颈。",
+      "start_time": 716.045,
+      "end_time": 724.381,
+      "key_vocab": [
+        {
+          "word": "industrialization bottlenecks",
+          "definition": "工业化瓶颈"
+        },
+        {
+          "word": "passenger service",
+          "definition": "客运服务"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_69.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_70",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 70,
+      "english": "During fast charging cycles, intricate microscopic lithium hazardous metallic dendrites can crack rigid solid electrolytes, creating internal short-circuits that degrade cell capacity and operational lifespan over time.",
+      "chinese": "在极速充电循环过程中，微观锂枝晶可能会微观开裂固态电解质层，造成内部微短路，随着时间推移严重降低电池容量与使用寿命。",
+      "start_time": 724.731,
+      "end_time": 735.737,
+      "key_vocab": [
+        {
+          "word": "atomic-scale contact",
+          "definition": "原子级接触"
+        },
+        {
+          "word": "brittle ceramic",
+          "definition": "易碎的陶瓷"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_70.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_71",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 71,
+      "english": "During repeated charge cycles, metallic lithium expands and contracts substantially, causing intricate microscopic delamination voids that drastically elevate internal cell electrical resistance.",
+      "chinese": "在反复充放电循环过程中，金属锂会发生大幅度的体积膨胀与收缩，导致微观界面剥离形成空隙，从而使电芯内部电阻急剧飙升。",
+      "start_time": 736.087,
+      "end_time": 746.037,
+      "key_vocab": [
+        {
+          "word": "delamination voids",
+          "definition": "分层剥离空隙"
+        },
+        {
+          "word": "electrical resistance",
+          "definition": "电阻"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_71.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_72",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 72,
+      "english": "Simultaneously, chemical engineering rigorous scientific researchers are synthesizing hybrid semi-flexible polymer-ceramic composite films that accommodate volume fluctuations without physical fracture.",
+      "chinese": "与此同时，化学工程研究人员正在合成能够吸收体积形变波动而不发生物理断裂的杂化半柔性聚合物-陶瓷复合薄膜电解质材料。",
+      "start_time": 746.387,
+      "end_time": 756.151,
+      "key_vocab": [
+        {
+          "word": "volume fluctuations",
+          "definition": "体积波动"
+        },
+        {
+          "word": "composite films",
+          "definition": "复合薄膜"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_72.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_73",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 73,
+      "english": "Global aerospace manufacturing consortia project that certified nine-seat to nineteen-seat electric regional commuter airliners will enter commercial scheduled service by 2028.",
+      "chinese": "全球航空制造工业联合体预计，获得适航认证的9座至19座全电动区域支线通勤客机，将在2028年左右正式投入商业定期客运航线运营。",
+      "start_time": 756.501,
+      "end_time": 766.009,
+      "key_vocab": [
+        {
+          "word": "manufacturing consortia",
+          "definition": "制造业财团联合体"
+        },
+        {
+          "word": "scheduled service",
+          "definition": "定期航班服务"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_73.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_74",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "idx": 74,
+      "english": "Solid-state battery chemistry represents the decisive technological catalyst that will liberate commercial passenger aviation from fossil combustion and deliver quiet, sustainable skies.",
+      "chinese": "固态电池化学技术正是将人类航空业从化石燃料燃烧中彻底解放出来、为世界带来宁静环保天空的决定性关键科技催化剂。",
+      "start_time": 766.359,
+      "end_time": 775.369,
+      "key_vocab": [
+        {
+          "word": "decisive catalyst",
+          "definition": "决定性催化剂"
+        },
+        {
+          "word": "fossil combustion",
+          "definition": "化石燃料燃烧"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_74.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_75",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 75,
+      "english": "Since the dawn of the space age in 1957, humanity has launched thousands of rockets, shuttles, and artificial satellites into low Earth orbit.",
+      "chinese": "自1957年人类航天时代破晓以来，人类已经向近地轨道发射了成千上万枚运载火箭、航天飞机以及各式各样的人造卫星。",
+      "start_time": 775.719,
+      "end_time": 783.439,
+      "key_vocab": [
+        {
+          "word": "space age",
+          "definition": "太空时代"
+        },
+        {
+          "word": "artificial satellites",
+          "definition": "人造卫星"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_75.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_76",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 76,
+      "english": "Over six decades of orbital operations have left hundreds of millions of defunct satellite fragments, spent upper rocket stages, and discarded hardware orbital space debris circling Earth.",
+      "chinese": "六十多年的轨道航天活动遗留下了数以亿计的废弃卫星残骸、火箭废弃上面级以及被丢弃的金属五金垃圾碎片在环绕地球飞速旋转。",
+      "start_time": 783.789,
+      "end_time": 792.892,
+      "key_vocab": [
+        {
+          "word": "defunct fragments",
+          "definition": "废弃残骸碎片"
+        },
+        {
+          "word": "spent rocket stages",
+          "definition": "火箭废弃级"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_76.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_77",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 77,
+      "english": "A stray metallic bolt traveling at hypervelocity carries the explosive kinetic energy of an anti-tank artillery shell, capable of shattering scientific satellites into thousands of fragments.",
+      "chinese": "一颗以高超音速飞行的遗落金属螺栓所蕴含的爆炸性动能，相当于一枚反坦克火炮炮弹，足以将造价高昂的科学观测卫星轰得粉碎并化作数千块新碎片。",
+      "start_time": 793.242,
+      "end_time": 802.739,
+      "key_vocab": [
+        {
+          "word": "hypervelocity",
+          "definition": "超高速"
+        },
+        {
+          "word": "artillery shell",
+          "definition": "火炮炮弹"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_77.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_78",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 78,
+      "english": "In 1978, NASA astrophysicist Donald Kessler formulated a terrifying mathematical scenario now universally known among space scientists as the Kessler syndrome.",
+      "chinese": "1978年，美国宇航局天体物理学家唐纳德·凯斯勒构建了一个令人不寒而栗的数学模型，如今在航天科学界被普遍称为“凯斯勒综合征”。",
+      "start_time": 803.089,
+      "end_time": 812.33,
+      "key_vocab": [
+        {
+          "word": "astrophysicist",
+          "definition": "天体物理学家"
+        },
+        {
+          "word": "Kessler syndrome",
+          "definition": "凯斯勒综合征"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_78.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_79",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 79,
+      "english": "In 1978, NASA astrophysicist Donald Kessler described a catastrophic cascading collision domino scenario that could render low Earth orbital space permanently unusable for human spaceflight.",
+      "chinese": "1978年，美国宇航局天体物理学家唐纳德·凯斯勒描绘了一种灾难性的多米诺骨牌式碰撞级联连锁情景，可能使近地轨道空间永久无法用于人类航天活动。",
+      "start_time": 812.68,
+      "end_time": 823.245,
+      "key_vocab": [
+        {
+          "word": "critical threshold",
+          "definition": "临界阈值"
+        },
+        {
+          "word": "cascading chain reaction",
+          "definition": "级联连锁反应"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_79.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_80",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 80,
+      "english": "Alarmingly, space tracking radars confirm that the critical density threshold has already been breached within several congested orbital bands between seven hundred and nine hundred kilometers.",
+      "chinese": "触目惊心的是，地面空间监视雷达数据证实：在海拔七百至九百公里之间若干最为拥挤的热门轨道带上，这一临界密度阈值实际上已经被突破超越了。",
+      "start_time": 823.595,
+      "end_time": 831.641,
+      "key_vocab": [
+        {
+          "word": "tracking radars",
+          "definition": "追踪雷达"
+        },
+        {
+          "word": "congested orbital bands",
+          "definition": "拥堵轨道带"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_80.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_81",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 81,
+      "english": "To avert orbital catastrophe, international space agencies are moving beyond passive collision avoidance tracking toward aggressive, active space debris removal technologies.",
+      "chinese": "为了化解这一轨道灭顶之灾，各国航天局正在跳出单纯被动变轨避撞追踪的旧框框，全面转向激进的主动清除太空碎片尖端工程技术。",
+      "start_time": 831.991,
+      "end_time": 840.455,
+      "key_vocab": [
+        {
+          "word": "collision avoidance",
+          "definition": "避撞规避"
+        },
+        {
+          "word": "active debris removal",
+          "definition": "主动碎片清除"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_81.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_82",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 82,
+      "english": "One promising approach involves autonomous rendezvous orbital robotic specialized remediation spacecraft equipped with robotic capture arms designed to grapple defunct multi-ton satellites firmly in orbit.",
+      "chinese": "一种极具前景的工程方案是研制装配有多关节机械捕获手臂的自主交会对接航天器，专门用于在轨死死抓取重达数吨的废弃失控大型卫星。",
+      "start_time": 840.805,
+      "end_time": 850.081,
+      "key_vocab": [
+        {
+          "word": "autonomous rendezvous",
+          "definition": "自主交会对接"
+        },
+        {
+          "word": "robotic capture arms",
+          "definition": "机械捕获臂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_82.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_83",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 83,
+      "english": "Autonomous remediation orbital robotic specialized remediation spacecraft equipped with advanced optical sensors capture defunct upper-stage rocket boosters and steer them into fiery atmospheric re-entry over the South Pacific Ocean.",
+      "chinese": "配备先进光学传感器的全自主清理航天器能够精确捕获报废的大型火箭末子级，并引导它们坠入南太平洋上空的大气层彻底受控焚毁。",
+      "start_time": 850.431,
+      "end_time": 861.693,
+      "key_vocab": [
+        {
+          "word": "chaser craft",
+          "definition": "追踪清道夫飞船"
+        },
+        {
+          "word": "derelict satellite",
+          "definition": "废弃失控卫星"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_83.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_84",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 84,
+      "english": "For capturing swirling, unpredictably tumbling fragments, engineers have tested colossal weighted magnetic capture nets that engulf spinning space debris safely without direct impact.",
+      "chinese": "针对那些在轨道上剧烈翻滚、姿态完全不可预测的碎片，工程师们测试了巨大的加重磁性捕获大网，能够安全罩住高速自旋的太空垃圾而无需直接硬碰硬撞击。",
+      "start_time": 862.043,
+      "end_time": 870.495,
+      "key_vocab": [
+        {
+          "word": "tumbling fragments",
+          "definition": "翻滚的碎片"
+        },
+        {
+          "word": "magnetic capture nets",
+          "definition": "磁性捕捞网"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_84.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_85",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 85,
+      "english": "Looking toward orbital orbital space debris too small for mechanical capture, astrophysicists are developing ground-based high-energy pulsed laser systems aimed directly at threatening fragments.",
+      "chinese": "而针对那些体积过于微小无法进行机械抓取的无形致命碎片，天体物理学家正在研发地面大功率脉冲激光照射系统，直接聚焦瞄准那些构成威胁的细小碎片。",
+      "start_time": 870.845,
+      "end_time": 879.9,
+      "key_vocab": [
+        {
+          "word": "pulsed laser systems",
+          "definition": "脉冲激光系统"
+        },
+        {
+          "word": "threatening fragments",
+          "definition": "构成威胁的碎片"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_85.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_86",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 86,
+      "english": "Ground-based high-energy pulsed laser stations can ablate outer surfaces of tiny orbital space debris fragments, creating localized plasma jet thrust that pushes orbital tracks safely into burning re-entry.",
+      "chinese": "地面高能脉冲激光站能够烧蚀微小太空碎片的外部表层，产生微小的局部等离子体喷射推力，将其轨道轨迹安全推低至大气层烧毁。",
+      "start_time": 880.25,
+      "end_time": 890.479,
+      "key_vocab": [
+        {
+          "word": "vaporizing surface",
+          "definition": "气化表面"
+        },
+        {
+          "word": "orbital perigee",
+          "definition": "轨道近地点"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_86.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_87",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 87,
+      "english": "Simultaneously, global regulatory bodies are enforcing stringent zero-orbital space debris policies requiring newly launched satellites to reserve onboard propellant for guaranteed disposal within twenty-five years.",
+      "chinese": "与此同时，全球航天管理权威机构正在强制推行严厉的“零碎片”空间准入政策，硬性要求所有新入轨发射的卫星必须预留燃料，确保在25年内实施离轨自毁。",
+      "start_time": 890.829,
+      "end_time": 900.825,
+      "key_vocab": [
+        {
+          "word": "stringent policies",
+          "definition": "严厉的政策法规"
+        },
+        {
+          "word": "onboard propellant",
+          "definition": "机载推进推进剂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_87.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_88",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "idx": 88,
+      "english": "Preserving orbital access requires international diplomatic treaties binding emerging private space corporations to strict planetary waste stewardship and transparent space surveillance.",
+      "chinese": "维护人类通往深空的轨道走廊通畅，迫切需要达成具有法律约束力的国际外交条约，硬性约束新兴的商业民营太空公司严格履行空间垃圾清运管治与监测透明化责任。",
+      "start_time": 901.175,
+      "end_time": 909.639,
+      "key_vocab": [
+        {
+          "word": "diplomatic treaties",
+          "definition": "外交条约"
+        },
+        {
+          "word": "waste stewardship",
+          "definition": "废弃物管治责任"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_88.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_89",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 89,
+      "english": "Across modern urban societies, public health epidemiologists are documenting a silent, pervasive epidemic that devastates biological health as destructively as chronic smoking: social isolation.",
+      "chinese": "在现代城市社会中，公共卫生流行病学专家正在系统记录一场无声且普遍蔓延的隐形流行病，其对人体生理健康的摧残程度绝不亚于长期酗酒与重度吸烟：那就是社会隔离。",
+      "start_time": 909.989,
+      "end_time": 920.507,
+      "key_vocab": [
+        {
+          "word": "public health epidemiologists",
+          "definition": "公共卫生流行病学家"
+        },
+        {
+          "word": "social isolation",
+          "definition": "社会隔离"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_89.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_90",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 90,
+      "english": "Clinical psychoneuroimmunology distinguishes between objective social isolation—lacking regular human contact—and perceived subjective prolonged subjective loneliness, which inflicts far deeper pathological damage on human biology.",
+      "chinese": "临床心理神经免疫学将客观的社会隔离（缺乏日常人际接触）与主观感受到的心理孤独区分开来，后者对人体生物生理学造成的病理损伤往往要深远严重得多。",
+      "start_time": 920.857,
+      "end_time": 931.968,
+      "key_vocab": [
+        {
+          "word": "subjective distress",
+          "definition": "主观痛苦"
+        },
+        {
+          "word": "interpersonal connections",
+          "definition": "人际交往纽带"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_90.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_91",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 91,
+      "english": "For decades, healthcare systems treated isolation as an unfortunate social inconvenience rather than a grave medical pathology worthy of clinical intervention.",
+      "chinese": "数十年来，各级医疗保健体系一直仅仅将社会孤立视为一种令人惋惜的不幸社交缺憾，而未将其视作值得进行临床医学积极干预的严重病理问题。",
+      "start_time": 932.318,
+      "end_time": 939.725,
+      "key_vocab": [
+        {
+          "word": "healthcare systems",
+          "definition": "医疗保健体系"
+        },
+        {
+          "word": "medical pathology",
+          "definition": "医学病理学问题"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_91.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_92",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 92,
+      "english": "However, in practice, revolutionary breakthroughs in clinical psychoneuroimmunology have definitively demonstrated that subjective prolonged subjective loneliness triggers profound, destructive biological alterations across human physiology.",
+      "chinese": "然而，临床心理神经免疫学领域的颠覆性突破已毋庸置疑地证实：主观的长期孤独感会在整个人体生理层面触发深层且破坏性的恶性生物病理改变。",
+      "start_time": 940.075,
+      "end_time": 952.057,
+      "key_vocab": [
+        {
+          "word": "psychoneuroimmunology",
+          "definition": "心理神经免疫学"
+        },
+        {
+          "word": "biological alterations",
+          "definition": "生物学改变"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_92.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_93",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 93,
+      "english": "Separation from the protective tribe signaled imminent mortal peril, triggering ancient neurobiological defense circuits that hyper-activate the sympathetic nervous system and stress axis.",
+      "chinese": "一旦脱离提供保护的部落群体，便意味着致命死劫临头，这会瞬间触发机体古老的神经生理防御回路，使交感神经系统与应激皮质醇轴过度亢奋激活。",
+      "start_time": 952.407,
+      "end_time": 961.23,
+      "key_vocab": [
+        {
+          "word": "mortal peril",
+          "definition": "致命危险"
+        },
+        {
+          "word": "sympathetic nervous system",
+          "definition": "交感神经系统"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_93.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_94",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 94,
+      "english": "In isolated modern individuals, this primitive threat-response mechanism misfires continuously, bathing vital organs in chronic stress hormones like cortisol and adrenaline.",
+      "chinese": "在处于社会孤立状态的现代人体内，这种原始的危机应对机制会发生持续的误触发，使重要内脏器官长期浸泡在诸如皮质醇和肾上腺素等慢性应激激素的毒液中。",
+      "start_time": 961.58,
+      "end_time": 970.497,
+      "key_vocab": [
+        {
+          "word": "threat-response mechanism",
+          "definition": "威胁应对机制"
+        },
+        {
+          "word": "chronic stress hormones",
+          "definition": "慢性应激激素"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_94.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_95",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 95,
+      "english": "Even more alarming are the genetic consequences revealed by modern genomic sequencing of immune cells harvested from chronically isolated geriatric patients.",
+      "chinese": "更加令人不寒而栗的，是现代基因组测序技术在从长期处于社会隔离状态的老年患者体内提取的免疫细胞中所揭示出的惊人基因表达后果。",
+      "start_time": 970.847,
+      "end_time": 977.743,
+      "key_vocab": [
+        {
+          "word": "genomic sequencing",
+          "definition": "基因组测序"
+        },
+        {
+          "word": "geriatric patients",
+          "definition": "老年患者"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_95.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_96",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 96,
+      "english": "Sustained social chronic social deprivation alters systemic gene expression across circulating white blood cells, aggressively upregulating pro-inflammatory markers while suppressing crucial antiviral defenses.",
+      "chinese": "长期的社交匮乏会系统性改变人体循环白细胞中的基因表达谱，强烈上调促炎因子的活性，同时严重抑制机体对抗病毒感染的关键免疫防御系统。",
+      "start_time": 978.093,
+      "end_time": 988.078,
+      "key_vocab": [
+        {
+          "word": "transcriptional response",
+          "definition": "转录响应"
+        },
+        {
+          "word": "inflammatory cytokine",
+          "definition": "促炎细胞因子"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_96.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_97",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 97,
+      "english": "Epidemiological studies indicate that elderly persons living in sustained isolation suffer a staggering fifty percent increase in their statistical risk of developing dementia.",
+      "chinese": "大规模流行病学调研数据表明，长期生活在孤独隔离状态中的老年人，其罹患各类痴呆症的统计学概率足足暴增了惊人的百分之五十之多。",
+      "start_time": 988.428,
+      "end_time": 996.682,
+      "key_vocab": [
+        {
+          "word": "epidemiological studies",
+          "definition": "流行病学研究"
+        },
+        {
+          "word": "sustained isolation",
+          "definition": "持续的社会隔离"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_97.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_98",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 98,
+      "english": "Chronic subjective prolonged subjective loneliness accelerates the progressive shortening of protective telomeres capping chromosome ends, mirroring the cellular physiological damage caused by lifelong tobacco smoking.",
+      "chinese": "长期的主观孤独感会显著加速染色体末端保护性端粒的进行性损耗变短，其造成的细胞生理损伤相当于终生吸烟所带来的危害程度。",
+      "start_time": 997.032,
+      "end_time": 1007.191,
+      "key_vocab": [
+        {
+          "word": "telomere attrition",
+          "definition": "端粒磨损"
+        },
+        {
+          "word": "chromosomes",
+          "definition": "染色体"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_98.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_99",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 99,
+      "english": "Confronting this escalating geriatric public health crisis requires moving beyond pharmacological prescriptions toward aggressive municipal social prescribing initiatives.",
+      "chinese": "直面这一日益严峻的老年公共卫生危机，迫切需要超越单纯开具化学药物处方的狭隘思路，全面转向积极推行市政级社会处方创新机制。",
+      "start_time": 1007.541,
+      "end_time": 1015.227,
+      "key_vocab": [
+        {
+          "word": "geriatric crisis",
+          "definition": "老年群体危机"
+        },
+        {
+          "word": "social prescribing",
+          "definition": "社会处方"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_99.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_100",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 100,
+      "english": "Pioneering civic public health formal policy frameworks now prescribe social group memberships, intergenerational mentoring, and community gardening programs alongside conventional medical pharmaceutical holistic therapeutic interventions.",
+      "chinese": "具有前瞻性的公共卫生管理体系目前正在推行社会处方机制，在开具传统医药处方的同时，强制引入社团活动、代际交流与社区园艺等干预方案。",
+      "start_time": 1015.577,
+      "end_time": 1027.628,
+      "key_vocab": [
+        {
+          "word": "intergenerational mentorships",
+          "definition": "代际辅导互动"
+        },
+        {
+          "word": "music ensembles",
+          "definition": "音乐合唱乐团"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_100.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_101",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 101,
+      "english": "Re-establishing meaningful social reciprocity and shared daily purpose restores psychological dignity while actively dampening the neuroendocrine inflammatory cascade.",
+      "chinese": "重新建立起有意义的社会互惠关系与共同的日常充实目标，不仅能重塑老年人的心理尊严，更能从源头上切实平息神经内分泌炎症级联风暴。",
+      "start_time": 1027.978,
+      "end_time": 1036.117,
+      "key_vocab": [
+        {
+          "word": "social reciprocity",
+          "definition": "社会互惠"
+        },
+        {
+          "word": "inflammatory cascade",
+          "definition": "炎症级联反应"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_101.mp3"
+    },
+    {
+      "id": "cet6-2021-12-1_s_102",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "idx": 102,
+      "english": "Ultimately, genuine human connection is not an optional emotional luxury, but an absolute biological necessity essential for health, vitality, and longevity.",
+      "chinese": "归根结底，真诚的人际情感联结绝不是一种可有可无的社交奢侈品，而是维系人体健康、充沛生命活力以及实现健康长寿所绝对必需的根本生物学生命基石。",
+      "start_time": 1036.467,
+      "end_time": 1045.151,
+      "key_vocab": [
+        {
+          "word": "emotional luxury",
+          "definition": "情感奢侈品"
+        },
+        {
+          "word": "biological necessity",
+          "definition": "生物学必需品"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2021-12-1/cet6-2021-12-1_s_102.mp3"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2021-12-1_q_1",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "sentence_id": "cet6-2021-12-1_s_2",
+      "idx": 1,
+      "question_text": "Why was David absent from university seminar classes for almost two weeks?",
+      "options": "[\"A) He was recovering from an acute throat infection.\", \"B) He went on an early winter vacation abroad.\", \"C) He was attending an international debate competition.\", \"D) He was quarantined due to a seasonal flu outbreak.\"]",
+      "answer": "A",
+      "explanation": "录音第2句中大卫解释说自己经历了急性喉部感染（acute throat infection），必须去急诊配抗生素治疗，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_2",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "sentence_id": "cet6-2021-12-1_s_4",
+      "idx": 2,
+      "question_text": "What medical diagnosis did David receive after slipping on the ice?",
+      "options": "[\"A) A compound fracture in his right wrist bone.\", \"B) A severe wrist sprain without any broken bones.\", \"C) Severe head trauma requiring overnight observation.\", \"D) A dislocated shoulder needing physical therapy.\"]",
+      "answer": "B",
+      "explanation": "录音第5句中提到影像学检查证实手腕没有骨折，只是严重扭伤（severely sprained），故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_3",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "sentence_id": "cet6-2021-12-1_s_7",
+      "idx": 3,
+      "question_text": "Why was David unable to claim a free manufacturer replacement for his damaged laptop?",
+      "options": "[\"A) He had lost his original retail purchase receipt.\", \"B) The hardware warranty expired three days prior to the accident.\", \"C) The device was classified as irreparably water damaged.\", \"D) The laptop manufacturer had recently declared bankruptcy.\"]",
+      "answer": "B",
+      "explanation": "录音第10句指出商业硬件保修期恰好在意外发生前72小时（3天）到期（expired exactly seventy-two hours prior），故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_4",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_1",
+      "sentence_id": "cet6-2021-12-1_s_10",
+      "idx": 4,
+      "question_text": "How does Sarah propose to help David retrieve his vital research papers?",
+      "options": "[\"A) By recommending a skilled independent electronics repair artisan.\", \"B) By lending him her personal computer to re-type the essays.\", \"C) By petitioning the course professor for an assignment extension.\", \"D) By uploading his broken hard drive to a commercial cloud server.\"]",
+      "answer": "A",
+      "explanation": "录音第12和13句中莎拉推荐了她父亲熟识的技术高超的独立维修师傅，能够利用微焊设备提取原始数据，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_5",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "sentence_id": "cet6-2021-12-1_s_14",
+      "idx": 5,
+      "question_text": "What do the company's anonymous staff surveys reveal about employee work preferences?",
+      "options": "[\"A) A complete refusal to ever return to physical office desks.\", \"B) A strong 78 percent preference for flexible hybrid schedules.\", \"C) A unanimous demand for permanent five-day office weeks.\", \"D) Widespread dissatisfaction with home internet subsidies.\"]",
+      "answer": "B",
+      "explanation": "录音第19句指出匿名调查显示78%的员工压倒性倾向于保持在居家办公与协作办公环境之间的弹性分配，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_6",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "sentence_id": "cet6-2021-12-1_s_16",
+      "idx": 6,
+      "question_text": "What major professional deficit was observed among junior analysts hired remotely?",
+      "options": "[\"A) Lack of fundamental quantitative computing skills.\", \"B) Inability to meet weekly project delivery deadlines.\", \"C) Deficits in contextual organizational knowledge and informal mentorship.\", \"D) Frequent unexcused absences from scheduled video meetings.\"]",
+      "answer": "C",
+      "explanation": "录音第22句提到完全远程入职的初级员工在组织宏观背景理解与非正式导师指导方面存在明显缺失，故选C。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_7",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "sentence_id": "cet6-2021-12-1_s_18",
+      "idx": 7,
+      "question_text": "What structured policy did the human resources taskforce introduce to restore collaboration?",
+      "options": "[\"A) Mandatory in-person office attendance on Tuesdays and Thursdays.\", \"B) Prohibiting any work from home during the final quarter of the year.\", \"C) Reducing the standard full-time work week to four days.\", \"D) Daily video check-in calls every morning at eight o'clock.\"]",
+      "answer": "A",
+      "explanation": "录音第25句说明人力资源部制定了混合办公制度，强制要求周二和周四必须现场到岗（mandatory physical presence on Tuesdays and Thursdays），故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_8",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_2",
+      "sentence_id": "cet6-2021-12-1_s_22",
+      "idx": 8,
+      "question_text": "What positive corporate outcome occurred following the restructured hybrid model?",
+      "options": "[\"A) Office rental costs were reduced by fifty percent immediately.\", \"B) Team velocity increased by 14 percent and turnover hit an all-time low.\", \"C) The company expanded into three brand-new overseas markets.\", \"D) All employees received automatic double-digit annual salary bonuses.\"]",
+      "answer": "B",
+      "explanation": "录音第30句指出团队执行速度提升了14%，且自愿离职率创下了历史新低，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_9",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "sentence_id": "cet6-2021-12-1_s_28",
+      "idx": 9,
+      "question_text": "According to the United Nations projections cited, what will occur by the year 2030?",
+      "options": "[\"A) Global freshwater demand will outstrip reliable supplies by 40 percent.\", \"B) All polar glaciers will have completely melted into the oceans.\", \"C) Half of the world's population will rely exclusively on bottled water.\", \"D) Groundwater extraction will be banned in all developing nations.\"]",
+      "answer": "A",
+      "explanation": "录音第38句指出联合国预测到2030年，全球淡水需求量将超出可靠供应量高达40%，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_10",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "sentence_id": "cet6-2021-12-1_s_34",
+      "idx": 10,
+      "question_text": "What severe environmental threat does untreated desalination brine pose to coastal waters?",
+      "options": "[\"A) It causes massive freshwater evaporation along maritime coastlines.\", \"B) It sinks to the seafloor and suffocates benthic marine organisms.\", \"C) It poisons open ocean pelagic fish through toxic radioactive isotopes.\", \"D) It generates violent underwater electrical currents in coral reefs.\"]",
+      "answer": "B",
+      "explanation": "录音第46句明确指出，高密度缺氧的浓盐水会下沉至海底，导致底栖海洋生物窒息死亡，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_11",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_3",
+      "sentence_id": "cet6-2021-12-1_s_40",
+      "idx": 11,
+      "question_text": "Why must agricultural reform proceed in parallel with desalination infrastructure?",
+      "options": "[\"A) Desalinated water is completely unsuitable for any crop cultivation.\", \"B) Farming accounts for over 70 percent of global freshwater consumption.\", \"C) Farmers refuse to pay standard municipal tariffs for piped water.\", \"D) Agricultural irrigation generates half of global electrical energy.\"]",
+      "answer": "B",
+      "explanation": "录音第53句指出农业占全球淡水总消耗量的70%以上且常有严重浪费，因此农业灌溉改革必须与淡化工程并行，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_12",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "sentence_id": "cet6-2021-12-1_s_47",
+      "idx": 12,
+      "question_text": "What cellular process underlies the initial strengthening of synaptic connections?",
+      "options": "[\"A) Long-term potentiation induced by synchronized neural firing.\", \"B) Rapid apoptosis of inhibitory interneurons in the cerebellum.\", \"C) The permanent destruction of postsynaptic receptor proteins.\", \"D) Retrograde chemical signaling that halts electrical transmission.\"]",
+      "answer": "A",
+      "explanation": "录音第63句指出初期的突触记忆巩固依赖于长时程增强（long-term potentiation），由同步放电增强突触连接，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_13",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "sentence_id": "cet6-2021-12-1_s_52",
+      "idx": 13,
+      "question_text": "During what physiological state does systems memory consolidation predominantly unfold?",
+      "options": "[\"A) Vigorous high-intensity cardiovascular physical exercise.\", \"B) Deep slow-wave nocturnal sleep accompanied by sharp-wave ripples.\", \"C) Meditative breathing exercises performed at dawn.\", \"D) Rapid eye movement sleep during emotional dream states.\"]",
+      "answer": "B",
+      "explanation": "录音第69和70句说明系统级巩固主要在夜间深度慢波睡眠期间展开，伴随海马尖波涟漪进行信息迁移，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_14",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "sentence_id": "cet6-2021-12-1_s_55",
+      "idx": 14,
+      "question_text": "What happens to a consolidated long-term memory when it is consciously recalled?",
+      "options": "[\"A) It becomes permanently immune to any future biological alteration.\", \"B) It temporarily reverts to an unstable, malleable state requiring reconsolidation.\", \"C) It is instantly transferred back into the temporary hippocampal buffer.\", \"D) It loses half of its emotional intensity within several minutes.\"]",
+      "answer": "B",
+      "explanation": "录音第73句指出唤起记忆时它会暂时退回不稳定可塑状态（unstable, labile state），并需要重新巩固，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_15",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_4",
+      "sentence_id": "cet6-2021-12-1_s_59",
+      "idx": 15,
+      "question_text": "Why do neuroscientists consider active forgetting an adaptive evolutionary feature?",
+      "options": "[\"A) It clears trivial details to optimize decision clarity and model abstraction.\", \"B) It prevents the physical brain from expanding beyond skull boundaries.\", \"C) It reduces the metabolic glucose consumption of the prefrontal cortex.\", \"D) It allows individuals to erase memories of physical pain completely.\"]",
+      "answer": "A",
+      "explanation": "录音第78和79句强调主动遗忘能够清除琐碎无用细节，防止认知干扰并优化通用概念模型的提炼，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_16",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "sentence_id": "cet6-2021-12-1_s_65",
+      "idx": 16,
+      "question_text": "How do solid-state battery electrolytes fundamentally differ from conventional lithium-ion cells?",
+      "options": "[\"A) They replace flammable liquid solvents with dense inorganic ceramic or sulfide matrices.\", \"B) They utilize compressed gaseous hydrogen instead of chemical anodes.\", \"C) They operate exclusively in vacuum chambers at sub-zero temperatures.\", \"D) They rely on organic water-soluble gels that evaporate after charging.\"]",
+      "answer": "A",
+      "explanation": "录音第86句说明固态电池电芯采用致密的无机陶瓷或硫化物固态基质，彻底替代了易燃的有机液体电解液，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_17",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "sentence_id": "cet6-2021-12-1_s_67",
+      "idx": 17,
+      "question_text": "What practical commercial breakthrough becomes possible with batteries reaching 500 watt-hours per kilogram?",
+      "options": "[\"A) Non-stop transpacific commercial passenger flights on battery power.\", \"B) Commercially viable regional passenger flights up to 1,000 kilometers.\", \"C) Electric cargo ships capable of circumnavigating the globe twice.\", \"D) Supersonic passenger airliners flying at three times the speed of sound.\"]",
+      "answer": "B",
+      "explanation": "录音第90句指出当能量密度达500瓦时/公斤时，航程在1000公里以内的区域支线客运航空将具备商业可行性，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_18",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_5",
+      "sentence_id": "cet6-2021-12-1_s_70",
+      "idx": 18,
+      "question_text": "What major mechanical challenge arises from repeated charging of solid-state lithium cells?",
+      "options": "[\"A) The complete evaporation of solid ceramic components into harmful gas.\", \"B) Anode expansion and contraction causing delamination voids and high resistance.\", \"C) Continuous chemical melting of aluminum aircraft fuselage structures.\", \"D) The uncontrollable magnetic attraction between adjacent battery packs.\"]",
+      "answer": "B",
+      "explanation": "录音第95句提到充放电中金属锂大幅膨胀收缩会导致微观界面剥离空隙，使电芯内阻急剧上升，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_19",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "sentence_id": "cet6-2021-12-1_s_79",
+      "idx": 19,
+      "question_text": "What disastrous scenario did astrophysicist Donald Kessler predict regarding orbital debris?",
+      "options": "[\"A) Space debris will fall into the upper atmosphere and burn away harmlessly.\", \"B) Solar radiation will magnetize all space junk and pull it into the sun.\", \"C) Cascading collisions will trigger a runaway chain reaction rendering orbits impassable.\", \"D) Space junk will form a reflective ring that lowers global surface temperatures.\"]",
+      "answer": "C",
+      "explanation": "录音第107和108句指出凯斯勒综合征预言，碎片碰撞会引发不可逆的雪崩连锁反应，使关键轨道彻底沦为无法通行的绝境，故选C。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_20",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "sentence_id": "cet6-2021-12-1_s_83",
+      "idx": 20,
+      "question_text": "How does an autonomous chaser craft safely dispose of a captured defunct satellite?",
+      "options": "[\"A) By pushing it millions of kilometers away into deep interplanetary space.\", \"B) By towing it downward into the dense atmosphere for complete incineration.\", \"C) By dismantling it into small parts and burying them on the lunar surface.\", \"D) By coating it in protective lead shielding to prevent future collisions.\"]",
+      "answer": "B",
+      "explanation": "录音第112句指出清道夫飞船通过自身推进器拖拽失控卫星减速，使其进入稠密大气层焚毁烧蚀，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_21",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_6",
+      "sentence_id": "cet6-2021-12-1_s_86",
+      "idx": 21,
+      "question_text": "How does ground-based pulsed laser technology deorbit microscopic space debris particles?",
+      "options": "[\"A) By vaporizing surface material to generate a counter-thrust that lowers perigee.\", \"B) By melting the debris into invisible liquid droplets that freeze in orbit.\", \"C) By pulling the particle down directly using focused optical tractor beams.\", \"D) By detonating the particle like a military explosive in high orbit.\"]",
+      "answer": "A",
+      "explanation": "录音第116句说明地基脉冲激光通过微观气化碎片表面产生等离子体反向微推力，降低其近地点高度并令其自然受阻力烧毁，故选A。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_22",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "sentence_id": "cet6-2021-12-1_s_90",
+      "idx": 22,
+      "question_text": "How does clinical psychoneuroimmunology distinguish social isolation from loneliness?",
+      "options": "[\"A) Loneliness is a medical pathology while isolation is entirely voluntary.\", \"B) Isolation is an objective measurable lack of ties while loneliness is subjective distress.\", \"C) Loneliness only affects young adults while isolation occurs only in elderly patients.\", \"D) Isolation cannot be measured scientifically whereas loneliness has physical symptoms.\"]",
+      "answer": "B",
+      "explanation": "录音第122句明确界定孤独感为主观心理痛苦，而社会隔离则是客观可测度的人际纽带与社区互动的匮乏，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_23",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "sentence_id": "cet6-2021-12-1_s_96",
+      "idx": 23,
+      "question_text": "What genetic change occurs in immune cells of chronically isolated individuals?",
+      "options": "[\"A) Complete shutdown of all white blood cell production in bone marrow.\", \"B) Down-regulated antiviral antibody defenses paired with up-regulated inflammatory cytokines.\", \"C) Immediate mutation of cellular DNA causing uncontrollable cancerous growth.\", \"D) Total loss of blood clotting proteins leading to spontaneous hemorrhaging.\"]",
+      "answer": "B",
+      "explanation": "录音第131句指出隔离会诱发逆境转录响应：大幅下调抗病毒抗体防线的同时，大幅上调促炎细胞因子表达，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_24",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "sentence_id": "cet6-2021-12-1_s_98",
+      "idx": 24,
+      "question_text": "What chromosomal damage is accelerated by sustained chronic social isolation?",
+      "options": "[\"A) Duplication of chromosome twenty-one leading to genetic instability.\", \"B) Accelerated telomere attrition leading to premature cellular senescence.\", \"C) Complete detachment of mitochondrial DNA from cellular membranes.\", \"D) Fusion of nuclear chromosomes causing immediate cell necrosis.\"]",
+      "answer": "B",
+      "explanation": "录音第134句指出长期社会隔离会加速染色体末端端粒磨损耗竭（accelerates telomere attrition），诱发细胞早衰，故选B。"
+    },
+    {
+      "id": "cet6-2021-12-1_q_25",
+      "paper_id": "cet6-2021-12-1",
+      "section_id": "cet6-2021-12-1_sec_7",
+      "sentence_id": "cet6-2021-12-1_s_100",
+      "idx": 25,
+      "question_text": "What practical intervention characterizes pioneering municipal social prescribing programs?",
+      "options": "[\"A) Prescribing community group activities alongside standard medical treatments.\", \"B) Confining isolated elderly patients to specialized psychiatric hospitals.\", \"C) Mandating daily psychological counseling sessions over telephone lines.\", \"D) Providing cash subsidies strictly conditioned on living with extended family.\"]",
+      "answer": "A",
+      "explanation": "录音第137句说明先锋医生在开具常规药物的同时，开出参加社区园艺、代际阅读等群体活动的社会处方，故选A。"
+    }
+  ]
+}

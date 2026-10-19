@@ -1,0 +1,2608 @@
+{
+  "id": "cet6-2022-06-1",
+  "title": "2022年6月 六级听力真题（第1套）",
+  "year": 2022,
+  "month": 6,
+  "audio_path": "content/papers/cet6-2022-06-1/full.mp3",
+  "total_duration_sec": 1043.879,
+  "sentence_count": 102,
+  "provenance": "model-reconstructed",
+  "verified": false,
+  "sections": [
+    {
+      "id": "cet6-2022-06-1_sec_1",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section A · 长对话一：青少年教育与文学阅读",
+      "section_type": "Section A",
+      "sort_order": 1
+    },
+    {
+      "id": "cet6-2022-06-1_sec_2",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section A · 长对话二：城市交通电动化与电网协同",
+      "section_type": "Section A",
+      "sort_order": 2
+    },
+    {
+      "id": "cet6-2022-06-1_sec_3",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section B · 讲座一：认知心理学与决策疲劳效应",
+      "section_type": "Section B",
+      "sort_order": 3
+    },
+    {
+      "id": "cet6-2022-06-1_sec_4",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section B · 讲座二：仿生学原理在建筑节能中的应用",
+      "section_type": "Section B",
+      "sort_order": 4
+    },
+    {
+      "id": "cet6-2022-06-1_sec_5",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section C · 报道一：深海热泉生态与极端微生物研究",
+      "section_type": "Section C",
+      "sort_order": 5
+    },
+    {
+      "id": "cet6-2022-06-1_sec_6",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section C · 报道二：循环经济与工业共生体系实践",
+      "section_type": "Section C",
+      "sort_order": 6
+    },
+    {
+      "id": "cet6-2022-06-1_sec_7",
+      "paper_id": "cet6-2022-06-1",
+      "title": "Section C · 报道三：神经可塑性与终身认知韧性",
+      "section_type": "Section C",
+      "sort_order": 7
+    }
+  ],
+  "sentences": [
+    {
+      "id": "cet6-2022-06-1_s_1",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 1,
+      "english": "Welcome to our cultural broadcast, where today we are joined by David Jackson, a distinguished staff writer celebrated for documenting daring non-fiction expeditions.",
+      "chinese": "欢迎来到我们的每周文化广播节目。今天我们邀请到了演播室现场的大卫·杰克逊，他是一位以记录英勇无畏的非虚构探险著作而享誉国际的杰出特约撰稿人。",
+      "start_time": 0.0,
+      "end_time": 8.046,
+      "key_vocab": [
+        {
+          "word": "staff writer",
+          "definition": "特约撰稿人"
+        },
+        {
+          "word": "daring expeditions",
+          "definition": "英勇的探险"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_1.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_2",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 2,
+      "english": "David, while international readers know you for perilous travel memoirs and mountain adventures, today we want to examine an intimate personal journey: raising two adolescent children.",
+      "chinese": "大卫，虽然国际读者主要是通过危险的旅行回忆录与高山探险故事熟知您，但今天我们想深入探讨一段更为亲近的个人历程：抚养两个处于青春期的孩子。",
+      "start_time": 8.396,
+      "end_time": 16.534,
+      "key_vocab": [
+        {
+          "word": "perilous",
+          "definition": "危险的，充满艰险的"
+        },
+        {
+          "word": "adolescent",
+          "definition": "青少年的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_2.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_3",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 3,
+      "english": "As an experienced parent actively navigating the adolescent years of an eleven-year-old and a fourteen-year-old, what is the single most rewarding aspect of this unique developmental stage?",
+      "chinese": "作为一名积极陪伴11岁和14岁孩子走过青春期风雨的父亲，在这个独具特色的成长发展阶段中，您觉得收获感最强、最令人欣慰的方面究竟是什么？",
+      "start_time": 16.884,
+      "end_time": 25.592,
+      "key_vocab": [
+        {
+          "word": "navigating",
+          "definition": "引导，应对"
+        },
+        {
+          "word": "developmental stage",
+          "definition": "发展阶段"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_3.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_4",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 4,
+      "english": "While many parents emphasize constant domestic friction and emotional turbulence, I actually find these intermediate transition years remarkably inspiring and intellectually stimulating.",
+      "chinese": "尽管许多当代父母常常强调家庭中无休止的摩擦与青春期的情绪波动，但我实际上发现这些过渡成长阶段在日常生活中非常振奋人心且极具智力启发性。",
+      "start_time": 25.942,
+      "end_time": 34.916,
+      "key_vocab": [
+        {
+          "word": "friction",
+          "definition": "摩擦，冲突"
+        },
+        {
+          "word": "intellectually stimulating",
+          "definition": "有智力启发性的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_4.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_5",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 5,
+      "english": "They are increasingly independent and possess their own intense curiosity, allowing us to engage in thoughtful and nuanced conversations about complex issues like civic responsibility and social ethics.",
+      "chinese": "他们日益独立，并拥有自己极为强烈的好奇心，这使我们全家能够就公民责任以及社会伦理等复杂微妙的话题，展开富有深度和洞察力的交流对话。",
+      "start_time": 35.266,
+      "end_time": 44.903,
+      "key_vocab": [
+        {
+          "word": "intense curiosities",
+          "definition": "强烈的好奇心"
+        },
+        {
+          "word": "civic responsibility",
+          "definition": "公民责任"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_5.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_6",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 6,
+      "english": "Given your established profession as an accomplished prose stylist and author, do your children frequently approach your home study seeking guidance to review and polish their academic compositions?",
+      "chinese": "鉴于您作为一名享有盛誉的散文作家兼专业作者的职业背景，您的孩子们是否经常来到您的书房寻求指导，请您审阅并润色他们的学术作文与论文草稿？",
+      "start_time": 45.253,
+      "end_time": 54.355,
+      "key_vocab": [
+        {
+          "word": "accomplished",
+          "definition": "熟练的，有成就的"
+        },
+        {
+          "word": "polish",
+          "definition": "润色，修改"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_6.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_7",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 7,
+      "english": "They do bring me their school essay drafts, but I consciously resist the parental temptation to impose strict professional editorial standards or alter their authentic and natural creative voices.",
+      "chinese": "他们确实会把学校的作文草稿拿给我看，但我自觉克制住作为父母强加严格专业编辑标准或随意修改他们真实纯粹、极具个性的自然表达风格的冲动。",
+      "start_time": 54.705,
+      "end_time": 63.575,
+      "key_vocab": [
+        {
+          "word": "resist temptation",
+          "definition": "抵制诱惑，自觉克制"
+        },
+        {
+          "word": "natural voices",
+          "definition": "自然纯真的表达风格"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_7.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_8",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 8,
+      "english": "At their current developmental threshold, nurturing creative confidence and providing warm emotional encouragement is far more beneficial than demanding technical editorial precision or rigid grammatical perfectionism.",
+      "chinese": "在他们目前的成长阶段，培育起宝贵的创作自信并给予温暖的情感鼓励，远比苛求技巧上的编辑精确度或死板的语法完美主义要更有益得多。",
+      "start_time": 63.925,
+      "end_time": 73.782,
+      "key_vocab": [
+        {
+          "word": "nurturing",
+          "definition": "培养，培育"
+        },
+        {
+          "word": "editorial precision",
+          "definition": "编辑精确度"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_8.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_9",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 9,
+      "english": "Many parents struggle with excessive critique and rigorous line-editing, inadvertently discouraging aspiring young writers before they discover the sheer pleasure of authentic written self-expression.",
+      "chinese": "许多出于好意的父母往往陷入过多的批评挑剔与严格字句修改，在年轻写作者体会到真实文字自我表达的纯粹乐趣之前，便在无意中打击了他们的积极性。",
+      "start_time": 74.132,
+      "end_time": 83.025,
+      "key_vocab": [
+        {
+          "word": "inadvertently",
+          "definition": "无意地，不经意地"
+        },
+        {
+          "word": "self-expression",
+          "definition": "自我表达"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_9.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_10",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 10,
+      "english": "Turning our attention toward foundational reading habits, are there specific classic literary texts that you consider absolutely indispensable for young minds to absorb during their crucial secondary school years?",
+      "chinese": "将我们的注意力转向根本性的阅读习惯培养，是否有您认为年轻一代在关键的中学生涯中绝对必读、不可或缺的某些经典文学篇目？",
+      "start_time": 83.375,
+      "end_time": 93.627,
+      "key_vocab": [
+        {
+          "word": "indispensable",
+          "definition": "不可或缺的，必不可少的"
+        },
+        {
+          "word": "secondary school",
+          "definition": "中等学校，中学"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_10.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_11",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 11,
+      "english": "Rather than prescribing a rigid canon of mandatory masterpieces, my fundamental philosophical stance is that cultivating an enduring affection for reading itself remains the paramount objective of humanistic education.",
+      "chinese": "与其开列一份死板且带有强制性的文学经典书单，我的基本教育理念是：在孩子心中培养起对阅读本身持久而真挚的热爱，始终是人文教育至高无上的首要目标。",
+      "start_time": 93.977,
+      "end_time": 104.228,
+      "key_vocab": [
+        {
+          "word": "philosophical stance",
+          "definition": "理念立场"
+        },
+        {
+          "word": "paramount objective",
+          "definition": "首要目标"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_11.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_12",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 12,
+      "english": "Literature inherently confers the psychological capability to inhabit unfamiliar subjectivities, cultivating profound empathy that shields diverse democratic societies from destructive tribalism and mutual intolerance.",
+      "chinese": "文学从本质上赋予人体验陌生主体性视角的心智能力，培养出的深厚人际同理心能够保护多元民主社会免受破坏性的宗派主义、意识形态极化与狭隘互不容忍的侵蚀。",
+      "start_time": 104.578,
+      "end_time": 115.584,
+      "key_vocab": [
+        {
+          "word": "unfamiliar subjectivities",
+          "definition": "陌生的主体性视角"
+        },
+        {
+          "word": "tribalism",
+          "definition": "宗派主义，部落主义"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_12.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_13",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 13,
+      "english": "Good afternoon, Dr. Miller; thank you for meeting today to discuss our municipality's strategic transition toward comprehensive public transit electrification across our metropolitan network.",
+      "chinese": "下午好，米勒博士；非常感谢您今天接受会面，共同讨论我们区域市政公共交通向覆盖整个都市网络的全面电动化战略转型的关键议题。",
+      "start_time": 115.934,
+      "end_time": 125.78,
+      "key_vocab": [
+        {
+          "word": "municipality",
+          "definition": "市政当局"
+        },
+        {
+          "word": "electrification",
+          "definition": "电气化"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_13.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_14",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 14,
+      "english": "It is an absolute pleasure, Alex; our university transportation engineering department has closely monitored your pilot phase involving the introduction of fifty battery-electric municipal buses on downtown routes.",
+      "chinese": "能与您交流是我的荣幸，亚历克斯；我们大学交通工程系一直在密切跟踪关注你们在市区线路上初步引入五十辆纯电动城市公交车的试点运行阶段。",
+      "start_time": 126.13,
+      "end_time": 137.461,
+      "key_vocab": [
+        {
+          "word": "pilot phase",
+          "definition": "试点阶段"
+        },
+        {
+          "word": "electric buses",
+          "definition": "电动公交车"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_14.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_15",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 15,
+      "english": "While vehicle driving performance exceeded expectations, simultaneous overnight depot recharging created sudden electric demand spikes threatening distribution transformer capacity across surrounding residential neighborhoods during cold winter evenings.",
+      "chinese": "尽管车辆行驶性能超出了预期，但寒冬夜晚在车场同时充电会产生突发性的剧烈用电负荷尖峰，对周边居民区的配电变压器承载力构成了严峻威胁。",
+      "start_time": 137.811,
+      "end_time": 150.582,
+      "key_vocab": [
+        {
+          "word": "depot",
+          "definition": "车辆段，车场"
+        },
+        {
+          "word": "distribution transformer",
+          "definition": "配电变压器"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_15.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_16",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 16,
+      "english": "That is a prevalent engineering bottleneck; when dozens of multi-megawatt chargers activate simultaneously without intelligent mediation, local electrical sub-stations experience severe voltage instability and thermal overload risks.",
+      "chinese": "这是一个极为普遍的工程瓶颈；数十台兆瓦级充电设备在没有智能调控的情况下同时启动，会导致局部变电站承受严重的电压不稳与过热过载风险。",
+      "start_time": 150.932,
+      "end_time": 162.705,
+      "key_vocab": [
+        {
+          "word": "bottleneck",
+          "definition": "瓶颈，瓶颈障碍"
+        },
+        {
+          "word": "voltage instability",
+          "definition": "电压不稳"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_16.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_17",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 17,
+      "english": "To resolve that challenge, our research team developed algorithmic load-balancing software distributing charging intervals intelligently throughout off-peak night hours while prioritizing vehicles scheduled for early departures.",
+      "chinese": "为了化解这一挑战，我们研发团队设计了算法负荷平衡软件，能够在夜间用电低谷期智能合理地分配充电时段，并优先保障清晨首班出车任务的车辆补能。",
+      "start_time": 163.055,
+      "end_time": 174.548,
+      "key_vocab": [
+        {
+          "word": "algorithmic",
+          "definition": "基于算法的"
+        },
+        {
+          "word": "off-peak hours",
+          "definition": "低谷用电时段"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_17.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_18",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 18,
+      "english": "Furthermore, we incorporated stationary energy storage battery banks that absorb surplus electrical energy when regional wind farms produce excess nighttime capacity, feeding power back during peak operational hours.",
+      "chinese": "此外，我们还集成了固定式储能电池组，当区域风电场在夜间产生富余发电量时有效吸纳多余电能，并在日间运营高峰期将电力反哺回场站。",
+      "start_time": 174.898,
+      "end_time": 185.742,
+      "key_vocab": [
+        {
+          "word": "stationary energy storage",
+          "definition": "固定式储能"
+        },
+        {
+          "word": "surplus",
+          "definition": "多余的，过剩的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_18.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_19",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 19,
+      "english": "That circular energy approach drastically lowers upfront capital expenditures while simultaneously mitigating the mounting environmental challenge of industrial lithium-ion battery recycling, mineral recovery, and hazardous chemical disposal.",
+      "chinese": "这种循环能源利用路径大幅降低了前期资本支出，同时有效缓解了工业锂离子电池回收、金属提炼以及危险化学废弃物处置这一日益严峻的环境挑战。",
+      "start_time": 186.092,
+      "end_time": 198.91,
+      "key_vocab": [
+        {
+          "word": "circular approach",
+          "definition": "循环经济路径"
+        },
+        {
+          "word": "mitigating",
+          "definition": "缓解，减轻"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_19.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_20",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 20,
+      "english": "Beyond depot electrical engineering and battery chemistry, what civic strategies proved most effective in cultivating sustained public transit ridership across our newly transformed electrified metropolitan routes?",
+      "chinese": "除了充电场站的电气工程和电池化学技术，在改造后的全新电气化线路上，哪些公共策略在吸引市民持续乘坐公共交通方面被证明最为有效？",
+      "start_time": 199.26,
+      "end_time": 209.546,
+      "key_vocab": [
+        {
+          "word": "cultivating",
+          "definition": "培养，吸引"
+        },
+        {
+          "word": "ridership",
+          "definition": "客流量，乘车人数"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_20.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_21",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 21,
+      "english": "We implemented integrated fare incentives alongside user-friendly mobile applications displaying precise real-time arrival estimates and accurate personal carbon emissions reductions for daily environmental commuters.",
+      "chinese": "我们推出了综合票价优惠激励措施，并配合界面友好的手机应用，向注重环保的日常通勤者展示精准的实时到站预测以及详尽的个人碳减排量数据。",
+      "start_time": 209.896,
+      "end_time": 221.355,
+      "key_vocab": [
+        {
+          "word": "fare incentives",
+          "definition": "票价激励机制"
+        },
+        {
+          "word": "carbon emissions",
+          "definition": "碳排放"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_21.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_22",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 22,
+      "english": "Extensive passenger surveys indicate commuters deeply appreciate the virtually silent ride and complete absence of toxic diesel exhaust fumes, encouraging habitual daily transit usage across urban centers.",
+      "chinese": "广泛的乘客问卷调查显示，通勤者非常赞赏纯电动车辆近乎无声的平稳行驶以及毫无有毒柴油尾气的乘车环境，从而促进了日常搭乘习惯的形成。",
+      "start_time": 221.705,
+      "end_time": 231.794,
+      "key_vocab": [
+        {
+          "word": "virtually silent",
+          "definition": "几乎静音的"
+        },
+        {
+          "word": "diesel exhaust",
+          "definition": "柴油机尾气"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_22.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_23",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 23,
+      "english": "After two complete years of empirical operational data collection, municipal accountants confirmed operational and vehicle maintenance expenditures dropped by nearly forty percent compared to traditional diesel operations.",
+      "chinese": "在经过整整两年的经验运营数据收集与审计后，市政财务部门正式证实：车辆运营与日常维护支出较以往传统柴油车队下降了近百分之四十。",
+      "start_time": 232.144,
+      "end_time": 242.419,
+      "key_vocab": [
+        {
+          "word": "empirical data",
+          "definition": "经验数据，实测数据"
+        },
+        {
+          "word": "maintenance expenditures",
+          "definition": "维护支出"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_23.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_24",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 24,
+      "english": "Those extraordinary fiscal savings provide robust and unquestionable justification for city council members to accelerate total bus electrification across all outer suburban districts within five years.",
+      "chinese": "这些显著的财政资金节约，为市议会全体成员在五年内全面加速推进所有外围郊区线路的公交电动化，提供了极其有力且无可置疑的事实依据。",
+      "start_time": 242.769,
+      "end_time": 252.428,
+      "key_vocab": [
+        {
+          "word": "fiscal savings",
+          "definition": "财政资金节约"
+        },
+        {
+          "word": "justification",
+          "definition": "正当理由，充分依据"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_24.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_25",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 25,
+      "english": "Good morning, students; in today's cognitive psychology lecture, we will explore the fascinating phenomenon of decision fatigue and its profound impact on human executive judgment.",
+      "chinese": "同学们早上好；在今天的高级认知心理学讲座中，我们将探讨决策疲劳这一引人入胜的心理现象，及其对人类大脑执行判断所产生的深远影响。",
+      "start_time": 252.778,
+      "end_time": 261.811,
+      "key_vocab": [
+        {
+          "word": "cognitive psychology",
+          "definition": "认知心理学"
+        },
+        {
+          "word": "decision fatigue",
+          "definition": "决策疲劳"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_25.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_26",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 26,
+      "english": "Unlike physical muscular fatigue, which provides clear bodily signals like burning limbs, decision fatigue operates silently and insidiously beneath conscious subjective awareness.",
+      "chinese": "与会发出四肢酸胀、呼吸急促等明确生理警示信号的肉体疲劳不同，决策疲劳往往在主观意识之下悄无声息且不知不觉地削弱我们的心理自控力。",
+      "start_time": 262.161,
+      "end_time": 271.507,
+      "key_vocab": [
+        {
+          "word": "unmistakable",
+          "definition": "清晰明显的"
+        },
+        {
+          "word": "subjective awareness",
+          "definition": "主观意识"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_26.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_27",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 27,
+      "english": "Every conscious decision, whether trivial like picking breakfast cereals or momentous like signing commercial merger contracts, depletes finite cognitive reserves stored within the prefrontal cortex.",
+      "chinese": "每一次有意识的抉择，无论是挑选早餐麦片这类琐碎小事，还是签署商业并购合同等重大决断，都会消耗储存在大脑前额叶皮层中有限的认知自我调控能量。",
+      "start_time": 271.857,
+      "end_time": 281.18,
+      "key_vocab": [
+        {
+          "word": "self-regulation",
+          "definition": "自我调节，自我调控"
+        },
+        {
+          "word": "depletes",
+          "definition": "消耗，耗竭"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_27.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_28",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 28,
+      "english": "When these mental resources dwindle, the human brain instinctively adopts computational cognitive shortcuts, often manifesting externally as decision avoidance, passive procrastination, or impulsive and reckless risk-taking.",
+      "chinese": "当这些心理资源逐渐匮乏时，人类大脑会本能地采用计算捷径与思维便道，通常在外部行为上表现为逃避做决定、消极拖延或是冲动鲁莽的冒险抉择倾向。",
+      "start_time": 281.53,
+      "end_time": 292.989,
+      "key_vocab": [
+        {
+          "word": "computational shortcuts",
+          "definition": "计算捷径，思维便道"
+        },
+        {
+          "word": "impulsive recklessness",
+          "definition": "冲动鲁莽"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_28.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_29",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 29,
+      "english": "A landmark empirical study analyzed over eleven hundred judicial parole decisions delivered by experienced judges across fifty correctional facilities over a ten-month period.",
+      "chinese": "一项里程碑式的著名实证研究系统分析了资深主审法官在五十所惩教机构中、历时十个月所做出的超过一千一百份司法假释裁决。",
+      "start_time": 293.339,
+      "end_time": 301.779,
+      "key_vocab": [
+        {
+          "word": "parole decisions",
+          "definition": "假释裁决"
+        },
+        {
+          "word": "correctional facilities",
+          "definition": "惩教机构，监狱"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_29.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_30",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 30,
+      "english": "Researchers discovered that prisoners appearing early in fresh morning court sessions had an approximately sixty-five percent likelihood of obtaining favorable parole approvals.",
+      "chinese": "研究人员惊人地发现，在清晨刚开庭的早期庭审中出庭的服刑人员，获得主审法官批准假释的有利裁定概率约为百分之六十五。",
+      "start_time": 302.129,
+      "end_time": 310.012,
+      "key_vocab": [
+        {
+          "word": "court sessions",
+          "definition": "法庭庭审"
+        },
+        {
+          "word": "favorable",
+          "definition": "有利的，赞同的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_30.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_31",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 31,
+      "english": "As the morning progressed and continuous judicial mental fatigue intensified, favorable rulings plummeted steadily, dropping virtually to zero immediately before scheduled mid-day nutritional lunch breaks.",
+      "chinese": "随着上午时间推移和法官持续审判造成的心理疲劳不断加剧，获得批准的比例持续断崖式下跌，在临近午餐休息前几乎归零。",
+      "start_time": 310.362,
+      "end_time": 320.138,
+      "key_vocab": [
+        {
+          "word": "intensified",
+          "definition": "加剧，增强"
+        },
+        {
+          "word": "plummeted",
+          "definition": "骤降，暴跌"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_31.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_32",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 32,
+      "english": "Immediately following nutritional replenishment and mental rest during lunch, judicial favorability rebounded abruptly back to sixty-five percent before repeating the identical precipitous decline in late afternoon.",
+      "chinese": "而在午餐休庭期间补充营养并得到精神放松之后，法官的假释批准率骤然回升至百分之六十五的高位，随后在午后再次重复完全相同的陡峭下滑走势。",
+      "start_time": 320.488,
+      "end_time": 330.287,
+      "key_vocab": [
+        {
+          "word": "decompression",
+          "definition": "放松，减压"
+        },
+        {
+          "word": "rebounded",
+          "definition": "反弹，回升"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_32.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_33",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 33,
+      "english": "The judges did not harbor conscious malicious bias against late applicants; rather, denying parole preserved institutional status quo, representing the safest and easiest cognitive default option when depleted.",
+      "chinese": "法官们主观上并未对后出庭的申请人怀有任何恶意偏见；相反，驳回假释申请维持了体制现状，代表了大脑精力耗竭时最安全、认知负担最小的默认选项。",
+      "start_time": 330.637,
+      "end_time": 340.772,
+      "key_vocab": [
+        {
+          "word": "status quo",
+          "definition": "现状"
+        },
+        {
+          "word": "cognitive default",
+          "definition": "认知默认选项"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_33.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_34",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 34,
+      "english": "This psychological dynamic carries staggering practical implications for modern knowledge workers who must navigate thousands of digital micro-choices daily via electronic screens.",
+      "chinese": "这种心理动力学机制对每天必须通过电子屏幕和通讯应用处理成千上万个微小选择的现代专业知识工作者而言，具有极其深刻的现实启示意义。",
+      "start_time": 341.122,
+      "end_time": 349.865,
+      "key_vocab": [
+        {
+          "word": "implications",
+          "definition": "启示，深远影响"
+        },
+        {
+          "word": "knowledge workers",
+          "definition": "知识工作者"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_34.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_35",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 35,
+      "english": "When willpower reserves are exhausted after long working days, ordinary shoppers succumb readily to sugary impulse snacks placed strategically beside checkout registers in modern supermarkets.",
+      "chinese": "当经过漫长一天的工作导致意志力储备见底时，普通购物者极易屈服于现代超市精心布置在收银台旁的含糖冲动型零食诱惑。",
+      "start_time": 350.215,
+      "end_time": 360.072,
+      "key_vocab": [
+        {
+          "word": "willpower",
+          "definition": "意志力"
+        },
+        {
+          "word": "checkout registers",
+          "definition": "收银台"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_35.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_36",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 36,
+      "english": "Similarly, exhausted executives often defer critical strategic resolutions or carelessly rubber-stamp substandard operational proposals when meetings drag on late into Friday afternoons.",
+      "chinese": "同样地，精疲力竭的企业高管经常在冗长会议拖延至周五下午晚些时候时，推迟关键的长远战略决断，或是草率通过不达标的日常运营方案。",
+      "start_time": 360.422,
+      "end_time": 369.28,
+      "key_vocab": [
+        {
+          "word": "rubber-stamp",
+          "definition": "照单全收，草率批准"
+        },
+        {
+          "word": "substandard",
+          "definition": "不够标准的，次级的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_36.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_37",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 37,
+      "english": "Roy Baumeister's classic ego-depletion theoretical framework posits that conscious self-control draws upon a shared biological energetic reservoir analogous to limited physical muscle stamina and endurance.",
+      "chinese": "罗伊·鲍迈斯特经典的自我损耗理论框架假设，人类有意识的心理自控力依赖于一个类似于有限肌肉耐力与力量的通用生物能量储备库。",
+      "start_time": 369.63,
+      "end_time": 380.114,
+      "key_vocab": [
+        {
+          "word": "ego-depletion",
+          "definition": "自我损耗"
+        },
+        {
+          "word": "muscle stamina",
+          "definition": "肌肉耐力"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_37.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_38",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 38,
+      "english": "While contemporary cognitive neuroscience qualifies this picture by emphasizing motivational resource allocation over pure glucose starvation, empirical evidence confirms reflective thinking deteriorates under relentless cognitive demand.",
+      "chinese": "尽管当代认知神经科学对此做出了修正，强调动机资源的分配优先于单纯的血糖耗竭，但实证证据一致证实：在持续不断的认知要求下，审慎的反思性思维能力会严重恶化。",
+      "start_time": 380.464,
+      "end_time": 392.469,
+      "key_vocab": [
+        {
+          "word": "re-allocation",
+          "definition": "重新分配"
+        },
+        {
+          "word": "neurochemical",
+          "definition": "神经化学的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_38.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_39",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 39,
+      "english": "Recognizing this vulnerability, elite chess grandmasters and corporate leaders deliberately preserve their mental focus by minimizing trivial wardrobe, dietary, and administrative choices each morning.",
+      "chinese": "认识到这一心智脆弱性，顶级国际象棋特级大师与企业领袖常常通过在每天早晨最大限度地简化着装、饮食与行政杂务琐事，来有意识地保护宝贵的心理专注力。",
+      "start_time": 392.819,
+      "end_time": 402.85,
+      "key_vocab": [
+        {
+          "word": "reflective thinking",
+          "definition": "反思性审慎思维"
+        },
+        {
+          "word": "precipitously",
+          "definition": "急剧地，断崖式地"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_39.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_40",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 40,
+      "english": "To effectively counteract decision fatigue, behavioral psychologists advocate scheduling high-stakes cognitive tasks exclusively during early morning hours of peak mental clarity and emotional composure.",
+      "chinese": "为了有效抵御决策疲劳，行为心理学家强烈提倡将高风险、高难度的重大认知任务集中安排在清晨头脑最为清醒、情绪最为平稳的黄金时段。",
+      "start_time": 403.2,
+      "end_time": 413.358,
+      "key_vocab": [
+        {
+          "word": "counteract",
+          "definition": "抵御，抵消"
+        },
+        {
+          "word": "peak mental clarity",
+          "definition": "巅峰心智清晰期"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_40.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_41",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 41,
+      "english": "Furthermore, automating mundane routines through pre-committed personal rules eliminates unnecessary daily deliberation, preserving executive willpower for truly consequential professional and personal challenges.",
+      "chinese": "此外，通过预先确定的个人准则将琐碎日常事务自动化，能够消除无休止的日常纠结，从而为真正关乎人生成败的重大挑战保留宝贵的执行意志力。",
+      "start_time": 413.708,
+      "end_time": 424.03,
+      "key_vocab": [
+        {
+          "word": "pre-committed",
+          "definition": "预先承诺的，预先设定的"
+        },
+        {
+          "word": "consequential",
+          "definition": "至关重要的，后果重大的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_41.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_42",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 42,
+      "english": "Cultivating keen self-awareness of internal cognitive limits empowers us to design productive daily environments that protect sound rational judgment throughout demanding modern professional careers.",
+      "chinese": "培养对自身认知极限的敏锐自我觉察，赋予我们构建高生产力日常环境的能力，从而在充满激烈挑战的现代职业生涯中始终捍卫理性的明智判断。",
+      "start_time": 424.38,
+      "end_time": 433.435,
+      "key_vocab": [
+        {
+          "word": "rational judgment",
+          "definition": "理性判断"
+        },
+        {
+          "word": "demanding careers",
+          "definition": "充满挑战的职业生涯"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_42.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_43",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 43,
+      "english": "Welcome back, everyone; today's architectural engineering seminar will investigate biomimicry, the practice of emulating nature's designs to address complex human challenges.",
+      "chinese": "欢迎大家回来；今天的建筑工程研讨会将深入探讨仿生学，即有意识地借鉴大自然经过数百万年时间检验的精妙设计理念，以化解当代人类面临的复杂工程挑战。",
+      "start_time": 433.785,
+      "end_time": 443.329,
+      "key_vocab": [
+        {
+          "word": "biomimicry",
+          "definition": "生物仿生学"
+        },
+        {
+          "word": "emulating",
+          "definition": "效仿，借鉴"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_43.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_44",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 44,
+      "english": "Over billions of years, biological evolution has refined remarkably elegant structural solutions that utilize minimal energy, produce zero toxic waste, and achieve extraordinary durability.",
+      "chinese": "在长达三十八亿年的漫长岁月中，生物进化提炼出了极其优雅精巧的结构方案，不仅仅利用极少的能源，产生零有毒废弃物，还具备非凡的耐用性。",
+      "start_time": 443.679,
+      "end_time": 453.536,
+      "key_vocab": [
+        {
+          "word": "biological evolution",
+          "definition": "生物进化"
+        },
+        {
+          "word": "non-toxic",
+          "definition": "无毒的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_44.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_45",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 45,
+      "english": "One celebrated architectural milestone embodying this philosophy is the Eastgate Centre, a mid-rise office and shopping retail complex constructed in downtown Harare, Zimbabwe.",
+      "chinese": "生动践行这一哲学理念的一个著名建筑学里程碑是东门中心，这是一座坐落于津巴布韦哈拉雷市中心的中层办公与购物商业综合体建筑。",
+      "start_time": 453.886,
+      "end_time": 462.941,
+      "key_vocab": [
+        {
+          "word": "milestone",
+          "definition": "里程碑"
+        },
+        {
+          "word": "retail complex",
+          "definition": "商业综合体"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_45.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_46",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 46,
+      "english": "Architect Mick Pearce bypassed energy-intensive conventional air conditioning by studying self-cooling mounds constructed by indigenous termites across the surrounding savannah landscape.",
+      "chinese": "建筑师米克·皮尔斯通过深入研究周围热带草原上当地大白蚁建造的自我冷却通风蚁丘，成功完全弃用了高耗能的传统机械中央空调系统。",
+      "start_time": 463.291,
+      "end_time": 472.823,
+      "key_vocab": [
+        {
+          "word": "bypassed",
+          "definition": "避开，舍弃"
+        },
+        {
+          "word": "indigenous",
+          "definition": "本土的，当地特有的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_46.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_47",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 47,
+      "english": "Despite harsh ambient temperature fluctuations between forty degrees Celsius during hot sunny days and near freezing during desert nights, termite mounds maintain constant internal temperatures around thirty degrees.",
+      "chinese": "尽管周围环境气温在白天烈日下的摄氏四十度与沙漠夜晚接近冰点的严寒之间剧烈波动，白蚁巢穴内部却常年保持在摄氏三十度左右的恒温状态。",
+      "start_time": 473.173,
+      "end_time": 483.332,
+      "key_vocab": [
+        {
+          "word": "fluctuations",
+          "definition": "剧烈波动"
+        },
+        {
+          "word": "internal nests",
+          "definition": "内部巢穴"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_47.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_48",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 48,
+      "english": "They accomplish this thermal equilibrium through intricate passive ventilation networks, continually opening and closing airflow flues to drive natural convection currents through subterranean tunnels.",
+      "chinese": "它们通过错综复杂的被动通风孔道网络实现这种热平衡，不断开闭气流通道，利用地下坑道网络驱动自然空气对流循环进行换热。",
+      "start_time": 483.682,
+      "end_time": 492.227,
+      "key_vocab": [
+        {
+          "word": "thermal equilibrium",
+          "definition": "热平衡"
+        },
+        {
+          "word": "passive ventilation",
+          "definition": "被动式通风"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_48.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_49",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 49,
+      "english": "Pearce mirrored this genius mechanism by integrating concrete structures and low-power rooftop exhaust fans, consuming thirty-five percent less energy than conventional comparable commercial complexes.",
+      "chinese": "皮尔斯将高热质量混凝土蓄热结构与低功率屋顶排气风扇巧妙结合，完全复制了这一天才机制，使整座建筑的能耗比传统同类商业建筑足足降低了百分之三十五。",
+      "start_time": 492.577,
+      "end_time": 503.293,
+      "key_vocab": [
+        {
+          "word": "thermal mass",
+          "definition": "蓄热体，热质量"
+        },
+        {
+          "word": "exhaust fans",
+          "definition": "排气扇"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_49.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_50",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 50,
+      "english": "That brilliant adaptation saved building owners millions of dollars in mechanical chiller equipment purchases and recurring electrical maintenance over the past three decades.",
+      "chinese": "这一绝妙的仿生改造为建筑业主在过去三十年间节省了数百万美元的机械制冷设备采购开支与持续不断的电气维护费用。",
+      "start_time": 503.643,
+      "end_time": 510.992,
+      "key_vocab": [
+        {
+          "word": "chiller equipment",
+          "definition": "制冷机设备"
+        },
+        {
+          "word": "recurring maintenance",
+          "definition": "经常性维护"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_50.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_51",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 51,
+      "english": "Another extraordinary organism inspiring building engineering is the darkling beetle native to the hyper-arid sands of southwestern Africa's Namib Desert.",
+      "chinese": "另一个为现代环保建筑工程带来非凡灵感的生物，是原生于非洲西南部纳米布沙漠极端干旱海岸沙丘中的拟步甲虫。",
+      "start_time": 511.342,
+      "end_time": 518.447,
+      "key_vocab": [
+        {
+          "word": "hyper-arid",
+          "definition": "极端干旱的"
+        },
+        {
+          "word": "darkling beetle",
+          "definition": "拟步甲虫"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_51.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_52",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 52,
+      "english": "In a severe geographic region virtually devoid of rainfall, this resilient insect harvests drinking water droplets directly from dense morning coastal ocean fog.",
+      "chinese": "在一个几乎完全没有降雨的严酷干旱地理区域，这种适应力极强的昆虫能够直接从清晨吹过海岸的浓密海雾中收集维持生命的饮用水珠。",
+      "start_time": 518.797,
+      "end_time": 526.727,
+      "key_vocab": [
+        {
+          "word": "resilient",
+          "definition": "适应力强的，韧性强的"
+        },
+        {
+          "word": "harvests",
+          "definition": "采集，收集"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_52.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_53",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 53,
+      "english": "Its hardened wing casings feature microscopic hydrophilic glass-like bumps surrounded by waxy hydrophobic troughs that channel accumulated moisture droplets directly into its awaiting mouth.",
+      "chinese": "其坚硬的翅鞘表面密布着微观的亲水玻璃质凸起，周围环绕着疏水蜡质凹槽通道，能够将凝结的水珠精准导流进它张开的口器之中。",
+      "start_time": 527.077,
+      "end_time": 535.959,
+      "key_vocab": [
+        {
+          "word": "hydrophilic",
+          "definition": "亲水的"
+        },
+        {
+          "word": "hydrophobic troughs",
+          "definition": "疏水凹槽"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_53.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_54",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 54,
+      "english": "Materials scientists have successfully synthesized building envelope coatings replicating this microscopic geometry, enabling coastal structures to passively collect clean potable water from ambient humidity.",
+      "chinese": "材料科学家已经成功合成了复制该微观几何结构的建筑外墙瓷砖，使沿海干旱建筑能够完全被动地从周围空气湿度中收集洁净的饮用水源。",
+      "start_time": 536.309,
+      "end_time": 546.595,
+      "key_vocab": [
+        {
+          "word": "building envelope",
+          "definition": "建筑外围护结构"
+        },
+        {
+          "word": "potable water",
+          "definition": "可饮用水"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_54.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_55",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 55,
+      "english": "Yet, despite profound environmental promise, the widespread adoption of biomimetic architectural techniques continues to confront steep institutional and economic hurdles across the construction industry.",
+      "chinese": "然而，尽管展现出巨大的生态环保前景，仿生建筑技术在整个建筑工程行业中的广泛商业推广，依然持续面临着巨大的制度与经济壁垒。",
+      "start_time": 546.945,
+      "end_time": 557.173,
+      "key_vocab": [
+        {
+          "word": "widespread adoption",
+          "definition": "广泛采用"
+        },
+        {
+          "word": "economic hurdles",
+          "definition": "经济障碍"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_55.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_56",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 56,
+      "english": "Conservative municipal building codes enforce rigid standardized material specifications, while commercial developers frequently balk at the higher upfront capital costs and engineering complexities of custom fabrication.",
+      "chinese": "保守的市政建筑规范强制推行死板的标准化材料指标，而商业地产开发商往往对非标定制化生产制造较高的前期资本成本与工程复杂性望而却步。",
+      "start_time": 557.523,
+      "end_time": 568.355,
+      "key_vocab": [
+        {
+          "word": "building codes",
+          "definition": "建筑规范，建筑法规"
+        },
+        {
+          "word": "bespoke fabrication",
+          "definition": "定制化生产制造"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_56.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_57",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 57,
+      "english": "Fortunately, comprehensive life-cycle cost assessments increasingly demonstrate that these bio-inspired structures recoup initial investments within seven years through drastically reduced utility and HVAC operational expenses.",
+      "chinese": "所幸的是，详尽的全生命周期成本评估日益证明，这些仿生建筑能够在七年内通过大幅降低的水电及暖通空调运营开支迅速收回初始投资。",
+      "start_time": 568.705,
+      "end_time": 579.99,
+      "key_vocab": [
+        {
+          "word": "life-cycle assessment",
+          "definition": "全生命周期评估"
+        },
+        {
+          "word": "recoup",
+          "definition": "收回，弥补"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_57.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_58",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 58,
+      "english": "Looking forward, researchers are pioneering living bio-composites containing embedded photosynthetic micro-algae that dynamically capture carbon dioxide, purify indoor air, and generate onsite renewable electricity.",
+      "chinese": "展望未来，科研先锋们正在研发生态复合建材，其中嵌入了能够进行光合作用的微藻，可动态捕获二氧化碳、净化室内空气并自产可再生电能。",
+      "start_time": 580.34,
+      "end_time": 590.998,
+      "key_vocab": [
+        {
+          "word": "bio-composites",
+          "definition": "生物复合材料"
+        },
+        {
+          "word": "photosynthetic algae",
+          "definition": "光合微藻"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_58.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_59",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 59,
+      "english": "By thoughtfully blending biological principles with advanced civil engineering, future cities will function as restorative living ecosystems that actively enrich surrounding natural habitats rather than depleting them.",
+      "chinese": "通过将生物学原理与先进土木工程深思熟虑地融为一体，未来的城市将作为具有修复力的生态系统发挥功能，积极滋养周围自然栖息地而非耗竭它们。",
+      "start_time": 591.348,
+      "end_time": 601.565,
+      "key_vocab": [
+        {
+          "word": "restorative",
+          "definition": "修复性的，恢复性的"
+        },
+        {
+          "word": "natural habitats",
+          "definition": "自然栖息地"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_59.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_60",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 60,
+      "english": "Embracing nature's architectural wisdom represents humanity's most promising and sustainable pathway toward building truly regenerative urban communities for future generations.",
+      "chinese": "吸纳大自然的建筑智慧，代表着人类为子孙后代建设真正具有再生力与气候适应韧性的城市社区的最有希望、最具可持续性的康庄大道。",
+      "start_time": 601.915,
+      "end_time": 610.634,
+      "key_vocab": [
+        {
+          "word": "regenerative",
+          "definition": "再生性的，可再生的"
+        },
+        {
+          "word": "sustainable urban living",
+          "definition": "可持续城市生活"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_60.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_61",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 61,
+      "english": "Good evening, listeners; tonight's oceanographic science broadcast explores one of the most astonishing biological habitats on Earth: deep-sea hydrothermal vents.",
+      "chinese": "各位听众晚上好；今晚的海洋科学广播将带您探索地球上最令人叹为观止、同时也是最为极端的生物生境之一：深海热泉。",
+      "start_time": 610.984,
+      "end_time": 619.436,
+      "key_vocab": [
+        {
+          "word": "oceanographic",
+          "definition": "海洋学的"
+        },
+        {
+          "word": "hydrothermal vents",
+          "definition": "深海热泉，热液喷口"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_61.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_62",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 62,
+      "english": "Until the late nineteen-seventies, biological textbooks taught that all earthly life strictly depended upon sunlight driving photosynthetic chemical reactions at the base of ecosystems.",
+      "chinese": "在二十世纪七十年代末之前，标准的生物学教科书都普遍公认传授：地球上所有的生命形式都严格依赖于阳光在生态系统底层驱动的光合化学反应。",
+      "start_time": 619.786,
+      "end_time": 628.981,
+      "key_vocab": [
+        {
+          "word": "photosynthetic",
+          "definition": "光合作用的"
+        },
+        {
+          "word": "universally taught",
+          "definition": "公认传授的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_62.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_63",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 63,
+      "english": "That foundational scientific dogma was permanently shattered in 1977 when the research submarine Alvin descended two and a half kilometers along the volcanic Galapagos Rift.",
+      "chinese": "这一根本性的科学教条在1977年被彻底粉碎：当时搭载三人的阿尔文号深海科研潜艇沿着火山活跃的加拉帕戈斯裂谷下潜了两千五百米深度。",
+      "start_time": 629.331,
+      "end_time": 638.318,
+      "key_vocab": [
+        {
+          "word": "scientific dogma",
+          "definition": "科学信条，教条"
+        },
+        {
+          "word": "descended",
+          "definition": "下潜，降下"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_63.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_64",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 64,
+      "english": "Scientists expected a pitch-black barren abyss but were stunned to discover thriving biological metropolises clustered densely around mineral chimneys spewing superheated black fluids.",
+      "chinese": "科学家们原以为会看到一片漆黑死寂的荒凉深渊，却震惊地发现了围绕着喷涌过热富矿黑色流体的巨大矿物烟囱生机盎然、密集分布的庞大生物群落。",
+      "start_time": 638.668,
+      "end_time": 647.712,
+      "key_vocab": [
+        {
+          "word": "barren abyss",
+          "definition": "贫瘠死寂的深渊"
+        },
+        {
+          "word": "mineral chimneys",
+          "definition": "矿物烟囱，黑烟囱"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_64.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_65",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 65,
+      "english": "At these hydrothermal vents, primary biological production relies entirely on chemosynthesis driven by specialized bacteria oxidizing toxic hydrogen sulfide emerging from deep geothermal reservoirs.",
+      "chinese": "在这些深海热泉处，初级生物生产完全依赖化能合成作用，由能够氧化来自深层地热库中喷出的剧毒硫化氢气体的特种自养细菌所驱动。",
+      "start_time": 648.062,
+      "end_time": 659.59,
+      "key_vocab": [
+        {
+          "word": "chemosynthesis",
+          "definition": "化能合成作用"
+        },
+        {
+          "word": "hydrogen sulfide",
+          "definition": "硫化氢"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_65.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_66",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 66,
+      "english": "These autotrophic microbes form remarkable symbiotic partnerships with giant tubeworms possessing red plumes but lacking digestive tracts, supporting dense communities of blind crabs and translucent shrimp.",
+      "chinese": "这些自养微生物与拥有红色羽毛状鳃但完全没有消化系统的巨型管虫建立了非凡的共生关系，支撑起由盲蟹和半透明深海虾构成的密集食物网。",
+      "start_time": 659.94,
+      "end_time": 669.995,
+      "key_vocab": [
+        {
+          "word": "autotrophic microbes",
+          "definition": "自养微生物"
+        },
+        {
+          "word": "symbiotic partnerships",
+          "definition": "共生合作关系"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_66.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_67",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 67,
+      "english": "Water jetting continuously from mineral vent chimneys exceeds three hundred fifty degrees Celsius, remaining in liquid form exclusively due to colossal hydrostatic pressures crushing the seafloor.",
+      "chinese": "从矿物烟囱孔口持续喷射出的热泉流体温度超过摄氏三百五十度，仅仅因为压迫着大洋底部的巨大静水压力而始终保持为液态。",
+      "start_time": 670.345,
+      "end_time": 680.283,
+      "key_vocab": [
+        {
+          "word": "orifices",
+          "definition": "喷口，孔洞"
+        },
+        {
+          "word": "hydrostatic pressure",
+          "definition": "流体静水压"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_67.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_68",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 68,
+      "english": "Remarkably, specialized heat-tolerant enzymes extracted from these vent microbes exhibit exceptional structural stability, proving invaluable for molecular biology assays and gene amplification.",
+      "chinese": "令人称奇的是，从这些深海热泉微生物体内提取的特种耐热酶展现出超凡的结构稳定性，在高温分子生物学检测与聚合酶链式反应基因扩增中具有不可估量的价值。",
+      "start_time": 680.633,
+      "end_time": 691.36,
+      "key_vocab": [
+        {
+          "word": "genetic amplification",
+          "definition": "基因扩增"
+        },
+        {
+          "word": "molecular diagnostic",
+          "definition": "分子诊断的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_68.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_69",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 69,
+      "english": "Commercial biotechnology corporations utilize these extremophile biocatalysts in industrial synthesis processes that would instantly denature and permanently deactivate ordinary terrestrial biological enzymes.",
+      "chinese": "商业生物技术企业在条件严苛的高温工业催化反应中广泛应用这些极端微生物生物催化剂，而普通的陆生生物酶在相同环境下会瞬间变性并永久失活。",
+      "start_time": 691.71,
+      "end_time": 701.695,
+      "key_vocab": [
+        {
+          "word": "extremophile",
+          "definition": "极端微生物"
+        },
+        {
+          "word": "biocatalysts",
+          "definition": "生物催化剂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_69.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_70",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 70,
+      "english": "Beyond commercial pharmacology, deep hydrothermal vents provide evolutionary biologists with vital clues regarding the potential chemical origins of primordial life on prebiotic Earth and icy moons.",
+      "chinese": "除了商业药学价值，深海热泉还为进化天体生物学家研究早期地球乃至冰冻卫星上原始生命的化学起源，提供了至关重要的实证线索。",
+      "start_time": 702.045,
+      "end_time": 712.053,
+      "key_vocab": [
+        {
+          "word": "evolutionary biologists",
+          "definition": "进化生物学家"
+        },
+        {
+          "word": "primordial life",
+          "definition": "原始生命"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_70.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_71",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 71,
+      "english": "However, these irreplaceable marine ecosystems now confront imminent peril from commercial seabed mining operations targeting seafloor massive sulfide deposits rich in valuable copper, zinc, and gold.",
+      "chinese": "然而，这些不可替代的脆弱海洋生态系统目前正面临迫在眉睫的巨大危险：商业深海采矿作业正瞄准海底富含高价值铜、锌和黄金的块状多金属硫化物矿床。",
+      "start_time": 712.403,
+      "end_time": 721.76,
+      "key_vocab": [
+        {
+          "word": "imminent peril",
+          "definition": "迫在眉睫的危险"
+        },
+        {
+          "word": "massive sulfide deposits",
+          "definition": "块状多金属硫化物矿床"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_71.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_72",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 72,
+      "english": "Distinguished oceanographers warn that heavy subsea robotic extraction would obliterate fragile benthic habitats, generating suffocating sediment plumes traveling hundreds of miles on prevailing currents.",
+      "chinese": "杰出的海洋学家们严正警告称，重型海底机器人采矿将彻底粉碎脆弱的海底底栖生境，并产生随洋流扩散漂移数百海里的窒息性沉积物羽状浊流。",
+      "start_time": 722.11,
+      "end_time": 731.944,
+      "key_vocab": [
+        {
+          "word": "benthic habitats",
+          "definition": "底栖生物生境"
+        },
+        {
+          "word": "sediment plumes",
+          "definition": "沉积物羽状流，沉积浊流"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_72.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_73",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 73,
+      "english": "Because numerous unique vent organisms exist exclusively around single localized hydrothermal chimney fields, mechanical mining disturbances risk triggering irreversible global extinctions of unique evolutionary species.",
+      "chinese": "由于许多独特的深海热泉物种仅仅生存于个别孤立的热液烟囱喷口区域，机械采矿扰动极可能触发非凡进化演化支系不可逆转的全球性绝灭。",
+      "start_time": 732.294,
+      "end_time": 743.37,
+      "key_vocab": [
+        {
+          "word": "irreversible",
+          "definition": "不可逆转的"
+        },
+        {
+          "word": "global extinctions",
+          "definition": "全球性物种灭绝"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_73.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_74",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 74,
+      "english": "Establishing binding international treaties protecting hydrothermal fields is urgent to ensure humanity safeguards the deep planetary ocean's most enigmatic and irreplaceable ecological wonders.",
+      "chinese": "建立具有法律约束力的国际保护条约来庇护热泉区域已迫在眉睫，以确保全人类能够守护好大洋深处最为神秘、不可替代的生态奇迹。",
+      "start_time": 743.72,
+      "end_time": 753.728,
+      "key_vocab": [
+        {
+          "word": "binding treaties",
+          "definition": "具约束力的国际条约"
+        },
+        {
+          "word": "enigmatic treasures",
+          "definition": "神秘的生态瑰宝"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_74.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_75",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 75,
+      "english": "Good morning; today's global commercial report examines industrial symbiosis, an innovative circular framework that converts manufacturing byproducts into valuable production inputs for neighboring facilities.",
+      "chinese": "各位听众早上好；今天的全球商业报道将深入探讨工业共生体系，这是一种极具创新性的循环经济运作框架，能够将制造业副产品转化为邻近工业设施的宝贵生产原料。",
+      "start_time": 754.078,
+      "end_time": 764.863,
+      "key_vocab": [
+        {
+          "word": "industrial symbiosis",
+          "definition": "工业共生体系"
+        },
+        {
+          "word": "circular economics",
+          "definition": "循环经济"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_75.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_76",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 76,
+      "english": "Conventional industrial manufacturing has long followed a destructive linear economic paradigm characterized by aggressive resource extraction, rapid fabrication, and eventual disposal in landfills.",
+      "chinese": "长久以来，传统的工业制造业始终遵循着一种破坏性的线性经济模式：掠夺性开采资源、快速制造单次使用商品，并最终丢弃在日益饱和的垃圾填埋场中。",
+      "start_time": 765.213,
+      "end_time": 775.651,
+      "key_vocab": [
+        {
+          "word": "linear paradigm",
+          "definition": "线性发展模式"
+        },
+        {
+          "word": "landfill disposal",
+          "definition": "垃圾填埋处理"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_76.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_77",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 77,
+      "english": "In contrast, industrial symbiosis treats commercial waste streams as productive nutrient inputs, fostering collaborative commercial clusters that mimic natural circular biological ecosystems.",
+      "chinese": "与此截然相反，工业共生体系将所有的商业排放物与废物流视为富有成效的营养输入，培育起模拟大自然闭环生物生态系统的协作型商业产业集群。",
+      "start_time": 776.001,
+      "end_time": 785.893,
+      "key_vocab": [
+        {
+          "word": "valuable inputs",
+          "definition": "宝贵的原料投入"
+        },
+        {
+          "word": "production facilities",
+          "definition": "生产设施，工厂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_77.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_78",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 78,
+      "english": "The undisputed world pioneer in practical industrial symbiosis is the eco-industrial park in Kalundborg, Denmark, located approximately sixty miles west of Copenhagen.",
+      "chinese": "在实际工业共生体系领域中，公认的全球开创先驱是坐落于丹麦海岸、哥本哈根以西约六十英里处的卡伦堡生态工业园区。",
+      "start_time": 786.243,
+      "end_time": 795.612,
+      "key_vocab": [
+        {
+          "word": "preeminent pioneer",
+          "definition": "杰出的先驱典范"
+        },
+        {
+          "word": "eco-park",
+          "definition": "生态工业园"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_78.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_79",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 79,
+      "english": "Over five decades of organic evolution, independent private enterprises in Kalundborg developed an network sharing process steam, treated wastewater, cooling water, and gypsum.",
+      "chinese": "在长达半个多世纪的自发演进中，卡伦堡的各家独立私营企业构建起错综复杂的双边协议网络，相互共享工业蒸汽、处理后废水、冷却水以及工业石膏。",
+      "start_time": 795.962,
+      "end_time": 805.912,
+      "key_vocab": [
+        {
+          "word": "shared resources",
+          "definition": "共享资源"
+        },
+        {
+          "word": "gypsum",
+          "definition": "石膏"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_79.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_80",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 80,
+      "english": "A major thermal power plant provides high-pressure steam to a large pharmaceutical manufacturing facility while simultaneously delivering hot water to forty-five hundred municipal residential homes.",
+      "chinese": "大型热电厂向大型制药生产企业持续输送高压工业蒸汽，同时通过集中供热管网为周边四千五百户市政居民家庭提供生活热水。",
+      "start_time": 806.262,
+      "end_time": 815.828,
+      "key_vocab": [
+        {
+          "word": "high-pressure steam",
+          "definition": "高压蒸汽"
+        },
+        {
+          "word": "pharmaceutical complex",
+          "definition": "制药联合企业"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_80.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_81",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 81,
+      "english": "Additionally, sulfur scrubbed from coal emission flues is chemically transformed into high-grade gypsum, which is immediately piped to an adjacent plasterboard building materials factory.",
+      "chinese": "此外，从电厂燃煤烟道中洗涤脱硫回收的高纯度硫被转化为优质合成石膏，并通过管道直接输送至毗邻的石膏板建筑材料制造厂。",
+      "start_time": 816.178,
+      "end_time": 824.839,
+      "key_vocab": [
+        {
+          "word": "sulfur scrubbed",
+          "definition": "脱硫回收的硫"
+        },
+        {
+          "word": "plasterboard",
+          "definition": "石膏板，石膏建材"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_81.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_82",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 82,
+      "english": "This closed industrial loop eliminates the need for quarrying virgin gypsum, saving tens of thousands of metric tons of natural mineral reserves each year.",
+      "chinese": "这一优雅高效的连续工业闭环彻底消除了开采天然地质石膏矿石的必要性，每年为当地节省数万公吨宝贵的天然矿产资源。",
+      "start_time": 825.189,
+      "end_time": 833.026,
+      "key_vocab": [
+        {
+          "word": "closed-loop",
+          "definition": "闭环的"
+        },
+        {
+          "word": "virgin gypsum",
+          "definition": "原生石膏矿石"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_82.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_83",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 83,
+      "english": "Participating Kalundborg enterprises collectively save over twenty-four million euros in annual operating costs while preventing the emission of six hundred thousand tons of greenhouse carbon dioxide.",
+      "chinese": "参与卡伦堡共生网络的各家企业每年累计节约超过两千四百万欧元的运营开支，同时避免了六十万吨温室气体二氧化碳的外部排放。",
+      "start_time": 833.376,
+      "end_time": 843.175,
+      "key_vocab": [
+        {
+          "word": "collectively save",
+          "definition": "累计节约"
+        },
+        {
+          "word": "carbon dioxide",
+          "definition": "二氧化碳"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_83.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_84",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 84,
+      "english": "Despite extraordinary ecological and bottom-line economic benefits, replicating the Kalundborg model in other industrial regions continues to face stubborn institutional and regulatory obstacles.",
+      "chinese": "尽管兼具非凡的生态环保与企业底线经济效益，但在全球其他工业区域复制推广卡伦堡模式，依然持续面临着顽固的体制、监管与信息壁垒。",
+      "start_time": 843.525,
+      "end_time": 853.625,
+      "key_vocab": [
+        {
+          "word": "stubborn bottlenecks",
+          "definition": "顽固的瓶颈障碍"
+        },
+        {
+          "word": "institutional",
+          "definition": "体制上的，制度上的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_84.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_85",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 85,
+      "english": "Outdated environmental regulations often legally prohibit cross-facility resource sharing by classifying non-hazardous manufacturing byproducts as hazardous wastes requiring expensive disposal.",
+      "chinese": "过时的环保法规往往在法律层面禁止跨厂区的资源共享，错误地将完全无害的制造副产品归类为危险工业废弃物，要求进行昂贵且繁琐的持证处置。",
+      "start_time": 853.975,
+      "end_time": 863.937,
+      "key_vocab": [
+        {
+          "word": "byproduct exchanges",
+          "definition": "副产物交换流转"
+        },
+        {
+          "word": "hazardous wastes",
+          "definition": "危险废弃物"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_85.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_86",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 86,
+      "english": "Furthermore, intense competitive commercial secrecy and proprietary concerns frequently discourage corporate executives from transparently disclosing byproduct streams to potential regional industrial partners.",
+      "chinese": "此外，激烈的商业竞争保密顾虑与专利防范意识，常常阻碍企业高管向潜在的区域产业合作伙伴透明披露详细的副产品废物流数据。",
+      "start_time": 864.287,
+      "end_time": 874.213,
+      "key_vocab": [
+        {
+          "word": "commercial secrecy",
+          "definition": "商业机密保护"
+        },
+        {
+          "word": "waste streams",
+          "definition": "废料流，废弃物输出"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_86.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_87",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 87,
+      "english": "Forward-looking environmental ministries are tackling these barriers by streamlining regulatory definitions, offering tax exemptions, and subsidizing digital matchmaking platforms that connect material suppliers with buyers.",
+      "chinese": "具有前瞻性战略眼光的环保部门正在通过简化监管法规定义、提供税收减免优惠，以及资助建立连接原料供应方与采购方的数字化智能匹配平台来破除障碍。",
+      "start_time": 874.563,
+      "end_time": 886.278,
+      "key_vocab": [
+        {
+          "word": "matchmaking platforms",
+          "definition": "资源匹配对接平台"
+        },
+        {
+          "word": "material flows",
+          "definition": "物料流，物质流"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_87.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_88",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 88,
+      "english": "As global climate challenges and raw material resource scarcities escalate, industrial symbiosis transforms competitive corporate isolation into collective environmental resilience and shared prosperity.",
+      "chinese": "随着全球气候挑战与原材料资源短缺日益加剧，工业共生体系正在将各自为政的竞争孤岛，转变为集体的生态韧性与共享的经济繁荣格局。",
+      "start_time": 886.628,
+      "end_time": 897.204,
+      "key_vocab": [
+        {
+          "word": "resource constraints",
+          "definition": "资源约束"
+        },
+        {
+          "word": "mutual resilience",
+          "definition": "互利共赢的韧性"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_88.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_89",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 89,
+      "english": "Good afternoon; today's medical science lecture examines neuroplasticity and the groundbreaking clinical concept of cognitive reserve across the entire span of human adulthood.",
+      "chinese": "各位听众下午好；今天的医学科学讲座将探讨神经可塑性以及贯穿整个人类成年期全生命周期的认知储备这一具有划时代意义的临床概念。",
+      "start_time": 897.554,
+      "end_time": 906.007,
+      "key_vocab": [
+        {
+          "word": "neuroplasticity",
+          "definition": "神经可塑性"
+        },
+        {
+          "word": "lifespan",
+          "definition": "全生命周期"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_89.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_90",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 90,
+      "english": "For many decades, conventional neurology dogmatically taught that the mature adult brain was a static and hardwired organ incapable of generating new neural pathways or cellular regeneration.",
+      "chinese": "数十年来，传统的医学神经病学教条式地宣称：发育成熟的成年人大脑是一个静态固化、硬件连线固定的器官，根本无法构建新的神经通路或进行细胞再生。",
+      "start_time": 906.357,
+      "end_time": 915.552,
+      "key_vocab": [
+        {
+          "word": "conventional neurology",
+          "definition": "传统神经学"
+        },
+        {
+          "word": "static organ",
+          "definition": "静态固化器官"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_90.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_91",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 91,
+      "english": "Pioneering modern functional neuroimaging technologies have decisively overturned that assumption, demonstrating that healthy human brains continuously remodel their synaptic architecture throughout life in response to environmental stimulation.",
+      "chinese": "具有开创性意义的现代功能性神经影像学技术坚决颠覆了这一悲观假设，清晰证明健康的人类大脑会在外部环境刺激下，终其一生不断重塑其突触连接构架。",
+      "start_time": 915.902,
+      "end_time": 928.417,
+      "key_vocab": [
+        {
+          "word": "neuroimaging",
+          "definition": "神经影像学"
+        },
+        {
+          "word": "synaptic architecture",
+          "definition": "突触构架"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_91.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_92",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 92,
+      "english": "Cognitive reserve refers to the brain's functional capacity to withstand significant underlying neuropathological damage without manifesting overt clinical symptoms of cognitive impairment or behavioral dementia.",
+      "chinese": "认知储备指的是大脑在承受严重的潜在神经病理损伤时，依然能够维持正常功能、而不表现出明显的认知障碍或痴呆临床症状的内在代偿能力。",
+      "start_time": 928.767,
+      "end_time": 938.74,
+      "key_vocab": [
+        {
+          "word": "cognitive reserve",
+          "definition": "认知储备"
+        },
+        {
+          "word": "neuropathological",
+          "definition": "神经病理学的"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_92.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_93",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 93,
+      "english": "Fascinating post-mortem neuropathological examinations revealed that numerous elderly individuals possessed widespread Alzheimer's amyloid plaques yet maintained completely intact cognitive clarity throughout life.",
+      "chinese": "极具启发意义的死后神经病理学检查显示，许多高龄长者大脑中布满了广泛的阿尔茨海默病标志性淀粉样蛋白斑块，但在生前日常生活中却始终保持着完全正常的思维清晰度与记忆表现。",
+      "start_time": 939.09,
+      "end_time": 949.4,
+      "key_vocab": [
+        {
+          "word": "post-mortem",
+          "definition": "死后的，验尸的"
+        },
+        {
+          "word": "Alzheimer's plaques",
+          "definition": "阿尔茨海默病斑块"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_93.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_94",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 94,
+      "english": "Their deep cognitive reserve, cultivated through decades of continuous intellectual engagement and rich social interaction, enabled their flexible neural networks to reroute information flow around damaged tissue.",
+      "chinese": "他们通过数十年不间断的脑力智力探索与丰富社会交往所建立起的深厚认知储备，使其高度灵活的神经网络能够巧妙绕过受损脑组织重新路由信息流。",
+      "start_time": 949.75,
+      "end_time": 959.839,
+      "key_vocab": [
+        {
+          "word": "intellectual activities",
+          "definition": "智力脑力活动"
+        },
+        {
+          "word": "reroute",
+          "definition": "重设线路，绕道传递"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_94.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_95",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 95,
+      "english": "Rigorous epidemiological studies confirm that adults routinely engaging in active bilingualism, complex musical training, and serious literature demonstrate significantly delayed onset of clinical dementia symptoms.",
+      "chinese": "严谨的大样本流行病学调查确凿证实：经常积极运用双语、从事高难度乐器演奏以及深入研读复杂文学作品的成年人，其临床失智症状的发生时间显著延迟了数年之久。",
+      "start_time": 960.189,
+      "end_time": 971.265,
+      "key_vocab": [
+        {
+          "word": "epidemiological",
+          "definition": "流行病学的"
+        },
+        {
+          "word": "bilingualism",
+          "definition": "双语运用能力"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_95.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_96",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 96,
+      "english": "Beyond cognitive challenges, consistent aerobic cardiovascular exercise functions as an immensely powerful biochemical fertilizer that actively nourishes, protects, and expands adult brain tissue architecture.",
+      "chinese": "除了纯粹的脑力挑战，持之以恒的有氧心血管体育锻炼就如同一剂极其强效的生物化学肥料，能够积极滋养、保护并扩大成年人的脑组织生理构架。",
+      "start_time": 971.615,
+      "end_time": 982.575,
+      "key_vocab": [
+        {
+          "word": "aerobic exercise",
+          "definition": "有氧运动"
+        },
+        {
+          "word": "biochemical fertilizer",
+          "definition": "生物化学营养剂"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_96.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_97",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 97,
+      "english": "Vigorous physical workouts stimulate the systemic synthesis of brain-derived neurotrophic factor, a critical molecular driver that directly promotes active neurogenesis within the learning centers of the hippocampus.",
+      "chinese": "高强度的规律体育锻炼能够有效刺激脑源性神经营养因子的全身性合成，这一至关重要的分子驱动因子能够直接促进大脑海马体学习中枢内新生神经元的发育。",
+      "start_time": 982.925,
+      "end_time": 993.188,
+      "key_vocab": [
+        {
+          "word": "neurotrophic factor",
+          "definition": "神经营养因子"
+        },
+        {
+          "word": "hippocampus",
+          "definition": "海马体"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_97.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_98",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 98,
+      "english": "Equally indispensable for neurological resilience is restorative deep slow-wave sleep, during which the brain's specialized glymphatic waste-clearance system activates to flush away neurotoxic cellular debris.",
+      "chinese": "对于维持长久的神经系统韧性同样必不可少的，是具有修复功效的深度慢波睡眠；在此阶段，大脑独特的类淋巴排毒系统会全速激活，冲洗清除神经毒性细胞代谢碎片。",
+      "start_time": 993.538,
+      "end_time": 1003.383,
+      "key_vocab": [
+        {
+          "word": "glymphatic system",
+          "definition": "类淋巴系统"
+        },
+        {
+          "word": "neurotoxic waste",
+          "definition": "神经毒性废物"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_98.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_99",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 99,
+      "english": "During non-rapid eye movement deep sleep, cerebral glial cells contract substantially, expanding interstitial space by sixty percent to facilitate cerebrospinal fluid circulation through brain parenchyma.",
+      "chinese": "在非快速眼动深度睡眠期间，大脑胶质细胞会显著收缩，将脑间隙空间扩大百分之六十，从而极大便利了脑脊液在大脑实质组织中的循环冲洗。",
+      "start_time": 1003.733,
+      "end_time": 1014.031,
+      "key_vocab": [
+        {
+          "word": "glial cells",
+          "definition": "脑胶质细胞"
+        },
+        {
+          "word": "cerebrospinal fluid",
+          "definition": "脑脊液"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_99.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_100",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 100,
+      "english": "Chronic nocturnal sleep deprivation severely impairs this essential cleansing mechanism, allowing harmful metabolic proteins like amyloid-beta to aggregate and dramatically increasing lifetime neurodegenerative risks.",
+      "chinese": "长期的夜间睡眠剥夺会严重破坏这一至关重要的自我清洁机制，导致淀粉样蛋白等有害代谢蛋白质异常聚集沉积，大幅推高终生罹患神经退行性疾病的风险。",
+      "start_time": 1014.381,
+      "end_time": 1025.863,
+      "key_vocab": [
+        {
+          "word": "sleep deprivation",
+          "definition": "睡眠剥夺，睡眠不足"
+        },
+        {
+          "word": "dementia risk",
+          "definition": "痴呆风险"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_100.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_101",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 101,
+      "english": "Conversely, combining intellectually stimulating hobbies, regular cardiovascular workouts, anti-inflammatory nutrition, and sufficient restorative sleep builds a formidable lifelong fortress of neuroprotection.",
+      "chinese": "相反，将充满挑战的智力探索爱好、规律的有氧心血管锻炼、抗炎地中海健康饮食以及充足的深度修复性睡眠有机结合，能够构筑起一道坚不可摧的终生神经保护屏障。",
+      "start_time": 1026.213,
+      "end_time": 1036.999,
+      "key_vocab": [
+        {
+          "word": "cardiovascular",
+          "definition": "心血管的，有氧的"
+        },
+        {
+          "word": "neuroprotection",
+          "definition": "神经保护"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_101.mp3"
+    },
+    {
+      "id": "cet6-2022-06-1_s_102",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 102,
+      "english": "It is never too early in youth nor too late in retirement to invest proactively in cultivating the boundless adaptive potential of your brain.",
+      "chinese": "无论你是在风华正茂的青年时期，还是在含饴弄孙的退休之年，及早主动投资并不断提升大脑无限的适应性代偿潜能，都永远为时不晚。",
+      "start_time": 1037.349,
+      "end_time": 1043.816,
+      "key_vocab": [
+        {
+          "word": "invest proactively",
+          "definition": "积极主动投资"
+        },
+        {
+          "word": "adaptive capacity",
+          "definition": "适应性潜能"
+        }
+      ],
+      "audio_path": "content/papers/cet6-2022-06-1/cet6-2022-06-1_s_102.mp3"
+    }
+  ],
+  "questions": [
+    {
+      "id": "cet6-2022-06-1_q_1",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 1,
+      "question_text": "What do we learn about David Jackson from the introduction of the conversation?",
+      "options": [
+        "He is a staff writer renowned for documenting daring non-fiction expeditions.",
+        "He is an academic scholar who teaches adolescent development courses.",
+        "He is a travel critic who writes humorous newspaper columns on family life.",
+        "He is an investigative reporter who exposes educational inequalities."
+      ],
+      "answer": "A",
+      "explanation": "对话开头介绍David Jackson是《纽约客》著名特约撰稿人，因记录勇敢的非虚构探险而享有盛誉。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_1"
+    },
+    {
+      "id": "cet6-2022-06-1_q_2",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 2,
+      "question_text": "What does David find particularly rewarding about parenting his adolescent children?",
+      "options": [
+        "Their willingness to strictly follow his professional career guidance.",
+        "Their independent curiosities enabling deep conversations on nuanced topics.",
+        "Their outstanding academic performances in competitive writing contests.",
+        "Their sudden decrease in emotional volatility and rebellious behavior."
+      ],
+      "answer": "B",
+      "explanation": "David指出青少年时期最令他欣慰的是孩子们日益独立且拥有强烈好奇心，能够就公民责任等复杂话题进行深入对话。故选B。",
+      "sentence_id": "cet6-2022-06-1_s_5"
+    },
+    {
+      "id": "cet6-2022-06-1_q_3",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 3,
+      "question_text": "How does David handle his children's essay drafts when they ask for his advice?",
+      "options": [
+        "He completely rewrites their introductory paragraphs to demonstrate style.",
+        "He corrects every punctuation mistake and grammatical irregularity.",
+        "He nurtures creative confidence and warm encouragement over strict editorial rules.",
+        "He passes their drafts to professional proofreaders for comprehensive critique."
+      ],
+      "answer": "C",
+      "explanation": "David表示在孩子目前的成长阶段，培养创作自信并给予情感鼓励远比苛求技巧上的编辑精确度更重要。故选C。",
+      "sentence_id": "cet6-2022-06-1_s_8"
+    },
+    {
+      "id": "cet6-2022-06-1_q_4",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_1",
+      "idx": 4,
+      "question_text": "Why does David believe exposing young minds to varied literature is essential?",
+      "options": [
+        "It prepares them to attain higher scores on standardized language examinations.",
+        "It cultivates empathy by enabling them to inhabit unfamiliar subjectivities.",
+        "It assists them in memorizing sophisticated vocabulary for college applications.",
+        "It ensures they conform to traditional social norms and civic expectations."
+      ],
+      "answer": "B",
+      "explanation": "David强调文学能够赋予人体验陌生主体性视角的心智能力，培养同理心以抵御宗派主义与偏见。故选B。",
+      "sentence_id": "cet6-2022-06-1_s_12"
+    },
+    {
+      "id": "cet6-2022-06-1_q_5",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 5,
+      "question_text": "What major operational problem did Alex Turner report concerning the electric bus depot?",
+      "options": [
+        "Frequent battery overheating during rapid midday acceleration.",
+        "Excessive charging fees imposed by commercial regional utility companies.",
+        "Overnight charging spikes threatening neighborhood transformer capacity.",
+        "Shortages of specialized mechanical technicians certified in battery repair."
+      ],
+      "answer": "C",
+      "explanation": "Alex指出多辆电动车夜间同时在车场充电产生剧烈用电尖峰，威胁周边社区配电变压器承载力。故选C。",
+      "sentence_id": "cet6-2022-06-1_s_15"
+    },
+    {
+      "id": "cet6-2022-06-1_q_6",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 6,
+      "question_text": "What technical solution did Dr. Karen Miller's research team offer to stabilize the power grid?",
+      "options": [
+        "Algorithmic load-balancing software distributing charging across off-peak hours.",
+        "Deploying portable diesel generator units beside each parking terminal.",
+        "Restricting bus operations exclusively to morning and late afternoon shifts.",
+        "Upgrading the municipal voltage network to industrial high-voltage lines."
+      ],
+      "answer": "A",
+      "explanation": "Dr. Miller团队研发了算法负荷平衡软件，在夜间低谷期智能合理分配充电时段，化解电网压力。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_17"
+    },
+    {
+      "id": "cet6-2022-06-1_q_7",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 7,
+      "question_text": "How did the municipal government encourage citizen ridership on the electric bus lines?",
+      "options": [
+        "By offering integrated fare incentives and real-time transit and emissions apps.",
+        "By distributing complimentary public transit cards to all private vehicle owners.",
+        "By closing inner-city parking garages to force reliance on public transit.",
+        "By launching television advertising campaigns highlighting celebrity endorsements."
+      ],
+      "answer": "A",
+      "explanation": "市政通过综合票价激励和提供展示实时到站与碳减排量的手机应用，有效促进了市民搭乘。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_21"
+    },
+    {
+      "id": "cet6-2022-06-1_q_8",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_2",
+      "idx": 8,
+      "question_text": "What bottom-line financial outcome was confirmed after two years of transit electrification?",
+      "options": [
+        "Operating and maintenance expenditures dropped by nearly forty percent.",
+        "Initial capital investments were entirely reimbursed by federal clean energy grants.",
+        "Ticket sales doubled while municipal administrative overhead increased.",
+        "Fleet battery replacement costs outweighed early fuel savings."
+      ],
+      "answer": "A",
+      "explanation": "经过两年的数据积累，市政财务证实运营与维护支出下降了近40%。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_23"
+    },
+    {
+      "id": "cet6-2022-06-1_q_9",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 9,
+      "question_text": "What typical behavioral patterns occur when people suffer from decision fatigue?",
+      "options": [
+        "Heightened creative intuition and rapid calculation abilities.",
+        "Decision avoidance or impulsive and reckless choices.",
+        "Persistent physiological sensations of intense muscular aches.",
+        "Greater willingness to evaluate conflicting evidentiary viewpoints."
+      ],
+      "answer": "B",
+      "explanation": "讲座指出当认知能量匮乏时，大脑往往倾向于逃避做决定或表现出冲动轻率的抉择行为。故选B。",
+      "sentence_id": "cet6-2022-06-1_s_28"
+    },
+    {
+      "id": "cet6-2022-06-1_q_10",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 10,
+      "question_text": "What did the landmark judicial study reveal about parole rulings throughout the workday?",
+      "options": [
+        "Favorable rulings remained strictly consistent regardless of hearing times.",
+        "Approval rates dropped sharply as mental fatigue set in, rebounding after meals.",
+        "Younger defendants received harsher sentences during early morning hearings.",
+        "Judges consciously applied stricter legal standards to repeat offenders."
+      ],
+      "answer": "B",
+      "explanation": "著名实证研究表明，法官的批准率随疲劳加剧而直线骤降，在餐休补充体力和心理减压后骤然回升。故选B。",
+      "sentence_id": "cet6-2022-06-1_s_31"
+    },
+    {
+      "id": "cet6-2022-06-1_q_11",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_3",
+      "idx": 11,
+      "question_text": "What practical strategy does the speaker suggest to protect our cognitive energy reserves?",
+      "options": [
+        "Scheduling high-stakes cognitive tasks during early morning peak mental clarity.",
+        "Drinking caffeinated energy drinks before every afternoon corporate meeting.",
+        "Postponing all difficult professional decisions until late in the evening.",
+        "Multi-tasking across several unrelated creative projects simultaneously."
+      ],
+      "answer": "A",
+      "explanation": "演讲者建议将高风险重大认知任务集中安排在清晨头脑最为清醒的时刻，并通过建立规则简化琐事。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_40"
+    },
+    {
+      "id": "cet6-2022-06-1_q_12",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 12,
+      "question_text": "What natural structure inspired the architectural design of the Eastgate Centre in Zimbabwe?",
+      "options": [
+        "Self-cooling mounds constructed by indigenous termites.",
+        "Underground root networks of giant desert baobab trees.",
+        "Reflective silica shell structures of marine phytoplankton.",
+        "Honeycomb compartments created by African honeybees."
+      ],
+      "answer": "A",
+      "explanation": "津巴布韦东门中心的设计灵感来源于非洲当地大白蚁能够自我调温冷却的白蚁丘。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_46"
+    },
+    {
+      "id": "cet6-2022-06-1_q_13",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 13,
+      "question_text": "How does the Namib Desert tenebrionid beetle survive in an arid climate virtually devoid of rain?",
+      "options": [
+        "By digging deep burrows into subterranean desert water aquifers.",
+        "By harvesting drinking water droplets directly from morning coastal fog.",
+        "By consuming moisture stored in succulent cactus root systems.",
+        "By entering long dormant states during prolonged dry seasons."
+      ],
+      "answer": "B",
+      "explanation": "纳米布沙漠拟步甲通过翅鞘上微观亲水凸起与疏水凹槽结构，直接从清晨的海雾中收集凝结水。故选B。",
+      "sentence_id": "cet6-2022-06-1_s_52"
+    },
+    {
+      "id": "cet6-2022-06-1_q_14",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 14,
+      "question_text": "What primary obstacle currently impedes the mass adoption of biomimetic building materials?",
+      "options": [
+        "Rigid building codes and higher upfront capital costs of bespoke fabrication.",
+        "Lack of interest from modern civil engineering students and architects.",
+        "Severe toxicity concerns associated with synthetic composite polymers.",
+        "Rapid degradation of bio-inspired materials under direct ultraviolet radiation."
+      ],
+      "answer": "A",
+      "explanation": "保守死板的建筑规范限制以及定制化生产较高前期资本支出是目前阻碍仿生建材推广的主要障碍。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_56"
+    },
+    {
+      "id": "cet6-2022-06-1_q_15",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_4",
+      "idx": 15,
+      "question_text": "What innovative feature characterizes the upcoming generation of living bio-composite building facades?",
+      "options": [
+        "Embedded photosynthetic algae that clean air and generate onsite electricity.",
+        "Mechanical sensors that adjust window shading according to wind speed.",
+        "Solar mirrors that track sunlight across neighboring urban streets.",
+        "Porous ceramics that absorb industrial noise and chemical air pollutants."
+      ],
+      "answer": "A",
+      "explanation": "前沿研究正在开发嵌入光合微藻的生物复合建材，可动态净化室内空气并自产电能。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_58"
+    },
+    {
+      "id": "cet6-2022-06-1_q_16",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 16,
+      "question_text": "Why was the 1977 discovery of deep-sea hydrothermal vents scientifically revolutionary?",
+      "options": [
+        "It overturned the dogma that all earthly life strictly depended on sunlight.",
+        "It established that volcanic activity was declining across the Atlantic Ocean.",
+        "It demonstrated that large marine mammals routinely migrate across ocean trenches.",
+        "It revealed extensive freshwater reserves trapped beneath oceanic crust."
+      ],
+      "answer": "A",
+      "explanation": "1977年深海热泉的发现彻底推翻了所有地球生命都绝对依赖阳光进行光合作用的传统认知。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_62"
+    },
+    {
+      "id": "cet6-2022-06-1_q_17",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 17,
+      "question_text": "What remarkable characteristic makes hydrothermal vent enzymes extremely valuable for biotechnology?",
+      "options": [
+        "Exceptional structural stability enabling reactions under extreme industrial heat.",
+        "Rapid decomposition when exposed to neutral laboratory pH buffers.",
+        "Natural fluorescence aiding real-time tracking under simple visible light.",
+        "Ability to replace precious metal catalysts in petrochemical refining."
+      ],
+      "answer": "A",
+      "explanation": "热泉嗜热菌体内的特种酶具有超强的结构稳定性，在极端高温环境下仍能高效工作，对生物医药具有巨大价值。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_68"
+    },
+    {
+      "id": "cet6-2022-06-1_q_18",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_5",
+      "idx": 18,
+      "question_text": "What severe environmental danger do oceanographers emphasize regarding commercial seabed mining?",
+      "options": [
+        "Destruction of benthic habitats and suffocating sediment plumes spreading for miles.",
+        "Subsea sound waves interfering with coastal commercial fishing vessels.",
+        "Localized heating causing sudden boiling of shallow ocean currents.",
+        "Accelerated depletion of dissolved oxygen across polar surface waters."
+      ],
+      "answer": "A",
+      "explanation": "海洋学者警告称海底重型机械采矿会彻底摧毁脆弱的底栖生境，并产生随洋流漂浮数百海里的窒息性沉积烟尘。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_72"
+    },
+    {
+      "id": "cet6-2022-06-1_q_19",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 19,
+      "question_text": "How does a genuine circular economy fundamentally differ from conventional recycling?",
+      "options": [
+        "It treats industrial wastes as valuable raw material inputs for neighboring facilities.",
+        "It focuses solely on consumer plastic sorting in municipal sorting centers.",
+        "It bans all chemical processing in heavy industrial manufacturing plants.",
+        "It requires governments to subsidize the storage of unsold commercial goods."
+      ],
+      "answer": "A",
+      "explanation": "循环经济的本质是将一家企业的废弃物直接作为周边其他独立生产企业的宝贵原料投入，形成闭环。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_75"
+    },
+    {
+      "id": "cet6-2022-06-1_q_20",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 20,
+      "question_text": "What key operational feature defines the industrial symbiosis park in Kalundborg, Denmark?",
+      "options": [
+        "A collaborative network sharing steam, wastewater, cooling water, and gypsum.",
+        "A single multinational corporation owning all participating manufacturing units.",
+        "Total reliance on imported nuclear energy to power all chemical processes.",
+        "A municipal tax penalty system that fines plants producing solid waste."
+      ],
+      "answer": "A",
+      "explanation": "卡伦堡生态工业园的显著特征是独立企业间建立资源共享网，互相输送蒸汽、废水、冷却水及脱硫石膏。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_77"
+    },
+    {
+      "id": "cet6-2022-06-1_q_21",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_6",
+      "idx": 21,
+      "question_text": "What institutional barrier often impedes companies from participating in circular material sharing?",
+      "options": [
+        "Rigid waste regulations and commercial secrecy regarding waste stream data.",
+        "Lack of adequate shipping port infrastructure in coastal industrial centers.",
+        "High union wage requirements for employees handling secondary materials.",
+        "Lack of academic publications documenting successful engineering cases."
+      ],
+      "answer": "A",
+      "explanation": "死板僵化的固废法规限制以及企业出于商业竞争机密的顾虑，阻碍了跨企业间物料与副产品的透明调配。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_83"
+    },
+    {
+      "id": "cet6-2022-06-1_q_22",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 22,
+      "question_text": "What scientific principle overturned the old dogma that the adult human brain cannot regenerate?",
+      "options": [
+        "Neuroplasticity demonstrating ongoing rewiring of synaptic architecture.",
+        "Electromagnetic stimulation showing the brain is purely an electrical organ.",
+        "Genetic mapping proving brain cells divide faster than skin cells.",
+        "Pharmaceutical trials indicating synthetic chemicals replace dead neurons."
+      ],
+      "answer": "A",
+      "explanation": "神经可塑性理论证实成年大脑具有极强韧性，会在学习与外界刺激下持续重新构建突触连接。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_89"
+    },
+    {
+      "id": "cet6-2022-06-1_q_23",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 23,
+      "question_text": "How does sustained aerobic physical exercise directly foster adult brain health?",
+      "options": [
+        "It triggers neurotrophic factor release that promotes neurogenesis in the hippocampus.",
+        "It temporarily lowers cranial blood pressure to prevent microscopic hemorrhages.",
+        "It burns excess glucose that would otherwise calcify neural cell membranes.",
+        "It contracts skull muscles to physically stimulate the outer cerebral cortex."
+      ],
+      "answer": "A",
+      "explanation": "有氧运动能够刺激脑源性神经营养因子的分泌，直接促进海马体中的新生神经元生长。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_95"
+    },
+    {
+      "id": "cet6-2022-06-1_q_24",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 24,
+      "question_text": "What remarkable fact did autopsies reveal about elderly individuals with high cognitive reserve?",
+      "options": [
+        "They possessed extensive Alzheimer's plaques but functioned normally without symptoms.",
+        "Their brains contained zero cellular damage despite chronic cardiovascular diseases.",
+        "Their neural pathways weighed significantly more than those of younger individuals.",
+        "They had developed duplicate brain structures that stored identical memories."
+      ],
+      "answer": "A",
+      "explanation": "病理检查发现许多高认知储备的长者脑中布满阿尔茨海默斑块，但生前却能正常生活且无临床失智症状。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_91"
+    },
+    {
+      "id": "cet6-2022-06-1_q_25",
+      "paper_id": "cet6-2022-06-1",
+      "section_id": "cet6-2022-06-1_sec_7",
+      "idx": 25,
+      "question_text": "What vital physiological process takes place in the brain during deep slow-wave sleep?",
+      "options": [
+        "The glymphatic system expands interstitial space to flush away neurotoxic wastes.",
+        "The brain consumes stored glycogen to synthesize new long-term memories.",
+        "Synaptic junctions disconnect completely to prevent sensory overload.",
+        "Blood flow shifts entirely to the brainstem to regulate core body temperature."
+      ],
+      "answer": "A",
+      "explanation": "在深度慢波睡眠期间，脑胶质细胞收缩，类淋巴系统间隙扩大60%，脑脊液全速冲洗清除神经毒性废物。故选A。",
+      "sentence_id": "cet6-2022-06-1_s_97"
+    }
+  ]
+}
