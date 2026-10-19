@@ -11,7 +11,13 @@ ListeningLab 是一款面向大学英语六级（CET-6）备考的本地精听�
 - **学习进度**：自动保存每套题的当前句、倍速、循环等设置，刷新后恢复
 - **键盘快捷键**：空格播放/暂停、方向键切句、Tab 切换原文显隐、Ctrl+Enter 提交听写等
 
-## 安装与启动
+## Windows 双击运行
+
+exe 由 GitHub Actions（`.github/workflows/windows-exe.yml`）在推送到 GitHub 后自动构建，本仓库不预置：在仓库的 Actions 页面选择最新一次 windows-exe 构建，下载 `ListeningLab-windows` 产物即可；打 `v*` 标签时 exe 会同时附到对应 Release。
+
+使用方式：双击 `ListeningLab.exe`，它会自动启动本地服务、选择空闲端口并打开系统默认浏览器；关闭控制台窗口或按 Ctrl+C 即可退出。首次启动稍慢属正常现象：单文件 exe 需先把内置资源（含约 92 MB 音频）解压到临时目录。学习数据保存在用户主目录的 `~/ListeningLabData/` 下，删除 exe 不会丢失进度。
+
+## 从源码运行
 
 要求：Python 3.13（标准库即可，无需额外依赖）
 
@@ -22,7 +28,7 @@ ListeningLab 是一款面向大学英语六级（CET-6）备考的本地精听�
 
     ./run.sh --port 8080
 
-启动后打开浏览器访问 http://127.0.0.1:8765
+也可执行 `python3 launcher.py`，自动选择空闲端口并打开浏览器。启动后打开浏览器访问 http://127.0.0.1:8765
 
 ## 使用流程
 

@@ -8,7 +8,7 @@ from typing import Dict, Any, List
 from app import db
 
 PAPERS_DIR = "content/papers"
-IMPORTED_DIR = "content/imported"
+IMPORTED_DIR = os.environ.get("LISTENINGLAB_IMPORT_DIR", "content/imported")
 
 
 def import_seed_papers():
