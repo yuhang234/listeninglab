@@ -176,6 +176,7 @@ async function loadPaper(paperId, targetView) {
     state.player.audio.src = paper.sentences[0].audio_path;
   } else {
     state.player.audio.removeAttribute('src');
+    showToast(`该套题音频缺失，请在终端执行: python3 content/tts/synthesize.py content/papers/${paperId}.json`);
   }
   state.player.audio.playbackRate = state.settings.default_playback_rate || 1.0;
   state.player.playbackRate = state.settings.default_playback_rate || 1.0;
@@ -298,6 +299,13 @@ function setupPlayer() {
   });
   audio.addEventListener('play', () => { state.player.isPlaying = true; updatePlayerUI(); });
   audio.addEventListener('pause', () => { state.player.isPlaying = false; updatePlayerUI(); });
+  audio.addEventListener('error', () => {
+    state.player.isPlaying = false;
+    updatePlayerUI();
+    const pid = (state.currentPaper && state.currentPaper.id) || '';
+    const cmd = pid ? `python3 content/tts/synthesize.py content/papers/${pid}.json` : 'python3 content/tts/synthesize.py';
+    showToast(`音频缺失或加载失败，请在终端执行: ${cmd}`);
+  });
   audio.addEventListener('ended', () => {
     state.player.isPlaying = false;
     if (state.settings.auto_play_next && state.player.loopMode !== 'sentence') {
@@ -383,9 +391,21 @@ function updatePlayerUI() {
 
 function togglePlay() {
   const audio = state.player.audio;
-  if (!audio.src) return;
+  if (!audio.src) {
+    const pid = (state.currentPaper && state.currentPaper.id) || '';
+    const cmd = pid ? `python3 content/tts/synthesize.py content/papers/${pid}.json` : 'python3 content/tts/synthesize.py';
+    showToast(`该套题音频缺失，请在终端执行: ${cmd}`);
+    return;
+  }
   if (state.player.isPlaying) audio.pause();
-  else { state.player.currentLoopIteration = 0; audio.play(); }
+  else {
+    state.player.currentLoopIteration = 0;
+    audio.play().catch(e => {
+      const pid = (state.currentPaper && state.currentPaper.id) || '';
+      const cmd = pid ? `python3 content/tts/synthesize.py content/papers/${pid}.json` : 'python3 content/tts/synthesize.py';
+      showToast(`音频播放失败，请在终端执行: ${cmd}`);
+    });
+  }
 }
 function prevSentence() {
   if (state.currentSentenceIdx > 0) {

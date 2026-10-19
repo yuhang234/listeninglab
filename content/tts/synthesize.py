@@ -40,8 +40,8 @@ SILENCE_BETWEEN_SENTENCES = 0.35   # seconds gap between sentences
 TARGET_SAMPLE_RATE = 22050
 TARGET_CHANNELS = 1
 TARGET_BITRATE = "32k"
-# Piper libritts_r at length_scale 1.15 ≈ 148–155 wpm (target 140–160)
-LENGTH_SCALE = 1.15
+# Piper libritts_r at length_scale 1.50 ≈ 145–155 wpm (target 140–160 wpm)
+LENGTH_SCALE = 1.50
 
 PIPER_BIN = os.path.join(VENV_DIR, "bin", "piper")
 
@@ -154,10 +154,12 @@ def create_silence_wav(duration: float, output_wav: str):
     subprocess.run(cmd, capture_output=True, check=True)
 
 
-def concat_audio_files(files: list, output_mp3: str):
-    """Concatenate multiple audio files into one MP3."""
+def concat_audio_files(files: list, output_mp3: str, silence_wav: str = None):
+    """Concatenate multiple audio files into one MP3 with optional silence between files."""
     with tempfile.NamedTemporaryFile(mode="w", suffix=".txt", delete=False) as f:
-        for filepath in files:
+        for i, filepath in enumerate(files):
+            if i > 0 and silence_wav:
+                f.write(f"file '{os.path.abspath(silence_wav)}'\n")
             f.write(f"file '{os.path.abspath(filepath)}'\n")
         list_path = f.name
     try:
@@ -206,9 +208,12 @@ def process_paper(json_path: str, force: bool = False):
     sentences.sort(key=lambda s: s.get("idx", 0))
 
     current_time = 0.0
-    sentence_mp3s = []       # individual sentence MP3s in order
 
     with tempfile.TemporaryDirectory() as tmpdir:
+        silence_wav = os.path.join(tmpdir, "silence.wav")
+        create_silence_wav(SILENCE_BETWEEN_SENTENCES, silence_wav)
+
+        wav_files = []
         for sent in sentences:
             sent_id = sent["id"]
             text = sent.get("english", "").strip()
@@ -216,45 +221,50 @@ def process_paper(json_path: str, force: bool = False):
                 continue
 
             mp3_path = os.path.join(audio_dir, f"{sent_id}.mp3")
+            wav_path = os.path.join(tmpdir, f"{sent_id}.wav")
 
             if force or not os.path.exists(mp3_path):
-                wav_path = os.path.join(tmpdir, f"{sent_id}.wav")
                 synthesize_sentence(text, wav_path)
                 wav_to_mp3(wav_path, mp3_path)
-                # wav cleaned up when tmpdir exits
+            else:
+                # Decode existing mp3 to wav for concatenation
+                cmd = [
+                    "ffmpeg", "-y", "-i", mp3_path,
+                    "-ar", str(TARGET_SAMPLE_RATE),
+                    "-ac", str(TARGET_CHANNELS),
+                    wav_path,
+                ]
+                subprocess.run(cmd, capture_output=True, check=True)
 
-            dur = get_media_duration(mp3_path)
+            dur_wav = get_media_duration(wav_path)
 
             sent["start_time"] = round(current_time, 3)
-            sent["end_time"] = round(current_time + dur, 3)
+            sent["end_time"] = round(current_time + dur_wav, 3)
             sent["audio_path"] = _rel(mp3_path)
 
-            sentence_mp3s.append(mp3_path)
-            current_time += dur + SILENCE_BETWEEN_SENTENCES
+            wav_files.append((sent, wav_path))
+            current_time += dur_wav + SILENCE_BETWEEN_SENTENCES
 
-    data["total_duration_sec"] = round(current_time - SILENCE_BETWEEN_SENTENCES, 3)
-    data["sentence_count"] = len(sentence_mp3s)
+        # Per-section audio
+        sections = data.get("sections", [])
+        sections.sort(key=lambda s: s.get("sort_order", 0))
+        for sec in sections:
+            sec_id = sec["id"]
+            sec_wavs = [wp for s, wp in wav_files if s.get("section_id") == sec_id]
+            if not sec_wavs:
+                continue
+            sec_mp3 = os.path.join(audio_dir, f"sec_{sec['sort_order']}.mp3")
+            concat_audio_files(sec_wavs, sec_mp3, silence_wav=silence_wav)
 
-    # Per-section audio
-    sections = data.get("sections", [])
-    sections.sort(key=lambda s: s.get("sort_order", 0))
-    for sec in sections:
-        sec_id = sec["id"]
-        sec_sents = [s for s in sentences if s.get("section_id") == sec_id]
-        sec_sents.sort(key=lambda s: s.get("idx", 0))
-        if not sec_sents:
-            continue
-        sec_files = [os.path.join(audio_dir, f"{s['id']}.mp3") for s in sec_sents]
-        sec_mp3 = os.path.join(audio_dir, f"sec_{sec['sort_order']}.mp3")
-        if force or not os.path.exists(sec_mp3):
-            concat_audio_files(sec_files, sec_mp3)
+        # Full paper audio
+        full_mp3 = os.path.join(audio_dir, "full.mp3")
+        all_wavs = [wp for s, wp in wav_files]
+        concat_audio_files(all_wavs, full_mp3, silence_wav=silence_wav)
 
-    # Full paper audio
-    full_mp3 = os.path.join(audio_dir, "full.mp3")
-    if force or not os.path.exists(full_mp3):
-        concat_audio_files(sentence_mp3s, full_mp3)
-
-    data["audio_path"] = _rel(full_mp3)
+        full_dur = get_media_duration(full_mp3)
+        data["total_duration_sec"] = round(full_dur, 3)
+        data["audio_path"] = _rel(full_mp3)
+        data["sentence_count"] = len(wav_files)
 
     # Write updated JSON
     with open(json_path, "w", encoding="utf-8") as f:
@@ -266,7 +276,7 @@ def process_paper(json_path: str, force: bool = False):
         if fn.endswith(".mp3")
     )
     print(
-        f"[done] {paper_id}: {len(sentence_mp3s)} sentences, "
+        f"[done] {paper_id}: {len(wav_files)} sentences, "
         f"{data['total_duration_sec']:.1f}s, "
         f"audio_size={total_size / 1024 / 1024:.2f}MB"
     )

@@ -96,22 +96,33 @@ class APIHandler(BaseHTTPRequestHandler):
                 json_response(self, {"history": []})
             return
 
+        # Content papers audio files
+        if path.startswith("/content/papers/"):
+            content_path = os.path.abspath(os.path.normpath(path.lstrip("/")))
+            papers_root = os.path.abspath("content/papers")
+            if not content_path.startswith(papers_root):
+                error_response(self, "forbidden", 403)
+                return
+            if os.path.isfile(content_path):
+                self.send_response(200)
+                self.send_header("Content-Type", "audio/mpeg")
+                self.end_headers()
+                with open(content_path, "rb") as f:
+                    shutil.copyfileobj(f, self.wfile)
+                return
+            else:
+                parts = path.strip("/").split("/")
+                paper_name = parts[2] if len(parts) > 2 else ""
+                cmd = f"python3 content/tts/synthesize.py content/papers/{paper_name}.json" if paper_name else "python3 content/tts/synthesize.py"
+                error_response(self, f"音频文件缺失: {path.lstrip('/')}。请在终端执行 '{cmd}' 重新合成音频。", 404)
+                return
+
         # Static files
         if path == "/":
             path = "/index.html"
         file_path = os.path.join(STATIC_DIR, path.lstrip("/"))
         safe_path = os.path.abspath(os.path.normpath(file_path))
         if not safe_path.startswith(os.path.abspath(STATIC_DIR)):
-            # Allow serving content/papers/ audio files
-            if path.startswith("/content/papers/"):
-                content_path = os.path.abspath(os.path.normpath(path.lstrip("/")))
-                if os.path.isfile(content_path):
-                    self.send_response(200)
-                    self.send_header("Content-Type", "audio/mpeg")
-                    self.end_headers()
-                    with open(content_path, "rb") as f:
-                        shutil.copyfileobj(f, self.wfile)
-                    return
             error_response(self, "forbidden", 403)
             return
 

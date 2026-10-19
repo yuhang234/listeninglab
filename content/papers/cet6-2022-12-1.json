@@ -5,10 +5,10 @@
   "month": 12,
   "set_number": 1,
   "category": "cet6-real",
-  "total_duration_sec": 0,
-  "sentence_count": 0,
+  "total_duration_sec": 439.615,
+  "sentence_count": 40,
   "version": 1,
-  "audio_path": null,
+  "audio_path": "content/papers/cet6-2022-12-1/full.mp3",
   "provenance": "model-reconstructed",
   "verified": false,
   "sections": [
@@ -70,12 +70,22 @@
       "idx": 1,
       "english": "As the new regional director, I'm finding it challenging to manage teams across four different countries. Each office has very different workplace cultures.",
       "chinese": "作为新的区域总监，我发现管理跨越四个不同国家的团队很有挑战性。每个办公室都有非常不同的职场文化。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 0.0,
+      "end_time": 8.603,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_1.mp3",
       "key_vocab": [
-        {"word": "regional director", "definition": "区域总监"},
-        {"word": "workplace cultures", "definition": "职场文化"}
+        {
+          "word": "regional director",
+          "definition": "区域总监"
+        },
+        {
+          "word": "workplace cultures",
+          "definition": "职场文化"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_2",
@@ -84,12 +94,22 @@
       "idx": 2,
       "english": "Cross-cultural management is genuinely complex. What specific challenges are you encountering? Is it around communication styles or decision-making processes?",
       "chinese": "跨文化管理确实很复杂。你遇到了哪些具体挑战？是关于沟通风格还是决策过程？",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 8.953,
+      "end_time": 18.914,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_2.mp3",
       "key_vocab": [
-        {"word": "cross-cultural management", "definition": "跨文化管理"},
-        {"word": "decision-making", "definition": "决策"}
+        {
+          "word": "cross-cultural management",
+          "definition": "跨文化管理"
+        },
+        {
+          "word": "decision-making",
+          "definition": "决策"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_3",
@@ -98,12 +118,22 @@
       "idx": 3,
       "english": "Both, really. My German team expects very direct feedback and quick decisions, while my Japanese colleagues prefer more consensus-building and indirect communication.",
       "chinese": "两者都有。我的德国团队期望非常直接的反馈和快速决策，而我的日本同事更喜欢更多的共识建立和间接沟通。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 19.264,
+      "end_time": 29.11,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_3.mp3",
       "key_vocab": [
-        {"word": "consensus-building", "definition": "共识建立"},
-        {"word": "indirect communication", "definition": "间接沟通"}
+        {
+          "word": "consensus-building",
+          "definition": "共识建立"
+        },
+        {
+          "word": "indirect communication",
+          "definition": "间接沟通"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_4",
@@ -112,12 +142,22 @@
       "idx": 4,
       "english": "That tension between direct and indirect communication styles is one of the most common cross-cultural management challenges. Hofstede's cultural dimensions framework might help you navigate this.",
       "chinese": "直接和间接沟通风格之间的这种张力是最常见的跨文化管理挑战之一。霍夫斯泰德的文化维度框架可能有助于你应对这一问题。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 29.46,
+      "end_time": 40.965,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_4.mp3",
       "key_vocab": [
-        {"word": "Hofstede's cultural dimensions", "definition": "霍夫斯泰德文化维度"},
-        {"word": "navigate", "definition": "应对，驾驭"}
+        {
+          "word": "Hofstede's cultural dimensions",
+          "definition": "霍夫斯泰德文化维度"
+        },
+        {
+          "word": "navigate",
+          "definition": "应对，驾驭"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_5",
@@ -126,12 +166,22 @@
       "idx": 5,
       "english": "I've heard of that framework. How do you recommend actually applying it in day-to-day management rather than just understanding it theoretically?",
       "chinese": "我听说过这个框架。你建议如何在日常管理中实际应用它，而不仅仅是从理论上理解它？",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 41.315,
+      "end_time": 48.362,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_5.mp3",
       "key_vocab": [
-        {"word": "theoretically", "definition": "理论上地"},
-        {"word": "day-to-day management", "definition": "日常管理"}
+        {
+          "word": "theoretically",
+          "definition": "理论上地"
+        },
+        {
+          "word": "day-to-day management",
+          "definition": "日常管理"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_6",
@@ -140,12 +190,22 @@
       "idx": 6,
       "english": "Adapt your communication style to each team rather than expecting uniformity. For your German team, be direct and data-driven. For your Japanese team, allow more time for deliberation and use intermediaries when delivering critical feedback.",
       "chinese": "调整你的沟通风格以适应每个团队，而不是期望统一。对于德国团队，要直接和以数据为导向。对于日本团队，要允许更多的审议时间，并在提供关键反馈时使用中间人。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 48.712,
+      "end_time": 62.668,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_6.mp3",
       "key_vocab": [
-        {"word": "deliberation", "definition": "审议，深思熟虑"},
-        {"word": "intermediaries", "definition": "中间人，调解人"}
+        {
+          "word": "deliberation",
+          "definition": "审议，深思熟虑"
+        },
+        {
+          "word": "intermediaries",
+          "definition": "中间人，调解人"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_7",
@@ -154,12 +214,22 @@
       "idx": 7,
       "english": "What about building team cohesion across all four countries? Virtual team-building activities feel artificial, and flying everyone to one location is too expensive.",
       "chinese": "那如何在所有四个国家建立团队凝聚力呢？虚拟团队建设活动感觉很人工，而把所有人飞到一个地方又太贵了。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 63.018,
+      "end_time": 73.002,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_7.mp3",
       "key_vocab": [
-        {"word": "team cohesion", "definition": "团队凝聚力"},
-        {"word": "virtual team-building", "definition": "虚拟团队建设"}
+        {
+          "word": "team cohesion",
+          "definition": "团队凝聚力"
+        },
+        {
+          "word": "virtual team-building",
+          "definition": "虚拟团队建设"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_8",
@@ -168,12 +238,22 @@
       "idx": 8,
       "english": "Consider rotating project leadership among team members from different countries. Shared responsibility builds trust more effectively than any team-building exercise.",
       "chinese": "考虑在来自不同国家的团队成员之间轮换项目领导权。共同责任比任何团队建设活动更有效地建立信任。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 73.352,
+      "end_time": 82.907,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_8.mp3",
       "key_vocab": [
-        {"word": "rotating leadership", "definition": "轮换领导权"},
-        {"word": "shared responsibility", "definition": "共同责任"}
+        {
+          "word": "rotating leadership",
+          "definition": "轮换领导权"
+        },
+        {
+          "word": "shared responsibility",
+          "definition": "共同责任"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_9",
@@ -182,12 +262,22 @@
       "idx": 9,
       "english": "I'm concerned about the growing science communication problem. Complex research findings are being simplified to the point of distortion in popular media coverage.",
       "chinese": "我担心科学传播问题日益严重。复杂的研究发现在大众媒体报道中被简化到扭曲的程度。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 83.257,
+      "end_time": 92.104,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_9.mp3",
       "key_vocab": [
-        {"word": "science communication", "definition": "科学传播"},
-        {"word": "distortion", "definition": "扭曲，失真"}
+        {
+          "word": "science communication",
+          "definition": "科学传播"
+        },
+        {
+          "word": "distortion",
+          "definition": "扭曲，失真"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_10",
@@ -196,12 +286,22 @@
       "idx": 10,
       "english": "You're absolutely right. The translation of nuanced scientific findings into accessible public language is incredibly difficult. Even well-intentioned journalists often oversimplify.",
       "chinese": "你说得完全正确。将细致入微的科学发现转化为公众可理解的语言是非常困难的。即使是善意的记者也常常过于简化。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 92.454,
+      "end_time": 103.367,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_10.mp3",
       "key_vocab": [
-        {"word": "nuanced", "definition": "细致入微的，有细微差别的"},
-        {"word": "oversimplify", "definition": "过于简化"}
+        {
+          "word": "nuanced",
+          "definition": "细致入微的，有细微差别的"
+        },
+        {
+          "word": "oversimplify",
+          "definition": "过于简化"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_11",
@@ -210,12 +310,22 @@
       "idx": 11,
       "english": "I think part of the problem is that journalists face extreme time pressure and are rarely trained in the specific scientific disciplines they cover.",
       "chinese": "我认为问题的一部分在于记者面临极大的时间压力，而且很少接受过他们所报道的具体科学学科的培训。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 103.717,
+      "end_time": 111.6,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_11.mp3",
       "key_vocab": [
-        {"word": "time pressure", "definition": "时间压力"},
-        {"word": "scientific disciplines", "definition": "科学学科"}
+        {
+          "word": "time pressure",
+          "definition": "时间压力"
+        },
+        {
+          "word": "scientific disciplines",
+          "definition": "科学学科"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_12",
@@ -224,12 +334,22 @@
       "idx": 12,
       "english": "Researchers themselves need to take more responsibility. Many scientists resist engaging with the public because they view popular communication as beneath academic dignity.",
       "chinese": "研究人员自己需要承担更多责任。许多科学家抵制与公众接触，因为他们认为大众传播有损学术尊严。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 111.951,
+      "end_time": 121.761,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_12.mp3",
       "key_vocab": [
-        {"word": "academic dignity", "definition": "学术尊严"},
-        {"word": "engaging with the public", "definition": "与公众接触"}
+        {
+          "word": "academic dignity",
+          "definition": "学术尊严"
+        },
+        {
+          "word": "engaging with the public",
+          "definition": "与公众接触"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_13",
@@ -238,12 +358,22 @@
       "idx": 13,
       "english": "Universities are starting to address this by offering science communication training and even making public engagement a factor in tenure and promotion decisions.",
       "chinese": "大学开始通过提供科学传播培训，甚至将公众参与作为终身职位和晋升决策的因素来解决这个问题。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 122.111,
+      "end_time": 131.608,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_13.mp3",
       "key_vocab": [
-        {"word": "tenure", "definition": "终身职位"},
-        {"word": "public engagement", "definition": "公众参与"}
+        {
+          "word": "tenure",
+          "definition": "终身职位"
+        },
+        {
+          "word": "public engagement",
+          "definition": "公众参与"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_14",
@@ -252,12 +382,22 @@
       "idx": 14,
       "english": "Social media has created both opportunities and challenges for science communication. Platforms like YouTube allow scientists to directly communicate with millions, but misinformation also spreads much faster.",
       "chinese": "社交媒体为科学传播创造了机遇和挑战。像YouTube这样的平台让科学家能够直接与数百万人沟通，但错误信息也传播得更快。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 131.958,
+      "end_time": 144.288,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_14.mp3",
       "key_vocab": [
-        {"word": "misinformation", "definition": "错误信息"},
-        {"word": "directly communicate", "definition": "直接沟通"}
+        {
+          "word": "misinformation",
+          "definition": "错误信息"
+        },
+        {
+          "word": "directly communicate",
+          "definition": "直接沟通"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_15",
@@ -266,12 +406,22 @@
       "idx": 15,
       "english": "Pre-print servers have made this worse in some ways. Non-peer-reviewed research gets picked up by journalists before scientists themselves have had a chance to evaluate its validity.",
       "chinese": "预印本服务器在某些方面使情况更糟。未经同行评审的研究在科学家自己有机会评估其有效性之前就被记者采用了。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 144.638,
+      "end_time": 154.019,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_15.mp3",
       "key_vocab": [
-        {"word": "pre-print servers", "definition": "预印本服务器"},
-        {"word": "peer-reviewed", "definition": "同行评审的"}
+        {
+          "word": "pre-print servers",
+          "definition": "预印本服务器"
+        },
+        {
+          "word": "peer-reviewed",
+          "definition": "同行评审的"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_16",
@@ -280,12 +430,22 @@
       "idx": 16,
       "english": "Perhaps we need a new role—a trained science liaison who works between research institutions and media organizations to ensure accurate and contextualized reporting.",
       "chinese": "也许我们需要一个新角色——一个在研究机构和媒体组织之间工作的训练有素的科学联络员，以确保准确和有背景的报道。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 154.369,
+      "end_time": 163.761,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_16.mp3",
       "key_vocab": [
-        {"word": "science liaison", "definition": "科学联络员"},
-        {"word": "contextualized reporting", "definition": "有背景的报道"}
+        {
+          "word": "science liaison",
+          "definition": "科学联络员"
+        },
+        {
+          "word": "contextualized reporting",
+          "definition": "有背景的报道"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_17",
@@ -294,12 +454,22 @@
       "idx": 17,
       "english": "Gene editing technology, particularly the CRISPR-Cas9 system, has revolutionized biological research and holds extraordinary promise for treating genetic diseases.",
       "chinese": "基因编辑技术，特别是CRISPR-Cas9系统，已经彻底改变了生物学研究，并在治疗遗传疾病方面具有非凡的前景。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 164.111,
+      "end_time": 175.164,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_17.mp3",
       "key_vocab": [
-        {"word": "CRISPR-Cas9", "definition": "成簇规律间隔短回文重复序列（基因编辑工具）"},
-        {"word": "genetic diseases", "definition": "遗传疾病"}
+        {
+          "word": "CRISPR-Cas9",
+          "definition": "成簇规律间隔短回文重复序列（基因编辑工具）"
+        },
+        {
+          "word": "genetic diseases",
+          "definition": "遗传疾病"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_18",
@@ -308,12 +478,22 @@
       "idx": 18,
       "english": "Clinical trials using CRISPR to treat sickle cell disease and beta thalassemia have shown remarkable success, with some patients achieving what appears to be a functional cure.",
       "chinese": "使用CRISPR治疗镰状细胞病和β-地中海贫血的临床试验已显示出显著成功，一些患者实现了看似功能性治愈。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 175.514,
+      "end_time": 185.208,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_18.mp3",
       "key_vocab": [
-        {"word": "sickle cell disease", "definition": "镰状细胞病"},
-        {"word": "functional cure", "definition": "功能性治愈"}
+        {
+          "word": "sickle cell disease",
+          "definition": "镰状细胞病"
+        },
+        {
+          "word": "functional cure",
+          "definition": "功能性治愈"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_19",
@@ -322,12 +502,22 @@
       "idx": 19,
       "english": "However, the prospect of germline editing—making heritable changes to embryos—raises profound ethical concerns about creating so-called designer babies and altering the human gene pool.",
       "chinese": "然而，种系编辑——对胚胎进行可遗传的改变——的前景引发了关于创造所谓的设计婴儿和改变人类基因库的深刻伦理担忧。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 185.558,
+      "end_time": 195.705,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_19.mp3",
       "key_vocab": [
-        {"word": "germline editing", "definition": "种系编辑"},
-        {"word": "designer babies", "definition": "设计婴儿"}
+        {
+          "word": "germline editing",
+          "definition": "种系编辑"
+        },
+        {
+          "word": "designer babies",
+          "definition": "设计婴儿"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_20",
@@ -336,12 +526,22 @@
       "idx": 20,
       "english": "The scientific community was shocked in 2018 when a Chinese researcher announced the birth of the world's first gene-edited babies, prompting widespread condemnation and calls for an international moratorium.",
       "chinese": "2018年，当一位中国研究员宣布世界上第一批基因编辑婴儿诞生时，科学界大为震惊，引发了广泛谴责和对国际暂停令的呼声。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 196.055,
+      "end_time": 209.035,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_20.mp3",
       "key_vocab": [
-        {"word": "condemnation", "definition": "谴责"},
-        {"word": "moratorium", "definition": "暂停令，延期执行"}
+        {
+          "word": "condemnation",
+          "definition": "谴责"
+        },
+        {
+          "word": "moratorium",
+          "definition": "暂停令，延期执行"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_21",
@@ -350,12 +550,22 @@
       "idx": 21,
       "english": "Off-target effects—where the editing machinery accidentally cuts DNA in the wrong locations—remain a significant technical limitation that researchers are working to overcome.",
       "chinese": "脱靶效应——编辑机制意外在错误位置切割DNA——仍然是研究人员正在努力克服的重大技术局限。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 209.385,
+      "end_time": 219.532,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_21.mp3",
       "key_vocab": [
-        {"word": "off-target effects", "definition": "脱靶效应"},
-        {"word": "editing machinery", "definition": "编辑机制"}
+        {
+          "word": "off-target effects",
+          "definition": "脱靶效应"
+        },
+        {
+          "word": "editing machinery",
+          "definition": "编辑机制"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_22",
@@ -364,12 +574,22 @@
       "idx": 22,
       "english": "International governance frameworks for gene editing research are urgently needed, balancing the imperative to advance medical knowledge with the necessity of preventing misuse.",
       "chinese": "迫切需要基因编辑研究的国际治理框架，在推进医学知识的迫切需求与防止滥用的必要性之间取得平衡。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 219.882,
+      "end_time": 230.331,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_22.mp3",
       "key_vocab": [
-        {"word": "governance frameworks", "definition": "治理框架"},
-        {"word": "imperative", "definition": "迫切的需要"}
+        {
+          "word": "governance frameworks",
+          "definition": "治理框架"
+        },
+        {
+          "word": "imperative",
+          "definition": "迫切的需要"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_23",
@@ -378,12 +598,22 @@
       "idx": 23,
       "english": "The sharing economy, initially celebrated as a revolutionary model that would democratize access to goods and services, has evolved in ways both its founders and critics did not fully anticipate.",
       "chinese": "共享经济最初被誉为将使商品和服务获取民主化的革命性模式，但其发展方式是其创始人和批评者都没有完全预料到的。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 230.681,
+      "end_time": 242.465,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_23.mp3",
       "key_vocab": [
-        {"word": "democratize access", "definition": "使获取民主化"},
-        {"word": "sharing economy", "definition": "共享经济"}
+        {
+          "word": "democratize access",
+          "definition": "使获取民主化"
+        },
+        {
+          "word": "sharing economy",
+          "definition": "共享经济"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_24",
@@ -392,12 +622,22 @@
       "idx": 24,
       "english": "Platforms like Airbnb and Uber started as peer-to-peer sharing services but have effectively become large corporations that exert significant control over their service providers.",
       "chinese": "像Airbnb和Uber这样的平台最初是点对点共享服务，但实际上已成为对其服务提供者施加重大控制的大型企业。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 242.815,
+      "end_time": 253.392,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_24.mp3",
       "key_vocab": [
-        {"word": "peer-to-peer", "definition": "点对点的"},
-        {"word": "service providers", "definition": "服务提供者"}
+        {
+          "word": "peer-to-peer",
+          "definition": "点对点的"
+        },
+        {
+          "word": "service providers",
+          "definition": "服务提供者"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_25",
@@ -406,12 +646,22 @@
       "idx": 25,
       "english": "The legal status of gig workers—whether they should be classified as independent contractors or employees—remains one of the most contentious labor law questions of our time.",
       "chinese": "零工工人的法律地位——他们应被归类为独立承包商还是雇员——仍然是我们时代最具争议的劳动法问题之一。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 253.742,
+      "end_time": 263.135,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_25.mp3",
       "key_vocab": [
-        {"word": "gig workers", "definition": "零工工人"},
-        {"word": "contentious", "definition": "有争议的"}
+        {
+          "word": "gig workers",
+          "definition": "零工工人"
+        },
+        {
+          "word": "contentious",
+          "definition": "有争议的"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_26",
@@ -420,12 +670,22 @@
       "idx": 26,
       "english": "Some cities have moved to regulate short-term rental platforms, imposing strict licensing requirements and limiting the number of nights properties can be rented to protect local housing markets.",
       "chinese": "一些城市已开始监管短期租赁平台，实施严格的许可要求并限制房产可出租的夜数，以保护当地住房市场。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 263.485,
+      "end_time": 275.454,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_26.mp3",
       "key_vocab": [
-        {"word": "short-term rental platforms", "definition": "短期租赁平台"},
-        {"word": "licensing requirements", "definition": "许可要求"}
+        {
+          "word": "short-term rental platforms",
+          "definition": "短期租赁平台"
+        },
+        {
+          "word": "licensing requirements",
+          "definition": "许可要求"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_27",
@@ -434,12 +694,22 @@
       "idx": 27,
       "english": "Despite the controversies, the sharing economy has genuinely disrupted traditional industries and forced incumbents to innovate, ultimately benefiting consumers through greater choice and lower prices.",
       "chinese": "尽管存在争议，共享经济确实颠覆了传统行业，迫使现有企业进行创新，最终通过更多选择和更低价格使消费者受益。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 275.804,
+      "end_time": 287.368,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_27.mp3",
       "key_vocab": [
-        {"word": "incumbents", "definition": "现有企业，在位者"},
-        {"word": "disrupted", "definition": "颠覆了"}
+        {
+          "word": "incumbents",
+          "definition": "现有企业，在位者"
+        },
+        {
+          "word": "disrupted",
+          "definition": "颠覆了"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_28",
@@ -448,12 +718,22 @@
       "idx": 28,
       "english": "The next evolution may be the rise of platform cooperatives—sharing economy platforms owned and governed democratically by their users, rather than by external shareholders.",
       "chinese": "下一个演变可能是平台合作社的兴起——由其用户而非外部股东民主拥有和管理的共享经济平台。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 287.718,
+      "end_time": 298.306,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_28.mp3",
       "key_vocab": [
-        {"word": "platform cooperatives", "definition": "平台合作社"},
-        {"word": "shareholders", "definition": "股东"}
+        {
+          "word": "platform cooperatives",
+          "definition": "平台合作社"
+        },
+        {
+          "word": "shareholders",
+          "definition": "股东"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_29",
@@ -462,12 +742,22 @@
       "idx": 29,
       "english": "Major corporations worldwide are accelerating efforts to diversify and shorten their supply chains following the disruptions exposed by the pandemic and recent geopolitical tensions.",
       "chinese": "全球各大企业正在加快努力，多元化并缩短其供应链，这是在大流行病和近期地缘政治紧张局势所暴露的中断之后。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 298.656,
+      "end_time": 309.175,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_29.mp3",
       "key_vocab": [
-        {"word": "supply chains", "definition": "供应链"},
-        {"word": "geopolitical tensions", "definition": "地缘政治紧张局势"}
+        {
+          "word": "supply chains",
+          "definition": "供应链"
+        },
+        {
+          "word": "geopolitical tensions",
+          "definition": "地缘政治紧张局势"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_30",
@@ -476,12 +766,22 @@
       "idx": 30,
       "english": "The trend toward nearshoring—relocating production closer to end markets—is gaining momentum, particularly in the electronics, pharmaceuticals, and semiconductor industries.",
       "chinese": "近岸外包——将生产转移到更靠近终端市场的地方——的趋势正在加速，特别是在电子、制药和半导体行业。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 309.525,
+      "end_time": 320.345,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_30.mp3",
       "key_vocab": [
-        {"word": "nearshoring", "definition": "近岸外包"},
-        {"word": "semiconductor", "definition": "半导体"}
+        {
+          "word": "nearshoring",
+          "definition": "近岸外包"
+        },
+        {
+          "word": "semiconductor",
+          "definition": "半导体"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_31",
@@ -490,12 +790,22 @@
       "idx": 31,
       "english": "However, economists warn that excessive supply chain nationalization could reduce global economic efficiency, potentially adding hundreds of billions of dollars to production costs annually.",
       "chinese": "然而，经济学家警告，过度的供应链本土化可能会降低全球经济效率，每年可能增加数千亿美元的生产成本。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 320.695,
+      "end_time": 331.69,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_31.mp3",
       "key_vocab": [
-        {"word": "nationalization", "definition": "本土化，国有化"},
-        {"word": "economic efficiency", "definition": "经济效率"}
+        {
+          "word": "nationalization",
+          "definition": "本土化，国有化"
+        },
+        {
+          "word": "economic efficiency",
+          "definition": "经济效率"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_32",
@@ -504,12 +814,22 @@
       "idx": 32,
       "english": "Digital technologies including blockchain for supply chain transparency and AI-powered logistics optimization are helping companies build more resilient and adaptive supply networks.",
       "chinese": "包括用于供应链透明度的区块链和人工智能驱动的物流优化在内的数字技术正在帮助企业建立更具弹性和适应性的供应网络。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 332.04,
+      "end_time": 344.323,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_32.mp3",
       "key_vocab": [
-        {"word": "blockchain", "definition": "区块链"},
-        {"word": "resilient", "definition": "有弹性的，适应力强的"}
+        {
+          "word": "blockchain",
+          "definition": "区块链"
+        },
+        {
+          "word": "resilient",
+          "definition": "有弹性的，适应力强的"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_33",
@@ -518,12 +838,22 @@
       "idx": 33,
       "english": "An international consortium of space agencies and private companies unveiled ambitious plans this week for the first crewed mission to Mars, targeting a launch window in the early 2030s.",
       "chinese": "一个由航天机构和私营公司组成的国际联合体本周公布了首次载人火星任务的雄心勃勃计划，目标是在21世纪30年代初的发射窗口。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 344.673,
+      "end_time": 356.852,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_33.mp3",
       "key_vocab": [
-        {"word": "crewed mission", "definition": "载人任务"},
-        {"word": "launch window", "definition": "发射窗口"}
+        {
+          "word": "crewed mission",
+          "definition": "载人任务"
+        },
+        {
+          "word": "launch window",
+          "definition": "发射窗口"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_34",
@@ -532,12 +862,22 @@
       "idx": 34,
       "english": "The journey to Mars would take approximately seven months, during which crew members would face significant challenges including radiation exposure, psychological isolation, and muscle atrophy.",
       "chinese": "前往火星的旅程大约需要七个月，在此期间，机组成员将面临重大挑战，包括辐射暴露、心理隔离和肌肉萎缩。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 357.202,
+      "end_time": 369.219,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_34.mp3",
       "key_vocab": [
-        {"word": "radiation exposure", "definition": "辐射暴露"},
-        {"word": "muscle atrophy", "definition": "肌肉萎缩"}
+        {
+          "word": "radiation exposure",
+          "definition": "辐射暴露"
+        },
+        {
+          "word": "muscle atrophy",
+          "definition": "肌肉萎缩"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_35",
@@ -546,12 +886,22 @@
       "idx": 35,
       "english": "The mission plan calls for a surface stay of approximately eighteen months to take advantage of the favorable orbital alignment before the seven-month journey home.",
       "chinese": "任务计划要求在火星表面停留约18个月，以利用有利的轨道对齐，然后再进行七个月的返回旅程。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 369.569,
+      "end_time": 378.857,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_35.mp3",
       "key_vocab": [
-        {"word": "orbital alignment", "definition": "轨道对齐"},
-        {"word": "surface stay", "definition": "地表停留"}
+        {
+          "word": "orbital alignment",
+          "definition": "轨道对齐"
+        },
+        {
+          "word": "surface stay",
+          "definition": "地表停留"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_36",
@@ -560,12 +910,22 @@
       "idx": 36,
       "english": "In-situ resource utilization—using Martian materials to produce water, oxygen, and rocket propellant—is central to the mission's feasibility, dramatically reducing the weight that must be launched from Earth.",
       "chinese": "就地资源利用——使用火星材料生产水、氧气和火箭推进剂——是任务可行性的核心，大大减少了必须从地球发射的重量。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 379.207,
+      "end_time": 390.956,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_36.mp3",
       "key_vocab": [
-        {"word": "in-situ resource utilization", "definition": "就地资源利用"},
-        {"word": "rocket propellant", "definition": "火箭推进剂"}
+        {
+          "word": "in-situ resource utilization",
+          "definition": "就地资源利用"
+        },
+        {
+          "word": "rocket propellant",
+          "definition": "火箭推进剂"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_37",
@@ -574,12 +934,22 @@
       "idx": 37,
       "english": "The global fashion industry, responsible for approximately ten percent of annual greenhouse gas emissions and significant water pollution, is facing increasing pressure to adopt sustainable practices.",
       "chinese": "全球时尚行业约占每年温室气体排放量的10%，并造成严重的水污染，正面临越来越大的压力以采纳可持续实践。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 391.306,
+      "end_time": 404.681,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_37.mp3",
       "key_vocab": [
-        {"word": "fashion industry", "definition": "时尚行业"},
-        {"word": "sustainable practices", "definition": "可持续实践"}
+        {
+          "word": "fashion industry",
+          "definition": "时尚行业"
+        },
+        {
+          "word": "sustainable practices",
+          "definition": "可持续实践"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_38",
@@ -588,12 +958,22 @@
       "idx": 38,
       "english": "The rise of fast fashion—producing large quantities of cheap, trendy clothes designed to be discarded after a few wears—has dramatically accelerated the industry's environmental impact.",
       "chinese": "快时尚的兴起——生产大量廉价、时尚的服装，设计成穿几次后就丢弃——大大加速了行业的环境影响。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 405.031,
+      "end_time": 415.781,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_38.mp3",
       "key_vocab": [
-        {"word": "fast fashion", "definition": "快时尚"},
-        {"word": "discarded", "definition": "丢弃的，废弃的"}
+        {
+          "word": "fast fashion",
+          "definition": "快时尚"
+        },
+        {
+          "word": "discarded",
+          "definition": "丢弃的，废弃的"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_39",
@@ -602,12 +982,22 @@
       "idx": 39,
       "english": "Circular fashion models—designing clothes for durability, repairability, and eventual recycling—represent the industry's most promising path toward sustainability.",
       "chinese": "循环时尚模式——设计耐用、可修复且最终可回收的服装——代表了该行业走向可持续发展最有前景的道路。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 416.131,
+      "end_time": 427.08,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_39.mp3",
       "key_vocab": [
-        {"word": "circular fashion", "definition": "循环时尚"},
-        {"word": "durability", "definition": "耐用性"}
+        {
+          "word": "circular fashion",
+          "definition": "循环时尚"
+        },
+        {
+          "word": "durability",
+          "definition": "耐用性"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     },
     {
       "id": "cet6-2022-12-1_s_40",
@@ -616,12 +1006,22 @@
       "idx": 40,
       "english": "Consumer behavior is shifting, with research showing that younger generations in particular increasingly prefer to buy second-hand, rent, or swap clothes rather than purchasing new items.",
       "chinese": "消费者行为正在转变，研究显示尤其是年轻一代越来越倾向于购买二手物品、租用或交换服装，而不是购买新物品。",
-      "start_time": 0, "end_time": 0, "audio_path": null,
+      "start_time": 427.43,
+      "end_time": 439.55,
+      "audio_path": "content/papers/cet6-2022-12-1/cet6-2022-12-1_s_40.mp3",
       "key_vocab": [
-        {"word": "second-hand", "definition": "二手的"},
-        {"word": "consumer behavior", "definition": "消费者行为"}
+        {
+          "word": "second-hand",
+          "definition": "二手的"
+        },
+        {
+          "word": "consumer behavior",
+          "definition": "消费者行为"
+        }
       ],
-      "status": "unread", "is_bookmarked": 0, "dictation_accuracy": null
+      "status": "unread",
+      "is_bookmarked": 0,
+      "dictation_accuracy": null
     }
   ],
   "questions": [

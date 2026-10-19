@@ -92,13 +92,15 @@ def validate_paper(json_path: str) -> list:
         et = sent.get("end_time", 0)
         if st < prev_end:
             errors.append(f"Sentence {sid} start_time {st} overlaps previous end {prev_end}")
-        if et < st:
-            errors.append(f"Sentence {sid} end_time {et} < start_time {st}")
+        if et <= st:
+            errors.append(f"Sentence {sid} end_time {et} <= start_time {st}")
         prev_end = et
 
         # Audio file check
         audio_path = sent.get("audio_path")
-        if audio_path:
+        if not audio_path:
+            errors.append(f"Sentence {sid} missing audio_path")
+        else:
             dur = get_media_duration(audio_path)
             if dur is None:
                 errors.append(f"Sentence {sid} audio missing or unreadable: {audio_path}")
@@ -142,7 +144,9 @@ def validate_paper(json_path: str) -> list:
         if ans not in {"A", "B", "C", "D"}:
             errors.append(f"Question {qid} answer '{ans}' not in A-D")
         sid = q.get("sentence_id")
-        if sid and sid not in sent_id_map:
+        if not sid:
+            errors.append(f"Question {qid} missing sentence_id")
+        elif sid not in sent_id_map:
             errors.append(f"Question {qid} sentence_id {sid} not found")
         # options parse check
         opts = q.get("options", [])
@@ -155,9 +159,17 @@ def validate_paper(json_path: str) -> list:
         if not isinstance(opts, list) or len(opts) != 4:
             errors.append(f"Question {qid} options must be array of 4 strings")
 
+    # Section audio check
+    for sec in sections:
+        sec_audio = os.path.join(PAPERS_DIR, paper_id, f"sec_{sec.get('sort_order', 0)}.mp3")
+        if not os.path.isfile(sec_audio):
+            errors.append(f"Section {sec.get('id')} audio missing: sec_{sec.get('sort_order', 0)}.mp3")
+
     # Full audio check
     full_audio = data.get("audio_path")
-    if full_audio:
+    if not full_audio:
+        errors.append(f"Full audio missing audio_path")
+    else:
         dur = get_media_duration(full_audio)
         if dur is None:
             errors.append(f"Full audio missing or unreadable: {full_audio}")
@@ -181,7 +193,14 @@ def validate_paper(json_path: str) -> list:
 
 
 def generate_sources_md(papers_dir: str) -> str:
-    lines = ["# Content Sources", "", "| Paper ID | Title | Verified | Provenance |", "|---|---|---|---|"]
+    lines = [
+        "# Content Sources",
+        "",
+        "六级听力真题内容来源与验证记录：",
+        "",
+        "| Paper ID | Title | Verified | Provenance |",
+        "|---|---|---|---|",
+    ]
     for filename in sorted(os.listdir(papers_dir)):
         if not filename.endswith(".json"):
             continue
@@ -193,6 +212,8 @@ def generate_sources_md(papers_dir: str) -> str:
         verified = "Yes" if data.get("verified", False) else "No"
         prov = data.get("provenance", "")
         lines.append(f"| {pid} | {title} | {verified} | {prov} |")
+    lines.append("")
+    lines.append("> 说明：标有 `model-reconstructed` 的套题内容凭模型记忆重建，可能有误差；标有 `verified: Yes` 的套题已按真实试卷核对。所有音频均为本地离线 TTS 按句合成，非考场原声。")
     return "\n".join(lines)
 
 
